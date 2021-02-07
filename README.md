@@ -19,7 +19,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [DotNet Standard](#dotnet-standard)
 * [Dotnet Core](#dotnet-core)
 * [DotNet CLI](#dotnet-cli)
+* [DotNet Tools](#dotnet-tools)
 * [MetaPack](#metapack)
+* [Performance](#performance)
 * [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
 * [DotNet Core Architecture](#dotnet-core-architecture)
@@ -109,8 +111,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
 * [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
 * [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
-
-
 ### 📹 Videoes
 
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
@@ -125,12 +125,38 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
-- [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
-- [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+* [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+* [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## DotNet Tools
+
+### 📝 Articles
+
+* [Using .NET Core Tools to Create Reusable and Shareable Tools & Apps](https://weblog.west-wind.com/posts/2020/Aug/05/Using-NET-Core-Tools-to-Create-Reusable-and-Shareable-Tools-Apps)
+* [How to manage .NET tools](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools)
+* [dotnet tool search](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-search)
+* [dotnet tool install](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-install)
+* [dotnet tool list](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-list)
+* [Tutorial: Create a .NET tool using the .NET CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools-how-to-create)
+* [Collect diagnostics in containers](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers)
+
+### 📦 Libraries
+
+* [dotnet-tools](https://github.com/natemcmaster/dotnet-tools)
+> A list of tools to extend the .NET Core command line (dotnet)
+
+- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
+> .NET Core Performance Counter Tool
+
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
 ## MetaPack
 
@@ -143,6 +169,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+## Performance
+
+### 📝 Articles
+
+* [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
+* [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory)
+* [ASP.NET Core load/stress testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests)
 
 ## Serialization
 
@@ -604,6 +639,23 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 * [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
+* [Setting up Serilog in ASP.NET Core 3](https://nblumhardt.com/2019/10/serilog-in-aspnetcore-3/)
+* [Serilog in ASP.NET Core 3.1 – Structured Logging Made Easy](https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/)
+* [Series: Using Serilog.AspNetCore in ASP.NET Core 3.0](https://andrewlock.net/series/using-serilog-aspnetcore-in-asp-net-core-3/)
+* [ASP.NET Core 5 + Serilog](https://jkdev.me/asp-net-core-serilog/)
+* [What Is Structured Logging and Why Developers Need It](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
+* [Structured logging concepts in .NET Series (1)](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)
+* [Events and levels - structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
+* [Message templates and properties – structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
+
+### 📹 Videoes
+
+* [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
+
+### 🔖 Samples
+
+* [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
+* [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -653,7 +705,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
 * [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
-
+* [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
 ### 📦 Libraries 
 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
