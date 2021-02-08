@@ -69,15 +69,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet 5
 
 ### 📝 Articles 
-
 * [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 * [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 * [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
-
 * [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
-
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
 <div align="right">
@@ -87,7 +83,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet Standard
 
 ### 📝 Articles
-
 * [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
 ### 📹 Videoes
@@ -102,7 +97,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet Core
 
 ### 📝 Articles
-
 * [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 * [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
 * [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
@@ -112,7 +106,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
 * [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
 ### 📹 Videoes
-
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
@@ -124,7 +117,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet CLI
 
 ### 📝 Articles
-
 * [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 * [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
 
@@ -135,7 +127,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet Tools
 
 ### 📝 Articles
-
 * [Using .NET Core Tools to Create Reusable and Shareable Tools & Apps](https://weblog.west-wind.com/posts/2020/Aug/05/Using-NET-Core-Tools-to-Create-Reusable-and-Shareable-Tools-Apps)
 * [How to manage .NET tools](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools)
 * [dotnet tool search](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-search)
@@ -145,11 +136,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Collect diagnostics in containers](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers)
 
 ### 📦 Libraries
-
 * [dotnet-tools](https://github.com/natemcmaster/dotnet-tools)
 > A list of tools to extend the .NET Core command line (dotnet)
-
-- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
+* [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
 > .NET Core Performance Counter Tool
 
 
@@ -161,7 +150,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## MetaPack
 
 ### 📝 Articles
-
 * [Microsoft.AspNetCore.App for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage-app)
 * [Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage)
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://b2n.ir/083540)
@@ -174,7 +162,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Performance
 
 ### 📝 Articles
-
 * [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
 * [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory)
 * [ASP.NET Core load/stress testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests)
@@ -182,7 +169,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Serialization
 
 ### 📝 Articles
-
 * [How to serialize and deserialize (marshal and unmarshal) JSON in .NET](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to)
 * [How to migrate from Newtonsoft.Json to System.Text.Json](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to)
 * [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
@@ -195,37 +181,22 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Generic Host And Web Host
 
 ### 📝 Articles
-
 * [ASP.NET Core Web Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-5.0)
-
 * [.NET Generic Host in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-5.0)
-
 * [USING HOSTBUILDER AND THE GENERIC HOST IN .NET CORE MICROSERVICES](https://www.stevejgordon.co.uk/using-generic-host-in-dotnet-core-console-based-microservices)
-
 * [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
-
 * [The ASP.NET Core Generic Host: namespace clashes and extension methods](https://andrewlock.net/the-asp-net-core-generic-host-namespace-clashes-and-extension-methods/)
-
 * [Avoiding Startup service injection in ASP.NET Core 3](https://andrewlock.net/avoiding-startup-service-injection-in-asp-net-core-3/)
-
 * [IHostingEnvironment vs IHostEnvironment - obsolete types in .NET Core 3.0](https://andrewlock.net/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/#asp-net-core-merges-with-the-generic-host)
-
 * [.NET Generic Host](https://docs.microsoft.com/en-us/dotnet/core/extensions/generic-host)
-
 * [Understanding .NET Generic Host Model](https://sahansera.dev/dotnet-core-generic-host/)
-
 * [Exploring the new project file, Program.cs, and the generic host](https://andrewlock.net/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/)
-
 * [Introducing IHostLifetime and untangling the Generic Host startup interactions](https://andrewlock.net/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/)
-
 * [Exploring Program.cs, Startup.cs and CreateDefaultBuilder in ASP.NET Core 2 preview 1](https://andrewlock.net/exploring-program-and-startup-in-asp-net-core-2-preview1-2/)
-
 * [WebHostBuilder](https://girishgodage.in/blog/customize-webhostbuilder)
-
 * [Customizing ASP.​NET Core Part 11: WebHostBuilder](https://asp.net-hacker.rocks/2019/01/30/customizing-aspnetcore-11-webhostbuilder.html)
 
 ### 🔖 Samples
-
 * [https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
 
 <div align="right">
@@ -236,21 +207,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DotNet Core Architecture 
 
 ### 📝 Articles
-
 * [ASP.NET CORE ANATOMY – HOW DOES USESTARTUP WORK?](https://www.stevejgordon.co.uk/aspnet-core-anatomy-how-does-usestartup-work)
-
 * [ASP.NET CORE ANATOMY (PART 2) – ADDMVC](https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-2-addmvc)
-
 * [ASP.NET CORE ANATOMY (PART 3) – USEMVC](https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-3-addmvc)
-
 * [ASP.NET CORE ANATOMY (PART 4) – INVOKING THE MVC MIDDLEWARE](https://www.stevejgordon.co.uk/invoking-mvc-middleware-asp-net-core-anatomy-part-4)
-
 * [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
 * [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
 
 ### 📹 Videoes
-
 * [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw&feature=emb_title)
 * [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ&feature=youtu.be)
 <div align="right">
@@ -260,15 +225,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Hosting
 
 ### 📝 Articles
-
 * [5 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/5-ways-to-set-the-urls-for-an-aspnetcore-app/)
-
 * [Adding host filtering to Kestrel in ASP.NET Core](https://andrewlock.net/adding-host-filtering-to-kestrel-in-aspnetcore/)
-
 * [ASP. NET Core - Hosting](https://girishgodage.in/blog/customize-hosting)
-
 * [Customizing ASP.NET Core Part 12: Hosting](https://asp.net-hacker.rocks/2019/04/29/customizing-aspnetcore-12-hosting.html)
-
 * [ASP.NET Core Hosting on IIS on Windows](https://procodeguide.com/programming/asp-net-core-hosting-on-iis/)
 
 <div align="right">
@@ -278,13 +238,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Kestrel
 
 ### 📝 Articles
-
 * [Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-5.0)
-
 * [.NET Core 3.0 AllowSynchronousIO Workaround](https://khalidabuhakmeh.com/dotnet-core-3-dot-0-allowsynchronousio-workaround)
 
 ### 📹 Videoes
-
 * [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](https://www.youtube.com/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
 
 <div align="right">
@@ -294,21 +251,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Middleware
 
 ### 📝 Articles
-
 * [DEEP DIVE: HOW IS THE ASP.NET CORE MIDDLEWARE PIPELINE BUILT?](https://www.stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built)
-
 * [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0)
-
 * [Understanding your middleware pipeline with the Middleware Analysis package](https://andrewlock.net/understanding-your-middleware-pipeline-with-the-middleware-analysis-package/)
-
 * [Exploring IStartupFilter in ASP.NET Core](https://andrewlock.net/exploring-istartupfilter-in-asp-net-core/)
-
 * [Creating an endpoint from multiple middleware in ASP.NET Core 3.x](https://andrewlock.net/creating-an-endpoint-from-multiple-middleware-in-aspnetcore-3/)
-
 * [Converting a terminal middleware to endpoint routing in ASP.NET Core 3.0](https://andrewlock.net/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/)
-
 * [Middlewares](https://girishgodage.in/blog/customize-middleware)
-
 * [Customizing ASP.​NET Core Part 06: Middlewares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html)
 
 <div align="right">
@@ -318,28 +267,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Configuration
 
 ### 📝 Articles
-
 * [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
-
 * [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
-
 * [Configuration providers in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration-providers)
-
 * [ASP. NET Core - Customize Configuration](https://girishgodage.in/blog/customize-configuration)
-
 * [Creating a custom ConfigurationProvider in ASP.NET Core to parse YAML](https://andrewlock.net/creating-a-custom-iconfigurationprovider-in-asp-net-core-to-parse-yaml/)
-
 * [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
-
 * [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
 
 ### 📦 Libraries
-
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 
 
 ### 🔖 Samples
-
 * [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
 
 <div align="right">
@@ -349,13 +289,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Options Pattern
 
 ### 📝 Articles
-
 * [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
-
 * [How to use the IOptions pattern for configuration in ASP.NET Core RC2](https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-net-core-rc2/)
-
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
-
 * [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -375,7 +311,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
 
 ### 📹 Videoes
-
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
 * [gRPC Server & Unary Calls | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=hp5FTB7PI9s&t=0s)
@@ -387,7 +322,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## WebSockets 
 
 ### 📝 Articles
-
 * [Understanding WebSockets with ASP.NET Core](https://sahansera.dev/understanding-websockets-with-aspnetcore-5/)
 * [Using Web Sockets with ASP.NET Core](https://www.meziantou.net/using-web-sockets-with-asp-net-core.htm)
 * [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-5.0)
@@ -399,7 +333,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## SignalR
 
 ### 📝 Articles
-
 * [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 * [Real-time Web Applications with SignalR in ASP.NET Core 3.1](https://procodeguide.com/programming/real-time-web-with-signalr-in-aspnet-core/)
 
@@ -414,7 +347,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## HttpClient
 
 ### 📝 Articles
-
 * [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 * [.NET 5: Exploring System.Net.Http.Json namespace](https://anthonygiretti.com/2020/10/03/net-5-exploring-system-net-http-json-namespace/)
 * [Introducing Strongly Typed HTTP Request Headers for ASP.NET Core](https://stevetalkscode.co.uk/stronglytypedheaders-part1)
@@ -425,7 +357,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## WEB API
 
 ### 📝 Articles
-
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
 * [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
@@ -446,7 +377,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2&t=5001s)
 
 ### 🔖 Samples
-
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
@@ -461,7 +391,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 ### 📹 Videoes
-
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 
 <div align="right">
@@ -473,13 +402,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 ### 📹 Videoes
-
 * [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
 
 ## API Versioning
 
 ### 📝 Articles
-
 * [Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 
 ### 📹 Videoes
@@ -493,15 +420,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Hosted Service
 
 ### 📝 Articles
-
 * [Background tasks with hosted services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services)
-
 * [IMPLEMENTING IHOSTEDSERVICE IN ASP.NET CORE 2.0](https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice)
-
 * [ASP. NET Core - IHostedService and BackgroundService](https://girishgodage.in/blog/customize-hostedservices)
-
 * [Customizing ASP.​NET Core Part 05: HostedServices](https://asp.net-hacker.rocks/2018/10/04/customizing-aspnetcore-05-hostedservices.html)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -510,18 +432,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Test Host And WebApplicationFactory
 
 ### 📝 Articles
-
 * [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
-
 * [Using custom startup class with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-startup/)
-
 * [Using custom appsettings.json with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-tests-appsettings/)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
 
 ## Routing
 
@@ -533,27 +450,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Dependency Injection
 
 ### 📝 Articles
-
 * [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
-
 * [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
-
 * [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
-
 * [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
-
 * [ASP.NET CORE DEPENDENCY INJECTION – REGISTERING MULTIPLE IMPLEMENTATIONS OF AN INTERFACE](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-multiple-implementations-interface)
-
 * [ASP.NET CORE DEPENDENCY INJECTION – HOW TO REGISTER GENERIC TYPES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-how-to-register-generic-types)
-
 * [ASP.NET CORE DEPENDENCY INJECTION – REGISTERING IMPLEMENTATIONS USING DELEGATES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-implementations-using-delegates)
-
 * [Choosing a ServiceLifetime](https://jimmybogard.com/choosing-a-servicelifetime/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
-
 * [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
-
 * [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
-
 * [Dependency Injection in ASP.NET Core 3.1](https://procodeguide.com/programming/dependency-injection-in-asp-net-core-3/)
 
 <div align="right">
@@ -565,7 +471,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Encryption And Data Protection
 
 #### 📝 Articles
-
 * [Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
 * [ENCRYPTING TEXTS FOR AN IDENTITY IN ASP.NET CORE RAZOR PAGES USING AES AND RSA](https://damienbod.com/2020/08/22/encrypting-texts-for-an-identity-in-asp-net-core-razor-pages-using-aes-and-rsa/)
 * [USING DIGITAL SIGNATURES TO CHECK INTEGRITY OF CIPHER TEXTS IN ASP.NET CORE RAZOR PAGES](https://damienbod.com/2020/09/01/using-digital-signatures-to-check-integrity-of-cipher-texts-in-asp-net-core-razor-pages/)
@@ -579,7 +484,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### DotNet Core Identity
 
 #### 📝 Articles
-
 * [ASP.NET Core Identity – Getting Started](https://procodeguide.com/programming/asp-net-core-identity/)
 * [Overview of ASP.NET Core authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/)
 * [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
@@ -594,7 +498,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Authentication 
 
 #### 📝 Articles
-
 * [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 * [Getting started with Securing APIs using JWT Bearer Authentication - Hands on](https://referbruv.com/blog/posts/getting-started-with-securing-apis-using-jwt-bearer-authentication-hands-on)
@@ -602,7 +505,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Login Web Application using Cookie Authentication in ASP NET Core](https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/)
 
 #### 📹 Videoes
-
 * [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
 * [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
 * [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
@@ -614,7 +516,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Authorization
 
 #### 📝 Articles
-
 * [Create an ASP.NET Core web app with user data protected by authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data)
 * [ASP.NET Core Identity Roles based Authorization](https://procodeguide.com/programming/asp-net-core-identity-roles-authorization/)
 * [Role-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/roles)
@@ -628,9 +529,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
 
 #### 📹 Videoes
-
 * [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=RBMO_hruKaI&t=11s)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -639,7 +538,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Logging
 
 ### 📝 Articles
-
 * [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 * [Setting up Serilog in ASP.NET Core 3](https://nblumhardt.com/2019/10/serilog-in-aspnetcore-3/)
 * [Serilog in ASP.NET Core 3.1 – Structured Logging Made Easy](https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/)
@@ -651,11 +549,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Message templates and properties – structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 
 ### 📹 Videoes
-
 * [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 
 ### 🔖 Samples
-
 * [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 * [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
 
@@ -667,7 +563,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Tracing
 
 ### 📝 Articles
-
 * [A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
 
 <div align="right">
@@ -708,11 +603,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 * [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
-### 📦 Libraries 
 
+### 📦 Libraries 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
 > Bring power of Linq To DB to Entity Framework Core projects
-
 * [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
 > reverse engineering, migrations and model visualization for EF Core
 
@@ -720,11 +614,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ## Environment
 
 ### 📝 Articles
-
 * [How to set the hosting environment in ASP.NET Core](https://andrewlock.net/how-to-set-the-hosting-environment-in-asp-net-core/)
 * [Configuring multiple ASP.NET Core hosting environment](https://procodeguide.com/programming/asp-net-core-hosting-environment/)
 
@@ -735,23 +627,18 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Mapping
 
 ### 📝 Articles
-
-[Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
+* [Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ### 📦 Libraries 
-
 * [Mapster](https://github.com/MapsterMapper/Mapster)
 > A fast, fun and stimulating object to object Mapper. 
 
 ### 📹 Videoes
-
 * [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA)
-
 * [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
 
 <div align="right">
@@ -766,9 +653,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 > Powerful .NET library for benchmarking
 
 ### 📹 Videoes
-
 * [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
-
 * [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
 
 <div align="right">
@@ -778,7 +663,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Others
 
 ### 📝 Articles
-
 * [Building a social media platform without going bankrupt Part I–Laying the numbers](https://ayende.com/blog/193026-C/building-a-social-media-platform-without-going-bankrupt-part-i-laying-the-numbers)
 * [Building a social media platform without going bankrupt Part II–Accepting posts](https://ayende.com/blog/193027-C/building-a-social-media-platform-without-going-bankrupt-part-ii-accepting-posts)
 * [Building a social media platform without going bankrupt Part III–Reading posts](https://ayende.com/blog/193028-C/building-a-social-media-platform-without-going-bankrupt-part-iii-reading-posts)
