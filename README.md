@@ -1,6 +1,6 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) ](https://twitter.com/mehdi_hadeli)
+[![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
@@ -53,6 +53,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Environment](#environment)
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
+* [Package Versioning](#package-versioning)
 * [Others](#others)
 
 
@@ -60,7 +61,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles 
 
-* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=bEfBfBQq7EE)
+* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -574,7 +575,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 * [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
 * [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
-* [What's New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
+* [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
 * [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
 * [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
 * [Entity Framework Core 5 Resources I’ve Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
@@ -659,6 +660,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Package Versioning
+
+### 📹 Videoes
+- [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
 
 ## Others
 
