@@ -664,7 +664,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Package Versioning
 
 ### 📹 Videoes
-- [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
+* [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
 
 ## Others
 
