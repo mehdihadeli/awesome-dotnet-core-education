@@ -578,7 +578,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
 * [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
 * [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
-* [Entity Framework Core 5 Resources I’ve Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
+* [Entity Framework Core 5 Resources I have Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
 * [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
 * [Entity Framework Core health check](https://www.michalbialecki.com/2020/03/13/entity-framework-core-health-check/)
 * [Entity Framework Core 3.0: A Foundation for the Future](https://codemag.com/Article/1911062/Entity-Framework-Core-3.0-A-Foundation-for-the-Future)
@@ -601,7 +601,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Mapping and using SQL Server stored procedures with EF Core Power Tools](https://erikej.github.io/efcore/2020/08/10/ef-core-power-tools-stored-procedures.html)
 * [Avoiding SQL Server plan cache pollution with EF Core 3 and Enumerable.Contains](https://erikej.github.io/efcore/sqlserver/2020/03/30/ef-core-cache-pollution.html)
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
-* [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 * [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
 
