@@ -57,7 +57,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Identity Server](#identity-server)
 * [Others](#others)
 
-
 ## DotNet
 
 ### 📝 Articles 
