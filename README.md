@@ -53,7 +53,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Environment](#environment)
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
-* [Package Versioning](#package-versioning)
+* [Package Versioning](#package-versioning
+* [Identity Server](#identity-server)
 * [Others](#others)
 
 
@@ -664,6 +665,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 * [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
+
+## Identity Server
+
+### 🔖 Samples
+
+* [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
+> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
 ## Others
 
