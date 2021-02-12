@@ -49,11 +49,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
    * [Authorization](#authorization)
 * [Logging](#logging)
 * [Tracing](#tracing)
+* [Testing](#testing)
+	* [Unit Testing](#unit-testing)
+	* [Integration-Testing](#integration-testing)
+	* [End-To-End Testing](#end-to-end-testing)
+	* [Load-Testing](#loadtesting)
+	* [Mocking](#end-to-end-testing)
+		* [Moq](#moq)
+	* [Xunit](#xunit)    
 * [EF Core](#ef-core)
 * [Environment](#environment)
 * [Mapping](#mapping)
+* [MediatR](#mediatr)
 * [Benchmarking](#benchmarking)
-* [Package Versioning](#package-versioning
+* [Package Versioning](#package-versioning)
 * [Identity Server](#identity-server)
 * [Others](#others)
 
@@ -372,6 +381,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Use ASP.NET Core route-to-code for simple JSON APIs](https://daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code)
 * [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 * [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/?WT.mc_id=DOP-MVP-4025064&_lrsc=d4a12070-16f9-4d79-8171-918b6c254765&utm_campaign=elevate&utm_source=linkedin&utm_medium=social)
+* [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
+* [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
+* [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 
 ### 📹 Videoes
 * [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
@@ -383,6 +395,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
 
+### 📦 Libraries 
+* [https://github.com/reactiveui/refit](https://github.com/reactiveui/refit)
+	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+	
+* [https://github.com/canton7/RestEase](https://github.com/canton7/RestEase)
+	> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
+	
+* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
+	> A project for supporting API Endpoints in ASP.NET Core web applications.
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -551,7 +573,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 * [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
-
+* [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) - CodeWithStu
 ### 🔖 Samples
 * [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 * [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
@@ -569,6 +591,89 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Testing
+
+### Unit Testing
+
+#### 📝 Articles
+
+
+#### 📹 Videoes
+- [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
+- [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
+### Integration-Testing 
+
+#### 📝 Articles 
+
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### End-To-End Testing
+
+#### 📝 Articles
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### Load Testing
+
+#### 📝 Articles
+
+#### 📹 Videoes
+- [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
+- [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
+
+#### 📦 Libraries
+
+- [bombardier](https://github.com/codesenberg/bombardier)
+  > Fast cross-platform HTTP benchmarking tool written in Go
+
+- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
+  > .NET Core Performance Counter Tool
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+### Mocking
+
+#### 📝 Articles
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### XUnit
+
+#### 📝 Articles
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+#### 📦 Libraries
+
+* [xunit-logging](https://github.com/martincostello/xunit-logging)
+  > Logging extensions for xunit
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+#### 📹 Videoes
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
 
 ## EF Core
 
@@ -604,6 +709,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 * [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
 
+### 📹 Videoes
+* [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
+
 ### 📦 Libraries 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
 > Bring power of Linq To DB to Entity Framework Core projects
@@ -624,6 +732,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## MediatR
+
+### 📝 Articles
+* [Using MediatR in ASPNET Core Apps](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Steve Smith
+
 ## Mapping
 
 ### 📝 Articles
@@ -635,11 +748,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📦 Libraries 
 * [Mapster](https://github.com/MapsterMapper/Mapster)
-> A fast, fun and stimulating object to object Mapper. 
+  > A fast, fun and stimulating object to object Mapper. 
 
 ### 📹 Videoes
-* [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA)
-* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
+* [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
+* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -650,11 +763,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📦 Libraries
 
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-> Powerful .NET library for benchmarking
+  > Powerful .NET library for benchmarking
 
 ### 📹 Videoes
-* [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
-* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
+* [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
+* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -670,7 +783,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 🔖 Samples
 
 * [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
-> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+  > An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
 ## Others
 
