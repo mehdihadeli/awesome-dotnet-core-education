@@ -20,6 +20,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [DotNet Core](#dotnet-core)
 * [DotNet CLI](#dotnet-cli)
 * [DotNet Tools](#dotnet-tools)
+* [DotNet Core Tips](#dotnet-core-tips)
 * [MetaPack](#metapack)
 * [Performance](#performance)
 * [Serialization](#serialization)
@@ -95,7 +96,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 * [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
-### 📹 Videoes
+### 📹 Videos
 
 * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
 
@@ -115,7 +116,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
 * [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
 * [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
-### 📹 Videoes
+### 📹 Videos
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
@@ -155,6 +156,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## DotNet Core Tips
+
+### 📝 Articles
+
+* [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
+
+### 🔖 Samples
+
+* [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+	> This repository has examples of broken patterns in ASP.NET Core applications
 
 
 ## MetaPack
@@ -225,7 +237,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
 * [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
 
-### 📹 Videoes
+### 📹 Videos
 * [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw&feature=emb_title)
 * [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ&feature=youtu.be)
 <div align="right">
@@ -251,7 +263,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-5.0)
 * [.NET Core 3.0 AllowSynchronousIO Workaround](https://khalidabuhakmeh.com/dotnet-core-3-dot-0-allowsynchronousio-workaround)
 
-### 📹 Videoes
+### 📹 Videos
 * [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](https://www.youtube.com/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
 
 <div align="right">
@@ -320,7 +332,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
 
-### 📹 Videoes
+### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
 * [gRPC Server & Unary Calls | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=hp5FTB7PI9s&t=0s)
@@ -346,7 +358,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 * [Real-time Web Applications with SignalR in ASP.NET Core 3.1](https://procodeguide.com/programming/real-time-web-with-signalr-in-aspnet-core/)
 
-### 📹 Videoes
+### 📹 Videos
 
 * [Asp.Net Core WebSockets Vs SignalR. Which should you use?](https://www.youtube.com/watch?v=ycVgXe6v1VQ&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=6)
 
@@ -385,35 +397,79 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 
-### 📹 Videoes
+### 📹 Videos
 * [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2&t=5001s)
+* [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](https://www.youtube.com/watch?v=BycGGcrYok4) - Steve Smith
 
 ### 🔖 Samples
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
-* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
+* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
+* [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
 
-### 📦 Libraries 
+### Frameworks
+
+* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
+	> A project for supporting API Endpoints in ASP.NET Core web applications.
+	
+* [https://github.com/CarterCommunity/Carter](https://github.com/CarterCommunity/Carter)
+	> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+	
+### 📦 Libraries And Tools
+
 * [https://github.com/reactiveui/refit](https://github.com/reactiveui/refit)
 	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 	
 * [https://github.com/canton7/RestEase](https://github.com/canton7/RestEase)
 	> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
 	
-* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
-	> A project for supporting API Endpoints in ASP.NET Core web applications.
+* [https://github.com/dotnet/HttpRepl](https://github.com/dotnet/HttpRepl)
+	> The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
+
+* [https://marketplace.visualstudio.com/items?itemName=humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+	> REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+	
+* [https://github.com/domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+	> Swagger tools for documenting API's built on ASP.NET Core
+
+* [https://github.com/microsoft/OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET)
+	> The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+
+* [https://github.com/RicoSuter/NSwag](https://github.com/RicoSuter/NSwag)
+	> The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+	
+* [https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
+	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Razor PAGES
+
+### 📝 Articles
+* [Razor Pages for HTML, Controllers for APIs](https://odetocode.com/blogs/scott/archive/2019/09/12/net-core-opinion-14-razor-pages-for-html-controllers.aspx) - Scott Allen
+* [Separating concerns using Razor Pages](https://jonhilton.net/razor-pages-separation-of-concerns/) - Jon Hilton
+* [MVC vs Razor Pages - A quick comparison](https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/) - Jon Hilton
+* [Applying the MVC design pattern to Razor Pages](https://andrewlock.net/aspnetcore-in-action-2e-applying-the-mvc-design-pattern-to-razor-pages/) - Andrew Lock
+* [MSDN – Feature Slices for ASPNET Core MVC](https://ardalis.com/msdn-–-feature-slices-for-aspnet-core-mvc/) - Steve Smith
+* [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
+
+### 📹 Videos
+* [Introduction to ASP.NET Core Razor Pages - Damian Edwards](https://www.youtube.com/watch?v=yyBijyCI5Sk)
+* [ASP.NET Core Series: MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k)
+
+### 🔖 Samples
+* [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
+
+
 ## DotNet Core GraphQL
 
 ### 📝 Articles
 
-### 📹 Videoes
+### 📹 Videos
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 
 <div align="right">
@@ -424,15 +480,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
-### 📹 Videoes
+### 📹 Videos
 * [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
 
 ## API Versioning
 
 ### 📝 Articles
 * [Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
-
-### 📹 Videoes
+* [ASP.NET Core RESTful Web API versioning made easy](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy) - Sccot Honselman
+### 📹 Videos
 * [Elegant API Versioning in ASP.NET Core (Web API)](https://youtu.be/iVHtKG0eU_s)
 
 <div align="right">
@@ -527,7 +583,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [JWT Authentication In ASP.NET Core](https://www.freecodespot.com/blog/jwt-authentication-in-dotnet-core/)
 * [Login Web Application using Cookie Authentication in ASP NET Core](https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/)
 
-#### 📹 Videoes
+#### 📹 Videos
 * [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
 * [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
 * [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
@@ -551,7 +607,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
 * [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
 
-#### 📹 Videoes
+#### 📹 Videos
 * [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=RBMO_hruKaI&t=11s)
 
 <div align="right">
@@ -570,8 +626,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Structured logging concepts in .NET Series (1)](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)
 * [Events and levels - structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 * [Message templates and properties – structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
-
-### 📹 Videoes
+* [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
+### 📹 Videos
 * [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 * [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) - CodeWithStu
 ### 🔖 Samples
@@ -598,10 +654,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 
+- [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
 
-#### 📹 Videoes
-- [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
-- [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
+#### 📹 Videos
+* [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
+* [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -611,7 +668,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Integration-Testing 
 
 #### 📝 Articles 
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -628,16 +684,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 
-#### 📹 Videoes
-- [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
-- [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
+#### 📹 Videos
+* [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
+* [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
 
 #### 📦 Libraries
 
-- [bombardier](https://github.com/codesenberg/bombardier)
+* [bombardier](https://github.com/codesenberg/bombardier)
   > Fast cross-platform HTTP benchmarking tool written in Go
 
-- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
+* [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
   > .NET Core Performance Counter Tool
 
 <div align="right">
@@ -667,13 +723,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-#### 📹 Videoes
+#### 📹 Videos
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
-
 
 ## EF Core
 
@@ -709,7 +763,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 * [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
 
-### 📹 Videoes
+### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 
 ### 📦 Libraries 
@@ -737,6 +791,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 * [Using MediatR in ASPNET Core Apps](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Steve Smith
 
+### 🔖 Samples
+* [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
+
 ## Mapping
 
 ### 📝 Articles
@@ -750,7 +807,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Mapster](https://github.com/MapsterMapper/Mapster)
   > A fast, fun and stimulating object to object Mapper. 
 
-### 📹 Videoes
+### 📹 Videos
 * [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
 * [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
 
@@ -765,7 +822,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
   > Powerful .NET library for benchmarking
 
-### 📹 Videoes
+### 📹 Videos
 * [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
 * [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
@@ -775,7 +832,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Package Versioning
 
-### 📹 Videoes
+### 📹 Videos
 * [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
 
 ## Identity Server
