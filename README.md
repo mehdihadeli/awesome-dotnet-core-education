@@ -560,7 +560,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 * [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
 * [Dependency Injection in ASP.NET Core 3.1](https://procodeguide.com/programming/dependency-injection-in-asp-net-core-3/)
-
+* [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
