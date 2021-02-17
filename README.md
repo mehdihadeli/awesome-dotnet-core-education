@@ -36,6 +36,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
+* [REST API ](#rest-api)
 * [DotNet Core GraphQL](#dotnet-core-graphql)
 * [DotNet Core Docker](#dotnet-core-docker)
 * [API Versioning](#api-versioning)
@@ -182,6 +183,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Performance
+
+### Resources
+
+- [https://github.com/adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 ### 📝 Articles
 * [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
@@ -331,6 +336,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
 * [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
+* [gRPC & ASP.NET Core 5: Discover gRPCui, the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
+* [gRPC & ASP.NET Core 5: Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
+* [gRPC & ASP.NET Core 5: Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 
 ### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
@@ -378,6 +386,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## WEB API
 
+### Resources
+* [https://github.com/oskardudycz/WebApiWith.NETCore](https://github.com/oskardudycz/WebApiWith.NETCore)
+	> Samples and resources of how to design WebApi with .NET Core
+
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
@@ -399,8 +411,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videos
 * [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
-* [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2&t=5001s)
+* [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
 * [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](https://www.youtube.com/watch?v=BycGGcrYok4) - Steve Smith
+* [ASP.NET Community Standup - Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 
 ### 🔖 Samples
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
@@ -408,6 +421,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
+
+
+## REST API 
+
+### Resources
+* [REST API Tutorial](https://restfulapi.net/)
+
 
 ### Frameworks
 
@@ -650,6 +670,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Testing
 
+### BDD
+
+#### 📹 Videos
+- [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
+
+### TDD
+
 ### Unit Testing
 
 #### 📝 Articles
@@ -659,6 +686,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
 * [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
+* [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -668,6 +696,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Integration-Testing 
 
 #### 📝 Articles 
+
+#### 📹 Videos
+
+- [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
