@@ -338,9 +338,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [gRPC client factory integration in .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/clientfactory)
 * [gRPC and C# 8 Async stream](https://laurentkempe.com/2019/09/18/gRPC-and-csharp-8-Async-stream/)
 * [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
-* [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
+* [Code first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
-* [gRPC and ASP.NET Core 5 Discover gRPCui, the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
+* [gRPC and ASP.NET Core 5 Discover gRPCui the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 
@@ -412,14 +412,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Custom Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding)
 * [Asp.Net Core Model Binding: Controlling The Binding Source](https://hamidmosalla.com/2017/07/06/asp-net-core-model-binding-controlling-the-binding-source/)
 * [Use ASP.NET Core route-to-code for simple JSON APIs](https://daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code)
-* [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
+* [Using action results and content negotiation with route-to-code APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 * [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/?WT.mc_id=DOP-MVP-4025064&_lrsc=d4a12070-16f9-4d79-8171-918b6c254765&utm_campaign=elevate&utm_source=linkedin&utm_medium=social)
 * [Open source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
 * [MVC Controllers are Dinosaurs Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 
 ### 📹 Videos
-* [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
+* [ASP.NET Core Series Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
 * [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](https://www.youtube.com/watch?v=BycGGcrYok4) - Steve Smith
 * [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
@@ -469,16 +469,16 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Razor Pages
 
 ### 📝 Articles
-* [Razor Pages for HTML, Controllers for APIs](https://odetocode.com/blogs/scott/archive/2019/09/12/net-core-opinion-14-razor-pages-for-html-controllers.aspx) - Scott Allen
+* [Razor Pages for HTML Controllers for APIs](https://odetocode.com/blogs/scott/archive/2019/09/12/net-core-opinion-14-razor-pages-for-html-controllers.aspx) - Scott Allen
 * [Separating concerns using Razor Pages](https://jonhilton.net/razor-pages-separation-of-concerns/) - Jon Hilton
-* [MVC vs Razor Pages - A quick comparison](https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/) - Jon Hilton
+* [MVC vs Razor Pages A quick comparison](https://jonhilton.net/razor-pages-or-mvc-a-quick-comparison/) - Jon Hilton
 * [Applying the MVC design pattern to Razor Pages](https://andrewlock.net/aspnetcore-in-action-2e-applying-the-mvc-design-pattern-to-razor-pages/) - Andrew Lock
 * [MSDN – Feature Slices for ASPNET Core MVC](https://ardalis.com/msdn-–-feature-slices-for-aspnet-core-mvc/) - Steve Smith
 * [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
 
 ### 📹 Videos
-* [Introduction to ASP.NET Core Razor Pages - Damian Edwards](https://www.youtube.com/watch?v=yyBijyCI5Sk)
-* [ASP.NET Core Series: MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k)
+* [Introduction to ASP.NET Core Razor Pages](https://www.youtube.com/watch?v=yyBijyCI5Sk) 
+* [ASP.NET Core Series MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k)
 
 ### 🔖 Samples
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
@@ -505,7 +505,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## API Versioning
 
 ### 📝 Articles
-* [Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
+* [Web API Versioning in ASP.NET Core Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 * [ASP.NET Core RESTful Web API versioning made easy](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy) - Sccot Honselman
 ### 📹 Videos
 * [Elegant API Versioning in ASP.NET Core (Web API)](https://youtu.be/iVHtKG0eU_s)
@@ -558,7 +558,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 * [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
 * [Dependency Injection in ASP.NET Core 3.1](https://procodeguide.com/programming/dependency-injection-in-asp-net-core-3/)
-* [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
+* [ASP.NET CORE DEPENDENCY INJECTION WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -642,8 +642,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [ASP.NET Core 5 + Serilog](https://jkdev.me/asp-net-core-serilog/)
 * [What Is Structured Logging and Why Developers Need It](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
 * [Structured logging concepts in .NET Series (1)](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)
-* [Events and levels - structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
-* [Message templates and properties – structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
+* [Events and levels structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
+* [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 * [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
 ### 📹 Videos
 * [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
@@ -760,8 +760,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Exception Handling
 
 ### 📝 Articles
-* [My take on the "Result class"](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) - Josef Ottosson
-* [Functional C#: Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
+* [My take on the Result class](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) - Josef Ottosson
+* [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
 
 ## EF Core
 
