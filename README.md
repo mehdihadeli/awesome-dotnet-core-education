@@ -32,9 +32,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
-* [REST API](#rest-api)
-* [DotNet Core GraphQL](#dotnet-core-graphql)
-* [DotNet Core Docker](#dotnet-core-docker)
+* [Razor Pages](#razor-pages)
+* [GraphQL](#dotnet-core-graphql)
+* [Docker](#dotnet-core-docker)
 * [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
 * [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
@@ -394,6 +394,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ### Resources
 * [https://github.com/oskardudycz/WebApiWith.NETCore](https://github.com/oskardudycz/WebApiWith.NETCore)
 	> Samples and resources of how to design WebApi with .NET Core
+* [REST API Tutorial](https://restfulapi.net/)
 
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
@@ -427,14 +428,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
 
-
-## REST API 
-
-### Resources
-* [REST API Tutorial](https://restfulapi.net/)
-
-
-### Frameworks
+### 📦 Libraries And Tools
 
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
 	> A project for supporting API Endpoints in ASP.NET Core web applications.
@@ -442,8 +436,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [https://github.com/CarterCommunity/Carter](https://github.com/CarterCommunity/Carter)
 	> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 	
-### 📦 Libraries And Tools
-
 * [https://github.com/reactiveui/refit](https://github.com/reactiveui/refit)
 	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 	
@@ -472,7 +464,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Razor PAGES
+## Razor Pages
 
 ### 📝 Articles
 * [Razor Pages for HTML, Controllers for APIs](https://odetocode.com/blogs/scott/archive/2019/09/12/net-core-opinion-14-razor-pages-for-html-controllers.aspx) - Scott Allen
@@ -490,7 +482,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
 
 
-## DotNet Core GraphQL
+## GraphQL
 
 ### 📝 Articles
 
@@ -501,7 +493,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Core Docker
+## Docker
 
 ### 📝 Articles
 
@@ -519,7 +511,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
 
 ## Hosted Service
 
