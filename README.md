@@ -2,16 +2,12 @@
 
 [![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md)
 
 > Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
-Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
-
 
 ## Contents
 * [DotNet](#dotnet)
@@ -36,7 +32,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
-* [REST API ](#rest-api)
+* [REST API](#rest-api)
 * [DotNet Core GraphQL](#dotnet-core-graphql)
 * [DotNet Core Docker](#dotnet-core-docker)
 * [API Versioning](#api-versioning)
@@ -56,7 +52,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	* [Integration-Testing](#integration-testing)
 	* [End-To-End Testing](#end-to-end-testing)
 	* [Load-Testing](#loadtesting)
-	* [Mocking](#end-to-end-testing)
+	* [Mocking](#mocking)
 		* [Moq](#moq)
 	* [Xunit](#xunit)
 * [Exception Handling](#exception-handling)    
@@ -191,7 +187,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Resources
 
-- [https://github.com/adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+* [https://github.com/adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 ### 📝 Articles
 * [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
@@ -682,7 +678,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### BDD
 
 #### 📹 Videos
-- [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
+* [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
 
 ### TDD
 
@@ -690,7 +686,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 
-- [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
+* [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -708,7 +704,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📹 Videos
 
-- [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
+* [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -733,9 +729,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [bombardier](https://github.com/codesenberg/bombardier)
   > Fast cross-platform HTTP benchmarking tool written in Go
-
-* [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
-  > .NET Core Performance Counter Tool
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
