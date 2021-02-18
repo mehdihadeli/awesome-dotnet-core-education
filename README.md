@@ -56,7 +56,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
     * [End-To-End Testing](#end-to-end-testing)
     * [Load Testing](#load-testing)
     * [Mocking](#mocking)
-      * [Moq](#moq)
     * [XUnit](#xunit)
 * [Exception Handling](#exception-handling)    
 * [EF Core](#ef-core)
