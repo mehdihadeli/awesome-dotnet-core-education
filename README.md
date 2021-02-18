@@ -58,7 +58,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	* [Load-Testing](#loadtesting)
 	* [Mocking](#end-to-end-testing)
 		* [Moq](#moq)
-	* [Xunit](#xunit)    
+	* [Xunit](#xunit)
+* [Exception Handling](#exception-handling)    
 * [EF Core](#ef-core)
 * [Environment](#environment)
 * [Mapping](#mapping)
@@ -117,10 +118,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
 * [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
 * [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
+* [.NET Core Transitive Dependencies and how to block them](https://curia.me/net-core-transitive-references-and-how-to-block-them/)
+* [What is a Transitive dependency in .NET Core](https://www.thecodebuzz.com/transitive-dependency-in-net-core/)
+
 ### 📹 Videos
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
+* [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https://www.youtube.com/watch?v=ZdCn6kpGBhI)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -380,6 +385,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 * [.NET 5: Exploring System.Net.Http.Json namespace](https://anthonygiretti.com/2020/10/03/net-5-exploring-system-net-http-json-namespace/)
 * [Introducing Strongly Typed HTTP Request Headers for ASP.NET Core](https://stevetalkscode.co.uk/stronglytypedheaders-part1)
+* [Tidy up your HttpClient usage](https://josef.codes/tidy-up-your-httpclient-usage/)
+* [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
+* [Using HTTPClient Best Practices and Anti-Patterns](https://www.thecodebuzz.com/using-httpclient-best-practices-and-anti-patterns/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -761,6 +770,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Exception Handling
+
+### 📝 Articles
+* [My take on the "Result class"](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) - Josef Ottosson
+* [Functional C#: Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
+
 ## EF Core
 
 ### 📝 Articles
@@ -830,6 +845,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 * [Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
+* [Let's talk about mapping objects in c-sharp (C#)](https://josef.codes/lets-talk-about-mapping-objects-in-c-sharp/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
