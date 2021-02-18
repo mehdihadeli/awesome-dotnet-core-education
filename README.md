@@ -33,8 +33,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
 * [Razor Pages](#razor-pages)
-* [GraphQL](#dotnet-core-graphql)
-* [Docker](#dotnet-core-docker)
+* [GraphQL](#graphql)
+* [Docker](#docker)
 * [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
 * [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
@@ -337,9 +337,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
 * [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
-* [gRPC & ASP.NET Core 5: Discover gRPCui, the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
-* [gRPC & ASP.NET Core 5: Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
-* [gRPC & ASP.NET Core 5: Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
+* [gRPC and ASP.NET Core 5: Discover gRPCui, the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
+* [gRPC and ASP.NET Core 5: Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
+* [gRPC and ASP.NET Core 5: Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 
 ### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
@@ -411,7 +411,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Use ASP.NET Core route-to-code for simple JSON APIs](https://daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code)
 * [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 * [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/?WT.mc_id=DOP-MVP-4025064&_lrsc=d4a12070-16f9-4d79-8171-918b6c254765&utm_campaign=elevate&utm_source=linkedin&utm_medium=social)
-* [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
+* [Open source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
 * [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 
@@ -425,7 +425,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
-* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
 
 ### 📦 Libraries And Tools
