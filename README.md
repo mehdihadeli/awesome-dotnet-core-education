@@ -489,6 +489,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### 📹 Videos
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
+* [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -679,6 +680,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 </div>
 
 ### Unit Testing
+
 #### 📝 Articles 
 * [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
 
@@ -687,6 +689,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 * [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
 
+#### Tools
+
+- [https://github.com/BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest)
+	> A fluent API for .Net that can enforce architectural rules in unit tests.
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -697,8 +704,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 #### 📝 Articles 
 
 #### 📹 Videos
-
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
+* [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
