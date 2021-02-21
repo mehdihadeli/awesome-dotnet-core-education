@@ -289,7 +289,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Converting a terminal middleware to endpoint routing in ASP.NET Core 3.0](https://andrewlock.net/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/)
 * [Middlewares](https://girishgodage.in/blog/customize-middleware)
 * [Customizing ASP.​NET Core Part 06: Middlewares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html)
-
+* [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -547,6 +547,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Dependency Injection
 
 ### 📝 Articles
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
 * [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 * [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
@@ -558,6 +559,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 * [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
 * [Dependency Injection in ASP.NET Core 3.1](https://procodeguide.com/programming/dependency-injection-in-asp-net-core-3/)
+* [Understanding Disposables In .NET Dependency Injection – Part 2](http://stevetalkscode.co.uk/disposables-in-di-part-2)
+* [Understanding Disposables In .NET Dependency Injection – Part 1](https://stevetalkscode.co.uk/disposables-in-di-part-1)
+* [Should I be Checking Injected Dependencies for Null?](http://stevetalkscode.co.uk/null-injection)
+* [Getting Dependencies by Name or Key using the .NET Core Container (Part 1)](http://stevetalkscode.co.uk/named-dependencies-part-1#comment-750)
 * [ASP.NET CORE DEPENDENCY INJECTION WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
