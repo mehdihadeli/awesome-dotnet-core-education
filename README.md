@@ -118,6 +118,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
 * [.NET Core Transitive Dependencies and how to block them](https://curia.me/net-core-transitive-references-and-how-to-block-them/)
 * [What is a Transitive dependency in .NET Core](https://www.thecodebuzz.com/transitive-dependency-in-net-core/)
+* [Framework Reference](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-5.0&tabs=visual-studio#framework-reference)
+* [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
+* [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
+* [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
+* [When ASP.NET Core can't find your controller: debugging application parts](https://andrewlock.net/when-asp-net-core-cant-find-your-controller-debugging-application-parts/)
+* [Share controllers, views, Razor Pages and more with Application Parts](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-5.0)
+* [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
+* [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
 ### 📹 Videos
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
@@ -179,6 +187,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Microsoft.AspNetCore.App for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage-app)
 * [Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage)
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://b2n.ir/083540)
+* [Framework Reference](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-5.0&tabs=visual-studio#framework-reference)
+* [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
+* [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
+* [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -774,6 +786,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [My take on the Result class](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) - Josef Ottosson
 * [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
 
+### 📹 Videos
+* [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)
+
 ## EF Core
 
 ### 📝 Articles
@@ -807,6 +822,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 * [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
+* [Entity Framework Core – Projection Performance](https://eliottrobson.me/entity-framework-core-projection-performance/)
+* [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
+* [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
