@@ -66,6 +66,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Package Versioning](#package-versioning)
 * [Identity Server](#identity-server)
 * [Others](#others)
+* [Books](#books)
 
 ## DotNet
 
@@ -428,7 +429,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Open source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
 * [MVC Controllers are Dinosaurs Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
-
+* [What is the difference between a DTO and a POCO (or POJO)](https://ardalis.com/dto-or-poco/?_lrsc=9fbcec7f-f420-4949-8e56-46bc78620801)
 ### 📹 Videos
 * [ASP.NET Core Series Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
@@ -923,3 +924,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Books
+
+* [Microsoft .Net Ebooks](https://github.com/dotnet-architecture/eBooks/tree/master/current)
+
