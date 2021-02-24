@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Hosting](#hosting)
 * [Kestrel](#kestrel)
 * [Middleware](#middleware)
+* [Action Filters](#action-filters)
 * [Configuration](#configuration)
 * [Options Pattern](#options-pattern)
 * [Grpc](#grpc)
@@ -303,9 +304,20 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Middlewares](https://girishgodage.in/blog/customize-middleware)
 * [Customizing ASP.​NET Core Part 06: Middlewares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html)
 * [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
+* [Middleware vs Filters ASP. NET Core](https://www.edgesidesolutions.com/middleware-vs-filters-asp-net-core/)
+* [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+### Videos
+* [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Action Filters
+
+### 📝 Articles
+* [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+
 
 ## Configuration
 
@@ -411,6 +423,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 	> Samples and resources of how to design WebApi with .NET Core
 * [REST API Tutorial](https://restfulapi.net/)
 * [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
+* [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
@@ -431,6 +444,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [MVC Controllers are Dinosaurs Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 * [What is the difference between a DTO and a POCO (or POJO)](https://ardalis.com/dto-or-poco/?_lrsc=9fbcec7f-f420-4949-8e56-46bc78620801)
+* [Give better names to your DTOs](https://cassiomolin.com/2016/02/11/give-better-names-to-your-dtos/)
+* [Immutability in DTOs?](https://jimmybogard.com/immutability-in-dtos/)
+* [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
+
 ### 📹 Videos
 * [ASP.NET Core Series Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
@@ -707,6 +724,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
 * [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 * [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
+* [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 
 #### Tools
 
@@ -725,7 +743,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 * [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
-
+* [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
