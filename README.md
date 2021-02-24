@@ -37,6 +37,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [WEB API](#web-api)
 * [Razor Pages](#razor-pages)
 * [GraphQL](#graphql)
+* [NoSQL](#nosql)
+  * [CosmosDB](#cosmosdb)
+  * [PostgreSQL](#postgrsql)
+  * [MongoDB](#mongodb)
+  * [RavenDB](#ravendb)
 * [Docker](#docker)
 * [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
@@ -514,18 +519,46 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ### 🔖 Samples
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
 
-
 ## GraphQL
 
 ### 📝 Articles
 
 ### 📹 Videos
-* [GraphQL API with .NET 5 and Hot Chocolate](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=HuN94qNwQmM)
-* [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=LfPc0sitoR4)
+* [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
+* [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## NoSQL
+
+### CosmosDB
+* [Azure Cosmos DB - A fully-managed, globally distributed NoSQL database service](https://stackshare.io/azure-cosmos-db) - StackShare
+
+#### Articles
+* [An in-depth study of Cosmos DB and the EF Core 3 to 5 database provider](https://www.thereformedprogrammer.net/an-in-depth-study-of-cosmos-db-and-ef-core-3-0-database-provider/)
+* [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
+* [Cars Island ASP .NET Core API - integration with Azure Cosmos DB - part 3](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
+
+### PostgreSQL
+- [PostgreSQL - A powerful, open source object-relational database system](https://stackshare.io/postgresql) - StackShare
+
+#### Articles
+- [PostgreSQL Vs. MongoDB](https://blog.panoply.io/postgresql-vs-mongodb)
+
+
+#### 📹 Videos
+* [Integrating ASP.NET Core API with Postgres & OData in Azure](https://www.youtube.com/watch?v=MoDJnEwkYOE) - Hassan Habib
+* [ASP.NET Core, C#, EF Core, PostgreSQL, WSL2 - PostreSQL Setup - Tricking Library Ep62](https://www.youtube.com/watch?v=qWfavvrhrfk)
+* [Comparison of PostgreSQL and MongoDB](https://www.youtube.com/watch?v=eM7hzKwvTq8)
+* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+### MongoDB
+* [MongoDB - The database for giant ideas](https://stackshare.io/mongodb)
+
+### RavenDB
+* [RavenDB - A NoSQL Database that's fully transactional](https://stackshare.io/raven-db) - StackShare
 
 ## Docker
 
@@ -846,6 +879,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Entity Framework Core – Projection Performance](https://eliottrobson.me/entity-framework-core-projection-performance/)
 * [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
 * [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
+* [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=aUl5QfswNU4) - Microsoft
