@@ -5,6 +5,9 @@
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&url=https%3A%2F%2Fgithub.com%2Fmehdihadeli%2Fawesome-dotnet-core-education)
 
+![](./banner.jpg)
+
+
 > Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
@@ -329,12 +332,13 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### 📝 Articles
 * [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
-* [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
+* [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 * [Configuration providers in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration-providers)
 * [ASP. NET Core - Customize Configuration](https://girishgodage.in/blog/customize-configuration)
 * [Creating a custom ConfigurationProvider in ASP.NET Core to parse YAML](https://andrewlock.net/creating-a-custom-iconfigurationprovider-in-asp-net-core-to-parse-yaml/)
 * [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
 * [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
+* [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 
 ### 📦 Libraries
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
@@ -350,7 +354,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Options Pattern
 
 ### 📝 Articles
-* [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
+* [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options)
 * [How to use the IOptions pattern for configuration in ASP.NET Core RC2](https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-net-core-rc2/)
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 * [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
@@ -533,6 +537,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ## NoSQL
 
+### Videos
+* [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU)
+* [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+* [GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+
+### Articles
+* [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
+
 ### CosmosDB
 * [Azure Cosmos DB - A fully-managed, globally distributed NoSQL database service](https://stackshare.io/azure-cosmos-db) - StackShare
 
@@ -612,8 +624,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Dependency Injection
 
 ### 📝 Articles
-* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
+* [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 * [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
 * [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
@@ -629,6 +642,17 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Should I be Checking Injected Dependencies for Null?](http://stevetalkscode.co.uk/null-injection)
 * [Getting Dependencies by Name or Key using the .NET Core Container (Part 1)](http://stevetalkscode.co.uk/named-dependencies-part-1#comment-750)
 * [ASP.NET CORE DEPENDENCY INJECTION WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
+* [Avoiding Startup service injection in ASP.NET Core 3](https://andrewlock.net/avoiding-startup-service-injection-in-asp-net-core-3/)
+* [What are the costs and possible side effects of calling BuildServiceProvider() in ConfigureServices()](https://stackoverflow.com/questions/56042989/what-are-the-costs-and-possible-side-effects-of-calling-buildserviceprovider-i)
+* [Resolve and Initialize the Instances within ConfigServices of ASP.NET Core](https://www.thecodebuzz.com/resolve-instances-within-configservices-method-asp-net-core/)
+* [How to Resolve Instance Inside ConfigureServices in ASP.NET Core](https://stackoverflow.com/questions/31863981/how-to-resolve-instance-inside-configureservices-in-asp-net-core)
+* [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
+* [Using dependency injection while configuring services](https://benjamincollins.com/blog/using-dependency-injection-while-configuring-services/)
+* [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICEPROVIDER AND HOW IS IT BUILT?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built) - Steve Gordon
+* [How to register a service with multiple interfaces in ASP.NET Core DI](https://andrewlock.net/how-to-register-a-service-with-multiple-interfaces-for-in-asp-net-core-di/)
+* [A .NET Core ServiceProvider that allows adding of services after it was created](https://siderite.dev/blog/a-net-core-serviceprovider-that-allows.html/)
+* [The difference between GetService() and GetRequiredService() in ASP.NET Core](https://andrewlock.net/the-difference-between-getservice-and-getrquiredservice-in-asp-net-core/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -676,6 +700,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
 * [Secure a .NET Core API with Bearer Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
 
+#### Libraries
+- [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer)
+	> Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -742,8 +770,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### BDD
 
+#### Articles
+* [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
+
 #### 📹 Videos
-* [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EEeVU0z26u0)
+* [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
+* [Getting started with BDD using Specflow .NET Core 3.1 (C#)](https://www.youtube.com/watch?v=O5oHiBD5Lvk)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -778,6 +810,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 * [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
 * [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
+* [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
