@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
     * [Integration-Testing](#integration-testing)
     * [End-To-End Testing](#end-to-end-testing)
     * [Load Testing](#load-testing)
+	* [Architectural Testing](architectural-testing)
     * [Mocking](#mocking)
     * [XUnit](#xunit)
 * [Exception Handling](#exception-handling)    
@@ -785,6 +786,13 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 #### 📝 Articles 
 * [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
+* [C# – How to unit test code that uses HttpClient](https://makolyte.com/csharp-how-to-unit-test-code-that-uses-httpclient/)
+* [How to unit test a class that consumes an HttpClient with IHttpClientFactory in ASP.NET Core?](https://anthonygiretti.com/2018/09/06/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-asp-net-core/)
+* [ASP.NET Core 2+ best practices and practical tools for testing, part 1](https://anthonygiretti.com/2019/06/15/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-1/)
+* [ASP.NET Core 2+ best practices and practical tools for testing, part 2, Use cases](https://anthonygiretti.com/2019/07/18/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-2-use-cases/)
+* [You will never give up a unit test anymore with ExpectedObjects in .NET Core](https://anthonygiretti.com/2019/01/21/you-will-never-give-up-a-unit-test-anymore-with-expectedobjects-in-net-core/)
+* [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
+* [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -840,13 +848,27 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+### Architectural Testing
+
+#### 📝 Articles
+[Writing ArchUnit style tests for .Net and C# to enforce architecture rules](https://www.ben-morris.com/writing-archunit-style-tests-for-net-and-c-for-self-testing-architectures/)
+
+#### 📦 Libraries
+* [https://github.com/BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest)
+	> A fluent API for .Net that can enforce architectural rules in unit tests.
+	
+* [https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)
+	> Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+	
 ### Mocking
+
 #### 📝 Articles
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### XUnit
+### 
+
 #### 📝 Articles
 
 <div align="right">
@@ -914,6 +936,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
 * [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
+* [Using Database Project and DbUp for database management](http://www.kamilgrzybek.com/database/using-database-project-and-dbup-for-database-management/)
+* [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
+* [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
+* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=aUl5QfswNU4) - Microsoft
