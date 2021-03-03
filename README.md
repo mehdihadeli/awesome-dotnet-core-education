@@ -8,7 +8,7 @@
 ![](./banner.jpg)
 
 
-> Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
+> Collection of useful Articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
@@ -68,7 +68,7 @@ If you think this repository makes a difference and is worth it, please share it
     * [TDD](#tdd)
     * [BDD](#bdd)
     * [Unit Testing](#unit-testing)
-    * [Integration-Testing](#integration-testing)
+    * [Integration Testing](#integration-testing)
     * [End-To-End Testing](#end-to-end-testing)
     * [Load Testing](#load-testing)
 	* [Architectural Testing](architectural-testing)
@@ -105,6 +105,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
+### Videos
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -125,6 +127,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## DotNet Core
 
+### Resources
+* [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
+* [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
+* [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
 ### 📝 Articles
 * [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 * [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
@@ -371,6 +377,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Grpc
 
+### Resources
+* [gRPC for WCF developers e-book](https://dotnet.microsoft.com/download/e-book/grpc-for-wcf-devs/pdf)
+
 ### 📝 Articles
 * [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/)
 * [gRPC services with C#](https://docs.microsoft.com/en-us/aspnet/core/grpc/basics)
@@ -384,12 +393,19 @@ If you think this repository makes a difference and is worth it, please share it
 * [gRPC and ASP.NET Core 5 Discover gRPCui the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
+* [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
 
 ### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
 * [gRPC Server & Unary Calls | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=hp5FTB7PI9s&t=0s)
 * [Server Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=F2T6xNRoa1E&t=0s)
+* [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
+
+### Samples
+* [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc)
+	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -470,6 +486,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [NET Core 3.1 MVC REST API - Full Course](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
 * [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) - Steve Smith
 * [ASP.NET Community Standup Flexible HTTP APIs](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=xoYkk5jk8d0)
+* [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
+* [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
 
 ### 🔖 Samples
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
@@ -816,9 +834,10 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 
-### Integration-Testing 
+### Integration Testing 
 
 #### 📝 Articles 
+* [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
 
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
@@ -948,7 +967,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 
 ### 📹 Videos
-* [Typed Exceptions for Entity Framework Core](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=aUl5QfswNU4) - Microsoft
+* [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
+* [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 
 ### 📦 Libraries 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
@@ -1026,7 +1046,10 @@ If you think this repository makes a difference and is worth it, please share it
 ### 🔖 Samples
 
 * [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
-  > An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+
+* [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
+	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
 
 ## Others
 
