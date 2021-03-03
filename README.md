@@ -29,6 +29,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [DotNet Tools](#dotnet-tools)
 * [DotNet Core Tips](#dotnet-core-tips)
 * [MetaPack](#metapack)
+* [Source Generators](#source-generators)
 * [Performance](#performance)
 * [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
@@ -101,7 +102,6 @@ If you think this repository makes a difference and is worth it, please share it
 * [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 * [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 * [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
-* [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
@@ -220,6 +220,11 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Source Generators
+
+### 📝 Articles
+* [Strongly-typed Ids using C# Source Generators - Gérald Barré](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
+* [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
 
 ## Performance
 
