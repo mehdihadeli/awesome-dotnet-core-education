@@ -3,12 +3,22 @@
 
 [![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
+![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&url=https%3A%2F%2Fgithub.com%2Fmehdihadeli%2Fawesome-dotnet-core-education)
+
+![](./banner.jpg)
+
 
 > Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+## Give a Star! ⭐️
+My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
+
+## Share It
+If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
 * [DotNet](#dotnet)
@@ -27,6 +37,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Hosting](#hosting)
 * [Kestrel](#kestrel)
 * [Middleware](#middleware)
+* [Action Filters](#action-filters)
 * [Configuration](#configuration)
 * [Options Pattern](#options-pattern)
 * [Grpc](#grpc)
@@ -36,6 +47,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [WEB API](#web-api)
 * [Razor Pages](#razor-pages)
 * [GraphQL](#graphql)
+* [NoSQL](#nosql)
+  * [CosmosDB](#cosmosdb)
+  * [PostgreSQL](#postgrsql)
+  * [MongoDB](#mongodb)
+  * [RavenDB](#ravendb)
 * [Docker](#docker)
 * [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
@@ -56,6 +72,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
     * [Integration-Testing](#integration-testing)
     * [End-To-End Testing](#end-to-end-testing)
     * [Load Testing](#load-testing)
+	* [Architectural Testing](architectural-testing)
     * [Mocking](#mocking)
     * [XUnit](#xunit)
 * [Exception Handling](#exception-handling)    
@@ -73,7 +90,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### 📝 Articles 
 
-* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=bEfBfBQq7EE)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -132,7 +149,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
-* [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https://www.youtube.com/watch?v=ZdCn6kpGBhI)
+* [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -264,8 +281,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
 
 ### 📹 Videos
-* [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw&feature=emb_title)
-* [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ&feature=youtu.be)
+* [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=d9Bjg31VuHw&feature=emb_title)
+* [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zMU_LGbTsCQ&feature=w7.mul.ir/yo%7cut%7cu.%7cbe)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -290,7 +307,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [.NET Core 3.0 AllowSynchronousIO Workaround](https://khalidabuhakmeh.com/dotnet-core-3-dot-0-allowsynchronousio-workaround)
 
 ### 📹 Videos
-* [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](https://www.youtube.com/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
+* [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -308,20 +325,32 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Middlewares](https://girishgodage.in/blog/customize-middleware)
 * [Customizing ASP.​NET Core Part 06: Middlewares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html)
 * [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
+* [Middleware vs Filters ASP. NET Core](https://www.edgesidesolutions.com/middleware-vs-filters-asp-net-core/)
+* [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+### Videos
+* [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Action Filters
+
+### 📝 Articles
+* [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+
 
 ## Configuration
 
 ### 📝 Articles
 * [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
-* [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
+* [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 * [Configuration providers in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration-providers)
 * [ASP. NET Core - Customize Configuration](https://girishgodage.in/blog/customize-configuration)
 * [Creating a custom ConfigurationProvider in ASP.NET Core to parse YAML](https://andrewlock.net/creating-a-custom-iconfigurationprovider-in-asp-net-core-to-parse-yaml/)
 * [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
 * [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
+* [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 
 ### 📦 Libraries
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
@@ -337,7 +366,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Options Pattern
 
 ### 📝 Articles
-* [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
+* [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options)
 * [How to use the IOptions pattern for configuration in ASP.NET Core RC2](https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-net-core-rc2/)
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 * [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
@@ -389,7 +418,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### 📹 Videos
 
-* [Asp.Net Core WebSockets Vs SignalR. Which should you use?](https://www.youtube.com/watch?v=ycVgXe6v1VQ&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=6)
+* [Asp.Net Core WebSockets Vs SignalR. Which should you use?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ycVgXe6v1VQ&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=6)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -416,6 +445,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 	> Samples and resources of how to design WebApi with .NET Core
 * [REST API Tutorial](https://restfulapi.net/)
 * [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
+* [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
@@ -436,11 +466,15 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [MVC Controllers are Dinosaurs Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
 * [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
 * [What is the difference between a DTO and a POCO (or POJO)](https://ardalis.com/dto-or-poco/?_lrsc=9fbcec7f-f420-4949-8e56-46bc78620801)
+* [Give better names to your DTOs](https://cassiomolin.com/2016/02/11/give-better-names-to-your-dtos/)
+* [Immutability in DTOs?](https://jimmybogard.com/immutability-in-dtos/)
+* [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
+
 ### 📹 Videos
-* [ASP.NET Core Series Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
-* [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
-* [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](https://www.youtube.com/watch?v=BycGGcrYok4) - Steve Smith
-* [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
+* [ASP.NET Core Series Route to Code](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=j-33Uz32hG0)
+* [NET Core 3.1 MVC REST API - Full Course](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
+* [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) - Steve Smith
+* [ASP.NET Community Standup Flexible HTTP APIs](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=xoYkk5jk8d0)
 
 ### 🔖 Samples
 * [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
@@ -495,12 +529,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
 
 ### 📹 Videos
-* [Introduction to ASP.NET Core Razor Pages](https://www.youtube.com/watch?v=yyBijyCI5Sk) 
-* [ASP.NET Core Series MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k)
+* [Introduction to ASP.NET Core Razor Pages](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=yyBijyCI5Sk) 
+* [ASP.NET Core Series MVC and Razor Pages](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=6GRFDkeCv3k)
 
 ### 🔖 Samples
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
-
 
 ## GraphQL
 
@@ -514,12 +547,49 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## NoSQL
+
+### Videos
+* [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU)
+* [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+* [GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+
+### Articles
+* [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
+
+### CosmosDB
+* [Azure Cosmos DB - A fully-managed, globally distributed NoSQL database service](https://stackshare.io/azure-cosmos-db) - StackShare
+
+#### Articles
+* [An in-depth study of Cosmos DB and the EF Core 3 to 5 database provider](https://www.thereformedprogrammer.net/an-in-depth-study-of-cosmos-db-and-ef-core-3-0-database-provider/)
+* [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
+* [Cars Island ASP .NET Core API - integration with Azure Cosmos DB - part 3](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
+
+### PostgreSQL
+- [PostgreSQL - A powerful, open source object-relational database system](https://stackshare.io/postgresql) - StackShare
+
+#### Articles
+- [PostgreSQL Vs. MongoDB](https://blog.panoply.io/postgresql-vs-mongodb)
+
+
+#### 📹 Videos
+* [Integrating ASP.NET Core API with Postgres & OData in Azure](https://www.youtube.com/watch?v=MoDJnEwkYOE) - Hassan Habib
+* [ASP.NET Core, C#, EF Core, PostgreSQL, WSL2 - PostreSQL Setup - Tricking Library Ep62](https://www.youtube.com/watch?v=qWfavvrhrfk)
+* [Comparison of PostgreSQL and MongoDB](https://www.youtube.com/watch?v=eM7hzKwvTq8)
+* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+### MongoDB
+* [MongoDB - The database for giant ideas](https://stackshare.io/mongodb)
+
+### RavenDB
+* [RavenDB - A NoSQL Database that's fully transactional](https://stackshare.io/raven-db) - StackShare
+
 ## Docker
 
 ### 📝 Articles
 
 ### 📹 Videos
-* [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
+* [Deploy a .NET Core API with Docker (Step-by-Step)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
 
 ## API Versioning
 
@@ -527,7 +597,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Web API Versioning in ASP.NET Core Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 * [ASP.NET Core RESTful Web API versioning made easy](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy) - Sccot Honselman
 ### 📹 Videos
-* [Elegant API Versioning in ASP.NET Core (Web API)](https://youtu.be/iVHtKG0eU_s)
+* [Elegant API Versioning in ASP.NET Core (Web API)](http://w7.mul.ir/yo%7cut%7cu.%7cbe/iVHtKG0eU_s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -566,8 +636,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Dependency Injection
 
 ### 📝 Articles
-* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
+* [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 * [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
 * [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
@@ -583,6 +654,17 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Should I be Checking Injected Dependencies for Null?](http://stevetalkscode.co.uk/null-injection)
 * [Getting Dependencies by Name or Key using the .NET Core Container (Part 1)](http://stevetalkscode.co.uk/named-dependencies-part-1#comment-750)
 * [ASP.NET CORE DEPENDENCY INJECTION WHAT IS THE ISERVICECOLLECTION?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iservicecollection) - Steve Gordon
+* [Avoiding Startup service injection in ASP.NET Core 3](https://andrewlock.net/avoiding-startup-service-injection-in-asp-net-core-3/)
+* [What are the costs and possible side effects of calling BuildServiceProvider() in ConfigureServices()](https://stackoverflow.com/questions/56042989/what-are-the-costs-and-possible-side-effects-of-calling-buildserviceprovider-i)
+* [Resolve and Initialize the Instances within ConfigServices of ASP.NET Core](https://www.thecodebuzz.com/resolve-instances-within-configservices-method-asp-net-core/)
+* [How to Resolve Instance Inside ConfigureServices in ASP.NET Core](https://stackoverflow.com/questions/31863981/how-to-resolve-instance-inside-configureservices-in-asp-net-core)
+* [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
+* [Using dependency injection while configuring services](https://benjamincollins.com/blog/using-dependency-injection-while-configuring-services/)
+* [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICEPROVIDER AND HOW IS IT BUILT?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built) - Steve Gordon
+* [How to register a service with multiple interfaces in ASP.NET Core DI](https://andrewlock.net/how-to-register-a-service-with-multiple-interfaces-for-in-asp-net-core-di/)
+* [A .NET Core ServiceProvider that allows adding of services after it was created](https://siderite.dev/blog/a-net-core-serviceprovider-that-allows.html/)
+* [The difference between GetService() and GetRequiredService() in ASP.NET Core](https://andrewlock.net/the-difference-between-getservice-and-getrquiredservice-in-asp-net-core/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -628,8 +710,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 #### 📹 Videos
 * [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
 * [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
-* [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
+* [Secure a .NET Core API with Bearer Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
 
+#### Libraries
+- [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer)
+	> Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -670,8 +756,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 * [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
 ### 📹 Videos
-* [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
-* [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) - CodeWithStu
+* [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=0acSdHJfk64)
+* [Add Simple Distributed Tracing in .NET Libraries](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wjglj4jE18Y) - CodeWithStu
 ### 🔖 Samples
 * [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 * [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
@@ -696,8 +782,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ### BDD
 
+#### Articles
+* [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
+
 #### 📹 Videos
 * [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
+* [Getting started with BDD using Specflow .NET Core 3.1 (C#)](https://www.youtube.com/watch?v=O5oHiBD5Lvk)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -707,11 +797,19 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 #### 📝 Articles 
 * [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) - Steve Smith
+* [C# – How to unit test code that uses HttpClient](https://makolyte.com/csharp-how-to-unit-test-code-that-uses-httpclient/)
+* [How to unit test a class that consumes an HttpClient with IHttpClientFactory in ASP.NET Core?](https://anthonygiretti.com/2018/09/06/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-asp-net-core/)
+* [ASP.NET Core 2+ best practices and practical tools for testing, part 1](https://anthonygiretti.com/2019/06/15/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-1/)
+* [ASP.NET Core 2+ best practices and practical tools for testing, part 2, Use cases](https://anthonygiretti.com/2019/07/18/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-2-use-cases/)
+* [You will never give up a unit test anymore with ExpectedObjects in .NET Core](https://anthonygiretti.com/2019/01/21/you-will-never-give-up-a-unit-test-anymore-with-expectedobjects-in-net-core/)
+* [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
+* [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
 * [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 * [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
+* [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 
 #### Tools
 
@@ -730,6 +828,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 * [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
+* [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
+* [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -747,8 +847,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 #### 📝 Articles
 
 #### 📹 Videos
-* [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
-* [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
+* [Munich .NET Meetup: Massive load testing with NBomber cluster](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=U2j7NmXZrOc)
+* [ASP.NET Core Series: Performance Testing Techniques](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=jn54CjePzs0)
 
 #### 📦 Libraries
 
@@ -759,13 +859,27 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+### Architectural Testing
+
+#### 📝 Articles
+[Writing ArchUnit style tests for .Net and C# to enforce architecture rules](https://www.ben-morris.com/writing-archunit-style-tests-for-net-and-c-for-self-testing-architectures/)
+
+#### 📦 Libraries
+* [https://github.com/BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest)
+	> A fluent API for .Net that can enforce architectural rules in unit tests.
+	
+* [https://github.com/joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)
+	> Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+	
 ### Mocking
+
 #### 📝 Articles
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### XUnit
+### 
+
 #### 📝 Articles
 
 <div align="right">
@@ -794,7 +908,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
 
 ### 📹 Videos
-* [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)
+* [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
 
 ## EF Core
 
@@ -832,9 +946,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 * [Entity Framework Core – Projection Performance](https://eliottrobson.me/entity-framework-core-projection-performance/)
 * [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
 * [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
+* [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
+* [Using Database Project and DbUp for database management](http://www.kamilgrzybek.com/database/using-database-project-and-dbup-for-database-management/)
+* [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
+* [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
+* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 
 ### 📹 Videos
-* [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
+* [Typed Exceptions for Entity Framework Core](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=aUl5QfswNU4) - Microsoft
 
 ### 📦 Libraries 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
@@ -879,8 +998,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   > A fast, fun and stimulating object to object Mapper. 
 
 ### 📹 Videos
-* [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
-* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
+* [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA)
+* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -895,8 +1014,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   > Powerful .NET library for benchmarking
 
 ### 📹 Videos
-* [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
-* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
+* [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
+* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -905,7 +1024,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Package Versioning
 
 ### 📹 Videos
-* [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
+* [Streamlining package versioning with MinVer](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=2sFCBJOhWWY)
 
 ## Identity Server
 
@@ -934,4 +1053,3 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 ## Books
 
 * [Microsoft .Net Ebooks](https://github.com/dotnet-architecture/eBooks/tree/master/current)
-
