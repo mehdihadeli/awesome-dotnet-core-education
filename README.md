@@ -83,6 +83,9 @@ If you think this repository makes a difference and is worth it, please share it
 * [Benchmarking](#benchmarking)
 * [Package Versioning](#package-versioning)
 * [Identity Server](#identity-server)
+* [CI/CD](#ci/cd)
+   *[Azure Devops](#azure-devops)
+   *[GitHub Actions](#gitHub-actions)
 * [Others](#others)
 * [Books](#books)
 
@@ -711,6 +714,20 @@ If you think this repository makes a difference and is worth it, please share it
 * [Identity model customization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/customize-identity-model)
 * [ASP NET Core Identity Tutorial](https://www.tektutorialshub.com/asp-net-core/asp-net-core-identity-tutorial/)
 * [Login and Registration using Identity in ASP.NET Core 3.1](https://www.freecodespot.com/blog/asp-net-core-identity/)
+* [Custom User Management in ASP.NET Core MVC with Identity](https://codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/)
+
+#### Samples
+* [https://github.com/iammukeshm/CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC)
+	> Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
+
+* [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
+	> Development tool for administering users and roles
+
+* [https://github.com/matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo)
+	> This is a MongoDB provider for the ASP.NET Core 2 Identity framework
+	
+* [https://github.com/gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
+	> Identity Server AdminUI using Blazor.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -724,11 +741,31 @@ If you think this repository makes a difference and is worth it, please share it
 * [Getting started with Securing APIs using JWT Bearer Authentication - Hands on](https://referbruv.com/blog/posts/getting-started-with-securing-apis-using-jwt-bearer-authentication-hands-on)
 * [JWT Authentication In ASP.NET Core](https://www.freecodespot.com/blog/jwt-authentication-in-dotnet-core/)
 * [Login Web Application using Cookie Authentication in ASP NET Core](https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/)
+* [Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide](https://www.codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication)
+* [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
+* [JWT refresh tokens and .NET Core](https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/)
+* [JWT RSA & HMAC + ASP.NET Core](https://piotrgankiewicz.com/2017/07/24/jwt-rsa-hmac-asp-net-core/)
 
 #### 📹 Videos
-* [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
-* [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
-* [Secure a .NET Core API with Bearer Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
+* [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
+* [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](https://www.youtube.com/watch?v=IjbtWPXVJGw)
+* [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic)
+* [User Registration and Controller Auth | ASP.NET Core 5 REST API Tutorial 10](https://www.youtube.com/watch?v=ARvsBUBioT0)
+* [.NET Core - canceling JWT tokens](https://www.youtube.com/watch?v=Y5ZLhxZtww8)
+* [Restricting endpoints with Claims | ASP.NET Core 5 REST API Tutorial 17](https://www.youtube.com/watch?v=g_8EHDQO4wI)
+* [Setting up ApiKey-based Authentication | ASP.NET Core 5 REST API Tutorial 24](https://www.youtube.com/watch?v=Zo3T_See7iI)
+* [User specific content with JWT claims | ASP.NET Core 5 REST API Tutorial 12](https://www.youtube.com/watch?v=o8dwfI7X16E)
+* [User Login using JWT (Authentication) | ASP.NET Core 5 REST API Tutorial 11](https://www.youtube.com/watch?v=APLjIrZgxyo)
+* [What is a Refresh Token and why your REST API needs it?](https://www.youtube.com/watch?v=-Z57Ss_uiuc)
+* [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
+* [Setting up JWT support (Authentication) | ASP.NET Core 5 REST API Tutorial 9](https://www.youtube.com/watch?v=M6AkbBaDGJE)
+* [What is a JWT (JSON Web Token) and why your REST API needs it](https://www.youtube.com/watch?v=qDJYgGzmalQ)
+
+#### Samples
+* [https://github.com/iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi)
+	> Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
+
+* [https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
 
 #### Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer)
@@ -972,7 +1009,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
 * [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
 * [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
-
+* [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
@@ -1057,6 +1094,43 @@ If you think this repository makes a difference and is worth it, please share it
 
 * [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
 	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+	
+* [https://github.com/Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
+	> OpenID/Connect server based on IdentityServer4
+
+* [https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
+	> OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
+
+* [https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
+	> An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
+	
+* [https://github.com/brunohbrito/JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO)
+	> 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑
+
+* [https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
+	> 🔧 ASP.NET Core 3 & Angular 8 Administration Panel for 💞IdentityServer4 and ASP.NET Core Identity
+
+* [https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)
+	> The administration for the IdentityServer4 and Asp.Net Core Identity
+
+* [https://github.com/gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
+	> Identity Server AdminUI using Blazor.
+	
+* [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
+	> Development tool for administering users and roles
+## CI/CD
+
+### Azure Devops
+
+#### 📝 Articles
+
+* [Manage release flow using pipelines in Azure DevOps](https://daniel-krzyczkowski.github.io/Manage-Release-Flow-Using-Pipelines-In-Azure-DevOps/)
+
+
+### GitHub Actions
+
+#### 📝 Articles
+* [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
 
 ## Others
 
