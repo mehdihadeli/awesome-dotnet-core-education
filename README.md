@@ -434,7 +434,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 
-* [Asp.Net Core WebSockets Vs SignalR. Which should you use?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ycVgXe6v1VQ&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=6)
+* [Asp.Net Core WebSockets Vs SignalR. Which should you use?](https://www.youtube.com/watch?v=ycVgXe6v1VQ)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -462,7 +462,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [REST API Tutorial](https://restfulapi.net/)
 * [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
 * [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
-
+* [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs?WT.mc_id=beginwebapis-c9-cephilli)
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
@@ -487,10 +487,10 @@ If you think this repository makes a difference and is worth it, please share it
 * [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
 
 ### 📹 Videos
-* [ASP.NET Core Series Route to Code](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=j-33Uz32hG0)
-* [NET Core 3.1 MVC REST API - Full Course](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2)
+* [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
+* [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
 * [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) - Steve Smith
-* [ASP.NET Community Standup Flexible HTTP APIs](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=xoYkk5jk8d0)
+* [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 * [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 * [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
 
@@ -547,8 +547,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
 
 ### 📹 Videos
-* [Introduction to ASP.NET Core Razor Pages](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=yyBijyCI5Sk) 
-* [ASP.NET Core Series MVC and Razor Pages](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=6GRFDkeCv3k)
+* [Introduction to ASP.NET Core Razor Pages](https://www.youtube.com/watch?v=yyBijyCI5Sk) 
+* [ASP.NET Core Series MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k&t=1264s)
 
 ### 🔖 Samples
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
@@ -822,6 +822,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [You will never give up a unit test anymore with ExpectedObjects in .NET Core](https://anthonygiretti.com/2019/01/21/you-will-never-give-up-a-unit-test-anymore-with-expectedobjects-in-net-core/)
 * [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
 * [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
+* [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -843,6 +844,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles 
 * [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
+* [Running Integration Tests in Build Pipelines with a Real Database](https://ardalis.com/running-integration-tests-in-build-pipelines-with-a-real-database/?utm_sq=gk5cykzhad) - Steve Smith
 
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
@@ -866,8 +868,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 
 #### 📹 Videos
-* [Munich .NET Meetup: Massive load testing with NBomber cluster](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=U2j7NmXZrOc)
-* [ASP.NET Core Series: Performance Testing Techniques](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=jn54CjePzs0)
+* [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
+* [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
 
 #### 📦 Libraries
 
