@@ -160,6 +160,10 @@ If you think this repository makes a difference and is worth it, please share it
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 * [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
 
+### 📦 Libraries
+* [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
+	> Helping .NET developers port their projects to .NET Core!
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
