@@ -1019,11 +1019,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 
 ### 📦 Libraries 
-* [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
-> Bring power of Linq To DB to Entity Framework Core projects
-* [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
-> reverse engineering, migrations and model visualization for EF Core
+* [https://github.com/linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
+	> Bring power of Linq To DB to Entity Framework Core projects
 
+* [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
+	> reverse engineering, migrations and model visualization for EF Core
+
+* [https://github.com/Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions)
+	> Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
