@@ -968,7 +968,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles
 * [My take on the Result class](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) - Josef Ottosson
 * [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
-
+* [10 Exception handling best practices in C#](https://kumarashwinhubert.com/10-exception-handling-best-practices-in-csharp)
+* [Exception handling in C# - throw or throw ex](https://kumarashwinhubert.com/exception-handling-in-csharp-throw-or-throw-ex)
 ### 📹 Videos
 * [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
 
@@ -1014,6 +1015,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
 * [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 * [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
+* [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
