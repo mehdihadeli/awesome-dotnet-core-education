@@ -886,7 +886,9 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles 
 * [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
 * [Running Integration Tests in Build Pipelines with a Real Database](https://ardalis.com/running-integration-tests-in-build-pipelines-with-a-real-database/?utm_sq=gk5cykzhad) - Steve Smith
-
+* [Limitations of the EF Core in-memory database providers](https://blog.joaograssi.com/limitations-ef-core-in-memory-database-providers/)
+* [Using docker-compose for your ASP.NET + EF Core integration tests](https://blog.joaograssi.com/using-docker-compose-for-your-asp-net-ef-core-integration-tests/)
+* [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 * [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
