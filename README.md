@@ -82,10 +82,14 @@ If you think this repository makes a difference and is worth it, please share it
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
 * [Package Versioning](#package-versioning)
+* [Orleans](#orleans)
 * [Identity Server](#identity-server)
 * [CI/CD](#ci/cd)
    *[Azure Devops](#azure-devops)
    *[GitHub Actions](#gitHub-actions)
+* [PaaS](PaaS)
+	* [Heroku](#heroku)
+	* [Netlify](#netlify)
 * [Others](#others)
 * [Books](#books)
 
@@ -308,6 +312,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [ASP. NET Core - Hosting](https://girishgodage.in/blog/customize-hosting)
 * [Customizing ASP.NET Core Part 12: Hosting](https://asp.net-hacker.rocks/2019/04/29/customizing-aspnetcore-12-hosting.html)
 * [ASP.NET Core Hosting on IIS on Windows](https://procodeguide.com/programming/asp-net-core-hosting-on-iis/)
+* [Hosting Two ASP.NET Core Apps In One Host](https://khalidabuhakmeh.com/hosting-two-aspnet-core-apps-in-one-host)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -552,14 +557,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [Applying the MVC design pattern to Razor Pages](https://andrewlock.net/aspnetcore-in-action-2e-applying-the-mvc-design-pattern-to-razor-pages/) - Andrew Lock
 * [MSDN – Feature Slices for ASPNET Core MVC](https://ardalis.com/msdn-–-feature-slices-for-aspnet-core-mvc/) - Steve Smith
 * [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
-
+* [ASPNET Core Razor Pages – Worth Checking Out?](https://ardalis.com/aspnet-core-razor-pages-–-worth-checking-out/)
+* [Simpler ASP.NET MVC Apps with Razor Pages](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/september/asp-net-core-simpler-asp-net-mvc-apps-with-razor-pages)
 ### 📹 Videos
 * [Introduction to ASP.NET Core Razor Pages](https://www.youtube.com/watch?v=yyBijyCI5Sk) 
 * [ASP.NET Core Series MVC and Razor Pages](https://www.youtube.com/watch?v=6GRFDkeCv3k&t=1264s)
 
 ### 🔖 Samples
 * [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
-
+* [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 ## GraphQL
 
 ### 📝 Articles
@@ -690,6 +696,11 @@ If you think this repository makes a difference and is worth it, please share it
 * [A .NET Core ServiceProvider that allows adding of services after it was created](https://siderite.dev/blog/a-net-core-serviceprovider-that-allows.html/)
 * [The difference between GetService() and GetRequiredService() in ASP.NET Core](https://andrewlock.net/the-difference-between-getservice-and-getrquiredservice-in-asp-net-core/)
 
+
+### Libraries
+ * [https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions)
+	> Extensions for ASP.NET Core dependency injection
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1021,7 +1032,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
-
+* [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
 ### 📦 Libraries 
 * [https://github.com/linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
 	> Bring power of Linq To DB to Entity Framework Core projects
@@ -1069,8 +1080,8 @@ If you think this repository makes a difference and is worth it, please share it
   > A fast, fun and stimulating object to object Mapper. 
 
 ### 📹 Videos
-* [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA)
-* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
+* [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
+* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1085,8 +1096,8 @@ If you think this repository makes a difference and is worth it, please share it
   > Powerful .NET library for benchmarking
 
 ### 📹 Videos
-* [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
-* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
+* [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
+* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1095,7 +1106,16 @@ If you think this repository makes a difference and is worth it, please share it
 ## Package Versioning
 
 ### 📹 Videos
-* [Streamlining package versioning with MinVer](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=2sFCBJOhWWY)
+* [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
+
+## Orleans
+
+### 📹 Videos
+
+* [On .NET Live - Deep Dive into Microsoft Orleans](https://www.youtube.com/watch?v=R0ODfwU6MzQ)
+* [Introduction to Microsoft Orleans - CodeWithStu](https://www.youtube.com/watch?v=yM-gpuw1uhM)
+* [Building real applications with Orleans](https://www.youtube.com/watch?v=8duFuggnj8o)
+* [An Introduction to Orleans](https://www.youtube.com/watch?v=9OMXw0CslKE)
 
 ## Identity Server
 
@@ -1109,6 +1129,9 @@ If you think this repository makes a difference and is worth it, please share it
 	
 * [https://github.com/Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
 	> OpenID/Connect server based on IdentityServer4
+	
+* [https://github.com/INNVTV/Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV
+	> Identity-As-A-Service written from scratch in .Net Core using a CQRS architecture with a CosmosDB/Redis persistence layer and RSA signed JWT Tokens with public key distribution for authentication and claims.
 
 * [https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
 	> OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
@@ -1143,6 +1166,22 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 * [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
+
+## PaaS
+
+### Heroku
+
+#### 📝 Articles
+
+#### 📹 Videos
+* [Deploy Asp.Net Core Website on Heroku using Docker](https://www.youtube.com/watch?v=gQMT4al2Grg)
+
+### Netlify
+
+#### 📝 Articles
+
+#### 📹 Videos
+* [How to host a Blazor C# project for FREE](https://www.youtube.com/watch?v=8NOmadyM1Ao)
 
 ## Others
 
