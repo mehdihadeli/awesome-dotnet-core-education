@@ -63,7 +63,7 @@ If you think this repository makes a difference and is worth it, please share it
    * [DotNet Core Identity](#dotnet-core-identity)
    * [Authentication](#authentication)
    * [Authorization](#authorization)
-* [Logging](#logging)
+* [Logging And Auditing](#logging-and-auditing)
 * [Tracing](#tracing)
 * [Testing](#testing)
     * [TDD](#tdd)
@@ -90,8 +90,10 @@ If you think this repository makes a difference and is worth it, please share it
 * [PaaS](PaaS)
 	* [Heroku](#heroku)
 	* [Netlify](#netlify)
+* [Roslyn](#roslyn)
 * [Others](#others)
 * [Books](#books)
+
 
 ## DotNet
 
@@ -369,7 +371,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
 * [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
 * [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
-
+* [Debugging configuration values in ASP.NET Core](https://andrewlock.net/debugging-configuration-values-in-aspnetcore/)
 ### 📦 Libraries
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 
@@ -475,6 +477,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
 * [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 * [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs?WT.mc_id=beginwebapis-c9-cephilli)
+
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
@@ -492,11 +495,16 @@ If you think this repository makes a difference and is worth it, please share it
 * [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/?WT.mc_id=DOP-MVP-4025064&_lrsc=d4a12070-16f9-4d79-8171-918b6c254765&utm_campaign=elevate&utm_source=linkedin&utm_medium=social)
 * [Open source HTTP API packages and tools](https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/) - Microsoft
 * [MVC Controllers are Dinosaurs Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/)
-* [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/)
+* [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) - Steve Smith
+* [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) - Steve Smith
+* [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
+* [API Feature Folders](https://ardalis.com/api-feature-folders)
 * [What is the difference between a DTO and a POCO (or POJO)](https://ardalis.com/dto-or-poco/?_lrsc=9fbcec7f-f420-4949-8e56-46bc78620801)
 * [Give better names to your DTOs](https://cassiomolin.com/2016/02/11/give-better-names-to-your-dtos/)
 * [Immutability in DTOs?](https://jimmybogard.com/immutability-in-dtos/)
 * [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
+* [Trying the REST Client extension for VSCode](https://asp.net-hacker.rocks/2021/03/01/rest-client-vscode.html)
+* [ASPNET Core Razor Pages – Worth Checking Out?](https://ardalis.com/aspnet-core-razor-pages-–-worth-checking-out/)
 
 ### 📹 Videos
 * [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -511,6 +519,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
+* [https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
 ### 📦 Libraries And Tools
 
@@ -543,6 +552,14 @@ If you think this repository makes a difference and is worth it, please share it
 	
 * [https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
+
+### Templates
+
+* [https://github.com/proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate)
+	> A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+
+* [https://github.com/blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
+	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -652,7 +669,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
 * [Using custom startup class with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-startup/)
 * [Using custom appsettings.json with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-tests-appsettings/)
-
+* [Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -662,7 +679,6 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
 
 ## Dependency Injection
 
@@ -695,7 +711,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to register a service with multiple interfaces in ASP.NET Core DI](https://andrewlock.net/how-to-register-a-service-with-multiple-interfaces-for-in-asp-net-core-di/)
 * [A .NET Core ServiceProvider that allows adding of services after it was created](https://siderite.dev/blog/a-net-core-serviceprovider-that-allows.html/)
 * [The difference between GetService() and GetRequiredService() in ASP.NET Core](https://andrewlock.net/the-difference-between-getservice-and-getrquiredservice-in-asp-net-core/)
-
+* [Resolve Services In ASP.NET Core Startup](https://khalidabuhakmeh.com/resolve-services-in-aspnet-core-startup)
+* [Automatic factory with Microsoft.Extensions.DependencyInjection and Castle DynamicProxy](https://thomaslevesque.com/2020/09/27/automatic-factory-with-microsoft-extensions-dependencyinjection-and-castle-dynamicproxy/)
 
 ### Libraries
  * [https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions)
@@ -804,15 +821,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [Implementing Policy-Based Authorization in ASP.NET Core - Getting Started](https://referbruv.com/blog/posts/implementing-policy-based-authorization-in-aspnet-core-getting-started)
 * [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
 * [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
-
+* [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
 #### 📹 Videos
-* [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=RBMO_hruKaI&t=11s)
+* [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Logging
+## Logging And Auditing
 
 ### 📝 Articles
 * [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
@@ -825,9 +842,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [Events and levels structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 * [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 * [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
+
 ### 📹 Videos
 * [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=0acSdHJfk64)
 * [Add Simple Distributed Tracing in .NET Libraries](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wjglj4jE18Y) - CodeWithStu
+
+### Libraries
+- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET)
+	> An extensible framework to audit executing operations in .NET and .NET Core.
+	
 ### 🔖 Samples
 * [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 * [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
@@ -849,6 +872,10 @@ If you think this repository makes a difference and is worth it, please share it
 ## Testing
 
 ### TDD
+
+### Articles
+* [TDD is dead. Long live testing](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
+* [Test-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html)
 
 ### BDD
 
@@ -900,6 +927,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [Limitations of the EF Core in-memory database providers](https://blog.joaograssi.com/limitations-ef-core-in-memory-database-providers/)
 * [Using docker-compose for your ASP.NET + EF Core integration tests](https://blog.joaograssi.com/using-docker-compose-for-your-asp-net-ef-core-integration-tests/)
 * [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
+* [Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
+
 #### 📹 Videos
 * [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
 * [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
@@ -949,6 +978,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### Mocking
 
 #### 📝 Articles
+ * [Effective mocking](https://cezarypiatek.github.io/post/effective-mocking/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -983,8 +1014,12 @@ If you think this repository makes a difference and is worth it, please share it
 * [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
 * [10 Exception handling best practices in C#](https://kumarashwinhubert.com/10-exception-handling-best-practices-in-csharp)
 * [Exception handling in C# - throw or throw ex](https://kumarashwinhubert.com/exception-handling-in-csharp-throw-or-throw-ex)
+* [Problem Details - The right way to specify errors in Web API responses](https://kumarashwinhubert.com/problem-details-the-right-way-to-specify-errors-in-web-api-responses)
 ### 📹 Videos
 * [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
+
+### Libraries
+* [https://github.com/proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 
 ## EF Core
 
@@ -1029,6 +1064,9 @@ If you think this repository makes a difference and is worth it, please share it
 * [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 * [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
 * [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
+* [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
+* [Efficient querying with LINQ, AutoMapper and Future queries](https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/)
+
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
@@ -1042,7 +1080,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 * [https://github.com/Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions)
 	> Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
-	
+
+* [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET)
+	> An extensible framework to audit executing operations in .NET and .NET Core.
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1183,6 +1224,18 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📹 Videos
 * [How to host a Blazor C# project for FREE](https://www.youtube.com/watch?v=8NOmadyM1Ao)
 
+## Roslyn
+
+### Articles
+* [GETTING STARTED WITH THE ROSLYN APIS: WRITING CODE WITH CODE](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
+
+### Tools
+* [https://github.com/KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter)
+	> Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+	
+* [https://github.com/meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer)
+	> A Roslyn analyzer to enforce some good practices in C#.
+	
 ## Others
 
 ### 📝 Articles
