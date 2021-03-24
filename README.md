@@ -104,6 +104,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles 
 
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
+* [C# 9.0: Top-level Statements - Thomas Claudius Huber](https://www.thomasclaudiushuber.com/2020/08/18/c-9-top-level-statements-or-should-i-say-hey-wheres-the-main-method/)
 
 ### 📹 Videos
 * [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
