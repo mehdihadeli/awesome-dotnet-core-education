@@ -984,13 +984,8 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### 
 
-#### 📝 Articles
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+### XUnit
 
 #### 📦 Libraries
 
@@ -1020,7 +1015,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Libraries
 * [https://github.com/proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
-
+* [Hellang.Middleware.ProblemDetails](https://www.nuget.org/packages/Hellang.Middleware.ProblemDetails/)
+* [https://github.com/ardalis/GuardClauses](https://github.com/ardalis/GuardClauses)
 ## EF Core
 
 ### 📝 Articles
