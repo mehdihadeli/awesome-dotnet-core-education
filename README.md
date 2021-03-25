@@ -21,13 +21,13 @@ My primary focus in this repository is on quality. Creating a good quality of re
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
-* [DotNet](#dotnet)
-* [DotNet 5](#dotnet-5)
-* [DotNet Standard](#dotnet-standard)
-* [DotNet Core](#dotnet-core)
-* [DotNet CLI](#dotnet-cli)
-* [DotNet Tools](#dotnet-tools)
-* [DotNet Core Tips](#dotnet-core-tips)
+* [.Net](#.net)
+* [.Net 5](#.net-5)
+* [.Net Standard](#.net-standard)
+* [.Net Core](#.net-core)
+* [.Net CLI](#.net-cli)
+* [.Net Tools](#.net-tools)
+* [.Net Core Tips](#.net-core-tips)
 * [MetaPack](#metapack)
 * [Source Generators](#source-generators)
 * [Performance](#performance)
@@ -95,24 +95,24 @@ If you think this repository makes a difference and is worth it, please share it
 * [Books](#books)
 
 
-## DotNet
+## .Net
 
 ### 📝 Articles 
 
 * [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=bEfBfBQq7EE)
+* [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet 5
+## .Net 5
 
 ### 📝 Articles 
 * [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 * [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 * [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-* [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
 ### Videos
 
@@ -120,7 +120,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Standard
+## .Net Standard
 
 ### 📝 Articles
 * [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
@@ -134,7 +134,7 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 
-## DotNet Core
+## .Net Core
 
 ### Resources
 * [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
@@ -174,7 +174,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet CLI
+## .Net CLI
 
 ### 📝 Articles
 * [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
@@ -184,7 +184,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Tools
+## .Net Tools
 
 ### 📝 Articles
 * [Using .NET Core Tools to Create Reusable and Shareable Tools & Apps](https://weblog.west-wind.com/posts/2020/Aug/05/Using-NET-Core-Tools-to-Create-Reusable-and-Shareable-Tools-Apps)
@@ -206,7 +206,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Core Tips
+## .Net Core Tips
 
 ### 📝 Articles
 
