@@ -22,9 +22,13 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Contents
 * [.Net](#.net)
-* [.Net 5](#.net-5)
-* [.Net Standard](#.net-standard)
-* [.Net Core](#.net-core)
+  * [.Net Core](#.net-core)
+  * [.Net Standard](#.net-standard)
+  * [.Net 5](#.net-5)
+* [C#](#c#)
+  * [C# 7](#c#-7)
+  * [C# 8](#c#-8)
+  * [C# 9](#c#-9)
 * [.Net CLI](#.net-cli)
 * [.Net Tools](#.net-tools)
 * [.Net Core Tips](#.net-core-tips)
@@ -99,48 +103,20 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles 
 
-* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=bEfBfBQq7EE)
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
-
-## .Net 5
-
-### 📝 Articles 
-* [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
-* [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
-* [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
-* [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-
-### Videos
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
-
-## .Net Standard
-
-### 📝 Articles
-* [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
-
 ### 📹 Videos
-
-* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
 
-## .Net Core
 
-### Resources
+### .Net Core
+
+#### Resources
 * [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
 * [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
 * [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
-### 📝 Articles
+#### 📝 Articles
 * [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 * [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
 * [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
@@ -160,19 +136,49 @@ If you think this repository makes a difference and is worth it, please share it
 * [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
 * [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
-### 📹 Videos
+#### 📹 Videos
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 * [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
 
-### 📦 Libraries
+#### 📦 Libraries
 * [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
 	> Helping .NET developers port their projects to .NET Core!
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+### .Net Standard
+
+#### 📝 Articles
+* [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+
+#### 📹 Videos
+
+* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
+### .Net 5
+
+#### 📝 Articles 
+* [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
+* [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
+* [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
+* [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+
+#### 📹 Videos
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
 ## .Net CLI
 
@@ -216,6 +222,22 @@ If you think this repository makes a difference and is worth it, please share it
 
 * [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 	> This repository has examples of broken patterns in ASP.NET Core applications
+
+## C#
+
+### C# 7
+
+#### 📝 Articles
+
+
+### C# 8
+
+#### 📝 Articles
+
+
+### C# 9
+
+#### 📝 Articles
 
 
 ## MetaPack
