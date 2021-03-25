@@ -238,7 +238,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### C# 9
 
 #### 📝 Articles
-
+- [Top-level programs in C# 9.0](https://gunnarpeipman.com/csharp-top-level-programs/) - Gunnar Peipman
+- [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
 
 ## MetaPack
 
