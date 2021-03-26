@@ -240,6 +240,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Top-level programs in C# 9.0](https://gunnarpeipman.com/csharp-top-level-programs/) - Gunnar Peipman
 - [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
+- [Init-only Properties - Thomas Claudius Huber](https://www.thomasclaudiushuber.com/2020/08/25/c-9-0-init-only-properties/)
 
 ## MetaPack
 
