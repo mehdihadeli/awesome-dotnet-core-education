@@ -49,6 +49,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
+* [Background Tasks](#background-tasks)
 * [Razor Pages](#razor-pages)
 * [GraphQL](#graphql)
 * [NoSQL](#nosql)
@@ -240,6 +241,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Top-level programs in C# 9.0](https://gunnarpeipman.com/csharp-top-level-programs/) - Gunnar Peipman
 - [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
+- [PLAYING WITH C#9 TOP-LEVEL PROGRAMS, RECORDS AND ELASTICSEARCH.NET](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
+- [Using Tuples in C# to Initialize Properties in the Constructor and to Deconstruct Your Object](https://www.thomasclaudiushuber.com/2021/03/25/csharp-using-tuples-to-initialize-properties/)
 
 ## MetaPack
 
@@ -279,7 +282,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to serialize and deserialize (marshal and unmarshal) JSON in .NET](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to)
 * [How to migrate from Newtonsoft.Json to System.Text.Json](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to)
 * [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
-
+* [Using MessagePack with ASP.NET Core MVC](https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/)
+* [Using MessagePack with ASP.NET Core WebAPI](https://dotnetthoughts.net/using-message-pack-with-asp-net-core/)
+### Library
+* [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)
+	> Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+	
+* [Utf8Json](https://github.com/neuecc/Utf8Json)
+	> Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -395,6 +406,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
 * [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 * [Debugging configuration values in ASP.NET Core](https://andrewlock.net/debugging-configuration-values-in-aspnetcore/)
+* [Viewing app configuration using Oakton's Describe command and Spectre.Console](https://andrewlock.net/viewing-application-configuration-using-oaktons-describe-command/)
+
 ### 📦 Libraries
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 
@@ -528,6 +541,15 @@ If you think this repository makes a difference and is worth it, please share it
 * [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
 * [Trying the REST Client extension for VSCode](https://asp.net-hacker.rocks/2021/03/01/rest-client-vscode.html)
 * [ASPNET Core Razor Pages – Worth Checking Out?](https://ardalis.com/aspnet-core-razor-pages-–-worth-checking-out/)
+* [How To Build A Basic HTTP API With ASP.NET Core](https://khalidabuhakmeh.com/how-to-build-a-basic-http-api-with-aspnet-core)
+* [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+* [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+* [RESTful API Design: 13 Best Practices to Make Your Users Happy](https://florimond.dev/blog/articles/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/)
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [The Web API Checklist -- 43 Things To Think About When Designing, Testing, and Releasing your API](https://mathieu.fenniak.net/the-api-checklist/)
+* [Design Topics](http://apistylebook.com/design/topics/)
+* [Design Guidelines](http://apistylebook.com/design/guidelines/)
 
 ### 📹 Videos
 * [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -537,44 +559,48 @@ If you think this repository makes a difference and is worth it, please share it
 * [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 * [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
 
+
+### 📦 Libraries And Tools
+
+* [framework](https://github.com/featherhttp/framework)
+	> A lightweight low ceremony API for web services.
+	
+* [ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
+	> A project for supporting API Endpoints in ASP.NET Core web applications.
+	
+* [Carter](https://github.com/CarterCommunity/Carter)
+	> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+	
+* [refit](https://github.com/reactiveui/refit)
+	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+	
+* [RestEase](https://github.com/canton7/RestEase)
+	> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
+	
+* [HttpRepl](https://github.com/dotnet/HttpRepl)
+	> The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
+
+* [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+	> REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+	
+* [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+	> Swagger tools for documenting API's built on ASP.NET Core
+
+* [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET)
+	> The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+
+* [NSwag](https://github.com/RicoSuter/NSwag)
+	> The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+	
+* [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
+	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
+
 ### 🔖 Samples
-* [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
 * [https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
-### 📦 Libraries And Tools
-
-* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith
-	> A project for supporting API Endpoints in ASP.NET Core web applications.
-	
-* [https://github.com/CarterCommunity/Carter](https://github.com/CarterCommunity/Carter)
-	> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-	
-* [https://github.com/reactiveui/refit](https://github.com/reactiveui/refit)
-	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-	
-* [https://github.com/canton7/RestEase](https://github.com/canton7/RestEase)
-	> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
-	
-* [https://github.com/dotnet/HttpRepl](https://github.com/dotnet/HttpRepl)
-	> The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
-
-* [https://marketplace.visualstudio.com/items?itemName=humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-	> REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-	
-* [https://github.com/domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
-	> Swagger tools for documenting API's built on ASP.NET Core
-
-* [https://github.com/microsoft/OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET)
-	> The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
-
-* [https://github.com/RicoSuter/NSwag](https://github.com/RicoSuter/NSwag)
-	> The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-	
-* [https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
-	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
 
 ### Templates
 
@@ -584,9 +610,22 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
 	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 	
+### Books
+- [REST API Design Rulebook](http://shop.oreilly.com/product/0636920021575.do)
+- [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+## Background Tasks
+
+### 📝 Articles
+
+- [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
+- [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
+- [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
 
 ## Razor Pages
 
@@ -800,6 +839,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
 * [JWT refresh tokens and .NET Core](https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/)
 * [JWT RSA & HMAC + ASP.NET Core](https://piotrgankiewicz.com/2017/07/24/jwt-rsa-hmac-asp-net-core/)
+* [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
 
 #### 📹 Videos
 * [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -1033,6 +1073,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [10 Exception handling best practices in C#](https://kumarashwinhubert.com/10-exception-handling-best-practices-in-csharp)
 * [Exception handling in C# - throw or throw ex](https://kumarashwinhubert.com/exception-handling-in-csharp-throw-or-throw-ex)
 * [Problem Details - The right way to specify errors in Web API responses](https://kumarashwinhubert.com/problem-details-the-right-way-to-specify-errors-in-web-api-responses)
+* [Handle Exceptions With ASP.NET Core ExceptionHandlerMiddleware](https://khalidabuhakmeh.com/handling-aspnet-core-exceptions-with-exceptionhandler-middleware)
 ### 📹 Videos
 * [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
 
@@ -1085,11 +1126,12 @@ If you think this repository makes a difference and is worth it, please share it
 * [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 * [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
 * [Efficient querying with LINQ, AutoMapper and Future queries](https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/)
-
+* [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
 ### 📹 Videos
 * [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 * [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 * [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
+
 ### 📦 Libraries 
 * [https://github.com/linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
 	> Bring power of Linq To DB to Entity Framework Core projects
@@ -1213,6 +1255,9 @@ If you think this repository makes a difference and is worth it, please share it
 	
 * [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
 	> Development tool for administering users and roles
+
+* [https://github.com/skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
+  The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
 ## CI/CD
 
 ### Azure Devops
