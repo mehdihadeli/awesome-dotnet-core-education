@@ -1221,6 +1221,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Identity Server
 
+### Articles
+- [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
+
 ### 🔖 Samples
 
 * [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
