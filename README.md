@@ -512,7 +512,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [REST API Tutorial](https://restfulapi.net/)
 * [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
 * [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
-* [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs?WT.mc_id=beginwebapis-c9-cephilli)
+* [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
 
 ### 📝 Articles
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
@@ -648,7 +648,9 @@ If you think this repository makes a difference and is worth it, please share it
 ## GraphQL
 
 ### 📝 Articles
-
+- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
+- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
+- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
 ### 📹 Videos
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 * [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
