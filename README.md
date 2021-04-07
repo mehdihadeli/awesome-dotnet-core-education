@@ -33,6 +33,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [.Net Tools](#.net-tools)
 * [.Net Core Tips](#.net-core-tips)
 * [MetaPack](#metapack)
+* [MAUI](#maui)
 * [Source Generators](#source-generators)
 * [Performance](#performance)
 * [Serialization](#serialization)
@@ -259,11 +260,25 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## MAUI
+
+### 📝 Articles
+
+### Videos
+* [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI)
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Source Generators
 
 ### 📝 Articles
 * [Strongly-typed Ids using C# Source Generators - Gérald Barré](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
 * [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Performance
 
@@ -558,7 +573,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 * [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 * [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
-
+* [Integrating PowerApps with .NET Web APIs](https://channel9.msdn.com/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
 
 ### 📦 Libraries And Tools
 
@@ -623,10 +638,13 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles
 
-- [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
-- [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
-- [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
-
+* [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
+* [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
+* [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
+* [How to run Background Tasks in ASP.NET](https://www.hanselman.com/blog/how-to-run-background-tasks-in-aspnet)
+* [Using Quartz.NET with ASP.NET Core and worker services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
+* [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
+* [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
 ## Razor Pages
 
 ### 📝 Articles
@@ -648,9 +666,9 @@ If you think this repository makes a difference and is worth it, please share it
 ## GraphQL
 
 ### 📝 Articles
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
 ### 📹 Videos
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 * [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
@@ -967,6 +985,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
 * [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
 * [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
+* [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -1226,42 +1245,50 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 - [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
 
+### Videos
+* [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)
+* [How to add ASP.NET Identity and Entity Framework Support for your IdentityServer4 Solution](https://www.youtube.com/watch?v=Sw1rScI20xM)
+* [How to Setup FIDO2 for IdentityServer4](https://www.youtube.com/watch?v=j-QjTvBnEn4)
+* [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
+
 ### 🔖 Samples
 
-* [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
+* [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
+
+* [dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
 	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
-* [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
+* [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
 	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
 	
-* [https://github.com/Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
+* [TheIdServer](https://github.com/Aguafrommars/TheIdServer)
 	> OpenID/Connect server based on IdentityServer4
 	
-* [https://github.com/INNVTV/Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV
+* [Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV
 	> Identity-As-A-Service written from scratch in .Net Core using a CQRS architecture with a CosmosDB/Redis persistence layer and RSA signed JWT Tokens with public key distribution for authentication and claims.
 
-* [https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
+* [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
 	> OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 
-* [https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
+* [IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
 	> An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
 	
-* [https://github.com/brunohbrito/JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO)
+* [JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO)
 	> 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑
 
-* [https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
+* [JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
 	> 🔧 ASP.NET Core 3 & Angular 8 Administration Panel for 💞IdentityServer4 and ASP.NET Core Identity
 
 * [https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)
 	> The administration for the IdentityServer4 and Asp.Net Core Identity
 
-* [https://github.com/gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
+* [IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
 	> Identity Server AdminUI using Blazor.
 	
-* [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
+* [IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
 	> Development tool for administering users and roles
 
-* [https://github.com/skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
+* [Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
   The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
   
 ## CI/CD
