@@ -104,21 +104,35 @@ If you think this repository makes a difference and is worth it, please share it
 ## .Net
 
 ### 📝 Articles 
-
+<details><summary>Links</summary>
+	
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
+</details>
+
 ### 📹 Videos
+<details><summary>Links</summary>
+	
 * [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
-
+</details>
 
 ### .Net Core
 
 #### Resources
+
+<details><summary>Links</summary>
+	
 * [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
 * [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
 * [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
+
+</details>
+
 #### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 * [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
 * [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
@@ -138,16 +152,26 @@ If you think this repository makes a difference and is worth it, please share it
 * [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
 * [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
+</details>
+
 #### 📹 Videos
+
+<details><summary>Links</summary>
+	
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 * [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
+</details>
 
 #### 📦 Libraries
+
+<details><summary>Links</summary>
+	
 * [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
 	> Helping .NET developers port their projects to .NET Core!
-	
+</details>
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
