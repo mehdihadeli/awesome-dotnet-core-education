@@ -51,6 +51,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
 * [Background Tasks](#background-tasks)
+* [Validation](#validation)
 * [Razor Pages](#razor-pages)
 * [GraphQL](#graphql)
 * [NoSQL](#nosql)
@@ -441,6 +442,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to use the IOptions pattern for configuration in ASP.NET Core RC2](https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-net-core-rc2/)
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 * [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
+* [Options Pattern in .NET Core](https://codeburst.io/options-pattern-in-net-core-a50285aeb18d)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -641,10 +644,21 @@ If you think this repository makes a difference and is worth it, please share it
 * [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
 * [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
 * [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
+* [Use Quartz.Net for background and recurring jobs within an ASP.NET Core 3.0 applicati](https://blog.vfrz.fr/quartz-asp-net-core-3-0/)
 * [How to run Background Tasks in ASP.NET](https://www.hanselman.com/blog/how-to-run-background-tasks-in-aspnet)
 * [Using Quartz.NET with ASP.NET Core and worker services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
 * [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
 * [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
+
+
+## Validation
+
+### 📝 Articles
+
+### Library
+ * [GuardClauses](https://github.com/ardalis/GuardClauses)
+	> A simple package with guard clause extensions.
+	
 ## Razor Pages
 
 ### 📝 Articles
