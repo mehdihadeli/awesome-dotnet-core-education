@@ -117,6 +117,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 </details>
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ### .Net Core
 
 #### Resources
@@ -162,6 +166,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 * [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
+
 </details>
 
 #### 📦 Libraries
@@ -176,15 +181,23 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ### .Net Standard
 
 #### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+
+</details>
 
 #### 📹 Videos
 
+<details><summary>Links</summary>
+	
 * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+
+</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -194,10 +207,15 @@ If you think this repository makes a difference and is worth it, please share it
 ### .Net 5
 
 #### 📝 Articles 
+
+<details><summary>Links</summary>
+	
 * [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 * [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 * [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+
+</details>
 
 #### 📹 Videos
 
@@ -205,16 +223,21 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ## .Net CLI
 
 ### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 * [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+
+</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 
 ## .Net Tools
 
