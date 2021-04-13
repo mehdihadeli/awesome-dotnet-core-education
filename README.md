@@ -21,17 +21,17 @@ My primary focus in this repository is on quality. Creating a good quality of re
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
-* [1. DotNet](#1-dotnet)
-  * [1.1 DotNet Core](#11-dotnet-core)
-  * [1.2 DotNet Standard](#12-dotnet-standard)
-  * [1.3 DotNet 5](#13-dotnet-5)
-* [2. C#](#2-c#)
-  * [2.1 C# 7](#21-c#-7)
-  * [2.2 C# 8](#22-c#-8)
-  * [2.3 C# 9](#23-c#-9)
-* [.Net CLI](#.net-cli)
-* [.Net Tools](#.net-tools)
-* [.Net Core Tips](#.net-core-tips)
+* [DotNet](#dotnet)
+  * [DotNet Core](#dotnet-core)
+  * [DotNet Standard](#dotnet-standard)
+  * [DotNet 5](#dotnet-5)
+* [C#](#c#)
+  * [C# 7](#c#-7)
+  * [C# 8](#c#-8)
+  * [C# 9](#c#-9)
+* [DotNet CLI](#dotnet-cli)
+* [DotNet Tools](#dotnet-tools)
+* [DotNet Core Tips](#dotnet-core-tips)
 * [MetaPack](#metapack)
 * [MAUI](#maui)
 * [Source Generators](#source-generators)
@@ -103,7 +103,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Books](#books)
 
 
-## 1. DotNet
+## DotNet
 
 ### 📝 Articles 
 <details><summary>Links</summary>
@@ -123,7 +123,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### 1.1 DotNet Core
+### DotNet Core
 
 #### Resources
 
@@ -183,7 +183,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### 1.2 DotNet Standard
+### DotNet Standard
 
 #### 📝 Articles
 
@@ -206,7 +206,7 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 
-### 1.3 DotNet 5
+### DotNet 5
 
 #### 📝 Articles 
 
@@ -225,7 +225,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## .Net CLI
+## DotNet CLI
 
 ### 📝 Articles
 
@@ -241,7 +241,7 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 
-## .Net Tools
+## DotNet Tools
 
 ### 📝 Articles
 * [Using .NET Core Tools to Create Reusable and Shareable Tools & Apps](https://weblog.west-wind.com/posts/2020/Aug/05/Using-NET-Core-Tools-to-Create-Reusable-and-Shareable-Tools-Apps)
@@ -263,7 +263,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## .Net Core Tips
+## DotNet Core Tips
 
 ### 📝 Articles
 
@@ -274,19 +274,19 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 	> This repository has examples of broken patterns in ASP.NET Core applications
 
-## 2. C#
+## C#
 
-### 2.1 C# 7
-
-#### 📝 Articles
-
-
-### 2.2 C# 8
+### C# 7
 
 #### 📝 Articles
 
 
-### 2.3 C# 9
+### C# 8
+
+#### 📝 Articles
+
+
+### C# 9
 
 #### 📝 Articles
 - [Top-level programs in C# 9.0](https://gunnarpeipman.com/csharp-top-level-programs/) - Gunnar Peipman
@@ -340,6 +340,10 @@ If you think this repository makes a difference and is worth it, please share it
 * [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory)
 * [ASP.NET Core load/stress testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Serialization
 
 ### 📝 Articles
@@ -385,7 +389,6 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ## DotNet Core Architecture 
 
 ### 📝 Articles
@@ -400,6 +403,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📹 Videos
 * [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=d9Bjg31VuHw&feature=emb_title)
 * [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zMU_LGbTsCQ&feature=w7.mul.ir/yo%7cut%7cu.%7cbe)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
