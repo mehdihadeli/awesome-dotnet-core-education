@@ -280,11 +280,17 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ### C# 8
 
 #### 📝 Articles
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ### C# 9
 
@@ -293,6 +299,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
 - [PLAYING WITH C#9 TOP-LEVEL PROGRAMS, RECORDS AND ELASTICSEARCH.NET](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
 - [Using Tuples in C# to Initialize Properties in the Constructor and to Deconstruct Your Object](https://www.thomasclaudiushuber.com/2021/03/25/csharp-using-tuples-to-initialize-properties/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## MetaPack
 
@@ -315,6 +325,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Videos
 * [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
