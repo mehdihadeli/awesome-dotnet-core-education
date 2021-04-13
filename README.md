@@ -84,6 +84,7 @@ If you think this repository makes a difference and is worth it, please share it
     * [XUnit](#xunit)
 * [Exception Handling](#exception-handling)    
 * [EF Core](#ef-core)
+	* [EF Core 5](#ef-core-5)
 * [Environment](#environment)
 * [MediatR](#mediatr)
 * [Mapping](#mapping)
@@ -445,6 +446,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
 * [Middleware vs Filters ASP. NET Core](https://www.edgesidesolutions.com/middleware-vs-filters-asp-net-core/)
 * [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+
 ### Videos
 * [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)
 
@@ -515,7 +517,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 * [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
-
+* [Generate Links To ASP.NET Core Map Endpoints](https://khalidabuhakmeh.com/generate-links-to-aspnet-core-map-endpoints)
 ### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
@@ -660,12 +662,15 @@ If you think this repository makes a difference and is worth it, please share it
 	
 * [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
-
+	
+* [httpstat.us](https://github.com/Readify/httpstatus)
+	> Easily generate different HTTP responses for testing
+	
 ### 🔖 Samples
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
-* [https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
+*[https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
 
 ### Templates
@@ -819,6 +824,9 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 ## Routing
+
+### 📝 Articles
+* [Generate Links To ASP.NET Core Map Endpoints](https://khalidabuhakmeh.com/generate-links-to-aspnet-core-map-endpoints)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1166,34 +1174,16 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 * [Hellang.Middleware.ProblemDetails](https://www.nuget.org/packages/Hellang.Middleware.ProblemDetails/)
 * [https://github.com/ardalis/GuardClauses](https://github.com/ardalis/GuardClauses)
+
+
 ## EF Core
 
 ### 📝 Articles
-* [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
-* [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
-* [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
-* [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
-* [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
-* [Entity Framework Core 5 Resources I have Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
-* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+
 * [Entity Framework Core health check](https://www.michalbialecki.com/2020/03/13/entity-framework-core-health-check/)
 * [Entity Framework Core 3.0: A Foundation for the Future](https://codemag.com/Article/1911062/Entity-Framework-Core-3.0-A-Foundation-for-the-Future)
-* [Useful SQL statements when writing EF Core 5 migrations](https://www.michalbialecki.com/2021/01/07/useful-sql-statements-when-writing-ef-core-5-migrations/)
-* [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
-* [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
-* [Executing raw SQL with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/14/executing-raw-sql-with-entity-framework-core-5/)
-* [PrimeHotel – adding Entity Framework Core 5 in .NET](https://www.michalbialecki.com/2020/07/10/primehotel-adding-entity-framework-core-5/)
-* [Working with views in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/09/working-with-views-in-entity-framework-core-5/)
-* [Adding an Entity Framework Core 5 to an existing database](https://www.michalbialecki.com/2020/07/17/adding-an-entity-framework-core-5-to-an-existing-database/)
-* [How to configure relationships in Entity Framework Core 5](https://www.michalbialecki.com/2020/10/02/how-to-configure-relationships-in-entity-framework-core-5/)
-* [Entity Framework Core – is it fast?](https://www.michalbialecki.com/2021/01/10/entity-framework-core-is-it-fast/)
-* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
-* [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/2020/11/28/unit-tests-in-entity-framework-core-5/)
-* [How not to pass parameters in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/26/how-not-to-pass-parameters-in-entity-framework-core-5/)
-* [Select data with a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/03/select-data-with-a-stored-procedure-with-entity-framework-core-5/)
 * [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [Query non-table classes using ad-hoc (raw) SQL with EF Core 3.1](https://erikej.github.io/efcore/2020/04/06/query-non-table-classes-raw-sql.html)
-* [Execute a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/08/27/execute-a-stored-procedure-with-entity-framework-core-5/)
 * [Mapping and using SQL Server stored procedures with EF Core Power Tools](https://erikej.github.io/efcore/2020/08/10/ef-core-power-tools-stored-procedures.html)
 * [Avoiding SQL Server plan cache pollution with EF Core 3 and Enumerable.Contains](https://erikej.github.io/efcore/sqlserver/2020/03/30/ef-core-cache-pollution.html)
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
@@ -1206,7 +1196,6 @@ If you think this repository makes a difference and is worth it, please share it
 * [Using Database Project and DbUp for database management](http://www.kamilgrzybek.com/database/using-database-project-and-dbup-for-database-management/)
 * [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
 * [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
-* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 * [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
 * [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 * [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
@@ -1229,10 +1218,40 @@ If you think this repository makes a difference and is worth it, please share it
 
 * [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET)
 	> An extensible framework to audit executing operations in .NET and .NET Core.
-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+### EF Core 5
+
+### 📝 Articles
+* [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
+* [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
+* [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
+* [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
+* [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
+* [Entity Framework Core 5 Resources I have Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
+* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+* [Useful SQL statements when writing EF Core 5 migrations](https://www.michalbialecki.com/2021/01/07/useful-sql-statements-when-writing-ef-core-5-migrations/)
+* [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
+* [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
+* [Executing raw SQL with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/14/executing-raw-sql-with-entity-framework-core-5/)
+* [PrimeHotel – adding Entity Framework Core 5 in .NET](https://www.michalbialecki.com/2020/07/10/primehotel-adding-entity-framework-core-5/)
+* [Working with views in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/09/working-with-views-in-entity-framework-core-5/)
+* [Adding an Entity Framework Core 5 to an existing database](https://www.michalbialecki.com/2020/07/17/adding-an-entity-framework-core-5-to-an-existing-database/)
+* [How to configure relationships in Entity Framework Core 5](https://www.michalbialecki.com/2020/10/02/how-to-configure-relationships-in-entity-framework-core-5/)
+* [Entity Framework Core – is it fast?](https://www.michalbialecki.com/2021/01/10/entity-framework-core-is-it-fast/)
+* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
+* [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/2020/11/28/unit-tests-in-entity-framework-core-5/)
+* [How not to pass parameters in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/26/how-not-to-pass-parameters-in-entity-framework-core-5/)
+* [Select data with a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/03/select-data-with-a-stored-procedure-with-entity-framework-core-5/)
+* [Execute a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/08/27/execute-a-stored-procedure-with-entity-framework-core-5/)
+* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
+* [Entity Framework Core 5 — Table-per-Type and Table-per-Hierarchy](https://henriquesd.medium.com/entity-framework-core-5-table-per-type-and-table-per-hierarchy-215ff85e4ae8)
+* [Entity Framework Core 5.0 — Many-to-Many Relationships](https://henriquesd.medium.com/entity-framework-core-5-0-many-to-many-relationships-52c6c8b07b6e)
+* [Entity Framework Core 5 — Split Queries](https://henriquesd.medium.com/entity-framework-core-5-split-queries-2b7f6c729c8f)
+* [Split queries](https://docs.microsoft.com/en-us/ef/core/querying/single-split-queries)
 
 ## Environment
 
