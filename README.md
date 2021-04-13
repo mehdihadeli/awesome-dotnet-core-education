@@ -21,14 +21,14 @@ My primary focus in this repository is on quality. Creating a good quality of re
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
-* [.Net](#.net)
-  * [.Net Core](#.net-core)
-  * [.Net Standard](#.net-standard)
-  * [.Net 5](#.net-5)
-* [C#](#c#)
-  * [C# 7](#c#-7)
-  * [C# 8](#c#-8)
-  * [C# 9](#c#-9)
+* [1. DotNet](#1-dotnet)
+  * [1.1 DotNet Core](#11-dotnet-core)
+  * [1.2 DotNet Standard](#12-dotnet-standard)
+  * [1.3 DotNet 5](#13-dotnet-5)
+* [2. C#](#2-c#)
+  * [2.1 C# 7](#21-c#-7)
+  * [2.2 C# 8](#22-c#-8)
+  * [2.3 C# 9](#23-c#-9)
 * [.Net CLI](#.net-cli)
 * [.Net Tools](#.net-tools)
 * [.Net Core Tips](#.net-core-tips)
@@ -103,7 +103,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Books](#books)
 
 
-## .Net
+## 1. DotNet
 
 ### 📝 Articles 
 <details><summary>Links</summary>
@@ -123,7 +123,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### .Net Core
+### 1.1 DotNet Core
 
 #### Resources
 
@@ -183,7 +183,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### .Net Standard
+### 1.2 DotNet Standard
 
 #### 📝 Articles
 
@@ -206,7 +206,7 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 
-### .Net 5
+### 1.3 DotNet 5
 
 #### 📝 Articles 
 
@@ -274,19 +274,19 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 	> This repository has examples of broken patterns in ASP.NET Core applications
 
-## C#
+## 2. C#
 
-### C# 7
-
-#### 📝 Articles
-
-
-### C# 8
+### 2.1 C# 7
 
 #### 📝 Articles
 
 
-### C# 9
+### 2.2 C# 8
+
+#### 📝 Articles
+
+
+### 2.3 C# 9
 
 #### 📝 Articles
 - [Top-level programs in C# 9.0](https://gunnarpeipman.com/csharp-top-level-programs/) - Gunnar Peipman
