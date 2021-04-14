@@ -21,18 +21,19 @@ My primary focus in this repository is on quality. Creating a good quality of re
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
-* [.Net](#.net)
-  * [.Net Core](#.net-core)
-  * [.Net Standard](#.net-standard)
-  * [.Net 5](#.net-5)
+* [DotNet](#dotnet)
+  * [DotNet Core](#dotnet-core)
+  * [DotNet Standard](#dotnet-standard)
+  * [DotNet 5](#dotnet-5)
 * [C#](#c#)
   * [C# 7](#c#-7)
   * [C# 8](#c#-8)
   * [C# 9](#c#-9)
-* [.Net CLI](#.net-cli)
-* [.Net Tools](#.net-tools)
-* [.Net Core Tips](#.net-core-tips)
+* [DotNet CLI](#dotnet-cli)
+* [DotNet Tools](#dotnet-tools)
+* [DotNet Core Tips](#dotnet-core-tips)
 * [MetaPack](#metapack)
+* [MAUI](#maui)
 * [Source Generators](#source-generators)
 * [Performance](#performance)
 * [Serialization](#serialization)
@@ -50,6 +51,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
 * [Background Tasks](#background-tasks)
+* [Validation](#validation)
 * [Razor Pages](#razor-pages)
 * [GraphQL](#graphql)
 * [NoSQL](#nosql)
@@ -82,9 +84,11 @@ If you think this repository makes a difference and is worth it, please share it
     * [XUnit](#xunit)
 * [Exception Handling](#exception-handling)    
 * [EF Core](#ef-core)
+	* [EF Core 5](#ef-core-5)
 * [Environment](#environment)
 * [MediatR](#mediatr)
 * [Mapping](#mapping)
+* [Caching](#caching)
 * [Benchmarking](#benchmarking)
 * [Package Versioning](#package-versioning)
 * [Orleans](#orleans)
@@ -100,24 +104,42 @@ If you think this repository makes a difference and is worth it, please share it
 * [Books](#books)
 
 
-## .Net
+## DotNet
 
 ### 📝 Articles 
-
+<details><summary>Links</summary>
+	
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
+</details>
+
 ### 📹 Videos
+<details><summary>Links</summary>
+	
 * [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
+</details>
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
-### .Net Core
+### DotNet Core
 
 #### Resources
+
+<details><summary>Links</summary>
+	
 * [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
 * [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
 * [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
+
+</details>
+
 #### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 * [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
 * [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
@@ -137,61 +159,90 @@ If you think this repository makes a difference and is worth it, please share it
 * [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
 * [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
+</details>
+
 #### 📹 Videos
+
+<details><summary>Links</summary>
+	
 * [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
 * [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
 * [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 * [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
 
+</details>
+
 #### 📦 Libraries
+
+<details><summary>Links</summary>
+	
 * [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
 	> Helping .NET developers port their projects to .NET Core!
-	
+</details>
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
-### .Net Standard
+### DotNet Standard
 
 #### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+
+</details>
 
 #### 📹 Videos
 
+<details><summary>Links</summary>
+	
 * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+
+</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
 
-### .Net 5
+### DotNet 5
 
 #### 📝 Articles 
+
+<details><summary>Links</summary>
+	
 * [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 * [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
 * [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 * [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 
+</details>
+
 #### 📹 Videos
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
-## .Net CLI
+## DotNet CLI
 
 ### 📝 Articles
+
+<details><summary>Links</summary>
+	
 * [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 * [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+
+</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## .Net Tools
+
+## DotNet Tools
 
 ### 📝 Articles
 * [Using .NET Core Tools to Create Reusable and Shareable Tools & Apps](https://weblog.west-wind.com/posts/2020/Aug/05/Using-NET-Core-Tools-to-Create-Reusable-and-Shareable-Tools-Apps)
@@ -213,7 +264,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## .Net Core Tips
+## DotNet Core Tips
 
 ### 📝 Articles
 
@@ -230,11 +281,17 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ### C# 8
 
 #### 📝 Articles
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ### C# 9
 
@@ -243,6 +300,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
 - [PLAYING WITH C#9 TOP-LEVEL PROGRAMS, RECORDS AND ELASTICSEARCH.NET](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
 - [Using Tuples in C# to Initialize Properties in the Constructor and to Deconstruct Your Object](https://www.thomasclaudiushuber.com/2021/03/25/csharp-using-tuples-to-initialize-properties/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## MetaPack
 
@@ -259,11 +320,26 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## MAUI
+
+### 📝 Articles
+
+### Videos
+* [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Source Generators
 
 ### 📝 Articles
 * [Strongly-typed Ids using C# Source Generators - Gérald Barré](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
 * [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Performance
 
@@ -275,6 +351,10 @@ If you think this repository makes a difference and is worth it, please share it
 * [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
 * [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory)
 * [ASP.NET Core load/stress testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Serialization
 
@@ -321,7 +401,6 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ## DotNet Core Architecture 
 
 ### 📝 Articles
@@ -336,6 +415,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📹 Videos
 * [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=d9Bjg31VuHw&feature=emb_title)
 * [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zMU_LGbTsCQ&feature=w7.mul.ir/yo%7cut%7cu.%7cbe)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -381,6 +461,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
 * [Middleware vs Filters ASP. NET Core](https://www.edgesidesolutions.com/middleware-vs-filters-asp-net-core/)
 * [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+
 ### Videos
 * [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)
 
@@ -426,6 +507,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to use the IOptions pattern for configuration in ASP.NET Core RC2](https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-net-core-rc2/)
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 * [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
+* [Options Pattern in .NET Core](https://codeburst.io/options-pattern-in-net-core-a50285aeb18d)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -449,7 +532,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
 * [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 * [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
-
+* [Generate Links To ASP.NET Core Map Endpoints](https://khalidabuhakmeh.com/generate-links-to-aspnet-core-map-endpoints)
 ### 📹 Videos
 * [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
@@ -558,7 +641,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 * [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 * [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
-
+* [Integrating PowerApps with .NET Web APIs](https://channel9.msdn.com/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
 
 ### 📦 Libraries And Tools
 
@@ -594,12 +677,15 @@ If you think this repository makes a difference and is worth it, please share it
 	
 * [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
-
+	
+* [httpstat.us](https://github.com/Readify/httpstatus)
+	> Easily generate different HTTP responses for testing
+	
 ### 🔖 Samples
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 * [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 * [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith
-* [https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
+*[https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
 
 ### Templates
@@ -623,10 +709,24 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles
 
-- [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
-- [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
-- [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
+* [Background Tasks in .NET](https://codeopinion.com/background-tasks/) - CodeOpinion
+* [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) - CodeOpinion
+* [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
+* [Use Quartz.Net for background and recurring jobs within an ASP.NET Core 3.0 applicati](https://blog.vfrz.fr/quartz-asp-net-core-3-0/)
+* [How to run Background Tasks in ASP.NET](https://www.hanselman.com/blog/how-to-run-background-tasks-in-aspnet)
+* [Using Quartz.NET with ASP.NET Core and worker services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
+* [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
+* [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
 
+
+## Validation
+
+### 📝 Articles
+
+### Library
+ * [GuardClauses](https://github.com/ardalis/GuardClauses)
+	> A simple package with guard clause extensions.
+	
 ## Razor Pages
 
 ### 📝 Articles
@@ -648,9 +748,9 @@ If you think this repository makes a difference and is worth it, please share it
 ## GraphQL
 
 ### 📝 Articles
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
-- [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
+* [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
 ### 📹 Videos
 * [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 * [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
@@ -739,6 +839,9 @@ If you think this repository makes a difference and is worth it, please share it
 </div>
 
 ## Routing
+
+### 📝 Articles
+* [Generate Links To ASP.NET Core Map Endpoints](https://khalidabuhakmeh.com/generate-links-to-aspnet-core-map-endpoints)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -887,6 +990,8 @@ If you think this repository makes a difference and is worth it, please share it
 * [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
 * [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
 * [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
+* [Customizing Authorization Responses in .NET 5.0](https://benfoster.io/blog/customize-authorization-response-aspnet-core/)
+
 #### 📹 Videos
 * [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 
@@ -967,6 +1072,7 @@ If you think this repository makes a difference and is worth it, please share it
 * [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
 * [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
 * [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
+* [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
 
 #### 📹 Videos
 * [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -1087,34 +1193,16 @@ If you think this repository makes a difference and is worth it, please share it
 * [https://github.com/proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 * [Hellang.Middleware.ProblemDetails](https://www.nuget.org/packages/Hellang.Middleware.ProblemDetails/)
 * [https://github.com/ardalis/GuardClauses](https://github.com/ardalis/GuardClauses)
+
+
 ## EF Core
 
 ### 📝 Articles
-* [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
-* [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
-* [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
-* [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
-* [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
-* [Entity Framework Core 5 Resources I have Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
-* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+
 * [Entity Framework Core health check](https://www.michalbialecki.com/2020/03/13/entity-framework-core-health-check/)
 * [Entity Framework Core 3.0: A Foundation for the Future](https://codemag.com/Article/1911062/Entity-Framework-Core-3.0-A-Foundation-for-the-Future)
-* [Useful SQL statements when writing EF Core 5 migrations](https://www.michalbialecki.com/2021/01/07/useful-sql-statements-when-writing-ef-core-5-migrations/)
-* [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
-* [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
-* [Executing raw SQL with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/14/executing-raw-sql-with-entity-framework-core-5/)
-* [PrimeHotel – adding Entity Framework Core 5 in .NET](https://www.michalbialecki.com/2020/07/10/primehotel-adding-entity-framework-core-5/)
-* [Working with views in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/09/working-with-views-in-entity-framework-core-5/)
-* [Adding an Entity Framework Core 5 to an existing database](https://www.michalbialecki.com/2020/07/17/adding-an-entity-framework-core-5-to-an-existing-database/)
-* [How to configure relationships in Entity Framework Core 5](https://www.michalbialecki.com/2020/10/02/how-to-configure-relationships-in-entity-framework-core-5/)
-* [Entity Framework Core – is it fast?](https://www.michalbialecki.com/2021/01/10/entity-framework-core-is-it-fast/)
-* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
-* [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/2020/11/28/unit-tests-in-entity-framework-core-5/)
-* [How not to pass parameters in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/26/how-not-to-pass-parameters-in-entity-framework-core-5/)
-* [Select data with a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/03/select-data-with-a-stored-procedure-with-entity-framework-core-5/)
 * [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [Query non-table classes using ad-hoc (raw) SQL with EF Core 3.1](https://erikej.github.io/efcore/2020/04/06/query-non-table-classes-raw-sql.html)
-* [Execute a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/08/27/execute-a-stored-procedure-with-entity-framework-core-5/)
 * [Mapping and using SQL Server stored procedures with EF Core Power Tools](https://erikej.github.io/efcore/2020/08/10/ef-core-power-tools-stored-procedures.html)
 * [Avoiding SQL Server plan cache pollution with EF Core 3 and Enumerable.Contains](https://erikej.github.io/efcore/sqlserver/2020/03/30/ef-core-cache-pollution.html)
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
@@ -1127,7 +1215,6 @@ If you think this repository makes a difference and is worth it, please share it
 * [Using Database Project and DbUp for database management](http://www.kamilgrzybek.com/database/using-database-project-and-dbup-for-database-management/)
 * [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
 * [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
-* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
 * [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
 * [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 * [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
@@ -1150,10 +1237,40 @@ If you think this repository makes a difference and is worth it, please share it
 
 * [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET)
 	> An extensible framework to audit executing operations in .NET and .NET Core.
-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+### EF Core 5
+
+### 📝 Articles
+* [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
+* [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
+* [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
+* [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
+* [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
+* [Entity Framework Core 5 Resources I have Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
+* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+* [Useful SQL statements when writing EF Core 5 migrations](https://www.michalbialecki.com/2021/01/07/useful-sql-statements-when-writing-ef-core-5-migrations/)
+* [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
+* [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
+* [Executing raw SQL with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/14/executing-raw-sql-with-entity-framework-core-5/)
+* [PrimeHotel – adding Entity Framework Core 5 in .NET](https://www.michalbialecki.com/2020/07/10/primehotel-adding-entity-framework-core-5/)
+* [Working with views in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/09/working-with-views-in-entity-framework-core-5/)
+* [Adding an Entity Framework Core 5 to an existing database](https://www.michalbialecki.com/2020/07/17/adding-an-entity-framework-core-5-to-an-existing-database/)
+* [How to configure relationships in Entity Framework Core 5](https://www.michalbialecki.com/2020/10/02/how-to-configure-relationships-in-entity-framework-core-5/)
+* [Entity Framework Core – is it fast?](https://www.michalbialecki.com/2021/01/10/entity-framework-core-is-it-fast/)
+* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
+* [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/2020/11/28/unit-tests-in-entity-framework-core-5/)
+* [How not to pass parameters in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/26/how-not-to-pass-parameters-in-entity-framework-core-5/)
+* [Select data with a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/03/select-data-with-a-stored-procedure-with-entity-framework-core-5/)
+* [Execute a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/08/27/execute-a-stored-procedure-with-entity-framework-core-5/)
+* [Entity Framework Core 5 Value Converters](https://khalidabuhakmeh.com/entity-framework-core-5-value-converters)
+* [Entity Framework Core 5 — Table-per-Type and Table-per-Hierarchy](https://henriquesd.medium.com/entity-framework-core-5-table-per-type-and-table-per-hierarchy-215ff85e4ae8)
+* [Entity Framework Core 5.0 — Many-to-Many Relationships](https://henriquesd.medium.com/entity-framework-core-5-0-many-to-many-relationships-52c6c8b07b6e)
+* [Entity Framework Core 5 — Split Queries](https://henriquesd.medium.com/entity-framework-core-5-split-queries-2b7f6c729c8f)
+* [Split queries](https://docs.microsoft.com/en-us/ef/core/querying/single-split-queries)
 
 ## Environment
 
@@ -1195,6 +1312,11 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Caching
+
+### Articles
+
+* [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
 
 ## Benchmarking
 
@@ -1230,42 +1352,50 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 - [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
 
+### Videos
+* [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)
+* [How to add ASP.NET Identity and Entity Framework Support for your IdentityServer4 Solution](https://www.youtube.com/watch?v=Sw1rScI20xM)
+* [How to Setup FIDO2 for IdentityServer4](https://www.youtube.com/watch?v=j-QjTvBnEn4)
+* [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
+
 ### 🔖 Samples
 
-* [https://github.com/kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
+* [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
+
+* [dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
 	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
-* [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
+* [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4)
 	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
 	
-* [https://github.com/Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
+* [TheIdServer](https://github.com/Aguafrommars/TheIdServer)
 	> OpenID/Connect server based on IdentityServer4
 	
-* [https://github.com/INNVTV/Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV
+* [Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV
 	> Identity-As-A-Service written from scratch in .Net Core using a CQRS architecture with a CosmosDB/Redis persistence layer and RSA signed JWT Tokens with public key distribution for authentication and claims.
 
-* [https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
+* [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)
 	> OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 
-* [https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
+* [IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
 	> An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
 	
-* [https://github.com/brunohbrito/JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO)
+* [JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO)
 	> 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑
 
-* [https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
+* [JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI)
 	> 🔧 ASP.NET Core 3 & Angular 8 Administration Panel for 💞IdentityServer4 and ASP.NET Core Identity
 
 * [https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)
 	> The administration for the IdentityServer4 and Asp.Net Core Identity
 
-* [https://github.com/gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
+* [IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin)
 	> Identity Server AdminUI using Blazor.
 	
-* [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
+* [IdentityManager2](https://github.com/IdentityManager/IdentityManager2)
 	> Development tool for administering users and roles
 
-* [https://github.com/skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
+* [Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
   The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
   
 ## CI/CD
