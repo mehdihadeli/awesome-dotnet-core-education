@@ -348,8 +348,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Resources
 
-- [https://github.com/adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+- [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 ### 📝 Articles
 
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
@@ -400,7 +403,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 🔖 Samples
 
-- [https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
+- [updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -420,8 +423,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 
-- [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=d9Bjg31VuHw&feature=emb_title)
-- [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zMU_LGbTsCQ&feature=w7.mul.ir/yo%7cut%7cu.%7cbe)
+- [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw)
+- [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -451,7 +454,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 
-- [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
+- [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](https://www.youtube.com/watch?v=96KHOaIe19w)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -679,33 +682,57 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📦 Libraries
 
-- [framework](https://github.com/featherhttp/framework) > A lightweight low ceremony API for web services.
-- [ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith > A project for supporting API Endpoints in ASP.NET Core web applications.
-- [Carter](https://github.com/CarterCommunity/Carter) > Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-- [refit](https://github.com/reactiveui/refit) > The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-- [RestEase](https://github.com/canton7/RestEase) > Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
-- [HttpRepl](https://github.com/dotnet/HttpRepl) > The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
+- [framework](https://github.com/featherhttp/framework) 
+	> A lightweight low ceremony API for web services.
+	
+- [ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith 
+	> A project for supporting API Endpoints in ASP.NET Core web applications.
+	
+- [Carter](https://github.com/CarterCommunity/Carter) 
+	> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+	
+- [refit](https://github.com/reactiveui/refit)
+	> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-- [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) > REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) > Swagger tools for documenting API's built on ASP.NET Core
+- [RestEase](https://github.com/canton7/RestEase) 
+	> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
+	
+- [HttpRepl](https://github.com/dotnet/HttpRepl)
+	> The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
 
-- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) > The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+- [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
+	> REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+	
+- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) 
+	> Swagger tools for documenting API's built on ASP.NET Core
 
-- [NSwag](https://github.com/RicoSuter/NSwag) > The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) > This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
-- [httpstat.us](https://github.com/Readify/httpstatus) > Easily generate different HTTP responses for testing
+- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) 
+	> The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
 
+- [NSwag](https://github.com/RicoSuter/NSwag) 
+	> The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+	
+- [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) 
+	> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
+
+- [httpstat.us](https://github.com/Readify/httpstatus) 
+	> Easily generate different HTTP responses for testing
+
+- [beetlex-io/FastHttpApi](https://github.com/beetlex-io/FastHttpApi)
 ### 🔖 Samples
 
-- [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
-- [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
-- [https://github.com/ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith \*[https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
+- [featherhttp/tutorial](https://github.com/featherhttp/tutorial)
+- [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
+- [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith 
+- [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
 ### Templates
 
-- [https://github.com/proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) > A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+- [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) 
+	> A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
 
-- [https://github.com/blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) > Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) 
+	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 
 ### Books
 
@@ -953,12 +980,17 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Samples
 
-- [https://github.com/iammukeshm/CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) > Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
+- [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
+	> Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
 
-- [https://github.com/IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2) > Development tool for administering users and roles
+- [IdentityManager2](https://github.com/IdentityManager/IdentityManager2) 
+	> Development tool for administering users and roles
 
-- [https://github.com/matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo) > This is a MongoDB provider for the ASP.NET Core 2 Identity framework
-- [https://github.com/gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) > Identity Server AdminUI using Blazor.
+- [matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo) 
+	> This is a MongoDB provider for the ASP.NET Core 2 Identity framework
+	
+- [gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) 
+	> Identity Server AdminUI using Blazor.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1267,13 +1299,18 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📦 Libraries
 
-- [https://github.com/linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) > Bring power of Linq To DB to Entity Framework Core projects
+- [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
+	> Bring power of Linq To DB to Entity Framework Core projects
 
-- [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) > reverse engineering, migrations and model visualization for EF Core
+- [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) 
+	> reverse engineering, migrations and model visualization for EF Core
 
-- [https://github.com/Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) > Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
+- [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) 
+	> Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
 
-- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) > An extensible framework to audit executing operations in .NET and .NET Core.
+- [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) 
+	> An extensible framework to audit executing operations in .NET and .NET Core.
+	
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
@@ -1409,26 +1446,40 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
 
-- [dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver) > An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+- [dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver) 
+	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
-- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) > Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
-- [TheIdServer](https://github.com/Aguafrommars/TheIdServer) > OpenID/Connect server based on IdentityServer4
-- [Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV > Identity-As-A-Service written from scratch in .Net Core using a CQRS architecture with a CosmosDB/Redis persistence layer and RSA signed JWT Tokens with public key distribution for authentication and claims.
+- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) 
+	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+- [TheIdServer](https://github.com/Aguafrommars/TheIdServer) 
+	> OpenID/Connect server based on IdentityServer4
+	
+- [Identity-Service](https://github.com/INNVTV/Identity-Service) - INNVTV 
+	> Identity-As-A-Service written from scratch in .Net Core using a CQRS architecture with a CosmosDB/Redis persistence layer and RSA signed JWT Tokens with public key distribution for authentication and claims.
 
-- [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow) > OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
+- [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow) 
+	> OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 
-- [IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate) > An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
-- [JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO) > 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑
+- [IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate) 
+	> An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
+	
+- [JPProject.IdentityServer4.SSO](https://github.com/brunohbrito/JPProject.IdentityServer4.SSO) 
+	> 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑
 
-- [JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI) > 🔧 ASP.NET Core 3 & Angular 8 Administration Panel for 💞IdentityServer4 and ASP.NET Core Identity
+- [JPProject.IdentityServer4.AdminUI](https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI) 
+	> 🔧 ASP.NET Core 3 & Angular 8 Administration Panel for 💞IdentityServer4 and ASP.NET Core Identity
 
-- [https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin) > The administration for the IdentityServer4 and Asp.Net Core Identity
+- [https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin) 
+	> The administration for the IdentityServer4 and Asp.Net Core Identity
 
-- [IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) > Identity Server AdminUI using Blazor.
-- [IdentityManager2](https://github.com/IdentityManager/IdentityManager2) > Development tool for administering users and roles
+- [IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) 
+	> Identity Server AdminUI using Blazor.
+	
+- [IdentityManager2](https://github.com/IdentityManager/IdentityManager2) 
+	> Development tool for administering users and roles
 
 - [Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
-  The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
+	> The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
 
 ## CI/CD
 
@@ -1470,8 +1521,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Tools
 
-- [https://github.com/KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) > Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
-- [https://github.com/meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) > A Roslyn analyzer to enforce some good practices in C#.
+- [https://github.com/KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) 
+	> Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+	
+- [https://github.com/meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) 
+	> A Roslyn analyzer to enforce some good practices in C#.
 
 ## Others
 
