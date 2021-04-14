@@ -299,6 +299,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Explore ideas using top-level statements to build code as you learn](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) - Microsoft
 - [PLAYING WITH C#9 TOP-LEVEL PROGRAMS, RECORDS AND ELASTICSEARCH.NET](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
 - [Using Tuples in C# to Initialize Properties in the Constructor and to Deconstruct Your Object](https://www.thomasclaudiushuber.com/2021/03/25/csharp-using-tuples-to-initialize-properties/)
+- [C# 9 new features for methods and functions](https://developers.redhat.com/blog/2021/04/13/c-9-new-features-for-methods-and-functions/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -676,7 +677,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
 - [Integrating PowerApps with .NET Web APIs](https://channel9.msdn.com/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
 
-### 📦 Libraries And Tools
+### 📦 Libraries
 
 - [framework](https://github.com/featherhttp/framework) > A lightweight low ceremony API for web services.
 - [ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith > A project for supporting API Endpoints in ASP.NET Core web applications.
@@ -1473,6 +1474,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) > A Roslyn analyzer to enforce some good practices in C#.
 
 ## Others
+
+### Resources
+
+### Samples
+- [Samples for ASP.NET Core 5.0 (331)](https://github.com/dodyg/practical-aspnetcore)
 
 ### 📝 Articles
 
