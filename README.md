@@ -1045,6 +1045,10 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
  * [Effective mocking](https://cezarypiatek.github.io/post/effective-mocking/)
 
+#### Library
+- [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
+	> WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
