@@ -287,6 +287,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 
+- [The 8 most missing features in C#](https://tooslowexception.com/the-8-most-missing-features-in-c/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -362,6 +364,9 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+### Videos
+- [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 
 ## Serialization
 
@@ -504,7 +509,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [Debugging configuration values in ASP.NET Core](https://andrewlock.net/debugging-configuration-values-in-aspnetcore/)
 - [Viewing app configuration using Oakton's Describe command and Spectre.Console](https://andrewlock.net/viewing-application-configuration-using-oaktons-describe-command/)
-
+- [Viewing overwritten configuration values in ASP.NET Core](https://andrewlock.net/viewing-overriden-configuration-values-in-aspnetcore/)
 ### 📦 Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
@@ -755,7 +760,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Using Quartz.NET with ASP.NET Core and worker services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
 - [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
 - [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
-
+- [Using Hangfire and MediatR as a Message Dispatcher](https://codeopinion.com/using-hangfire-and-mediatr-as-a-message-dispatcher/)
 ## Validation
 
 ### 📝 Articles
@@ -1132,6 +1137,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) 
 	> Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
+- [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
+	> Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
+
+- [Shouldly](https://github.com/shouldly/shouldly)
+	> Should testing for .NET - the way Asserting *Should* be!
+	
+- [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1151,7 +1163,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
 - [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
 - [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
-
+- [Testing Exceptions with xUnit and Actions](https://ardalis.com/testing-exceptions-with-xunit-and-actions/)
 #### 📹 Videos
 
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
@@ -1174,7 +1186,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Using docker-compose for your ASP.NET + EF Core integration tests](https://blog.joaograssi.com/using-docker-compose-for-your-asp-net-ef-core-integration-tests/)
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 - [Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
-
+- [ASP.NET Core 5 & EntityFramework Core: Clean, clear and fluent integration tests with Calzolari.TestServer.EntityFramework, FluentAssertion.Web and xUnit](https://anthonygiretti.com/2021/04/17/asp-net-core-5-entityframework-core-clean-clear-and-fluent-integration-tests-with-calzolari-testserver-entityframework-fluentassertion-web-and-xunit/)
 #### 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
@@ -1434,6 +1446,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 
 - [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
+- [🔑 OAuth 2.0 flows explained in GIFs](https://dev.to/hem/oauth-2-0-flows-explained-in-gifs-2o7a)
 
 ### Videos
 
