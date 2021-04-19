@@ -224,11 +224,12 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles
 
-- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
+- [davidfowl/AspNetCoreGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
 
 ### 🔖 Samples
 
-- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) > This repository has examples of broken patterns in ASP.NET Core applications
+- [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) 
+  > This repository has examples of broken patterns in ASP.NET Core applications
 
 ## C#
 
@@ -550,7 +551,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Samples
 
-- [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) > Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
+- [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) 
+  > Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -695,6 +697,7 @@ If you think this repository makes a difference and is worth it, please share it
 	> Easily generate different HTTP responses for testing
 
 - [beetlex-io/FastHttpApi](https://github.com/beetlex-io/FastHttpApi)
+
 ### 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)
@@ -831,7 +834,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 
-- [Deploy a .NET Core API with Docker (Step-by-Step)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
+- [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 
 ## API Versioning
 
@@ -842,7 +845,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 
-- [Elegant API Versioning in ASP.NET Core (Web API)](http://w7.mul.ir/yo%7cut%7cu.%7cbe/iVHtKG0eU_s)
+- [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
