@@ -22,14 +22,14 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Contents
 
-- [DotNet](#dotnet)
-  - [DotNet Core](#dotnet-core)
-  - [DotNet Standard](#dotnet-standard)
-  - [DotNet 5](#dotnet-5)
-- [C#](#c#)
-  - [C# 7](#c#-7)
-  - [C# 8](#c#-8)
-  - [C# 9](#c#-9)
+- [.Net](#net)
+  - [.Net Core](#net-core)
+  - [.Net Standard](#net-standard)
+  - [.Net 5](#net-5)
+- [C#](#c)
+  - [C# 7](#c-7)
+  - [C# 8](#c-8)
+  - [C# 9](#c-9)
 - [DotNet CLI](#dotnet-cli)
 - [DotNet Tools](#dotnet-tools)
 - [DotNet Core Tips](#dotnet-core-tips)
@@ -103,7 +103,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Others](#others)
 - [Books](#books)
 
-## DotNet
+## .Net
 
 ### 📝 Articles
 - [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
@@ -115,7 +115,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### DotNet Core
+### .Net Core
 
 #### Resources
 
@@ -159,7 +159,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### DotNet Standard
+### .Net Standard
 
 #### 📝 Articles
 - [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
@@ -173,7 +173,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### DotNet 5
+### .Net 5
 
 #### 📝 Articles
 
