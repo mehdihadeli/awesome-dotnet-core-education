@@ -145,10 +145,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
 #### 📹 Videos
-- [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
-- [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
-- [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
-- [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
+- [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](https://www.youtube.com/watch?v=gYy5XJRJkOo)
+- [Upgrading to .NET Core 3.1 (Real Life Project)](https://www.youtube.com/watch?v=afyCeCkec4c)
+- [Upgrading to .NET 5.0 RC w/ C# 9.0](https://www.youtube.com/watch?v=afyCeCkec4c)
+- [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https://www.youtube.com/watch?v=ZdCn6kpGBhI)
 
 
 #### 📦 Libraries
@@ -166,7 +166,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📹 Videos
 
-- [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+- [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](https://www.youtube.com/watch?v=zjVgQNfAEOs)
 
 
 <div align="right">
