@@ -78,12 +78,13 @@ If you think this repository makes a difference and is worth it, please share it
   - [Unit Testing](#unit-testing)
   - [Integration Testing](#integration-testing)
   - [End-To-End Testing](#end-to-end-testing)
-  - [Load Testing](#load-testing) \* [Architectural Testing](architectural-testing)
+  - [Load Testing](#load-testing) \- [Architectural Testing](architectural-testing)
   - [Mocking](#mocking)
   - [TDD](#tdd)
   - [BDD](#bdd)
 - [Exception Handling](#exception-handling)
-- [EF Core](#ef-core) \* [EF Core 5](#ef-core-5)
+- [EF Core](#ef-core)
+  - [EF Core 5](#ef-core-5)
 - [Environment](#environment)
 - [MediatR](#mediatr)
 - [Mapping](#mapping)
@@ -93,11 +94,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Orleans](#orleans)
 - [Identity Server](#identity-server)
 - [CI/CD](#ci/cd)
-  _[Azure Devops](#azure-devops)
-  _[GitHub Actions](#gitHub-actions)
+  - [Azure Devops](#azure-devops)
+  - [GitHub Actions](#gitHub-actions)
 - [PaaS](PaaS)
-  _ [Heroku](#heroku)
-  _ [Netlify](#netlify)
+  - [Heroku](#heroku)
+  - [Netlify](#netlify)
 - [Roslyn](#roslyn)
 - [Others](#others)
 - [Books](#books)
@@ -105,20 +106,10 @@ If you think this repository makes a difference and is worth it, please share it
 ## DotNet
 
 ### 📝 Articles
-
-<details><summary>Links</summary>
-	
-* [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
-
-</details>
+- [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
 ### 📹 Videos
-
-<details><summary>Links</summary>
-	
-* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
-
-</details>
+- [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -128,57 +119,41 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Resources
 
-<details><summary>Links</summary>
-	
-* [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
-* [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
-* [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
-
-</details>
+- [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/learn/aspnet/architecture)
+- [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
+- [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
 
 #### 📝 Articles
 
-<details><summary>Links</summary>
-	
-* [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
-* [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
-* [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
-* [What's new in ASP.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.1)
-* [What's new in ASP.NET Core 5.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0)
-* [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
-* [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
-* [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
-* [.NET Core Transitive Dependencies and how to block them](https://curia.me/net-core-transitive-references-and-how-to-block-them/)
-* [What is a Transitive dependency in .NET Core](https://www.thecodebuzz.com/transitive-dependency-in-net-core/)
-* [Framework Reference](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-5.0&tabs=visual-studio#framework-reference)
-* [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
-* [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
-* [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
-* [When ASP.NET Core can't find your controller: debugging application parts](https://andrewlock.net/when-asp-net-core-cant-find-your-controller-debugging-application-parts/)
-* [Share controllers, views, Razor Pages and more with Application Parts](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-5.0)
-* [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
-* [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
-
-</details>
+- [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
+- [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
+- [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
+- [What's new in ASP.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.1)
+- [What's new in ASP.NET Core 5.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0)
+- [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
+- [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
+- [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
+- [.NET Core Transitive Dependencies and how to block them](https://curia.me/net-core-transitive-references-and-how-to-block-them/)
+- [What is a Transitive dependency in .NET Core](https://www.thecodebuzz.com/transitive-dependency-in-net-core/)
+- [Framework Reference](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-5.0&tabs=visual-studio#framework-reference)
+- [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
+- [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
+- [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
+- [When ASP.NET Core can't find your controller: debugging application parts](https://andrewlock.net/when-asp-net-core-cant-find-your-controller-debugging-application-parts/)
+- [Share controllers, views, Razor Pages and more with Application Parts](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-5.0)
+- [Work with the application model in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-5.0)
+- [ASP.NET CORE MVC ANATOMY (PART 1) – ADDMVCCORE](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 
 #### 📹 Videos
+- [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
+- [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
+- [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
+- [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
 
-<details><summary>Links</summary>
-	
-* [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
-* [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
-* [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
-* [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ZdCn6kpGBhI)
-
-</details>
 
 #### 📦 Libraries
-
-<details><summary>Links</summary>
-	
-* [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
+- [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
 	> Helping .NET developers port their projects to .NET Core!
-</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -187,20 +162,12 @@ If you think this repository makes a difference and is worth it, please share it
 ### DotNet Standard
 
 #### 📝 Articles
-
-<details><summary>Links</summary>
-	
-* [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
-
-</details>
+- [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
 #### 📹 Videos
 
-<details><summary>Links</summary>
-	
-* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+- [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
 
-</details>
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -210,16 +177,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 
-<details><summary>Links</summary>
-	
-* [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
-* [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
-* [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
-* [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-
-</details>
-
-#### 📹 Videos
+- [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
+- [Announcing ASP.NET Core in .NET 5](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/)
+- [What's new in .NET 5 - Microsoft](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
+- [Performance Improvements in .NET 5 - DevBlogs](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -229,12 +190,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles
 
-<details><summary>Links</summary>
-	
-* [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
-* [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
-
-</details>
+- [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+- [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -273,7 +230,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) > This repository has examples of broken patterns in ASP.NET Core applications
 
-## C
+## C#
 
 ### C# 7
 
@@ -1155,7 +1112,7 @@ If you think this repository makes a difference and is worth it, please share it
 	> Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
 
 - [Shouldly](https://github.com/shouldly/shouldly)
-	> Should testing for .NET - the way Asserting *Should* be!
+	> Should testing for .NET - the way Asserting -Should- be!
 	
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
 <div align="right">
