@@ -30,9 +30,9 @@ If you think this repository makes a difference and is worth it, please share it
   - [C# 7](#c-7)
   - [C# 8](#c-8)
   - [C# 9](#c-9)
-- [DotNet CLI](#dotnet-cli)
-- [DotNet Tools](#dotnet-tools)
-- [DotNet Core Tips](#dotnet-core-tips)
+- [.Net CLI](#net-cli)
+- [.Net Tools](#net-tools)
+- [.Net Core Tips](#net-core-tips)
 - [MetaPack](#metapack)
 - [MAUI](#maui)
 - [Source Generators](#source-generators)
@@ -186,7 +186,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet CLI
+## .Net CLI
 
 ### 📝 Articles
 
@@ -197,7 +197,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Tools
+## .Net Tools
 
 ### 📝 Articles
 
@@ -220,7 +220,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## DotNet Core Tips
+## .Net Core Tips
 
 ### 📝 Articles
 
