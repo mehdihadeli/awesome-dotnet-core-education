@@ -352,8 +352,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Library
 
-- [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) > Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
-- [Utf8Json](https://github.com/neuecc/Utf8Json) > Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
+- [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) 
+  > Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+- [Utf8Json](https://github.com/neuecc/Utf8Json) 
+  > Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -923,8 +925,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 ### Libraries
 
-- [https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) > Extensions for ASP.NET Core dependency injection
+- [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) > Extensions for ASP.NET Core dependency injection
 
+- [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject)
+	> compile time dependency injection for .NET
+
+- [pakrym/jab](https://github.com/pakrym/jab)	
+	> C# Source Generator based dependency injection container implementation.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
