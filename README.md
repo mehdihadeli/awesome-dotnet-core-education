@@ -606,14 +606,15 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Resources
 
-- [https://github.com/oskardudycz/WebApiWith.NETCore](https://github.com/oskardudycz/WebApiWith.NETCore) > Samples and resources of how to design WebApi with .NET Core
+- [oskardudycz/WebApiWith.NETCore](https://github.com/oskardudycz/WebApiWith.NETCore) > Samples and resources of how to design WebApi with .NET Core
 - [REST API Tutorial](https://restfulapi.net/)
 - [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
 - [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 - [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
 
 ### 📝 Articles
-
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+- [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 - [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
 - [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
@@ -641,8 +642,6 @@ If you think this repository makes a difference and is worth it, please share it
 - [Trying the REST Client extension for VSCode](https://asp.net-hacker.rocks/2021/03/01/rest-client-vscode.html)
 - [ASPNET Core Razor Pages – Worth Checking Out?](https://ardalis.com/aspnet-core-razor-pages-–-worth-checking-out/)
 - [How To Build A Basic HTTP API With ASP.NET Core](https://khalidabuhakmeh.com/how-to-build-a-basic-http-api-with-aspnet-core)
-- [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - [RESTful API Design: 13 Best Practices to Make Your Users Happy](https://florimond.dev/blog/articles/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -923,6 +922,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Resolve Services In ASP.NET Core Startup](https://khalidabuhakmeh.com/resolve-services-in-aspnet-core-startup)
 - [Automatic factory with Microsoft.Extensions.DependencyInjection and Castle DynamicProxy](https://thomaslevesque.com/2020/09/27/automatic-factory-with-microsoft-extensions-dependencyinjection-and-castle-dynamicproxy/)
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
+- [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
 ### Libraries
 
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) > Extensions for ASP.NET Core dependency injection
@@ -1168,6 +1168,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 - [Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
 - [ASP.NET Core 5 & EntityFramework Core: Clean, clear and fluent integration tests with Calzolari.TestServer.EntityFramework, FluentAssertion.Web and xUnit](https://anthonygiretti.com/2021/04/17/asp-net-core-5-entityframework-core-clean-clear-and-fluent-integration-tests-with-calzolari-testserver-entityframework-fluentassertion-web-and-xunit/)
+- [An Experiment With Making Integration Tests Easier to Write - Part One](https://scotthannen.org/blog/2021/04/07/integration-test-experiment-1.html)
+- [An Experiment With Making Integration Tests Easier to Write - Part Two](https://scotthannen.org/blog/2021/04/12/integration-test-experiment-2.html)
+
 #### 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
