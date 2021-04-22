@@ -26,12 +26,15 @@ If you think this repository makes a difference and is worth it, please share it
   - [.Net Core](#net-core)
   - [.Net Standard](#net-standard)
   - [.Net 5](#net-5)
+  - [.Net 6](#net-6)
 - [C#](#c)
   - [C# 7](#c-7)
   - [C# 8](#c-8)
   - [C# 9](#c-9)
 - [.Net CLI](#net-cli)
+  - [.Net Template](#net-template)
 - [.Net Tools](#net-tools)
+- [.Net Template](#net-template)
 - [.Net Core Tips](#net-core-tips)
 - [MetaPack](#metapack)
 - [MAUI](#maui)
@@ -69,7 +72,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Dependency Injection](#dependency-injection)
 - [Security](#security)
   - [Encryption And Data Protection](#encryption-and-data-protection)
-  - [DotNet Core Identity](#dotnet-core-identity)
+  - [.Net Core Identity](#net-core-identity)
+  - [MSAL](#msal)
   - [Authentication](#authentication)
   - [Authorization](#authorization)
 - [Logging And Auditing](#logging-and-auditing)
@@ -78,6 +82,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [Unit Testing](#unit-testing)
   - [Integration Testing](#integration-testing)
   - [End-To-End Testing](#end-to-end-testing)
+  - [Acceptance Testing](#acceptance-testing)
   - [Load Testing](#load-testing) \- [Architectural Testing](architectural-testing)
   - [Mocking](#mocking)
   - [TDD](#tdd)
@@ -186,6 +191,11 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+### .Net 6
+
+#### Videos
+- [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
+
 ## .Net CLI
 
 ### 📝 Articles
@@ -219,6 +229,22 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+
+### .Net Template
+
+#### Articles
+[Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+
+#### Videos
+
+- [On .NET Live - Creating your own .NET Project Templates](https://www.youtube.com/watch?v=H_pqfeRgTYw&t=751s)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
 ## .Net Core Tips
 
@@ -299,6 +325,13 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [Strongly-typed Ids using C# Source Generators - Gérald Barré](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
 - [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### Videos
+- [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -952,7 +985,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### DotNet Core Identity
+### .Net Core Identity
 
 #### 📝 Articles
 
@@ -963,7 +996,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP NET Core Identity Tutorial](https://www.tektutorialshub.com/asp-net-core/asp-net-core-identity-tutorial/)
 - [Login and Registration using Identity in ASP.NET Core 3.1](https://www.freecodespot.com/blog/asp-net-core-identity/)
 - [Custom User Management in ASP.NET Core MVC with Identity](https://codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/)
-
+- [ASP.NET Core Identity with Patterns (Part 1 of 3)](https://timschreiber.com/2018/05/07/aspnet-core-identity-with-patterns/)
+- [ASP.NET Core Identity with Patterns (Part 2 of 3)](https://timschreiber.com/2018/05/07/aspnet-core-identity-with-patterns-2/)
+- [Building ASP.NET Core Web APIs with Clean Architecture](https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture)
 #### Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
@@ -977,6 +1012,26 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) 
 	> Identity Server AdminUI using Blazor.
+
+- [timschreiber/ASP.NET-Core-Identity-Example](https://github.com/timschreiber/ASP.NET-Core-Identity-Example)
+	> Source code for my ASP.NET Core Identity tutorial
+	
+- [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+	> Starter project for creating APIs built on ASP.NET Core using clean architecture.
+	
+- [kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
+	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+	
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### MSAL
+
+#### 📹 Videos
+
+- [What is MSAL + Microsoft.Identity.Web](https://channel9.msdn.com/Shows/On-NET/What-is-MSAL--MicrosoftIdentityWeb)
+- [On .NET Live - Securing Web APIs with Microsoft.Identity.Web](https://www.youtube.com/watch?v=P25SIYLsH-g)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1012,7 +1067,6 @@ If you think this repository makes a difference and is worth it, please share it
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
 - [Setting up JWT support (Authentication) | ASP.NET Core 5 REST API Tutorial 9](https://www.youtube.com/watch?v=M6AkbBaDGJE)
 - [What is a JWT (JSON Web Token) and why your REST API needs it](https://www.youtube.com/watch?v=qDJYgGzmalQ)
-
 #### Samples
 
 - [https://github.com/iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) > Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
@@ -1177,6 +1231,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) - Raw Coding
 - [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
 - [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
+- [The API Integration coding test (2) - Unit and Acceptance testing | Cracking the .NET interview](https://www.youtube.com/watch?v=NPAK94ZCxD4)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1185,6 +1240,16 @@ If you think this repository makes a difference and is worth it, please share it
 ### End-To-End Testing
 
 #### 📝 Articles
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
+### Acceptance Testing
+
+#### 📹 Videos
+- [Elegant Acceptance Testing in .NET with SpecFlow](https://www.youtube.com/watch?v=qWEDkHGNhvk)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1292,7 +1357,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 - [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 - [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
-
+- [Entity Framework Community Standup - Open Source Contributions: How to Add a Feature to EF Core](https://www.youtube.com/watch?v=9OMxy1wal1s)
 ### 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
@@ -1379,6 +1444,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Mapster](https://github.com/MapsterMapper/Mapster)
   > A fast, fun and stimulating object to object Mapper.
 
+ - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo)
+	> A convention based object to object mapper using Roslyn source generator
 ### 📹 Videos
 
 - [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
@@ -1518,6 +1585,9 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 
 - [GETTING STARTED WITH THE ROSLYN APIS: WRITING CODE WITH CODE](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
+
+### Videos
+- [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 
 ### Tools
 
