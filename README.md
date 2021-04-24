@@ -746,6 +746,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) 
 	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+	
+- [pdevito3/craftsman](https://github.com/pdevito3/craftsman)
+	> Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
 
 ### Books
 
@@ -866,6 +869,12 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📝 Articles
 
+- [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
+- [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/)
+- [Exploring the .NET Core 2.1 Docker files (updated): dotnet:runtime vs aspnetcore-runtime vs sdk](https://andrewlock.net/exploring-the-net-core-2-1-docker-files-dotnet-runtime-vs-aspnetcore-runtime-vs-sdk/)
+- [Building ASP.NET Core apps using Cake in Docker](https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/)
+- [Using Docker Hub to automatically build a Docker image for ASP.NET Core apps](https://andrewlock.net/using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps/)
+- [DOCKER FOR .NET DEVELOPERS (PART 1)](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 ### 📹 Videos
 
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
@@ -1224,7 +1233,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core 5 & EntityFramework Core: Clean, clear and fluent integration tests with Calzolari.TestServer.EntityFramework, FluentAssertion.Web and xUnit](https://anthonygiretti.com/2021/04/17/asp-net-core-5-entityframework-core-clean-clear-and-fluent-integration-tests-with-calzolari-testserver-entityframework-fluentassertion-web-and-xunit/)
 - [An Experiment With Making Integration Tests Easier to Write - Part One](https://scotthannen.org/blog/2021/04/07/integration-test-experiment-1.html)
 - [An Experiment With Making Integration Tests Easier to Write - Part Two](https://scotthannen.org/blog/2021/04/12/integration-test-experiment-2.html)
-
+- [.NET Core Integration Tests using a Sql Server Database in Docker](https://wrapt.dev/blog/integration-tests-using-sql-server-db-in-docker)
 #### 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
