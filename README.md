@@ -6,7 +6,7 @@
 
 ![](./banner.jpg)
 
-> Collection of useful Articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
+> Curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
