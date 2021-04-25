@@ -83,7 +83,8 @@ If you think this repository makes a difference and is worth it, please share it
   - [Integration Testing](#integration-testing)
   - [End-To-End Testing](#end-to-end-testing)
   - [Acceptance Testing](#acceptance-testing)
-  - [Load Testing](#load-testing) \- [Architectural Testing](architectural-testing)
+  - [Load Testing](#load-testing) 
+  - [Architectural Testing](architectural-testing)
   - [Mocking](#mocking)
   - [TDD](#tdd)
   - [BDD](#bdd)
@@ -1008,6 +1009,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core Identity with Patterns (Part 1 of 3)](https://timschreiber.com/2018/05/07/aspnet-core-identity-with-patterns/)
 - [ASP.NET Core Identity with Patterns (Part 2 of 3)](https://timschreiber.com/2018/05/07/aspnet-core-identity-with-patterns-2/)
 - [Building ASP.NET Core Web APIs with Clean Architecture](https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture)
+- [Scaffold Your Clean DDD Web Application - Part 2: Authentication and Identity](https://blog.jacobsdata.com/2020/09/15/scaffold-your-clean-ddd-web-application-part-2-authentication-and-identity)
 #### Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
@@ -1030,7 +1032,15 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
 	> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
-	
+
+- [NetDevPack/Security.Identity](https://github.com/NetDevPack/Security.Identity)
+	> .NET DevPack Identity is a set of common implementations to help you implementing Identity, Jwt, claims validation and another facilities
+
+- [aruss/IdentityBase](https://github.com/aruss/IdentityBase)
+	> IdentityBase is a Universal Identity Platform for web, mobile and IoT built on top of IdentityServer.
+
+- [kevinrjones/SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1234,6 +1244,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [An Experiment With Making Integration Tests Easier to Write - Part One](https://scotthannen.org/blog/2021/04/07/integration-test-experiment-1.html)
 - [An Experiment With Making Integration Tests Easier to Write - Part Two](https://scotthannen.org/blog/2021/04/12/integration-test-experiment-2.html)
 - [.NET Core Integration Tests using a Sql Server Database in Docker](https://wrapt.dev/blog/integration-tests-using-sql-server-db-in-docker)
+- [Running SQL Server Integration Tests in .NET Core Projects via Docker](https://blog.dangl.me/archive/running-sql-server-integration-tests-in-net-core-projects-via-docker/)
 #### 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
