@@ -1010,6 +1010,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core Identity with Patterns (Part 2 of 3)](https://timschreiber.com/2018/05/07/aspnet-core-identity-with-patterns-2/)
 - [Building ASP.NET Core Web APIs with Clean Architecture](https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture)
 - [Scaffold Your Clean DDD Web Application - Part 2: Authentication and Identity](https://blog.jacobsdata.com/2020/09/15/scaffold-your-clean-ddd-web-application-part-2-authentication-and-identity)
+- [Identity model customization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/customize-identity-model)
+- [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+- [Add, download, and delete custom user data to Identity in an ASP.NET Core project](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/add-user-data)
+- [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-5.0)
 #### Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
