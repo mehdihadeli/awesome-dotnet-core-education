@@ -1013,7 +1013,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Identity model customization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/customize-identity-model)
 - [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
 - [Add, download, and delete custom user data to Identity in an ASP.NET Core project](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/add-user-data)
-- [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-5.0)
+- [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
+- [Authentication and authorization for SPAs](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization)
+- [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver)
+- [How To Use ASP.NET Identity And IdentityServer4 In Your Solution](https://feras.blog/how-to-use-asp-net-identity-and-identityserver4-in-your-solution/)
+- [Make secure .NET Microservices and Web Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/secure-net-microservices-web-applications/)
+- [How to Setup and Configure ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-setup/)
+- [How to work with Roles in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-roles/)
+- [How to work with Policies in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-policies/)
+- [How to do Authentication of Users in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-authentication/)
+- [Two-Factor Authentication in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-two-factor-authentication/)
 #### Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
@@ -1045,6 +1054,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [kevinrjones/SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
 
+- [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe)
+	> ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1249,6 +1260,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [An Experiment With Making Integration Tests Easier to Write - Part Two](https://scotthannen.org/blog/2021/04/12/integration-test-experiment-2.html)
 - [.NET Core Integration Tests using a Sql Server Database in Docker](https://wrapt.dev/blog/integration-tests-using-sql-server-db-in-docker)
 - [Running SQL Server Integration Tests in .NET Core Projects via Docker](https://blog.dangl.me/archive/running-sql-server-integration-tests-in-net-core-projects-via-docker/)
+- [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care)
+
 #### 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
@@ -1525,6 +1538,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
 - [🔑 OAuth 2.0 flows explained in GIFs](https://dev.to/hem/oauth-2-0-flows-explained-in-gifs-2o7a)
+- [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver)
+- [How To Use ASP.NET Identity And IdentityServer4 In Your Solution](https://feras.blog/how-to-use-asp-net-identity-and-identityserver4-in-your-solution/)
+- [Make secure .NET Microservices and Web Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/secure-net-microservices-web-applications/)
 
 ### Videos
 
@@ -1571,6 +1587,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
 	> The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
+
+- [eShopOnContainers/Identity.API](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev/src/Services/Identity/Identity.API)
+
+- [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe)
+	> ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
 
 ## CI/CD
 
