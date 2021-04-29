@@ -833,11 +833,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
 - [Introducing GraphQLinq - Strongly Typed GraphQL Queries with LINQ to GraphQL.](https://www.giorgi.dev/dotnet/introducing-graphqlinq-strongly-typed-graphql-queries-with-linq-to-graphql/)
-
+- [GRAPHQL VS REST: WHICH ONE IS BETTER?](https://www.imaginarycloud.com/blog/graphql-vs-rest/)
 ### 📹 Videos
 
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 - [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
+
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -988,6 +989,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Automatic factory with Microsoft.Extensions.DependencyInjection and Castle DynamicProxy](https://thomaslevesque.com/2020/09/27/automatic-factory-with-microsoft-extensions-dependencyinjection-and-castle-dynamicproxy/)
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 - [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
+- [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
+
 ### Libraries
 
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 
@@ -1385,7 +1388,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [Exception handling in C# - throw or throw ex](https://kumarashwinhubert.com/exception-handling-in-csharp-throw-or-throw-ex)
 - [Problem Details - The right way to specify errors in Web API responses](https://kumarashwinhubert.com/problem-details-the-right-way-to-specify-errors-in-web-api-responses)
 - [Handle Exceptions With ASP.NET Core ExceptionHandlerMiddleware](https://khalidabuhakmeh.com/handling-aspnet-core-exceptions-with-exceptionhandler-middleware)
-
+- [Error handling: Exception or Result?](https://enterprisecraftsmanship.com/posts/error-handling-exception-or-result/) - Vladimir Khorikove
+- [Exceptions for flow control in C#](https://enterprisecraftsmanship.com/posts/exceptions-for-flow-control/) - Vladimir Khorikove
+- [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) - Vladimir Khorikove
+- [Fail Fast principle](https://enterprisecraftsmanship.com/posts/fail-fast-principle/) - Vladimir Khorikove
+- [REST API response codes: 400 vs 500](https://enterprisecraftsmanship.com/posts/rest-api-response-codes-400-vs-500/) - Vladimir Khorikove
+- [What is an exceptional situation in code?](https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/) - Vladimir Khorikove
+- [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
+- [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
+- [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/) - Vladimir Khorikove
 ### 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
@@ -1531,6 +1542,26 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
 - [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
+- [REDIS VS MEMCACHED: WHICH ONE TO CHOOSE?](https://www.imaginarycloud.com/blog/redis-vs-memcached)
+- [Redis vs. Memcached: In-Memory Data Storage Systems](https://alibaba-cloud.medium.com/redis-vs-memcached-in-memory-data-storage-systems-3395279b0941)
+- [Difference Between Redis vs Memcached](https://www.educba.com/redis-vs-memcached/)
+- [Cache in-memory in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory)
+- [Distributed caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed)
+- [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response)
+
+### Library
+
+- [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager)
+	> CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+
+- [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching)
+	> EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+
+- [mjebrahimi/EasyCompressor](https://github.com/mjebrahimi/EasyCompressor)
+	> ⚡ A compression library that implements many compression algorithms such as LZ4, Zstd, LZMA, Snappy, Brotli, GZip, and Deflate. It helps you to improve performance by reducing Memory Usage and Network Traffic for caching.
+
+- [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
+	> EF Core Second Level Cache Interceptor
 ## Benchmarking
 
 ### Articles
