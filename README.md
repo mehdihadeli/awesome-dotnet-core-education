@@ -45,6 +45,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [DotNet Core Architecture](#dotnet-core-architecture)
 - [Hosting](#hosting)
 - [Kestrel](#kestrel)
+- [Feature Flags](#feature-flags)
 - [Middleware](#middleware)
 - [Action Filters](#action-filters)
 - [Configuration](#configuration)
@@ -384,12 +385,18 @@ If you think this repository makes a difference and is worth it, please share it
 - [Using MessagePack with ASP.NET Core MVC](https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/)
 - [Using MessagePack with ASP.NET Core WebAPI](https://dotnetthoughts.net/using-message-pack-with-asp-net-core/)
 
+### Videos
+- [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
+
 ### Library
 
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) 
   > Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+  
 - [Utf8Json](https://github.com/neuecc/Utf8Json) 
   > Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
+
+- [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -473,6 +480,20 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+
+## Feature Flags
+
+### 📝 Articles
+
+- [Use feature flags in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core?tabs=core5x)
+
+### Libraries
+- [bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core)
+	> Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.
+	
+- [valdisiljuconoks/FeatureSwitch](https://github.com/valdisiljuconoks/FeatureSwitch)
+	> FeatureSwitch is library that should reduce amount of time and code required to implement feature switching in your projects.
+	
 ## Middleware
 
 ### 📝 Articles
@@ -811,6 +832,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part4 - Refresh Token](https://www.learmoreseekmore.com/2021/03/part4-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-refresh-token.html)
+- [Introducing GraphQLinq - Strongly Typed GraphQL Queries with LINQ to GraphQL.](https://www.giorgi.dev/dotnet/introducing-graphqlinq-strongly-typed-graphql-queries-with-linq-to-graphql/)
 
 ### 📹 Videos
 
@@ -968,13 +990,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
 ### Libraries
 
-- [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) > Extensions for ASP.NET Core dependency injection
+- [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 
+	> Extensions for ASP.NET Core dependency injection
 
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject)
 	> compile time dependency injection for .NET
 
 - [pakrym/jab](https://github.com/pakrym/jab)	
 	> C# Source Generator based dependency injection container implementation.
+	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1179,6 +1203,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles
 
 - [A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
+- [Distributed Tracing in ASP.NET Core with Jaeger and Tye Part 1 - Distributed Tracing](https://thecloudblog.net/post/distributed-tracing-in-asp.net-core-with-jaeger-and-tye-part-1-distributed-tracing/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1213,6 +1238,7 @@ If you think this repository makes a difference and is worth it, please share it
 	> Should testing for .NET - the way Asserting -Should- be!
 	
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1233,12 +1259,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
 - [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
 - [Testing Exceptions with xUnit and Actions](https://ardalis.com/testing-exceptions-with-xunit-and-actions/)
+
 #### 📹 Videos
 
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 - [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
+
+#### Samples
+- [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1269,6 +1299,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
 - [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
 - [The API Integration coding test (2) - Unit and Acceptance testing | Cracking the .NET interview](https://www.youtube.com/watch?v=NPAK94ZCxD4)
+
+#### Samples
+- [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1497,7 +1530,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
-
+- [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
 ## Benchmarking
 
 ### Articles
@@ -1645,6 +1678,10 @@ If you think this repository makes a difference and is worth it, please share it
 ## Others
 
 ### Resources
+
+- [bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core)
+- [bharatdwarkani/awesome-dotnet-core-applications](https://github.com/bharatdwarkani/awesome-dotnet-core-applications)
+- [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
 
 ### Samples
 - [Samples for ASP.NET Core 5.0 (331)](https://github.com/dodyg/practical-aspnetcore)
