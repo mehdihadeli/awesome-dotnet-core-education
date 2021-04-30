@@ -1,37 +1,106 @@
-site_name: "Awesome .Net Core Education"
-site_url: "https://mehdihadeli.github.io/awesome-dotnet-core-education"
-site_description: "A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies."
-site_author: "Mehdi Hadeli"
-repo_url: "https://github.com/mehdihadeli/awesome-dotnet-core-education"
-theme: material
-pages:
-  - "Awesome .Net Core Education": "index.md"
-  - "Contributing": "contributing.md"
-extra:
-  palette:
-    primary: 'light blue'
-    accent: 'light blue'
-  logo: 'icon.svg'
+# site_name: "Awesome .Net Core Education"
+# site_url: "https://mehdihadeli.github.io/awesome-dotnet-core-education"
+# site_description: "A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies."
+# site_author: "Mehdi Hadeli"
+# repo_url: "https://github.com/mehdihadeli/awesome-dotnet-core-education"
+# theme: material
+# pages:
+#   - "Awesome .Net Core Education": "index.md"
+#   - "Contributing": "contributing.md"
+# extra:
+#   palette:
+#     primary: 'light blue'
+#     accent: 'light blue'
+#   logo: 'icon.svg'
 
-plugins:
-    - search
+# plugins:
+#     - search
+# markdown_extensions:
+#   - toc:
+#       permalink: true
+#   - markdown.extensions.admonition
+#   - markdown.extensions.def_list
+#   - markdown.extensions.footnotes
+#   - markdown.extensions.meta
+#   - pymdownx.arithmatex
+#   - pymdownx.betterem:
+#       smart_enable: all
+#   - pymdownx.caret
+#   - pymdownx.critic
+#   - pymdownx.inlinehilite
+#   - pymdownx.magiclink
+#   - pymdownx.mark
+#   - pymdownx.smartsymbols
+#   - pymdownx.superfences
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - pymdownx.tilde
+
+
+# Project information
+site_name: Awesome .Net Core Education
+site_description: A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
+site_author: Mehdi Hadeli
+site_url: https://mehdihadeli.github.io/awesome-dotnet-core-education/
+
+# Repository
+repo_name: mehdihadeli/awesome-dotnet-core-education
+repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
+
+# Copyright
+copyright: Copyright &copy; 2021 Mehdi Hadeli
+
+# Configuration
+theme:
+  name: material
+  language: en
+  features:
+    - tabs
+    - instant
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/library
+    repo: material/ship-wheel
+  favicon: logo.png
+  logo:
+    images/logo.png
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/mehdihadeli
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mehdi_hadeli
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/mehdihadeli
+
+# Google Analytics
+# google_analytics:
+#   - UA-
+#   - auto
+
+nav:
+  - Home: index.md
+  - Articles: articles/articles.md
+  - Installers: installers/installers.md
+  - Releases: releases.md
+  - Case Studies: case-studies/case-studies.md
+  - Official Resources: official-resources/official-resources.md
+  - Applications: applications/applications.md
+  - Projects: 
+    - Projects: projects/projects.md
+
+# Extensions
 markdown_extensions:
+  - admonition
   - toc:
       permalink: true
-  - markdown.extensions.admonition
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+
+plugins:
+  - search # necessary for search to work
