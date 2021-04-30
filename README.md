@@ -1548,7 +1548,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Cache in-memory in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory)
 - [Distributed caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed)
 - [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response)
-
+- [Caching Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+- [How to Improve ASP.NET App Performance in Web Farm with Caching](https://www.toptal.com/dot-net/caching-in-a-distributed-web-farm-using-asp-net)
+- [Redis as Backplane to scale your Blazor applications](https://blexin.com/en/blog-en/redis-as-backplane-to-scale-your-blazor-applications/)
+- [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
+- [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
 ### Library
 
 - [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager)
@@ -1562,6 +1566,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
 	> EF Core Second Level Cache Interceptor
+
+
 ## Benchmarking
 
 ### Articles

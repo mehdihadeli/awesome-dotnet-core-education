@@ -1,0 +1,38 @@
+site_name: "Awesome .Net Core Education"
+site_url: "https://mehdihadeli.github.io/awesome-dotnet-core-education"
+site_description: "A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies."
+site_author: "Mehdi Hadeli"
+repo_url: "https://github.com/mehdihadeli/awesome-dotnet-core-education"
+theme: material
+pages:
+  - "Awesome .Net Core Education": "index.md"
+  - "Contributing": "contributing.md"
+extra:
+  palette:
+    primary: 'light blue'
+    accent: 'light blue'
+  logo: 'icon.svg'
+
+plugins:
+    - search
+    
+markdown_extensions:
+  - toc:
+      permalink: true
+  - markdown.extensions.admonition
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
