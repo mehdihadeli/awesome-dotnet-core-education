@@ -54,8 +54,6 @@ copyright: Copyright &copy; 2021 Mehdi Hadeli
 theme:
   palette:
     primary: purple
-  features:
-    - search.suggest
 
 # Extras
 extra:
