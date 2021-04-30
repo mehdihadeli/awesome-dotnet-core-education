@@ -15,7 +15,7 @@ extra:
 
 plugins:
     - search
-    
+docs_dir: '.'
 markdown_extensions:
   - toc:
       permalink: true
