@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
   build:
     name: Deploy docs
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v2
       - name: move md files
-        run:  ./static/moveFiles.sh
+        run:  ./docs/static/moveFiles.sh
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
         env:
