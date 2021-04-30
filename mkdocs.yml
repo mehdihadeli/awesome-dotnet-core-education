@@ -52,23 +52,10 @@ copyright: Copyright &copy; 2021 Mehdi Hadeli
 
 # Configuration
 theme:
-  name: material
-  language: en
-  features:
-    - tabs
-    - instant
   palette:
-    primary: indigo
-    accent: indigo
-  font:
-    text: Roboto
-    code: Roboto Mono
-  icon:
-    logo: material/library
-    repo: material/ship-wheel
-  favicon: logo.png
-  logo:
-    images/logo.png
+    primary: purple
+  features:
+    - search.suggest
 
 # Extras
 extra:
@@ -119,4 +106,4 @@ markdown_extensions:
   - pymdownx.tilde
 
 plugins:
-  - search # necessary for search to work
+  - search
