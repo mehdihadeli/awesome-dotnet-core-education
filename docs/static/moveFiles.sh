@@ -1,2 +1,2 @@
-cp *.md docs/
-cp README.md docs/index.md
+sudo cp *.md docs/
+sudo cp README.md docs/index.md
