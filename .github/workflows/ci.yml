@@ -38,6 +38,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v2
+      - name: move md files
+        run:  ./static/moveFiles.sh
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
         env:
