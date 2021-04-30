@@ -2,7 +2,7 @@
 
 ## New entry format
 
-* Use the following format: \[LIBRARY\]\(LINK\) - DESCRIPTION
+* Use the following format: \LIBRARY\\(LINK\ - DESCRIPTION
 * The link should be the name of the package or project or article
 * Keep descriptions concise, clear and simple
 * New categories, or improvements to the existing ones are also welcome
@@ -17,13 +17,13 @@
 To stay on the list, projects should follow these quality standards:
 
 * Generally useful to the community
-* Actively maintained (even if that just means acknowledging open issues when they arise)
+* Actively maintained (even if that just means acknowledging open issues when they arise
 * Stable
 * Documented
 * Tests
 
 ## Research projects
 
-If you are to include a research or academic project, please use the `**[Research]**` tag.
+If you are to include a research or academic project, please use the `**Research**` tag.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all contributors(https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors, you're awesome and wouldn't be possible without you!

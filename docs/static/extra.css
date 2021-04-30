@@ -1,9 +1,9 @@
 /* Applies to the entire body of the HTML document (except where overridden by more specific
-selectors). */
+selectors. */
 
 body {
   margin: 0px;
-  background-color:rgb(240,240,240);
+  background-color:rgb(240,240,240;
   font-family: arial, sans-serif;
   font-size: 14px;
 }
