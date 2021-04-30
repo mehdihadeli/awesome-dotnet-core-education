@@ -52,8 +52,7 @@ copyright: Copyright &copy; 2021 Mehdi Hadeli
 
 # Configuration
 theme:
-  palette:
-    primary: purple
+  name: material
 
 # Extras
 extra:
