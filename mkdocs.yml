@@ -48,93 +48,10 @@ markdown_extensions:
       permalink: true
       #baselevel: 2
 nav:
-  - .Net: index.md#net
-    -.Net Core: index.md#net-core
-    -.Net Standard: index.md#net-standard
-    -.Net 5: index.md#net-5
-    -.Net 6: index.md#net-6
-  - C#: index.md#c
-    -C# 7: index.md#c-7
-    -C# 8: index.md#c-8
-    -C# 9: index.md#c-9
-  - .Net CLI: index.md#net-cli
-    -.Net Template: index.md#net-template
-  - .Net Tools: index.md#net-tools
-  - .Net Template: index.md#net-template
-  - .Net Core Tips: index.md#net-core-tips
-  - MetaPack: index.md#metapack
-  - MAUI: index.md#maui
-  - Source Generators: index.md#source-generators
-  - Performance: index.md#performance
-  - Serialization: index.md#serialization
-  - Generic Host And Web Host: index.md#generic-host-and-web-host
-  - DotNet Core Architecture: index.md#dotnet-core-architecture
-  - Hosting: index.md#hosting
-  - Kestrel: index.md#kestrel
-  - Feature Flags: index.md#feature-flags
-  - Middleware: index.md#middleware
-  - Action Filters: index.md#action-filters
-  - Configuration: index.md#configuration
-  - HttContextAccessor: index.md#HttpContextAccessor
-  - Options Pattern: index.md#options-pattern
-  - Grpc: index.md#grpc
-  - WebSockets: index.md#websockets
-  - SignalR: index.md#signalr
-  - HttpClient: index.md#httpclient
-  - WEB API: index.md#web-api
-  - Background Tasks: index.md#background-tasks
-  - Validation: index.md#validation
-  - Razor Pages: index.md#razor-pages
-  - GraphQL: index.md#graphql
-  - NoSQL: index.md#nosql
-    -CosmosDB: index.md#cosmosdb
-    -PostgreSQL: index.md#postgrsql
-    -MongoDB: index.md#mongodb
-    -RavenDB: index.md#ravendb
-  - Docker: index.md#docker
-  - API Versioning: index.md#api-versioning
-  - Hosted Service: index.md#hosted-service
-  - Test Host And WebApplicationFactory: index.md#test-host-and-webapplicationfactory
-  - Routing: index.md#routing
-  - Dependency Injection: index.md#dependency-injection
-  - Security: index.md#security
-    -Encryption And Data Protection: index.md#encryption-and-data-protection
-    -.Net Core Identity: index.md#net-core-identity
-    -MSAL: index.md#msal
-    -Authentication: index.md#authentication
-    -Authorization: index.md#authorization
-  - Logging And Auditing: index.md#logging-and-auditing
-  - Tracing: index.md#tracing
-  - Testing: index.md#testing
-    -Unit Testing: index.md#unit-testing
-    -Integration Testing: index.md#integration-testing
-    -End-To-End Testing: index.md#end-to-end-testing
-    -Acceptance Testing: index.md#acceptance-testing
-    -Load Testing: index.md#load-testing 
-    -Architectural Testing: index.md#architectural-testing
-    -Mocking: index.md#mocking
-    -TDD: index.md#tdd
-    -BDD: index.md#bdd
-  - Exception Handling: index.md#exception-handling
-  - EF Core: index.md#ef-core
-    -EF Core 5: index.md#ef-core-5
-  - Environment: index.md#environment
-  - MediatR: index.md#mediatr
-  - Mapping: index.md#mapping
-  - Caching: index.md#caching
-  - Benchmarking: index.md#benchmarking
-  - Package Versioning: index.md#package-versioning
-  - Orleans: index.md#orleans
-  - Identity Server: index.md#identity-server
-  - CI/CD: index.md#ci/cd
-    -Azure Devops: index.md#azure-devops
-    -GitHub Actions: index.md#gitHub-actions
-  - PaaS: index.md#PaaS
-    -Heroku: index.md#heroku
-    -Netlify: index.md#netlify
-  - Roslyn: index.md#roslyn
-  - Others: index.md#others
-  - Books: index.md#books
+  - Home: index.md
+  - Introduction:
+    - Test: index.md#test
+    - Test2: index.md#test
 
 
 copyright: 2021 <a href="https://twitter.com/mehdi_hadeli">Red Hat Spain</a>, <a href="https://mehdihadeli.github.io/awesome-dotnet-core-education/about/">about</a>.
