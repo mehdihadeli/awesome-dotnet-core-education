@@ -377,6 +377,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Books
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.co.uk/gp/product/148424026X/)
 - [Writing High-Performance .NET Code](https://www.amazon.co.uk/gp/product/0990583457)
+
 ## Serialization
 
 ### 📝 Articles
@@ -577,7 +578,7 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Grpc
+## gRPC
 
 ### Resources
 
@@ -796,6 +797,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
 - [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
 - [Using Hangfire and MediatR as a Message Dispatcher](https://codeopinion.com/using-hangfire-and-mediatr-as-a-message-dispatcher/)
+
+
 ## Validation
 
 ### 📝 Articles
@@ -1489,6 +1492,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Entity Framework Core 5.0 — Many-to-Many Relationships](https://henriquesd.medium.com/entity-framework-core-5-0-many-to-many-relationships-52c6c8b07b6e)
 - [Entity Framework Core 5 — Split Queries](https://henriquesd.medium.com/entity-framework-core-5-split-queries-2b7f6c729c8f)
 - [Split queries](https://docs.microsoft.com/en-us/ef/core/querying/single-split-queries)
+
+ <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Environment
 
