@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ## Contents
 
-- [.Net](./docs/dotnet/dotnet.md)
+- [.Net]()
   - [.Net Core](./docs/dotnet/dotnet-core.md)
   - [.Net Standard](./docs/dotnet/dotnet-standard.md)
   - [.Net 5](./docs/dotnet/dotnet5.md)
@@ -111,3 +111,4 @@ My primary focus in this repository is on quality. Creating a good quality of re
 ## Share It
 
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+
