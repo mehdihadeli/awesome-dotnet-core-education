@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ## Contents
 
-- [.Net](./docs/dotnet/dotnet.md)
+- [.Net](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/dotnet/dotnet.md)
   - [.Net Core](./docs/dotnet/dotnet-core.md)
   - [.Net Standard](./docs/dotnet/dotnet-standard.md)
   - [.Net 5](./docs/dotnet/dotnet5.md)
