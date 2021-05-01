@@ -56,7 +56,7 @@ nav:
     - .Net 6: dotnet/dotnet6.md
   - .Net CLI: 
     - .Net CLI: dotnet/dotnet-cli.md
-    - .Net Template: dotnet-template.md
+    - .Net Template: dotnet/dotnet-template.md
   - .Net Tools: dotnet/dotnet-tools.md
   - .Net Core Tips: dotnet/dotnet-core-tips.md
   - MetaPack: dotnet/metapack.md
