@@ -28,7 +28,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [.Net Tools](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/dotnet-tools.md)
 - [.Net Core Tips](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/dotnet-core-tips.md)
 - [MetaPack](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/metapack.md)
-- [C#](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/c#/c#.md)
+- [C#](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/c#/csharp.md)
   - [C# 7](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/c#/c#7.md)
   - [C# 8](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/c#/c#8.md)
   - [C# 9](https://github.com/mehdihadeli/awesome-dotnet-core-education/docs/c#/c#9.md)
