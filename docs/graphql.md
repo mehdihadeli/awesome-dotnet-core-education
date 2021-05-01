@@ -1,5 +1,9 @@
 # GraphQL
 
+## Resources
+- [https://github.com/chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+> Awesome list of GraphQL & Relay
+
 ## 📝 Articles
 
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)

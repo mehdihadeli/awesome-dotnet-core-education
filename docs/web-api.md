@@ -7,7 +7,7 @@
 - [Let's Learn .NET - Web API](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrbroy21p7?WT.mc_id=cloudskillschallenge_aa657376-2198-4cc9-9bba-38da7c199620)
 - [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 - [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
-
+- [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest)
 ## 📝 Articles
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
