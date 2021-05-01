@@ -61,9 +61,9 @@ nav:
   - .Net Core Tips: dotnet-core-tips.md
   - MetaPack: metapack.md
   - C#:
-    - C# 7: c#/c#7.md
-    - C# 8: c#/c#8.md
-    - C# 9: c#/c#9.md
+    - C# 7: c/7.md
+    - C# 8: c/8.md
+    - C# 9: c/9.md
   - MAUI: maui.md
   - Source Generators: source-generators.md
   - Performance: performance.md
