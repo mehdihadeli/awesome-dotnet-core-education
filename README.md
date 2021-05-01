@@ -16,15 +16,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 
-## Give a Star! ⭐️
-
-My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
-
-## Share It
-
-If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
-
-
 ## Contents
 
 - [.Net](docs/dotnet/dotnet.md)
@@ -112,3 +103,12 @@ If you think this repository makes a difference and is worth it, please share it
   - [Netlify](docs/paas/netlify.md)
 - [Roslyn](docs/roslyn.md)
 - [Others](docs/others.md)
+
+## Give a Star! ⭐️
+
+My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
+
+## Share It
+
+If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+
