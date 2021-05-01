@@ -2,11 +2,13 @@
 
 [![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
-![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&url=https%3A%2F%2Fgithub.com%2Fmehdihadeli%2Fawesome-dotnet-core-education)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ![](./banner.jpg)
 
-> Curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
+> Curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously. Keep Learning Keep Sharing !!
+
+> This awesome list is available here with better UI and searching feature --> [https://mehdihadeli.github.io/awesome-dotnet-core-education](https://mehdihadeli.github.io/awesome-dotnet-core-education/)
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
