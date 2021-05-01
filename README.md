@@ -27,7 +27,6 @@ If you think this repository makes a difference and is worth it, please share it
 ## Contents
 
   - [.Net](./docs/dotnet/dotnet.md)
-    - [.Net](./docs/dotnet/dotnet.md)
     - [.Net Core](./docs/dotnet/dotnet-core.md)
     - [.Net Standard](./docs/dotnet/dotnet-standard.md)
     - [.Net 5](./docs/dotnet/dotnet5.md)
