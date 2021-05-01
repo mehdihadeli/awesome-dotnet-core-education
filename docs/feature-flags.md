@@ -7,7 +7,7 @@
 
 ## Libraries
 - [bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core)
-	> Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.
+> Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.
 	
 - [valdisiljuconoks/FeatureSwitch](https://github.com/valdisiljuconoks/FeatureSwitch)
-	> FeatureSwitch is library that should reduce amount of time and code required to implement feature switching in your projects.
+> FeatureSwitch is library that should reduce amount of time and code required to implement feature switching in your projects.

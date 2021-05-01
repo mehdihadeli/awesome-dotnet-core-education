@@ -34,16 +34,16 @@
 ## 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
-	> Bring power of Linq To DB to Entity Framework Core projects
+> Bring power of Linq To DB to Entity Framework Core projects
 
 - [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) 
-	> reverse engineering, migrations and model visualization for EF Core
+> reverse engineering, migrations and model visualization for EF Core
 
 - [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) 
-	> Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
+> Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
 
 - [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) 
-	> An extensible framework to audit executing operations in .NET and .NET Core.
+> An extensible framework to audit executing operations in .NET and .NET Core.
 	
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>

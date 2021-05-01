@@ -15,7 +15,7 @@
   > A fast, fun and stimulating object to object Mapper.
 
  - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo)
-	> A convention based object to object mapper using Roslyn source generator
+> A convention based object to object mapper using Roslyn source generator
 ## 📹 Videos
 
 - [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)

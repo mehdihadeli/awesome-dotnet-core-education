@@ -40,13 +40,13 @@
 ## Libraries
 
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 
-	> Extensions for ASP.NET Core dependency injection
+> Extensions for ASP.NET Core dependency injection
 
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject)
-	> compile time dependency injection for .NET
+> compile time dependency injection for .NET
 
 - [pakrym/jab](https://github.com/pakrym/jab)	
-	> C# Source Generator based dependency injection container implementation.
+> C# Source Generator based dependency injection container implementation.
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

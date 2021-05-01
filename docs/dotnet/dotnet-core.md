@@ -36,7 +36,7 @@
 
 ## 📦 Libraries
 - [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
-	> Helping .NET developers port their projects to .NET Core!
+> Helping .NET developers port their projects to .NET Core!
 
 
 <div align="right">

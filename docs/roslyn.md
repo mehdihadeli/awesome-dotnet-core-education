@@ -10,7 +10,7 @@
 ## Tools
 
 - [https://github.com/KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) 
-	> Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+> Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
 	
 - [https://github.com/meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) 
-	> A Roslyn analyzer to enforce some good practices in C#.
+> A Roslyn analyzer to enforce some good practices in C#.
