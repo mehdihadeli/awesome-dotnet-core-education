@@ -48,16 +48,23 @@ markdown_extensions:
       permalink: true
       #baselevel: 2
 nav:
-  - Home: index.md
   - .Net:
-    - .Net Core: pages/dotnet/dotnet-core.md
-    - .Net Standard: pages/dotnet/dotnet-standard.md
-    - .Net 5: pages/dotnet/dotnet5.md
-    - .Net 6: pages/dotnet/dotnet6.md
+    - .Net : dotnet/dotnet.md
+    - .Net Core: dotnet/dotnet-core.md
+    - .Net Standard: dotnet/dotnet-standard.md
+    - .Net 5: dotnet/dotnet5.md
+    - .Net 6: dotnet/dotnet6.md
+  - .Net CLI: 
+    - .Net CLI: dotnet/dotnet-cli.md
+    - .Net Template: dotnet-template.md
+  - .Net Tools: dotnet/dotnet-tools.md
+  - .Net Core Tips: dotnet/dotnet-core-tips.md
+  - MetaPack: dotnet/metapack.md
   - C#:
-    - C# 7: pages/c#/c#7.md
-    - C# 8: pages/c#/c#8.md
-    - C# 9: pages/c#/c#9.md
+    - C# 7: c#/c#7.md
+    - C# 8: c#/c#8.md
+    - C# 9: c#/c#9.md
+
 
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
