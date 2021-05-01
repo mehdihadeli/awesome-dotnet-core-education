@@ -8,7 +8,7 @@
 
 > Curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously. Keep Learning Keep Sharing !!
 
-> This awesome list is available here with better UI and searching feature --> [https://mehdihadeli.github.io/awesome-dotnet-core-education](https://mehdihadeli.github.io/awesome-dotnet-core-education/)
+> **This awesome list is available here with better UI and searching feature: [https://mehdihadeli.github.io/awesome-dotnet-core-education](https://mehdihadeli.github.io/awesome-dotnet-core-education/)**
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
