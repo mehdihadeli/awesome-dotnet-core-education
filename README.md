@@ -88,6 +88,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [Exception Handling](docs/exception-handling.md)
 - [EF Core](docs/ef-core/ef-core.md)
   - [EF Core 5](docs/ef-core/ef-core5.md)
+  - [Expression Tree](docs/ef-core/expression-tree.md)
 - [Environment](docs/environment.md)
 - [MediatR](docs/mediatr.md)
 - [Mapping](docs/mapping.md)

@@ -21,8 +21,11 @@
 
 ## Libraries
 
-- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) > An extensible framework to audit executing operations in .NET and .NET Core.
+- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) 
+> An extensible framework to audit executing operations in .NET and .NET Core.
 
+- [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id)
+> Enrich logs with a unique ID so you can track logs for specific requests.
 ## 🔖 Samples
 
 - [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)

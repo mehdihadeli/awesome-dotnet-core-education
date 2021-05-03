@@ -8,6 +8,7 @@
 - [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 - [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest)
+
 ## 📝 Articles
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -57,19 +58,19 @@
 
 ## 📦 Libraries
 
-- [framework](https://github.com/featherhttp/framework) 
+- [featherhttp/framework](https://github.com/featherhttp/framework) 
 > A lightweight low ceremony API for web services.
 	
-- [ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith 
+- [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith 
 > A project for supporting API Endpoints in ASP.NET Core web applications.
 	
-- [Carter](https://github.com/CarterCommunity/Carter) 
+- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) 
 > Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 	
-- [refit](https://github.com/reactiveui/refit)
+- [reactiveui/refit](https://github.com/reactiveui/refit)
 > The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-- [RestEase](https://github.com/canton7/RestEase) 
+- [canton7/RestEase](https://github.com/canton7/RestEase) 
 > Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
 	
 - [HttpRepl](https://github.com/dotnet/HttpRepl)
@@ -94,6 +95,9 @@
 > Easily generate different HTTP responses for testing
 
 - [beetlex-io/FastHttpApi](https://github.com/beetlex-io/FastHttpApi)
+
+- [davidfowl/uController](https://github.com/davidfowl/uController)
+	> Code generated Web API framework for .NET Core
 
 ## 🔖 Samples
 

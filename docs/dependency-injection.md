@@ -36,7 +36,8 @@
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 - [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
 - [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
-
+- [ASP.NET Core Dependency Injection Best Practices, Tips & Tricks](https://medium.com/volosoft/asp-net-core-dependency-injection-best-practices-tips-tricks-c6e9c67f9d96)
+- [Exploring ASP.NET Core Fundamentals - Understanding Singleton Transient and Scoped Service Lifetimes](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
 ## Libraries
 
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 

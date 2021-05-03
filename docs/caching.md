@@ -16,6 +16,14 @@
 - [Redis as Backplane to scale your Blazor applications](https://blexin.com/en/blog-en/redis-as-backplane-to-scale-your-blazor-applications/)
 - [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
+
+## Use Cases
+
+- [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
+- [Real-Time Inventory Management](https://redislabs.com/solutions/use-cases/real-time-inventory/)
+- [Caching](https://redislabs.com/solutions/use-cases/caching/)
+- [Leaderboards](https://redislabs.com/solutions/use-cases/leaderboards/)
+
 ## Library
 
 - [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager)

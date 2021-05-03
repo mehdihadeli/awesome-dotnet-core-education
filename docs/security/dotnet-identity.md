@@ -27,13 +27,21 @@
 - [How to work with Policies in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-policies/)
 - [How to do Authentication of Users in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-authentication/)
 - [Two-Factor Authentication in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-two-factor-authentication/)
+- [Custom storage providers for ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-custom-storage-providers)
+- [Identity Manager using ASP.NET Identity](https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Identity)
+- [Implementing Medium's Passwordless Authentication using ASP.NET Core Identity](https://www.scottbrady91.com/ASPNET-Identity/Implementing-Mediums-Passwordless-Authentication-using-ASPNET-Core-Identity)
+- [Getting Started with IdentityManager2](https://www.scottbrady91.com/ASPNET-Identity/Getting-Started-with-IdentityManager2)
 ## Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
 > Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
 
-- [IdentityManager2](https://github.com/IdentityManager/IdentityManager2) 
+- [IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2) 
 > Development tool for administering users and roles
+
+- [IdentityManager/IdentityManager2.AspNetIdentity](https://github.com/IdentityManager/IdentityManager2.AspNetIdentity)
+
+- [scottbrady91/IdentityManager2-Example](https://github.com/scottbrady91/IdentityManager2-Example)
 
 - [matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo) 
 > This is a MongoDB provider for the ASP.NET Core 2 Identity framework
