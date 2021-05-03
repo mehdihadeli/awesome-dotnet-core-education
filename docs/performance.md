@@ -20,7 +20,7 @@
 - [Part 5: Profiling .NET Core Memory Traffic using JetBrains dotMemory](https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory) - Steve Gordon
 - [Part 6: Interpreting the .NET Core Memory Timeline in JetBrains dotMemory](https://www.stevejgordon.co.uk/interpreting-the-dotnet-core-memory-timeline-in-jetbrains-dotmemory) - Steve Gordon
 - [Part 7: Analysing the Large Object Heap in JetBrains dotMemory](https://www.stevejgordon.co.uk/analysing-the-large-object-heap-in-jetbrains-dotmemory) - Steve Gordon
-
+- [Why is your ASP.NET server so slow? 10 problems and solutions](https://michaelscodingspot.com/slow-asp-net-server/)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
