@@ -3,6 +3,8 @@
 [![Linkedin Url URL](https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehdihadeli/)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases.atom)
+
 
 ![](https://github.com/mehdihadeli/awesome-dotnet-core-education/banner.jpg)
 
