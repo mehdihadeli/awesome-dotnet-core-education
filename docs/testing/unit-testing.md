@@ -14,14 +14,14 @@
 - [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) - Steve Smith
 - [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
 - [Testing Exceptions with xUnit and Actions](https://ardalis.com/testing-exceptions-with-xunit-and-actions/)
-
+- [UnitTest](https://martinfowler.com/bliki/UnitTest.html) - Martin Fowler
 ## 📹 Videos
 
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
 - [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
-
+- [EFS003: Initialize ASP.NET Core Unit Tests](https://www.youtube.com/watch?v=jWIPkpl6Yr0)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 

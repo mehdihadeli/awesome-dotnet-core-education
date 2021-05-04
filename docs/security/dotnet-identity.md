@@ -68,6 +68,10 @@
 
 - [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe)
 > ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
+
+- [Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity](https://github.com/Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity)
+> Tech Mind Factory Identity is a demo project to present how to use identity services available in the Azure cloud.
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

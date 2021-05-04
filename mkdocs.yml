@@ -61,10 +61,12 @@ nav:
   - .Net Core Tips: dotnet-core-tips.md
   - MetaPack: metapack.md
   - C#:
-    - C# 7: c/7.md
-    - C# 8: c/8.md
-    - C# 9: c/9.md
+    - C# 7: csharp/7.md
+    - C# 8: csharp/8.md
+    - C# 9: csharp/9.md
+    - Reflection:csharpc/9.md
   - MAUI: maui.md
+  - Blazor: blazor.md
   - Source Generators: source-generators.md
   - Performance: performance.md
   - Serialization: serialization.md
@@ -116,6 +118,7 @@ nav:
     - Acceptance Testing: testing/acceptance-testing.md
     - Load Testing: testing/load-testing.md
     - Architectural Testing: testing/architectural-testing.md
+    - Contract Testing: testing/contract-testing.md
     - Test Host And WebApplicationFactory: testing/test-host.md
     - Mocking: testing/mocking.md
     - TDD: testing/tdd.md
@@ -139,6 +142,7 @@ nav:
     - Heroku: paas/heroku.md
     - Netlify: paas/netlify.md
   - Roslyn: roslyn.md
+  - Commenting: commenting.md
   - Others: others.md
 
 

@@ -2,7 +2,9 @@
 # Testing
 
 ## 📝 Articles
-
+- [First-Class Tests](https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html) - Robert C. Martin
+- [Software Testing Guide](https://martinfowler.com/testing/) - Martin Fowler
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) - Martin Fowler
 ## Library
 
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) 
@@ -24,6 +26,18 @@
 > Should testing for .NET - the way Asserting -Should- be!
 	
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
+
+- [GregFinzer/Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)
+> What you have been waiting for 👍 Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
+
+- [force-net/DeepCloner](https://github.com/force-net/DeepCloner)
+> Fast object cloner for .NET
+
+- [Tynamix/ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET/)
+> The .NET ObjectFiller fills the properties of your .NET objects with random data
+
+- [bchavez/Bogus](https://github.com/bchavez/Bogus)
+> 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
