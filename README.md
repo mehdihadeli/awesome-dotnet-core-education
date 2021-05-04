@@ -3,7 +3,7 @@
 [![Linkedin Url URL](https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehdihadeli/)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases.atom)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] 
 
 
 ![](https://github.com/mehdihadeli/awesome-dotnet-core-education/banner.jpg)
@@ -111,11 +111,16 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [Commenting](docs/commenting.md)
 - [Others](docs/others.md)
 
-## Give a Star! ⭐️
 
-My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
+## Support ⭐
+If you like my work, feel free to:
 
-## Share It
+- ⭐ this repository. And we will be happy together :)
+- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome .Net Core Education
 
-If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+
+Thanks a bunch for supporting me!
+
+[tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-dotnet-core-education&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20for%20learning%20and%20practicing%20about%20.Net%20Core%20and%20its%20related%20technologies&hashtags=dotnetcore,dotnet,csharp,netcore,aspnetcore
+
 
