@@ -17,6 +17,7 @@
 - [Running SQL Server Integration Tests in .NET Core Projects via Docker](https://blog.dangl.me/archive/running-sql-server-integration-tests-in-net-core-projects-via-docker/)
 - [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care)
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
+
 ## 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
@@ -24,9 +25,14 @@
 - [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
 - [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
 - [The API Integration coding test (2) - Unit and Acceptance testing | Cracking the .NET interview](https://www.youtube.com/watch?v=NPAK94ZCxD4)
+- [Writing robust integration tests in .NET with WireMock.NET](https://www.youtube.com/watch?v=YU3ohofu6UU)
 
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
+
+## Library
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
+> WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

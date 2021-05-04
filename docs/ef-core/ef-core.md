@@ -16,9 +16,6 @@
 - [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
 - [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 - [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
-- [Using Database Project and DbUp for database management](http://www.kamilgrzybek.com/database/using-database-project-and-dbup-for-database-management/)
-- [Database change management](http://www.kamilgrzybek.com/database/database-change-management/)
-- [Converting a Visual Studio database project to use DbUp migrations](https://dasith.me/2020/06/08/database-project-conversion-to-migrations/)
 - [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
 - [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 - [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)

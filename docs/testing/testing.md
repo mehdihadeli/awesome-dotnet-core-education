@@ -39,6 +39,9 @@
 - [bchavez/Bogus](https://github.com/bchavez/Bogus)
 > 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
+> WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

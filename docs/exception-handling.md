@@ -21,9 +21,11 @@
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
+- [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 
 ## Libraries
 
 - [https://github.com/proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 - [Hellang.Middleware.ProblemDetails](https://www.nuget.org/packages/Hellang.Middleware.ProblemDetails/)
 - [https://github.com/ardalis/GuardClauses](https://github.com/ardalis/GuardClauses)
+

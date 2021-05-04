@@ -55,6 +55,7 @@
 - [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
 - [Integrating PowerApps with .NET Web APIs](https://channel9.msdn.com/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
+- [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 
 ## 📦 Libraries
 
@@ -98,7 +99,9 @@
 
 - [davidfowl/uController](https://github.com/davidfowl/uController)
 	> Code generated Web API framework for .NET Core
-
+	
+- [khellang/Middleware/problemdetails](https://github.com/khellang/Middleware#problemdetails-)
+	> Various ASP.NET Core middleware
 ## 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)

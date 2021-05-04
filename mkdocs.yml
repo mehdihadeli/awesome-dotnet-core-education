@@ -128,6 +128,7 @@ nav:
     - EF Core: ef-core/ef-core.md
     - EF Core 5: ef-core/ef-core-5.md
     - Expression Tree: ef-core/expression-tree.md
+    - EF Core Migrations: ef-core/ef-core-migration.md
   - Environment: environment.md
   - MediatR: mediatr.md
   - Mapping: mapping.md
