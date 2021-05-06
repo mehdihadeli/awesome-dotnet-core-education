@@ -22,12 +22,15 @@
 - [Efficient querying with LINQ, AutoMapper and Future queries](https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/)
 - [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
 - [Entity Framework Exceptions](https://www.giorgi.dev/portfolio/entityframework-exceptions/)
+- [Triggers for Entity Framework Core](https://onthedrift.com/posts/efcore-triggered-part1/)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
 - [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 - [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
 - [Entity Framework Community Standup - Open Source Contributions: How to Add a Feature to EF Core](https://www.youtube.com/watch?v=9OMxy1wal1s)
+- [Entity Framework Community Standup - Triggers for EF Core](https://www.youtube.com/watch?v=Gjys0Yebobk)
+
 ## 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
@@ -44,6 +47,27 @@
 
 - [NickStrupat/EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers)
 > Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
+
+- [koenbeuk/EntityFrameworkCore.Triggered](https://github.com/koenbeuk/EntityFrameworkCore.Triggered)
+> Triggers for EFCore. Respond to changes in your DbContext before and after they are committed to the database.
+
+- [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
+> Entity Framework Core Bulk Batch Extensions for Insert Update Delete and Read (CRUD) operations on SQL Server and SQLite
+
+- [DbUp](https://github.com/DbUp/DbUp) 
+> .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+
+- [lecaillon/Evolve](https://github.com/lecaillon/Evolve)
+> Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
+
+- [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) 
+> Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core.
+
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator)
+> Fluent migrations framework for .NET
+
+- [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository)
+> C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

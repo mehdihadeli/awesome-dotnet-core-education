@@ -7,4 +7,4 @@
 
 ## 🔖 Samples
 
-- [https://github.com/ardalis/MediatRAspNetCore](https://b2n.ir/j44724) - Steve Smith
+- [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith 

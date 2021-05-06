@@ -105,10 +105,16 @@
 ## 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)
+> Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
+
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
+
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith 
+> Sample showing MediatR with ASP.NET Core
+
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 
+- [davidfowl/CommunityStandUpMinimalAPI](https://github.com/davidfowl/CommunityStandUpMinimalAPI)
 ## Templates
 
 - [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) 
