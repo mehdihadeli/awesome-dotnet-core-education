@@ -21,7 +21,7 @@
 - [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
 - [Efficient querying with LINQ, AutoMapper and Future queries](https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/)
 - [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
-
+- [Entity Framework Exceptions](https://www.giorgi.dev/portfolio/entityframework-exceptions/)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -41,7 +41,9 @@
 
 - [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) 
 > An extensible framework to audit executing operations in .NET and .NET Core.
-	
+
+- [NickStrupat/EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers)
+> Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
