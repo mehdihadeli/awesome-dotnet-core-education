@@ -23,6 +23,9 @@
 - [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
 - [Entity Framework Exceptions](https://www.giorgi.dev/portfolio/entityframework-exceptions/)
 - [Triggers for Entity Framework Core](https://onthedrift.com/posts/efcore-triggered-part1/)
+- [A robust event-driven architecture for using with Entity Framework Core](https://www.thereformedprogrammer.net/a-robust-event-driven-architecture-for-using-with-entity-framework-core/)
+- [EfCore.GenericEventRunner: an event-driven library that works with EF Core](https://www.thereformedprogrammer.net/efcore-genericeventrunner-an-event-driven-library-that-works-with-ef-core/)
+
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -68,6 +71,9 @@
 
 - [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository)
 > C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
+
+- [JonPSmith/EfCore.GenericEventRunner](https://github.com/JonPSmith/EfCore.GenericEventRunner)
+> A library to allow developer use events to update their database via Entity Framework Core (EF Core)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
