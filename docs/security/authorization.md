@@ -15,7 +15,8 @@
 - [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
 - [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
 - [Customizing Authorization Responses in .NET 5.0](https://benfoster.io/blog/customize-authorization-response-aspnet-core/)
-
+- [Claim based Authorization in Asp.Net Core](http://blog.geveo.com/Claim-based-authorization-ASP-core)
+- [Episode 019 - Roles, claims and policies - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/04/29/aspnet-019-from-zero-to-overkill-roles-claims-policies/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)

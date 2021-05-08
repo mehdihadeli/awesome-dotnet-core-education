@@ -7,7 +7,8 @@
 - [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver)
 - [How To Use ASP.NET Identity And IdentityServer4 In Your Solution](https://feras.blog/how-to-use-asp-net-identity-and-identityserver4-in-your-solution/)
 - [Make secure .NET Microservices and Web Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/secure-net-microservices-web-applications/)
-
+- [Episode 021 - Integrating IdentityServer4 - Part 1 - Overview - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/05/29/aspnet-021-from-zero-to-overkill-integrating-identityserver4-part1-overview/)
+- [Episode 022 - Integrating IdentityServer4 - Part 2 - Auth Service - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/06/13/aspnet-022-from-zero-to-overkill-integrating-identityserver4-part2-auth-service/)
 ## Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)

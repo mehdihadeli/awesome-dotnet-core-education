@@ -31,6 +31,8 @@
 - [Identity Manager using ASP.NET Identity](https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Identity)
 - [Implementing Medium's Passwordless Authentication using ASP.NET Core Identity](https://www.scottbrady91.com/ASPNET-Identity/Implementing-Mediums-Passwordless-Authentication-using-ASPNET-Core-Identity)
 - [Getting Started with IdentityManager2](https://www.scottbrady91.com/ASPNET-Identity/Getting-Started-with-IdentityManager2)
+- [Claim based Authorization in Asp.Net Core](http://blog.geveo.com/Claim-based-authorization-ASP-core)
+- [Episode 019 - Roles, claims and policies - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/04/29/aspnet-019-from-zero-to-overkill-roles-claims-policies/)
 ## Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 

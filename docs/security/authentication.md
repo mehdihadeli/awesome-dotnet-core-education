@@ -12,7 +12,7 @@
 - [JWT refresh tokens and .NET Core](https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/)
 - [JWT RSA & HMAC + ASP.NET Core](https://piotrgankiewicz.com/2017/07/24/jwt-rsa-hmac-asp-net-core/)
 - [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
-
+- [](http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
