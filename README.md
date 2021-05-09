@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   - [.Net 6](docs/dotnet/dotnet6.md)
 - [.Net CLI](docs/dotnet-cli/dotnet-cli.md)
   - [.Net Template](docs/dotnet-cli/dotnet-template.md)
+  - [Upgrade Assistant](docs/dotnet-cli/upgrade-assistant.md)
 - [.Net Tools](docs/dotnet-tools.md)
 - [.Net Core Tips](docs/dotnet-core-tips.md)
 - [MetaPack](docs/metapack.md)
