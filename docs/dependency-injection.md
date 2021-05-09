@@ -38,16 +38,18 @@
 - [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [ASP.NET Core Dependency Injection Best Practices, Tips & Tricks](https://medium.com/volosoft/asp-net-core-dependency-injection-best-practices-tips-tricks-c6e9c67f9d96)
 - [Exploring ASP.NET Core Fundamentals - Understanding Singleton Transient and Scoped Service Lifetimes](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
+- [Using Scrutor to automatically register your services with the ASP.NET Core DI container](https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/)
 ## Libraries
-
+- [khellang/Scrutor](https://github.com/khellang/Scrutor)
+	> Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 
-> Extensions for ASP.NET Core dependency injection
+	> Extensions for ASP.NET Core dependency injection
 
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject)
-> compile time dependency injection for .NET
+	> compile time dependency injection for .NET
 
 - [pakrym/jab](https://github.com/pakrym/jab)	
-> C# Source Generator based dependency injection container implementation.
+	> C# Source Generator based dependency injection container implementation.
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
