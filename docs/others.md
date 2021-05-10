@@ -6,7 +6,8 @@
 - [bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core)
 - [bharatdwarkani/awesome-dotnet-core-applications](https://github.com/bharatdwarkani/awesome-dotnet-core-applications)
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
-
+- [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md)
+- [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier)
 ## Samples
 - [Samples for ASP.NET Core 5.0 (331)](https://github.com/dodyg/practical-aspnetcore)
 

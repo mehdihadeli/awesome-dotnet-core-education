@@ -57,6 +57,7 @@ nav:
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
+    - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
   - .Net Tools: dotnet-tools.md
   - .Net Core Tips: dotnet-core-tips.md
   - MetaPack: metapack.md
