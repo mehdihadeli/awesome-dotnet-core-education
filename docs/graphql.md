@@ -22,15 +22,10 @@
 - [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
 
 ## Library
-- [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client)
-> A GraphQL Client for .NET Standard
-
-- [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)
-> GraphQL for .NET
-
-- [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate)
-> Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
-
+- [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) - A GraphQL Client for .NET Standard
+- [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
+- [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+- [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq/) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
 
 ## Samples
 
