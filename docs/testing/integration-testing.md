@@ -17,7 +17,8 @@
 - [Running SQL Server Integration Tests in .NET Core Projects via Docker](https://blog.dangl.me/archive/running-sql-server-integration-tests-in-net-core-projects-via-docker/)
 - [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care)
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
-
+- [Integration testing with EF Core, part 1](https://dev.to/maxx_don/integration-testing-with-ef-core-part-1-1l40)
+- [Integration testing with EF Core, part 2](https://dev.to/maxx_don/integration-testing-with-ef-core-part-2-1fe)
 ## 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding
