@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [HttpClient](docs/httpclient.md)
 - [WEB API](docs/web-api.md)
 - [Background Tasks](docs/background-tasks.md)
+- [Resiliency](docs/resiliency.md)
 - [Validation](docs/validation.md)
 - [Razor Pages](docs/razor-pages.md)
 - [GraphQL](docs/graphql.md)
