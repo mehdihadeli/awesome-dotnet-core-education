@@ -103,6 +103,9 @@
 	
 - [khellang/Middleware/problemdetails](https://github.com/khellang/Middleware#problemdetails-)
 	> Various ASP.NET Core middleware
+
+- [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore)
+	> JSON:API Framework for ASP.NET Core
 ## 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)

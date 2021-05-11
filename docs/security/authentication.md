@@ -14,6 +14,7 @@
 - [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
 - [Secure ASP.NET Core Web API using API Key Authentication](http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication/)
 - [Secure ASP.NET Core Web API using JWT Authentication](http://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication/)
+- [Introduction to JSON Web Tokens (JWT)](https://www.telerik.com/blogs/introduction-json-web-tokens-jwt)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
