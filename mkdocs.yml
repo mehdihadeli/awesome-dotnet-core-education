@@ -114,6 +114,7 @@ nav:
     - MSAL: security/msal.md
     - Authentication: security/authentication.md
     - Authorization: security/authorization.md
+    - OAuth & OpenID Connect: security/oauth-opencid.md
   - Logging And Auditing: logging.md
   - Tracing: tracing.md
   - Testing: 

@@ -99,6 +99,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   - [MSAL](docs/security/msal.md)
   - [Authentication](docs/security/authentication.md)
   - [Authorization](docs/security/authorization.md)
+  - [OAuth & OpenID Connect](docs/security/oauth-opencid.md)
 - [Serialization](docs/serialization.md)
 - [SignalR](docs/signalr.md) 
 - [Source Generators](docs/source-generators.md)
