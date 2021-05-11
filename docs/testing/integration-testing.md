@@ -19,6 +19,8 @@
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
 - [Integration testing with EF Core, part 1](https://dev.to/maxx_don/integration-testing-with-ef-core-part-1-1l40)
 - [Integration testing with EF Core, part 2](https://dev.to/maxx_don/integration-testing-with-ef-core-part-2-1fe)
+- [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
+
 ## 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) - Raw Coding

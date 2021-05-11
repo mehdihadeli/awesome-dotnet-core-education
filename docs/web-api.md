@@ -47,6 +47,7 @@
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 1](https://www.code4it.dev/blog/improving-application-performance-part1)
 - [14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 2](https://www.code4it.dev/blog/improving-application-performance-part2)
+- [How to Ping an endpoint with C#](https://www.code4it.dev/blog/ping-endpoint-csharp)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)

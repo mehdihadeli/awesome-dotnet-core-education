@@ -25,6 +25,7 @@
 - [Triggers for Entity Framework Core](https://onthedrift.com/posts/efcore-triggered-part1/)
 - [A robust event-driven architecture for using with Entity Framework Core](https://www.thereformedprogrammer.net/a-robust-event-driven-architecture-for-using-with-entity-framework-core/)
 - [EfCore.GenericEventRunner: an event-driven library that works with EF Core](https://www.thereformedprogrammer.net/efcore-genericeventrunner-an-event-driven-library-that-works-with-ef-core/)
+- [How slow is LINQ?](https://lex45x.medium.com/how-slow-is-linq-c3ab4037d467)
 - [LINQ: Beware of deferred execution](https://dev.to/dr_sam_walpole/linq-beware-of-deferred-execution-59db)
 ## 📹 Videos
 
@@ -74,6 +75,10 @@
 
 - [JonPSmith/EfCore.GenericEventRunner](https://github.com/JonPSmith/EfCore.GenericEventRunner)
 > A library to allow developer use events to update their database via Entity Framework Core (EF Core)
+
+- [Lex45x/QueryNinja](https://github.com/Lex45x/QueryNinja/wiki)
+> Framework for dynamic query building regardless of the source and target.
+
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

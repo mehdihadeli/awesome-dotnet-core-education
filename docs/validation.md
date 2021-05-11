@@ -2,6 +2,7 @@
 # Validation
 
 ## 📝 Articles
+[Cool validation with FluentValidation](https://www.code4it.dev/blog/fluentvalidation)
 
 ## Library
 

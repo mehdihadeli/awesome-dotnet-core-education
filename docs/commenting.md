@@ -7,5 +7,6 @@
 - [Elements of Helpful Code Documentation](https://blog.submain.com/elements-of-helpful-code-documentation/)
 - [A Field Guide to Code Comments](https://blog.submain.com/field-guide-code-comments/)
 - [10 Best Practices for Code Commenting](https://samirbehara.com/2016/02/25/10-best-practices-for-code-commenting/)
+- [Clean code tips - comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting)
 ## Videos
 - [Are comments in code actually a bad practice?](https://www.youtube.com/watch?v=GjZ1GsQPcg4)

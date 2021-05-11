@@ -69,6 +69,7 @@ nav:
   - [Code Coverage & Analysis](code-coverage-analysis.md)
   - MAUI: maui.md
   - Blazor: blazor.md
+  - Documenting APIs: documenting-apis.md
   - Source Generators: source-generators.md
   - Performance: performance.md
   - Serialization: serialization.md
@@ -77,6 +78,7 @@ nav:
   - Hosting: hosting.md
   - Kestrel: kestrel.md
   - Feature Flags: feature-flags.md
+  - REST: rest.md
   - Middleware: middleware.md
   - Action Filters: action-filters.md
   - Configuration: configuration.md

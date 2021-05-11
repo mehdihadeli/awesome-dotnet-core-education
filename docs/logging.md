@@ -13,7 +13,8 @@
 - [Events and levels structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 - [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 - [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
-
+- [Logging with Serilog and Seq](https://www.code4it.dev/blog/logging-with-serilog-and-seq)
+- [Serilog Best Practices](https://benfoster.io/blog/serilog-best-practices/)
 ## 📹 Videos
 
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=0acSdHJfk64)

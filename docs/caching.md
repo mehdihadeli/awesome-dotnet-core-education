@@ -16,7 +16,8 @@
 - [Redis as Backplane to scale your Blazor applications](https://blexin.com/en/blog-en/redis-as-backplane-to-scale-your-blazor-applications/)
 - [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
-
+- [ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?](https://blog.novanet.no/asp-net-core-memory-cache-is-get-or-create-thread-safe/)
+- [Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

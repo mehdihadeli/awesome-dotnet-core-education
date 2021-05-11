@@ -2,6 +2,7 @@
 # Load Testing
 
 ## 📝 Articles
+- [Running Load Tests From the Cloud With k6](https://benfoster.io/blog/running-load-tests-from-aws-cloud-with-k6/)
 
 ## 📹 Videos
 
