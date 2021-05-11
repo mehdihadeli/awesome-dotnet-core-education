@@ -6,6 +6,10 @@
 - [Software Testing Guide](https://martinfowler.com/testing/) 
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) 
 - [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
+
+## Videos
+- [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
+
 ## Library
 
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.

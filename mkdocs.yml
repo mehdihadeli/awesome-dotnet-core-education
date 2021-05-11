@@ -66,6 +66,7 @@ nav:
     - C# 8: csharp/8.md
     - C# 9: csharp/9.md
     - Reflection:csharpc/9.md
+  - [Code Coverage & Analysis](code-coverage-analysis.md)
   - MAUI: maui.md
   - Blazor: blazor.md
   - Source Generators: source-generators.md
