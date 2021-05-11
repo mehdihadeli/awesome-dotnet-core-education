@@ -67,6 +67,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
   - [MongoDB](docs/nosql/mongodb.md)
   - [RavenDB](docs/nosql/ravendb.md)
 - [Docker](docs/docker.md)
+- [Elastic Search](docs/elastic-search.md)
+- [Nuget](docs/nuget.md)
 - [API Versioning](docs/api-versioning.md)
 - [Hosted Service](docs/hosted-service.md)
 - [Routing](docs/routing.md)

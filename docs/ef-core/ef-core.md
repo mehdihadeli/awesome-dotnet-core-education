@@ -25,7 +25,7 @@
 - [Triggers for Entity Framework Core](https://onthedrift.com/posts/efcore-triggered-part1/)
 - [A robust event-driven architecture for using with Entity Framework Core](https://www.thereformedprogrammer.net/a-robust-event-driven-architecture-for-using-with-entity-framework-core/)
 - [EfCore.GenericEventRunner: an event-driven library that works with EF Core](https://www.thereformedprogrammer.net/efcore-genericeventrunner-an-event-driven-library-that-works-with-ef-core/)
-
+- [LINQ: Beware of deferred execution](https://dev.to/dr_sam_walpole/linq-beware-of-deferred-execution-59db)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft

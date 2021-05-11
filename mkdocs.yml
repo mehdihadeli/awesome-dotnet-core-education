@@ -97,6 +97,8 @@ nav:
     - MongoDB: nosql/mongodb.md
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
+  - Elastic Search: elastic-search.md
+  - Nuget: nuget.md
   - API Versioning: api-versioning.md
   - Hosted Service: hosted-service.md
   - Routing: routing.md

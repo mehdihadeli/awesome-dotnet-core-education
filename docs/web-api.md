@@ -45,7 +45,8 @@
 - [The Web API Checklist -- 43 Things To Think About When Designing, Testing, and Releasing your API](https://mathieu.fenniak.net/the-api-checklist/)
 - [Design Topics](http://apistylebook.com/design/topics/)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
-
+- [14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 1](https://www.code4it.dev/blog/improving-application-performance-part1)
+- [14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 2](https://www.code4it.dev/blog/improving-application-performance-part2)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
