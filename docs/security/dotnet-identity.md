@@ -33,46 +33,40 @@
 - [Getting Started with IdentityManager2](https://www.scottbrady91.com/ASPNET-Identity/Getting-Started-with-IdentityManager2)
 - [Claim based Authorization in Asp.Net Core](http://blog.geveo.com/Claim-based-authorization-ASP-core)
 - [Episode 019 - Roles, claims and policies - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/04/29/aspnet-019-from-zero-to-overkill-roles-claims-policies/)
+- [JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API](https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api)
 ## Samples
 
-- [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) 
-> Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
+- [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
 
-- [IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2) 
-> Development tool for administering users and roles
+- [IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2) - Development tool for administering users and roles
 
 - [IdentityManager/IdentityManager2.AspNetIdentity](https://github.com/IdentityManager/IdentityManager2.AspNetIdentity)
 
 - [scottbrady91/IdentityManager2-Example](https://github.com/scottbrady91/IdentityManager2-Example)
 
-- [matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo) 
-> This is a MongoDB provider for the ASP.NET Core 2 Identity framework
+- [matteofabbri/AspNetCore.Identity.Mongo](https://github.com/matteofabbri/AspNetCore.Identity.Mongo) - This is a MongoDB provider for the ASP.NET Core 2 Identity framework
 	
-- [gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) 
-> Identity Server AdminUI using Blazor.
+- [gustavobigardi/IdentityServer.BlazorAdmin](https://github.com/gustavobigardi/IdentityServer.BlazorAdmin) - Identity Server AdminUI using Blazor.
 
-- [timschreiber/ASP.NET-Core-Identity-Example](https://github.com/timschreiber/ASP.NET-Core-Identity-Example)
-> Source code for my ASP.NET Core Identity tutorial
+- [timschreiber/ASP.NET-Core-Identity-Example](https://github.com/timschreiber/ASP.NET-Core-Identity-Example) - Source code for my ASP.NET Core Identity tutorial
 	
-- [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
-> Starter project for creating APIs built on ASP.NET Core using clean architecture.
+- [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi) - Starter project for creating APIs built on ASP.NET Core using clean architecture.
 	
-- [kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver)
-> An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
+- [kimcu-on-thenet/dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver) - An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 
-- [NetDevPack/Security.Identity](https://github.com/NetDevPack/Security.Identity)
-> .NET DevPack Identity is a set of common implementations to help you implementing Identity, Jwt, claims validation and another facilities
+- [NetDevPack/Security.Identity](https://github.com/NetDevPack/Security.Identity) - .NET DevPack Identity is a set of common implementations to help you implementing Identity, Jwt, claims validation and another facilities
 
-- [aruss/IdentityBase](https://github.com/aruss/IdentityBase)
-> IdentityBase is a Universal Identity Platform for web, mobile and IoT built on top of IdentityServer.
+- [aruss/IdentityBase](https://github.com/aruss/IdentityBase) - IdentityBase is a Universal Identity Platform for web, mobile and IoT built on top of IdentityServer.
 
 - [kevinrjones/SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
 
-- [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe)
-> ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
+- [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
 
-- [Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity](https://github.com/Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity)
-> Tech Mind Factory Identity is a demo project to present how to use identity services available in the Azure cloud.
+- [Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity](https://github.com/Daniel-Krzyczkowski/Lost-In-Azure-Cloud-Identity) - Tech Mind Factory Identity is a demo project to present how to use identity services available in the Azure cloud.
+
+- [mmacneil/AspNetCoreApiStarter](https://github.com/mmacneil/AspNetCoreApiStarter) - An ASP.NET Core (v2.1) Web API project to quickly bootstrap new projects. Includes Identity, JWT authentication w/ refresh tokens.
+
+- [dejanstojanovic/dotnetcore-token-authentication](https://github.com/dejanstojanovic/dotnetcore-token-authentication) - Token based authentication in ASP.NET Core using Identity Framework
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

@@ -16,6 +16,8 @@
 - [Secure ASP.NET Core Web API using JWT Authentication](http://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication/)
 - [Introduction to JSON Web Tokens (JWT)](https://www.telerik.com/blogs/introduction-json-web-tokens-jwt)
 - [Introduction to tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853?WT.mc_id=DOP-MVP-5003880)
+- [Token based authentication and Identity framework in ASP.NET Core - Part 1](https://dejanstojanovic.net/aspnet/2018/june/token-based-authentication-in-aspnet-core-part-1/)
+- [JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API](https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -34,13 +36,16 @@
 
 ## Samples
 
-- [https://github.com/iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) > Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
+- [iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
 
-- [https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
+- [spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
 
+- [dejanstojanovic/dotnetcore-token-authentication](https://github.com/dejanstojanovic/dotnetcore-token-authentication) - Token based authentication in ASP.NET Core using Identity Framework
+
+- [mmacneil/AspNetCoreApiStarter](https://github.com/mmacneil/AspNetCoreApiStarter) - An ASP.NET Core (v2.1) Web API project to quickly bootstrap new projects. Includes Identity, JWT authentication w/ refresh tokens.
 ## Libraries
 
-- [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) > Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+- [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
