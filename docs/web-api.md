@@ -107,6 +107,9 @@
 
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore)
 	> JSON:API Framework for ASP.NET Core
+
+- [dasiths/SimpleEndpoints](https://github.com/dasiths/SimpleEndpoints)
+	> A simple, convention-based, endpoint per action pattern implementation for AspNetCore 3.0+ with full support for Swagge
 ## 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)

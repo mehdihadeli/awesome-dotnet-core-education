@@ -137,7 +137,7 @@ nav:
     - Expression Tree: ef-core/expression-tree.md
     - EF Core Migrations: ef-core/ef-core-migration.md
   - Environment: environment.md
-  - MediatR: mediatr.md
+  - Mediator: mediator.md
   - Mapping: mapping.md
   - Caching: caching.md
   - Benchmarking: benchmarking.md

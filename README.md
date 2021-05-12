@@ -71,7 +71,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [Logging And Auditing](docs/logging.md)
 - [Mapping](docs/mapping.md)
 - [MAUI](docs/maui.md)
-- [MediatR](docs/mediatr.md)
+- [Mediator](docs/mediator.md)
 - [Middleware](docs/middleware.md)
 - [NoSQL](docs/nosql/nosql.md)
   - [CosmosDB](docs/nosql/cosmosdb.md)
