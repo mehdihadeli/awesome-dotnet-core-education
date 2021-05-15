@@ -20,6 +20,7 @@
 - [Using the ProblemDetails Class in ASP.NET Core Web API](https://code-maze.com/using-the-problemdetails-class-in-asp-net-core-web-api/)
 - [Handling Web API Exceptions with ProblemDetails middleware](https://andrewlock.net/handling-web-api-exceptions-with-problemdetails-middleware/)
 - [Clean code tips - Error handling](https://www.code4it.dev/blog/clean-code-error-handling)
+- [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

@@ -54,6 +54,8 @@
 - [Routing and Action Selection in ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/routing-and-action-selection)
 - [Attribute Routing in ASP.NET Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/attribute-routing-in-web-api-2)
 - [Create a REST API with Attribute Routing in ASP.NET Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/create-a-rest-api-with-attribute-routing)
+- [The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps](https://exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/)
+- [HTTP Status Codes in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/http-status-codes-in-asp-net-web-api-a-guided-tour/)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -147,7 +149,8 @@
 
 - [REST API Design Rulebook](http://shop.oreilly.com/product/0636920021575.do)
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
-
+- [ASP.NET Web API 2: Building a REST Service from Start to Finish 2nd ed. Edition](https://www.amazon.com/gp/product/1484201108/ref=as_li_qf_sp_asin_il_tl)
+- [ASP.NET Web API 2 Recipes: A Problem-Solution Approach](https://www.amazon.com/ASP-NET-Web-API-Recipes-Problem-Solution-ebook/dp/B01J9LN3DQ/ref=sr_1_15)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
