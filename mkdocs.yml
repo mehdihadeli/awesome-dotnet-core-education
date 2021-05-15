@@ -57,16 +57,17 @@ nav:
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
+    - .Net Tools: dotnet/dotnet-tools.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
-  - .Net Tools: dotnet-tools.md
-  - .Net Core Tips: dotnet-core-tips.md
-  - MetaPack: metapack.md
+  - .Net Core Tips: dotnet/dotnet-core-tips.md
+  - .Net Data Structures:dotnet/dotnet-data-structure.md
+  - MetaPack: dotnet/metapack.md
   - C#:
     - C# 7: csharp/7.md
     - C# 8: csharp/8.md
     - C# 9: csharp/9.md
     - Reflection:csharpc/9.md
-  - [Code Coverage & Analysis](code-coverage-analysis.md)
+  - Code Coverage & Analysis: code-coverage-analysis.md
   - MAUI: maui.md
   - Blazor: blazor.md
   - API Documentation: api-documentation.md
