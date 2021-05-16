@@ -56,6 +56,7 @@
 - [Create a REST API with Attribute Routing in ASP.NET Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/create-a-rest-api-with-attribute-routing)
 - [The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps](https://exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/)
 - [HTTP Status Codes in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/http-status-codes-in-asp-net-web-api-a-guided-tour/)
+- [Preventing fat/bloated/god controllers by following a simple endpoint pattern](https://dasith.me/2020/03/21/simple-endpoints/)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
