@@ -7,6 +7,7 @@
 - [Dynamically Build LINQ Expressions](https://blog.jeremylikness.com/blog/dynamically-build-linq-expressions/)
 - [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/)
 - [Dynamic Queries with Expressions Trees in C#](https://michaelscodingspot.com/dynamic-queries/)
+- [Use of Expression Trees in .NET for Lambda Decomposition](http://www.abhisheksur.com/2010/09/use-of-expression-trees-in-lamda-c.html)
 ## Samples
 
 - [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor)

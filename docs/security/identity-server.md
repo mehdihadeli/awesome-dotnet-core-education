@@ -9,6 +9,8 @@
 - [Make secure .NET Microservices and Web Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/secure-net-microservices-web-applications/)
 - [Episode 021 - Integrating IdentityServer4 - Part 1 - Overview - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/05/29/aspnet-021-from-zero-to-overkill-integrating-identityserver4-part1-overview/)
 - [Episode 022 - Integrating IdentityServer4 - Part 2 - Auth Service - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/06/13/aspnet-022-from-zero-to-overkill-integrating-identityserver4-part2-auth-service/)
+- [Securing ASP.NET Core APIs with IdentityServer4 - Getting Started](https://referbruv.com/blog/posts/securing-aspnet-core-apis-with-identityserver4-getting-started)
+- [Implementing Authorization Code Grant using IdentityServer4 with PKCE](https://referbruv.com/blog/posts/implementing-authorization-code-grant-using-identityserver4-with-pkce)
 ## Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)

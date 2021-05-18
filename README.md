@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 - [Generic Host And Web Host](docs/generic-host.md)
 - [GraphQL](docs/graphql.md)
 - [gRPC](docs/grpc.md)
+- [Health Check](docs/health-check.md)
 - [Hosted Service](docs/hosted-service.md)
 - [Hosting](docs/hosting.md)
 - [HttpClient](docs/httpclient.md)

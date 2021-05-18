@@ -73,6 +73,7 @@ nav:
   - API Documentation: api-documentation.md
   - Source Generators: source-generators.md
   - Performance: performance.md
+  - Health Check: health-check.md
   - Serialization: serialization.md
   - Generic Host And Web Host: generic-host.md
   - .Net Core Architecture: dotnet-core-architecture.md

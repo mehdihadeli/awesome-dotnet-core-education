@@ -68,6 +68,8 @@
 - [Integrating PowerApps with .NET Web APIs](https://channel9.msdn.com/Shows/On-NET/Integrating-PowerApps-with-NET-Web-APIs)
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
+- [Build an API Gateway with Envoy and use with .NET Core APIs](https://www.youtube.com/watch?v=UsoH5cqE1OA)
+- [Hiding ASP.NET API Endpoints](https://www.youtube.com/watch?v=qRiXEjbabH4)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) 
@@ -122,6 +124,9 @@
 
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery)
 	> Lightweight solution for sorting and paging Asp.Net Core API results
+	
+- [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi)
+	> ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 ## 🔖 Samples
 
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial)

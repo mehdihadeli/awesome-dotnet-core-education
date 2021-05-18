@@ -21,6 +21,8 @@
 - [Handling Web API Exceptions with ProblemDetails middleware](https://andrewlock.net/handling-web-api-exceptions-with-problemdetails-middleware/)
 - [Clean code tips - Error handling](https://www.code4it.dev/blog/clean-code-error-handling)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
+- [Problem Details for Better REST HTTP API Errors](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
+- [Global Exception Handling in ASP.NET Core – Ultimate Guide](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

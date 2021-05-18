@@ -29,7 +29,7 @@
 - [ASP.NET Core C# Integration Testing - Mocking Cookie Authentication](https://www.youtube.com/watch?v=b1-KG_x-Y5Q)
 - [The API Integration coding test (2) - Unit and Acceptance testing | Cracking the .NET interview](https://www.youtube.com/watch?v=NPAK94ZCxD4)
 - [Writing robust integration tests in .NET with WireMock.NET](https://www.youtube.com/watch?v=YU3ohofu6UU)
-
+- [Integration Testing ASP.NET Core Web APIs with Docker - Dan Clarke](https://www.youtube.com/watch?v=VgStKMB1duY)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 

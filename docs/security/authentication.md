@@ -37,12 +37,12 @@
 ## Samples
 
 - [iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
-
 - [spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
-
 - [dejanstojanovic/dotnetcore-token-authentication](https://github.com/dejanstojanovic/dotnetcore-token-authentication) - Token based authentication in ASP.NET Core using Identity Framework
-
 - [mmacneil/AspNetCoreApiStarter](https://github.com/mmacneil/AspNetCoreApiStarter) - An ASP.NET Core (v2.1) Web API project to quickly bootstrap new projects. Includes Identity, JWT authentication w/ refresh tokens.
+- [mmacneil/AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) - Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4
+- [cornflourblue/aspnet-core-3-signup-verification-api](https://github.com/cornflourblue/aspnet-core-3-signup-verification-api) - ASP.NET Core 3.1 - Boilerplate API with Email Sign Up, Verification, Authentication & Forgot Password
+- [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) - WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET 5!
 ## Libraries
 
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
