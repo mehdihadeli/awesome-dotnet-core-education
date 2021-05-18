@@ -3,8 +3,8 @@
 
 ## 📝 Articles
 
-- [ASP.NET Core Web Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-5.0)
-- [.NET Generic Host in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-5.0)
+- [ASP.NET Core Web Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host)
+- [.NET Generic Host in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host)
 - [USING HOSTBUILDER AND THE GENERIC HOST IN .NET CORE MICROSERVICES](https://www.stevejgordon.co.uk/using-generic-host-in-dotnet-core-console-based-microservices)
 - [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
 - [The ASP.NET Core Generic Host: namespace clashes and extension methods](https://andrewlock.net/the-asp-net-core-generic-host-namespace-clashes-and-extension-methods/)
@@ -17,7 +17,7 @@
 - [Exploring Program.cs, Startup.cs and CreateDefaultBuilder in ASP.NET Core 2 preview 1](https://andrewlock.net/exploring-program-and-startup-in-asp-net-core-2-preview1-2/)
 - [WebHostBuilder](https://girishgodage.in/blog/customize-webhostbuilder)
 - [Customizing ASP.​NET Core Part 11: WebHostBuilder](https://asp.net-hacker.rocks/2019/01/30/customizing-aspnetcore-11-webhostbuilder.html)
-
+- [Working With .NET Console Host Lifetime Events](https://khalidabuhakmeh.com/working-with-dotnet-console-host-lifetime-events)
 ## 🔖 Samples
 
 - [updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
