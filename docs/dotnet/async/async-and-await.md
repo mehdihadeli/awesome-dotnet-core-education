@@ -23,7 +23,9 @@
 - [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
 - [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
-
+- [Explaining Async and Await in ASP.NET](https://exceptionnotfound.net/using-async-and-await-in-asp-net-what-do-these-keywords-mean/)
+- [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
+- [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
 
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)

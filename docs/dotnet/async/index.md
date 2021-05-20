@@ -11,7 +11,6 @@
   - [Async Local](asynclocal.md)
   - [Awaiter](awaiter.md)
   - [Cancellation](cancellation.md)
-  - [Code Analyzers](code-analyzers.md)
   - [Concurrency Vs Parallelism](concurrency-vs-parallelism)
   - [Configure Await](configure-await.md)
   - [Continuations.md](continuations.md)
