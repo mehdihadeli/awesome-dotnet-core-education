@@ -17,3 +17,4 @@
 - [Handling Entity Framework Core database migrations in production – Part 2](https://www.thereformedprogrammer.net/handling-entity-framework-core-database-migrations-in-production-part-2/)
 - [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
 - [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
+- [Handling EF Core migrations in a team](https://jkdev.me/handling-ef-core-migrations/)

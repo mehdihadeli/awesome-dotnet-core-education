@@ -17,22 +17,24 @@
 - [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
 - [Adding Serilog to the ASP.NET Core Generic Host](https://andrewlock.net/adding-serilog-to-the-asp-net-core-generic-host/)
 - [Serilog Tutorial for .NET Logging: 16 Best Practices and Tips](https://stackify.com/serilog-tutorial-net-logging/)
+- [Logging with ElasticSearch, Kibana, ASP.NET Core and Docker](https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker)
 - [Stackify - Logging with .NET Core](https://docs.stackify.com/v1/docs/errors-and-logs-configure-net-core)
 - [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
+- [Reducing log verbosity with Serilog RequestLogging](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-reducing-log-verbosity/)
+- [Logging the selected Endpoint Name with Serilog](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-logging-the-selected-endpoint-name-with-serilog/)
+- [Part 3 - Logging MVC properties with Serilog.AspNetCore](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/)
 ## 📹 Videos
 
-- [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=0acSdHJfk64)
-- [Add Simple Distributed Tracing in .NET Libraries](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wjglj4jE18Y) - CodeWithStu
+- [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
+- [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
 
 ## Libraries
 
-- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) 
-> An extensible framework to audit executing operations in .NET and .NET Core.
+- [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
+- [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
+- [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id) - Enrich logs with a unique ID so you can track logs for specific requests.
 
-- [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id)
-> Enrich logs with a unique ID so you can track logs for specific requests.
 ## 🔖 Samples
-
 - [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 - [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
 
