@@ -11,3 +11,9 @@
 - [DLR using Reflection.Emit (In Depth) Part 2](http://www.abhisheksur.com/2010/10/dlr-using-reflectionemit-in-depth-part_24.html)
 - [Dynamically loading types from assembly files in .NET Core and Standard](https://siderite.dev/blog/dynamically-loading-types-from-assembly.html/)
 - [Dynamically compile and run code using .NET Core 3.0](https://laurentkempe.com/2019/02/18/dynamically-compile-and-run-code-using-dotNET-Core-3.0/)
+- [.NET Core Plugins](https://natemcmaster.com/blog/2018/07/25/netcore-plugins/)
+- [Understanding System.Runtime.Loader.AssemblyLoadContext](https://docs.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext)
+- [Create a .NET Core application with plugins](https://docs.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support)
+## Library
+
+- [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
