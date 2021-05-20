@@ -150,6 +150,7 @@ nav:
   - CI/CD: 
     - Azure Devops: ci-cd/azure-devops.md
     - GitHub Actions: ci-cd/gitHub-actions.md
+    - Jenkins: ci-cd/jenkins.md
   - PaaS:
     - Heroku: paas/heroku.md
     - Netlify: paas/netlify.md
