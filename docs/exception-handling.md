@@ -23,6 +23,8 @@
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
 - [Problem Details for Better REST HTTP API Errors](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
 - [Global Exception Handling in ASP.NET Core – Ultimate Guide](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
+- [ASP.NET Core 3.1 - Global Error Handler Tutorial](https://jasonwatmore.com/post/2020/10/02/aspnet-core-31-global-error-handler-tutorial)
+- [Global Error Handling in ASP.NET Core Web API](https://code-maze.com/global-error-handling-aspnetcore/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

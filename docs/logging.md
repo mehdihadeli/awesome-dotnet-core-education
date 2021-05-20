@@ -1,4 +1,3 @@
-
 # Logging And Auditing
 
 ## 📝 Articles
@@ -16,6 +15,10 @@
 - [Logging with Serilog and Seq](https://www.code4it.dev/blog/logging-with-serilog-and-seq)
 - [Serilog Best Practices](https://benfoster.io/blog/serilog-best-practices/)
 - [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
+- [Adding Serilog to the ASP.NET Core Generic Host](https://andrewlock.net/adding-serilog-to-the-asp-net-core-generic-host/)
+- [Serilog Tutorial for .NET Logging: 16 Best Practices and Tips](https://stackify.com/serilog-tutorial-net-logging/)
+- [Stackify - Logging with .NET Core](https://docs.stackify.com/v1/docs/errors-and-logs-configure-net-core)
+- [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
 ## 📹 Videos
 
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=0acSdHJfk64)

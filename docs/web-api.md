@@ -8,6 +8,7 @@
 - [.NET 5 REST API Tutorial](https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS)
 - [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest)
+- [ASP.NET CORE Web API / REST API](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
 
 ## 📝 Articles
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
@@ -57,6 +58,10 @@
 - [The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps](https://exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/)
 - [HTTP Status Codes in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/http-status-codes-in-asp-net-web-api-a-guided-tour/)
 - [Preventing fat/bloated/god controllers by following a simple endpoint pattern](https://dasith.me/2020/03/21/simple-endpoints/)
+- [Scalable and Performant ASP.NET Core Web APIs: Asynchronous Code](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-asynchronous-operations/)
+- [Scalable and Performant ASP.NET Core Web APIs: Introduction](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-introduction/)
+- [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
+- [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -70,6 +75,11 @@
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Build an API Gateway with Envoy and use with .NET Core APIs](https://www.youtube.com/watch?v=UsoH5cqE1OA)
 - [Hiding ASP.NET API Endpoints](https://www.youtube.com/watch?v=qRiXEjbabH4)
+- [MVC REST API Tutorial in 5 Hours | ASP.NET CORE Web API | Tutorial | .NET 5](https://www.youtube.com/watch?v=HVZMTkhonZk&list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1&index=1)
+- [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q)
+- [ASP.NET CORE Web API / REST API](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
+- [Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
+- [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) 

@@ -60,6 +60,7 @@ nav:
     - .Net Tools: dotnet/dotnet-tools.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
   - .Net Core Tips: dotnet/dotnet-core-tips.md
+  - .Net Async: dotnet/async/index.md
   - .Net Data Structures:dotnet/dotnet-data-structure.md
   - MetaPack: dotnet/metapack.md
   - C#:
@@ -117,6 +118,7 @@ nav:
     - Authentication: security/authentication.md
     - Authorization: security/authorization.md
     - OAuth & OpenID Connect: security/oauth-opencid.md
+    - Refresh Token: security/refresh-token.md
   - Logging And Auditing: logging.md
   - Tracing: tracing.md
   - Testing: 

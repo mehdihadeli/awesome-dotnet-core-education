@@ -2,14 +2,14 @@
 # Caching
 
 ## Articles
-
+- [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response)
+- [Cache in-memory in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory)
+- [Distributed caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed)
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
 - [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
 - [REDIS VS MEMCACHED: WHICH ONE TO CHOOSE?](https://www.imaginarycloud.com/blog/redis-vs-memcached)
 - [Redis vs. Memcached: In-Memory Data Storage Systems](https://alibaba-cloud.medium.com/redis-vs-memcached-in-memory-data-storage-systems-3395279b0941)
 - [Difference Between Redis vs Memcached](https://www.educba.com/redis-vs-memcached/)
-- [Cache in-memory in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory)
-- [Distributed caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed)
 - [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response)
 - [Caching Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
 - [How to Improve ASP.NET App Performance in Web Farm with Caching](https://www.toptal.com/dot-net/caching-in-a-distributed-web-farm-using-asp-net)
@@ -18,6 +18,8 @@
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
 - [ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?](https://blog.novanet.no/asp-net-core-memory-cache-is-get-or-create-thread-safe/)
 - [Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
+- [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
+- [Scalable and Performant ASP.NET Core Web APIs: Client Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

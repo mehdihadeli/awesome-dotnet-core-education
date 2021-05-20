@@ -26,9 +26,16 @@
 - [Find, Fix, and Avoid Memory Leaks in C# .NET: 8 Best Practices](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/)
 - [Top 5 .NET memory management fundamentals](https://www.red-gate.com/products/dotnet-development/ants-memory-profiler/learning-memory-management/memory-management-fundamentals)
 - [.NET Memory Management Concepts](https://www.jetbrains.com/help/dotmemory/NET_Memory_Management_Concepts.html)
+- [Scalable and Performant ASP.NET Core Web APIs: Asynchronous Code](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-asynchronous-operations/)
+- [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
+- [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
+
+## Library
+
+- [stackify-prefix](https://stackify.com/prefix/)
 
 ## Books
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.co.uk/gp/product/148424026X/)

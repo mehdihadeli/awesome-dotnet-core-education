@@ -18,6 +18,12 @@
 - [Introduction to tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853?WT.mc_id=DOP-MVP-5003880)
 - [Token based authentication and Identity framework in ASP.NET Core - Part 1](https://dejanstojanovic.net/aspnet/2018/june/token-based-authentication-in-aspnet-core-part-1/)
 - [JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API](https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api)
+- [Secure an ASP.NET Core Web Api using Cookies](https://www.blinkingcaret.com/2018/07/18/secure-an-asp-net-core-web-api-using-cookies/)
+- [Secure a Web Api in ASP.NET Core](https://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/)
+- [External Login Providers in ASP.NET Core](https://www.blinkingcaret.com/2017/05/03/external-login-providers-in-asp-net-core/)
+- [.NET 5.0 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2021/04/30/net-5-jwt-authentication-tutorial-with-example-api)
+- [Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide](https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/)
+- [JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login](https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
