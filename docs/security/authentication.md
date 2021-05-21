@@ -24,6 +24,10 @@
 - [.NET 5.0 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2021/04/30/net-5-jwt-authentication-tutorial-with-example-api)
 - [Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide](https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/)
 - [JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login](https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login)
+- [Manually validating a JWT using .NET](https://www.jerriepelser.com/blog/manually-validating-rs256-jwt-dotnet/)
+- [Managing Cookie Lifetime with ASP.NET Core OAuth 2.0 providers](https://www.jerriepelser.com/blog/managing-session-lifetime-aspnet-core-oauth-providers/)
+- [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
+
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

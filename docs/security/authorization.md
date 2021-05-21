@@ -17,10 +17,16 @@
 - [Customizing Authorization Responses in .NET 5.0](https://benfoster.io/blog/customize-authorization-response-aspnet-core/)
 - [Claim based Authorization in Asp.Net Core](http://blog.geveo.com/Claim-based-authorization-ASP-core)
 - [Episode 019 - Roles, claims and policies - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/04/29/aspnet-019-from-zero-to-overkill-roles-claims-policies/)
+- [Creating Authorization Policies dynamically with ASP.NET Core](https://www.jerriepelser.com/blog/creating-dynamic-authorization-policies-aspnet-core/)
+- [Useful ClaimsPrincipal extension methods I use in my projects](https://www.jerriepelser.com/blog/useful-claimsprincipal-extension-methods/)
+- [Filter user records using Global Query Filters](https://www.jerriepelser.com/blog/filter-user-records-using-global-query-filter/)
+- [Access the JWT bearer token when using the JWT middleware in ASP.NET Core](https://www.jerriepelser.com/blog/aspnetcore-jwt-saving-bearer-token-as-claim/)
+- [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
+
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
-
+- [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
