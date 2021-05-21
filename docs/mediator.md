@@ -12,5 +12,5 @@
 
 ## Library
 
-- [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator)
-	> A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+- [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator) - A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+- [mayuanyang/Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
