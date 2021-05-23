@@ -19,12 +19,20 @@
 - [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/) 
 - [Using the ProblemDetails Class in ASP.NET Core Web API](https://code-maze.com/using-the-problemdetails-class-in-asp-net-core-web-api/)
 - [Handling Web API Exceptions with ProblemDetails middleware](https://andrewlock.net/handling-web-api-exceptions-with-problemdetails-middleware/)
+- [Creating a custom ErrorHandlerMiddleware function](https://andrewlock.net/creating-a-custom-error-handler-middleware-function/)
 - [Clean code tips - Error handling](https://www.code4it.dev/blog/clean-code-error-handling)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
 - [Problem Details for Better REST HTTP API Errors](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
 - [Global Exception Handling in ASP.NET Core – Ultimate Guide](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
 - [ASP.NET Core 3.1 - Global Error Handler Tutorial](https://jasonwatmore.com/post/2020/10/02/aspnet-core-31-global-error-handler-tutorial)
 - [Global Error Handling in ASP.NET Core Web API](https://code-maze.com/global-error-handling-aspnetcore/)
+- [Mapping exceptions to HTTP responses with .NET Core](https://jeroenhildering.com/2016/11/24/mapping-exceptions-to-http-responses-with-net-core/)
+- [Setting up an Exception Mapper in .NET Core 2.0](https://www.foreach.be/blog/setting-up-an-exception-mapper-in-net-core-2-0)
+- [Using Middleware to trap Exceptions in Asp.Net Core](https://docs.microsoft.com/en-us/archive/blogs/brandonh/using-middleware-to-trap-exceptions-in-asp-net-core)
+- [Centralized exception handling and request validation in ASP.NET Core](https://www.strathweb.com/2018/07/centralized-exception-handling-and-request-validation-in-asp-net-core/)
+- [Error Handling and ExceptionFilter Dependency Injection for ASP.NET Core APIs](https://weblog.west-wind.com/posts/2016/oct/16/error-handling-and-exceptionfilter-dependency-injection-for-aspnet-core-apis)
+- [Global Exception Handling in ASP.NET Core WEB API](https://www.talkingdotnet.com/global-exception-handling-in-aspnet-core-webapi/)
+- [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
@@ -33,6 +41,6 @@
 ## Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
-- [Hellang.Middleware.ProblemDetails](https://www.nuget.org/packages/Hellang.Middleware.ProblemDetails/)
+- [khellang/Middleware.ProblemDetails](https://github.com/khellang/Middleware/tree/master/src/ProblemDetails) - Various ASP.NET Core middleware
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 - [JosephWoodward/GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - Exception handling as a convention in the ASP.NET Core request pipeline.

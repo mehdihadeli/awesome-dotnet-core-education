@@ -63,6 +63,8 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Introduction](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-introduction/)
 - [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
+- [Enabling [ApiController] globally in ASP.NET Core 2.2](https://www.strathweb.com/2019/01/enabling-apicontroller-globally-in-asp-net-core-2-2/)
+- [Elegant way of producing HTTP responses in ASP.NET Core outside of MVC controllers](https://www.strathweb.com/2019/03/elegant-way-of-producing-http-responses-in-asp-net-core-outside-of-mvc-controllers/)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -83,84 +85,38 @@
 - [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core)
 ## 📦 Libraries
 
-- [featherhttp/framework](https://github.com/featherhttp/framework) 
-> A lightweight low ceremony API for web services.
-	
-- [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - Steve Smith 
-> A project for supporting API Endpoints in ASP.NET Core web applications.
-	
-- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) 
-> Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-	
-- [reactiveui/refit](https://github.com/reactiveui/refit)
-> The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-
-- [canton7/RestEase](https://github.com/canton7/RestEase) 
-> Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
-	
-- [HttpRepl](https://github.com/dotnet/HttpRepl)
-> The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
-
-- [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
-> REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-	
-- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) 
-> Swagger tools for documenting API's built on ASP.NET Core
-
-- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) 
-> The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
-
-- [NSwag](https://github.com/RicoSuter/NSwag) 
-> The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-	
-- [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) 
-> This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
-
-- [httpstat.us](https://github.com/Readify/httpstatus) 
-> Easily generate different HTTP responses for testing
-
+- [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
+- [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
+- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+- [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+- [canton7/RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
+- [HttpRepl](https://github.com/dotnet/HttpRepl) - The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
+- [rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
+- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) - The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+- [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+- [Crunch.vscode-openapi](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) - This Visual Studio Code (VS Code) extension adds rich support for the OpenAPI Specification (OAS) (formerly known as Swagger Specification) in JSON or YAML format
+- [httpstat.us](https://github.com/Readify/httpstatus) - Easily generate different HTTP responses for testing
 - [beetlex-io/FastHttpApi](https://github.com/beetlex-io/FastHttpApi)
-
-- [davidfowl/uController](https://github.com/davidfowl/uController)
-	> Code generated Web API framework for .NET Core
-	
-- [khellang/Middleware/problemdetails](https://github.com/khellang/Middleware#problemdetails-)
-	> Various ASP.NET Core middleware
-
-- [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore)
-	> JSON:API Framework for ASP.NET Core
-
-- [dasiths/SimpleEndpoints](https://github.com/dasiths/SimpleEndpoints)
-	> A simple, convention-based, endpoint per action pattern implementation for AspNetCore 3.0+ with full support for Swagge
-
-- [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery)
-	> Lightweight solution for sorting and paging Asp.Net Core API results
-	
-- [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi)
-	> ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
+- [davidfowl/uController](https://github.com/davidfowl/uController) - Code generated Web API framework for .NET Core
+- [khellang/Middleware/problemdetails](https://github.com/khellang/Middleware#problemdetails-) - Various ASP.NET Core middleware
+- [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - JSON:API Framework for ASP.NET Core
+- [dasiths/SimpleEndpoints](https://github.com/dasiths/SimpleEndpoints) - A simple, convention-based, endpoint per action pattern implementation for AspNetCore 3.0+ with full support for Swagge
+- [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
+- [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 ## 🔖 Samples
 
-- [featherhttp/tutorial](https://github.com/featherhttp/tutorial)
-> Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
-
+- [filipw/apress-recipes-webapi](https://github.com/filipw/apress-recipes-webapi) - Samples from ASP.NET Web API 2: Recipes book.
+- [featherhttp/tutorial](https://github.com/featherhttp/tutorial) - Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
-
-- [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Steve Smith 
-> Sample showing MediatR with ASP.NET Core
-
+- [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
-
 - [davidfowl/CommunityStandUpMinimalAPI](https://github.com/davidfowl/CommunityStandUpMinimalAPI)
 ## Templates
 
-- [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) 
-> A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
-
-- [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) 
-> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
-	
-- [pdevito3/craftsman](https://github.com/pdevito3/craftsman)
-> Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
+- [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+- [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
 
 ## Books
 
