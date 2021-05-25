@@ -58,6 +58,7 @@ nav:
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
     - .Net Tools: dotnet/dotnet-tools.md
+    - .Net Watch: dotnet/dotnet-watch.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
   - .Net Core Tips: dotnet/dotnet-core-tips.md
   - .Net Async: dotnet/async/index.md

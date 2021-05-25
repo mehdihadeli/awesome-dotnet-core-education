@@ -13,7 +13,7 @@
 - [Using Docker Hub to automatically build a Docker image for ASP.NET Core apps](https://andrewlock.net/using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps/)
 - [DOCKER FOR .NET DEVELOPERS (PART 1)](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 - [Optimising .NET Core Docker images](https://benfoster.io/blog/optimising-dotnet-docker-images/)
-
+- [Defining your multi-container application with docker-compose.yml](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
 
 ## 📹 Videos
 

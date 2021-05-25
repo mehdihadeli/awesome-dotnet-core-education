@@ -27,6 +27,8 @@
 
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
+- [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

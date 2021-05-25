@@ -65,6 +65,7 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 - [Enabling [ApiController] globally in ASP.NET Core 2.2](https://www.strathweb.com/2019/01/enabling-apicontroller-globally-in-asp-net-core-2-2/)
 - [Elegant way of producing HTTP responses in ASP.NET Core outside of MVC controllers](https://www.strathweb.com/2019/03/elegant-way-of-producing-http-responses-in-asp-net-core-outside-of-mvc-controllers/)
+- [Fetch API, Streams API, NDJSON, and ASP.NET Core MVC](https://www.tpeczek.com/2019/04/fetch-api-streams-api-ndjson-and-aspnet.html)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -80,7 +81,7 @@
 - [Hiding ASP.NET API Endpoints](https://www.youtube.com/watch?v=qRiXEjbabH4)
 - [MVC REST API Tutorial in 5 Hours | ASP.NET CORE Web API | Tutorial | .NET 5](https://www.youtube.com/watch?v=HVZMTkhonZk&list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1&index=1)
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q)
-- [ASP.NET CORE Web API / REST API](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
+- [ASP.NET CORE Web API / REST API - Frank Liu, Yuotube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
 - [Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
 - [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core)
 ## 📦 Libraries
