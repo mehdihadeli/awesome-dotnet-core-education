@@ -27,5 +27,14 @@
 - [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
 - [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
+
+## Libraries
+- [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
+- [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading) - Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 
+- [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 
+- [AsyncIO.DotNet](https://github.com/firenero/AsyncIO) - Easy-to-use library for common async IO file system operations. 
+- [NeoSmart.AsyncLock](https://github.com/neosmart/AsyncLock) - A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. 
+

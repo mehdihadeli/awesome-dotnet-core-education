@@ -4,6 +4,7 @@
 ## 📝 Articles
 
 - [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
+- [Getting Started With Entity Framework Core 5](https://blog.jetbrains.com/dotnet/2020/11/25/getting-started-with-entity-framework-core-5/)
 - [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
 - [What is New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
 - [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
@@ -29,7 +30,7 @@
 - [Entity Framework Core 5.0 — Many-to-Many Relationships](https://henriquesd.medium.com/entity-framework-core-5-0-many-to-many-relationships-52c6c8b07b6e)
 - [Entity Framework Core 5 — Split Queries](https://henriquesd.medium.com/entity-framework-core-5-split-queries-2b7f6c729c8f)
 - [Split queries](https://docs.microsoft.com/en-us/ef/core/querying/single-split-queries)
-
+- [Entity Framework Core supports constructors with arguments](https://gunnarpeipman.com/ef-core-constructor-arguments/)
 ## 📚 Books
 - [Entity Framework Core in Action, Second Edition](https://www.manning.com/books/entity-framework-core-in-action-second-edition)
 - [Beginning Entity Framework Core 5](https://www.apress.com/gp/book/9781484268810)
