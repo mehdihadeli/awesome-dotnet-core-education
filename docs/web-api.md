@@ -17,6 +17,7 @@
 - [Use ASP.NET Core route-to-code for simple JSON APIs](https://www.daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code/)
 - [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
 - [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
+- [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 - [Model Binding - ASP.NET Core Demystified](https://exceptionnotfound.net/asp-net-core-demystified-model-binding-in-mvc/)
 - [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 - [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
@@ -84,6 +85,8 @@
 - [ASP.NET CORE Web API / REST API - Frank Liu, Yuotube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
 - [Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
 - [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core)
+- [ASP.NET Core Series: Route To Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
+- [ASP.NET Core Series: Endpoint Routing](https://www.youtube.com/watch?v=fSSPEM3e7yY)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
