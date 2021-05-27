@@ -100,6 +100,7 @@ Thanks a bunch for supporting me!
 - [Package Versioning](docs/package-versioning.md)
 - [Performance](docs/performance.md)
 - [Razor Pages](docs/razor-pages.md)
+- [Resharper Tips](docs/resharper-tips.md)
 - [Resiliency](docs/resiliency.md)
 - [REST](docs/rest.md)
 - [Roslyn](docs/roslyn.md)
