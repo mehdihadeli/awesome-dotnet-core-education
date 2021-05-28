@@ -1,0 +1,2 @@
+- [IDE & Tools](index.md)
+  - [Resharper & Rider](resharper-rider.md)

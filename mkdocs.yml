@@ -152,7 +152,8 @@ nav:
     - Heroku: paas/heroku.md
     - Netlify: paas/netlify.md
   - Roslyn: roslyn.md
-  - Resharper Tips: resharper-tips.md
+  - IDE & Tools: 
+    - Reharper & Rider: ide-tools/resharper-rider.md
   - Commenting: commenting.md
   - Others: others.md
 
