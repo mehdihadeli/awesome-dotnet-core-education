@@ -154,6 +154,8 @@ nav:
   - Roslyn: roslyn.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
+    - Terminal Tools: ide-tools/terminal.md
+    - WSL: ide-tools/wsl.md
   - Commenting: commenting.md
   - Others: others.md
 

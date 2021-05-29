@@ -1,2 +1,4 @@
 - [IDE & Tools](index.md)
   - [Resharper & Rider](resharper-rider.md)
+  - [Terminal Tools](terminal.md)
+  - [WSL](wsl.md)
