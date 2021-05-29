@@ -11,3 +11,4 @@
 - [Creating a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/creating-a-quartz-net-hosted-service-with-asp-net-core/)
 - [Using scoped services inside a Quartz.NET hosted service with ASP.NET Core](https://andrewlock.net/using-scoped-services-inside-a-quartz-net-hosted-service-with-asp-net-core/)
 - [Using Hangfire and MediatR as a Message Dispatcher](https://codeopinion.com/using-hangfire-and-mediatr-as-a-message-dispatcher/)
+- [A poor person’s scheduler using .NET Background service](https://ankitvijay.net/2021/02/22/a-poor-mans-scheduler-using-net-background-serivce/)

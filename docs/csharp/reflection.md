@@ -14,6 +14,7 @@
 - [.NET Core Plugins](https://natemcmaster.com/blog/2018/07/25/netcore-plugins/)
 - [Understanding System.Runtime.Loader.AssemblyLoadContext](https://docs.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext)
 - [Create a .NET Core application with plugins](https://docs.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support)
+- [Instantiating a C# object from a string using Activator.CreateInstance in .NET](https://jeremylindsayni.wordpress.com/2019/02/11/instantiating-a-c-object-from-a-string-using-activator-createinstance-in-net/)
 ## Library
 
 - [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code

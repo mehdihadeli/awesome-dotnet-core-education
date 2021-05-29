@@ -18,13 +18,13 @@
 - [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 
-
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 
 - [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) 
 - [EFS003: Initialize ASP.NET Core Unit Tests](https://www.youtube.com/watch?v=jWIPkpl6Yr0)
-
+- [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
+- [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 

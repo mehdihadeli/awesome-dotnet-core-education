@@ -13,7 +13,8 @@
 - [Debugging configuration values in ASP.NET Core](https://andrewlock.net/debugging-configuration-values-in-aspnetcore/)
 - [Viewing app configuration using Oakton's Describe command and Spectre.Console](https://andrewlock.net/viewing-application-configuration-using-oaktons-describe-command/)
 - [Viewing overwritten configuration values in ASP.NET Core](https://andrewlock.net/viewing-overriden-configuration-values-in-aspnetcore/)
-
+- [Strongly Typed Configuration Settings in ASP.NET Core](https://weblog.west-wind.com/posts/2016/may/23/strongly-typed-configuration-settings-in-aspnet-core)
+- [Easy Configuration Binding in ASP.NET Core - revisited](https://weblog.west-wind.com/posts/2017/Dec/12/Easy-Configuration-Binding-in-ASPNET-Core-revisited)
 ## 📦 Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)

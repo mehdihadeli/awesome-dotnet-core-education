@@ -9,8 +9,12 @@
 - [ASP.NET Core 5 + Serilog](https://jkdev.me/asp-net-core-serilog/)
 - [What Is Structured Logging and Why Developers Need It](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
 - [Structured logging concepts in .NET Series (1)](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)
+- [Events and levels - structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 - [Events and levels structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 - [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
+- [Event types – structured logging concepts in .NET (4)](https://nblumhardt.com/2016/07/event-types-structured-logging-concepts-in-net-4/)
+- [Context and correlation – structured logging concepts in .NET (5)](https://nblumhardt.com/2016/08/context-and-correlation-structured-logging-concepts-in-net-5/)
+- [Serialized data – structured logging concepts in .NET (6)](https://nblumhardt.com/2016/08/serialized-data-structured-logging-concepts-in-net-6/)
 - [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
 - [Logging with Serilog and Seq](https://www.code4it.dev/blog/logging-with-serilog-and-seq)
 - [Serilog Best Practices](https://benfoster.io/blog/serilog-best-practices/)
@@ -23,6 +27,7 @@
 - [Reducing log verbosity with Serilog RequestLogging](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-reducing-log-verbosity/)
 - [Logging the selected Endpoint Name with Serilog](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-logging-the-selected-endpoint-name-with-serilog/)
 - [Part 3 - Logging MVC properties with Serilog.AspNetCore](https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/)
+- [Extending Serilog with additional values to log](https://dejanstojanovic.net/aspnet/2018/october/extending-serilog-with-additional-values-to-log/)
 ## 📹 Videos
 
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)

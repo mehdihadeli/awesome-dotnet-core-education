@@ -27,7 +27,7 @@
 - [Manually validating a JWT using .NET](https://www.jerriepelser.com/blog/manually-validating-rs256-jwt-dotnet/)
 - [Managing Cookie Lifetime with ASP.NET Core OAuth 2.0 providers](https://www.jerriepelser.com/blog/managing-session-lifetime-aspnet-core-oauth-providers/)
 - [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
-
+- [Role based JWT Tokens in ASP.NET Core APIs](https://weblog.west-wind.com/posts/2021/Mar/09/Role-based-JWT-Tokens-in-ASPNET-Core)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

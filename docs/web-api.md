@@ -67,6 +67,9 @@
 - [Enabling [ApiController] globally in ASP.NET Core 2.2](https://www.strathweb.com/2019/01/enabling-apicontroller-globally-in-asp-net-core-2-2/)
 - [Elegant way of producing HTTP responses in ASP.NET Core outside of MVC controllers](https://www.strathweb.com/2019/03/elegant-way-of-producing-http-responses-in-asp-net-core-outside-of-mvc-controllers/)
 - [Fetch API, Streams API, NDJSON, and ASP.NET Core MVC](https://www.tpeczek.com/2019/04/fetch-api-streams-api-ndjson-and-aspnet.html)
+- [Accepting Raw Request Body Content in ASP.NET Core API Controllers](https://weblog.west-wind.com/posts/2017/Sep/14/Accepting-Raw-Request-Body-Content-in-ASPNET-Core-API-Controllers)
+- [Passing correlation id across requests](https://ankitvijay.net/2020/11/24/passing-correlation-id-across-requests/)
+- [ASP.NET CORE CORRELATION IDS](https://www.stevejgordon.co.uk/asp-net-core-correlation-ids)
 ### 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
