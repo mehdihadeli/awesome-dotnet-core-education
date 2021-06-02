@@ -45,7 +45,6 @@ Thanks a bunch for supporting me!
 - [.Net MetaPack](docs/dotnet/metapack.md)
 - [.Net Async](docs/dotnet/async/index.md)
 - [.Net Core Architecture](docs/dotnet/dotnet-core-architecture.md)
-- [.Net Data Structures](docs/dotnet/dotnet-data-structure.md)
 - [Action Filters](docs/action-filters.md)
 - [API Documentation](docs/api-documentation.md)
 - [API Versioning](docs/api-versioning.md)

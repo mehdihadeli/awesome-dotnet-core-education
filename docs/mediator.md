@@ -6,6 +6,8 @@
 - [Using MediatR in ASPNET Core Apps](https://ardalis.com/using-mediatr-in-aspnet-core-apps) 
 - [Mediator Pattern Implemented In .NET/C#](https://dasith.me/2019/01/07/mediator-pattern-implemented-in-net/)
 - [No, MediatR Didn't Run Over My Dog](https://scotthannen.org/blog/2020/06/20/mediatr-didnt-run-over-dog.html)
+- [How to use MediatR Pipeline Behaviours](https://garywoodfine.com/how-to-use-mediatr-pipeline-behaviours/)
+- [Mediator Design Pattern in ASP.NET Core](https://www.ezzylearning.net/tutorial/mediator-design-pattern-in-asp-net-core)
 ## Samples
 
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 

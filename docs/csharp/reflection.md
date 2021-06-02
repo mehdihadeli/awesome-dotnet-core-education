@@ -15,6 +15,16 @@
 - [Understanding System.Runtime.Loader.AssemblyLoadContext](https://docs.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext)
 - [Create a .NET Core application with plugins](https://docs.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support)
 - [Instantiating a C# object from a string using Activator.CreateInstance in .NET](https://jeremylindsayni.wordpress.com/2019/02/11/instantiating-a-c-object-from-a-string-using-activator-createinstance-in-net/)
-## Library
+- [AssemblyBuilder Class](https://docs.microsoft.com/en-us/dotnet/api/system.reflection.emit.assemblybuilder)
+- [System.Reflection.Emit Namespace](https://docs.microsoft.com/en-us/dotnet/api/system.reflection.emit)
+- [Reflection and Reflection.Emit in C#](https://www.c-sharpcorner.com/uploadfile/puranindia/reflection-and-reflection-emit-in-C-Sharp/)
+- [Chapter 5. Generating code with Reflection.Emit](https://livebook.manning.com/book/metaprogramming-in-dot-net/chapter-5/)
+- [Reflection Part 1: Discovery and Execution](https://www.codemag.com/article/0211161/Reflection-Part-1-Discovery-and-Execution)
+- [Reflection Part 2: Emit](https://www.codemag.com/article/0301051/Reflection-Part-2-Emit)
+- [Benchmarking 4 reflection methods for calling a constructor in .NET](https://andrewlock.net/benchmarking-4-reflection-methods-for-calling-a-constructor-in-dotnet/)
+## Libraries
 
 - [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
+
+## Books
+- [MetaProgramming in .Net](https://livebook.manning.com/book/metaprogramming-in-dot-net/)

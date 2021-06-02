@@ -10,3 +10,4 @@
 - [Shortcuts, Editing, and Completion - Rider Essentials](https://www.youtube.com/watch?v=ztQ9ez1bFNg)
 - [Debugging Tips & Tricks in Rider](https://www.youtube.com/watch?v=uALiyRpnovc)
 - [Code Formatting - ReSharper Essentials](https://www.youtube.com/watch?v=QpeTw4p3aeU)
+- [Inspections and Quick Fixes - ReSharper Essentials](https://www.youtube.com/watch?v=RgDGJ9H63n4)

@@ -17,6 +17,7 @@
 - [Exploring the async/await State Machine – Conceptual Implementation](https://vkontech.com/exploring-the-async-await-state-machine-conceptual-implementation/)
 - [Dissecting the async methods in C#](https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/)
 - [Extending the async methods in C#](https://devblogs.microsoft.com/premier-developer/extending-the-async-methods-in-c/)
+- [The performance characteristics of the async methods in C#](https://devblogs.microsoft.com/premier-developer/the-performance-characteristics-of-async-methods/)
 - [Understanding async/await State Machine in .NET](https://mykkon.work/async-state-machine/)
 - [Fixing the Sync over Async antipattern](https://makolyte.com/fixing-the-sync-over-async-antipattern/)
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
@@ -27,7 +28,10 @@
 - [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
 - [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
-
+- [Async/Await Calls Gotcha with the CSharp ? Null Propagator](https://weblog.west-wind.com/posts/2021/May/15/Async-Await-with-the-Null-Propagator)
+- [Asynchronous C#: Making a simple Cup of Tea](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-13i)
+- [Asynchronous C#: Making a simple Cup of Tea (Part 2)](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-part-2-1jcj)
+- [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 

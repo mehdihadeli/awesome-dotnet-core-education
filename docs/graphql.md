@@ -1,8 +1,7 @@
 # GraphQL
 
 ## Resources
-- [https://github.com/chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
-> Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 
 ## 📝 Articles
 
@@ -16,8 +15,9 @@
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 2](https://fullstackmark.com/post/23/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2)
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 3](https://fullstackmark.com/post/24/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-3)
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 4](https://fullstackmark.com/post/25/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-4)
+- [Understanding the benefits and limitations of GraphQL versus REST](https://blog.mia-platform.eu/en/understanding-the-benefits-and-limitations-of-graphql-versus-rest-api)
 ## 📹 Videos
-
+- [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So&t=2623s)
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 - [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
 - [Hot Chocolate: An introduction to GraphQL on ASP.Net Core - Michael Staib](https://www.youtube.com/watch?v=x7oYYLgZgtY)

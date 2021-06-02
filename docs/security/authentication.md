@@ -28,6 +28,7 @@
 - [Managing Cookie Lifetime with ASP.NET Core OAuth 2.0 providers](https://www.jerriepelser.com/blog/managing-session-lifetime-aspnet-core-oauth-providers/)
 - [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
 - [Role based JWT Tokens in ASP.NET Core APIs](https://weblog.west-wind.com/posts/2021/Mar/09/Role-based-JWT-Tokens-in-ASPNET-Core)
+- [SECURE AN ANGULAR SPA AND AN ASP.NET CORE API USING AUTH0](https://damienbod.com/2021/05/24/secure-an-angular-spa-and-an-asp-net-core-api-using-auth0/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

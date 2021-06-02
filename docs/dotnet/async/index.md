@@ -19,6 +19,7 @@
   - [Exception Handling](exception-handling)
   - [Io Bound](io-bound.md)
   - [Synchronization Context](synchronization-context.md)
+  - [State Machine](state-machine.md)
   - [TaskCompletionSource](task-completion-source.md)
   - [Task](task.md)
   - [ThreadPool](thread-pool.md)

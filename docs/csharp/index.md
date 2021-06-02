@@ -1,4 +1,7 @@
 - [C#](csharp.md)
+  - [Closure](closure.md)
+  - [Collections & Data Structures](collection-data-structure.md)
+  - [Constant](constant.md)
   - [Versions](versions/versioning.md)
 	  - [C# 7](versions/7.md)
 	  - [C# 8](versions/8.md)
@@ -6,3 +9,4 @@
   - [Reflection](reflection.md)
   - [Boxing](boxing.md)
   - [Implicit & Explicit Operators](implicit-explicit-operators.md)
+  - [Types](types.md)

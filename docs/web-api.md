@@ -70,7 +70,8 @@
 - [Accepting Raw Request Body Content in ASP.NET Core API Controllers](https://weblog.west-wind.com/posts/2017/Sep/14/Accepting-Raw-Request-Body-Content-in-ASPNET-Core-API-Controllers)
 - [Passing correlation id across requests](https://ankitvijay.net/2020/11/24/passing-correlation-id-across-requests/)
 - [ASP.NET CORE CORRELATION IDS](https://www.stevejgordon.co.uk/asp-net-core-correlation-ids)
-### 📹 Videos
+- [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
+## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
 - [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
