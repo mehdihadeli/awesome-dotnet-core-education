@@ -25,7 +25,7 @@
 - [CodAffection/React-CRUD-with-Asp.Net-Core-Web-API](https://github.com/CodAffection/React-CRUD-with-Asp.Net-Core-Web-API) - Full Stack React js CRUD with Asp.Net Core Web
 - [microsoft/AspNetCore-React-WebApp](https://github.com/microsoft/AspNetCore-React-WebApp) - ASP.NET Core backend + React frontend + Entity Framework Core + automated testing
 - [based-ghost/aspnet-core-react-redux-playground-template](https://github.com/based-ghost/aspnet-core-react-redux-playground-template) - SPA template built with ASP.NET Core 5.0 + React + Redux + TypeScript + Hot Module Replacement (HMR)
-- [https://github.com/NetCoreTemplates/react-spa](https://github.com/NetCoreTemplates/react-spa) - .NET 5.0 React Create App CLI Bootstrap App
+- [NetCoreTemplates/react-spa](https://github.com/NetCoreTemplates/react-spa) - .NET 5.0 React Create App CLI Bootstrap App
 - [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) - Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more!
 - [SoftwareAteliers/asp-net-core-vue-starter](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) - ASP.NET Core + Vue.js starter project
 - [danijelh/aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
@@ -34,7 +34,7 @@
 - [based-ghost/aspnet-core-vue-vuex-playground-template](https://github.com/based-ghost/aspnet-core-vue-vuex-playground-template) - SPA template built with ASP.NET Core 5.0 + Vue + Vuex + TypeScript + Hot Module Replacement (HMR)
 - [TrilonIO/aspnetcore-angular-universal](https://github.com/TrilonIO/aspnetcore-angular-universal) - ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more!
 - [emonney/QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core 3.1 / Angular 9 startup project template with complete login, user and role management. Plus other useful services for Quick Application Development
-- [https://github.com/FabianGosebrink/ASPNETCore-Angular-Ngrx](FabianGosebrink/ASPNETCore-Angular-Ngrx) - An ASP.NET Core WebAPI Demo with an Angular Client using Ngrx store and effects and Signalr
+- [FabianGosebrink/ASPNETCore-Angular-Ngrx](FabianGosebrink/ASPNETCore-Angular-Ngrx) - An ASP.NET Core WebAPI Demo with an Angular Client using Ngrx store and effects and Signalr
 - [jasontaylordev/SecureSpa](https://github.com/jasontaylordev/SecureSpa) - ASP.NET Core 3 + Angular 8 + ASP.NET Identity generated using .NET Core SDK
 - [DanWahlin/AngularCLI-ASPNET-Core-CustomersService](https://github.com/DanWahlin/AngularCLI-ASPNET-Core-CustomersService) - Example of integrating Angular with ASP.NET Core RESTful Services
 - [NetCoreTemplates/angular-spa](https://github.com/NetCoreTemplates/angular-spa) - .NET 5.0 Angular 9 CLI Bootstrap App
