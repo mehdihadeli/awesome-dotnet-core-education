@@ -1,7 +1,9 @@
 # MongoDB
 
 ## Resources
-- [MongoDB - The database for giant ideas](https://stackshare.io/mongodb)
+- [MongoDB Docs](https://docs.mongodb.com/)
+
+## Articles
 - [How to integrate MongoDB with C#](https://www.code4it.dev/blog/mongodb-introduction-with-csharp)
 
 ## Library
