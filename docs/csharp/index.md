@@ -8,5 +8,6 @@
 	  - [C# 9](versions/9.md)
   - [Reflection](reflection.md)
   - [Boxing](boxing.md)
+  - [Null Check](null-check.md)
   - [Implicit & Explicit Operators](implicit-explicit-operators.md)
   - [Types](types.md)

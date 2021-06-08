@@ -29,6 +29,7 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Asynchronous Code](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-asynchronous-operations/)
 - [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
+- [Investigate memory issues with ease – Introducing real-time inspections in dotMemory Allocation Analysis](https://blog.jetbrains.com/dotnet/2021/06/01/investigate-memory-issues-with-ease-introducing-real-time-inspections-in-dotmemory-allocation-analysis/)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)

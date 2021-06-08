@@ -21,6 +21,10 @@
 - [Integration testing with EF Core, part 2](https://dev.to/maxx_don/integration-testing-with-ef-core-part-2-1fe)
 - [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
 - [The curious case of ASP.NET Core integration test deadlock](https://www.strathweb.com/2021/05/the-curious-case-of-asp-net-core-integration-test-deadlock/)
+- [Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/)
+- [Integration Testing with ASP.NET Core 3.1](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1)
+- [Integration Testing with ASP.NET Core 3.1 - Testing Your Application](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-testing-your-app)
+- [Integration Testing with ASP.NET Core 3.1 - Swapping a Dependency](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-swapping-dependency)
 ## 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
@@ -34,10 +38,12 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
-
+- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
+- [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 ## Library
-- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
-> WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

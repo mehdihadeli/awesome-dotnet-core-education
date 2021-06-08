@@ -27,6 +27,10 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
+- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
+- [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

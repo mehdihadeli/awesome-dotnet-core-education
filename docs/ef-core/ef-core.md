@@ -27,6 +27,8 @@
 - [EfCore.GenericEventRunner: an event-driven library that works with EF Core](https://www.thereformedprogrammer.net/efcore-genericeventrunner-an-event-driven-library-that-works-with-ef-core/)
 - [How slow is LINQ?](https://lex45x.medium.com/how-slow-is-linq-c3ab4037d467)
 - [LINQ: Beware of deferred execution](https://dev.to/dr_sam_walpole/linq-beware-of-deferred-execution-59db)
+- [A Cleaner Way To Do Entity Configuration With EF Core](https://dotnetcoretutorials.com/2020/06/27/a-cleaner-way-to-do-entity-configuration-with-ef-core/)
+- [Fluent API Configuration](https://www.learnentityframeworkcore.com/configuration/fluent-api)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -34,7 +36,7 @@
 - [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
 - [Entity Framework Community Standup - Open Source Contributions: How to Add a Feature to EF Core](https://www.youtube.com/watch?v=9OMxy1wal1s)
 - [Entity Framework Community Standup - Triggers for EF Core](https://www.youtube.com/watch?v=Gjys0Yebobk)
-
+- [Entity Framework Community Standup - Introducing EF Core Compiled Models](https://www.youtube.com/watch?v=XdhX3iLXAPk)
 ## 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

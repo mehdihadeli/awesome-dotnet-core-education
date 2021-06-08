@@ -8,6 +8,7 @@
 - [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/)
 - [Dynamic Queries with Expressions Trees in C#](https://michaelscodingspot.com/dynamic-queries/)
 - [Use of Expression Trees in .NET for Lambda Decomposition](http://www.abhisheksur.com/2010/09/use-of-expression-trees-in-lamda-c.html)
+- [Build dynamic Linq filters (aka. where() predicates)](https://laurentiu.codes/2021/06/04/build-a-dynamic-linq-filters-aka-where-predicates/)
 ## Samples
 
 - [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor)

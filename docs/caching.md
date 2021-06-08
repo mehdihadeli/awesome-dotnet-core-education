@@ -20,12 +20,16 @@
 - [Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 - [Scalable and Performant ASP.NET Core Web APIs: Client Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/)
+- [HOW TO USE IN-MEMORY CACHING FOR .NET CORE WEB APIS](https://thecodeblogger.com/2021/06/07/how-to-use-in-memory-caching-for-net-core-web-apis/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
 - [Real-Time Inventory Management](https://redislabs.com/solutions/use-cases/real-time-inventory/)
 - [Caching](https://redislabs.com/solutions/use-cases/caching/)
 - [Leaderboards](https://redislabs.com/solutions/use-cases/leaderboards/)
+
+## Videos
+- [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
 
 ## Library
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client

@@ -34,6 +34,7 @@
 - [Global Exception Handling in ASP.NET Core WEB API](https://www.talkingdotnet.com/global-exception-handling-in-aspnet-core-webapi/)
 - [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
 - [An opinionated way to consistent Error Handling in ASP.NET Core](https://ankitvijay.net/2021/04/21/consistent-error-handling/)
+- [EXCEPTION HANDLING MIDDLEWARE IN .NET CORE WEB API](https://thecodeblogger.com/2021/05/30/exception-handling-middleware-in-net-core-web-api/?subscribe=success#blog_subscription-5)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

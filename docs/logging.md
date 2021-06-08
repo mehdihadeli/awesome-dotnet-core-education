@@ -32,6 +32,7 @@
 - [Implement log monitoring with Seq and Serilog in .net Core](https://garywoodfine.com/implement-log-monitoring-with-seq-and-serilog-in-net-core/)
 - [Implementing logging in .net core applications for logging, telemetry and your own sanity](https://garywoodfine.com/implementing-logging-in-net-core-applications-for-logging-telemetry-and-your-own-sanity/)
 - [Implementing logging with Serilog](https://garywoodfine.com/implementing-logging-with-serilog/)
+- [Customizing Serilog text output](https://nblumhardt.com/2021/06/customize-serilog-text-output/)
 ## 📹 Videos
 
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
