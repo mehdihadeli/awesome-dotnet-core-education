@@ -22,6 +22,7 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Client Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/)
 - [HOW TO USE IN-MEMORY CACHING FOR .NET CORE WEB APIS](https://thecodeblogger.com/2021/06/07/how-to-use-in-memory-caching-for-net-core-web-apis/)
 - [DISTRIBUTED CACHING AND DISTRIBUTED MEMORY CACHE IN .NET CORE](https://thecodeblogger.com/2021/06/08/distributed-caching-and-distributed-memory-cache-in-net-core/)
+- [USE DISTRIBUTED SQL SERVER CACHE WITH .NET CORE WEB APIS](https://thecodeblogger.com/2021/06/09/use-distributed-sql-server-cache-with-net-core-web-apis/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
