@@ -25,6 +25,7 @@
 - [Integration Testing with ASP.NET Core 3.1](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1)
 - [Integration Testing with ASP.NET Core 3.1 - Testing Your Application](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-testing-your-app)
 - [Integration Testing with ASP.NET Core 3.1 - Swapping a Dependency](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-swapping-dependency)
+- [Treat your integration tests as external consumers](https://josef.codes/treat-you-integration-tests-as-external-consumers/)
 ## 📹 Videos
 
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
