@@ -18,3 +18,8 @@
 - [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
 - [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
 - [Handling EF Core migrations in a team](https://jkdev.me/handling-ef-core-migrations/)
+- [How and where to call Database.EnsureCreated and Database.Migrate?](https://stackoverflow.com/questions/38238043/how-and-where-to-call-database-ensurecreated-and-database-migrate)
+
+## Videos
+
+- [Getting Started With DbUp And Setting Up Azure DEVOPS Pipeline | Deploy Changes to SQL Server](https://www.youtube.com/watch?v=Jm4C-WzAdls)

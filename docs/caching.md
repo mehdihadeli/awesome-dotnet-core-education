@@ -23,6 +23,9 @@
 - [HOW TO USE IN-MEMORY CACHING FOR .NET CORE WEB APIS](https://thecodeblogger.com/2021/06/07/how-to-use-in-memory-caching-for-net-core-web-apis/)
 - [DISTRIBUTED CACHING AND DISTRIBUTED MEMORY CACHE IN .NET CORE](https://thecodeblogger.com/2021/06/08/distributed-caching-and-distributed-memory-cache-in-net-core/)
 - [USE DISTRIBUTED SQL SERVER CACHE WITH .NET CORE WEB APIS](https://thecodeblogger.com/2021/06/09/use-distributed-sql-server-cache-with-net-core-web-apis/)
+- [Redis Caching in ASP.NET Core – Distributed Caching Detailed](https://codewithmukesh.com/blog/redis-caching-in-aspnet-core/)
+- [In-Memory Caching in ASP.NET Core – Detailed Guide](https://codewithmukesh.com/blog/in-memory-caching-in-aspnet-core/)
+- [Response Caching with MediatR in ASP.NET Core – Powerful Pipeline Behavior](https://codewithmukesh.com/blog/caching-with-mediatr-in-aspnet-core/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
@@ -32,7 +35,8 @@
 
 ## Videos
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
-
+- [Response caching using Redis | ASP.NET Core 5 REST API Tutorial 25](https://www.youtube.com/watch?v=KboCpJGa9ag)
+- [How to effectively use Redis Cache in .NET Core (Framework, Standard)](https://www.youtube.com/watch?v=jwek4w6als4)
 ## Library
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client

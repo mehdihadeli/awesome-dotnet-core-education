@@ -13,7 +13,8 @@
 - [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
 - [What's new in ASP.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.1)
 - [What's new in ASP.NET Core 5.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0)
-- [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/?WT.mc_id=DOP-MVP-5003880)
+- [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4)
+- [ASP.NET Core updates in .NET 6 Preview 5](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-5/)
 - [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
 - [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
 - [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
@@ -33,11 +34,10 @@
 - [Upgrading to .NET Core 3.1 (Real Life Project)](https://www.youtube.com/watch?v=afyCeCkec4c)
 - [Upgrading to .NET 5.0 RC w/ C# 9.0](https://www.youtube.com/watch?v=afyCeCkec4c)
 - [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https://www.youtube.com/watch?v=ZdCn6kpGBhI)
-
-
+- [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
+- [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
 ## 📦 Libraries
-- [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert)
-> Helping .NET developers port their projects to .NET Core!
+- [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
 
 
 <div align="right">

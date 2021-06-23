@@ -22,7 +22,7 @@
 - [Filter user records using Global Query Filters](https://www.jerriepelser.com/blog/filter-user-records-using-global-query-filter/)
 - [Access the JWT bearer token when using the JWT middleware in ASP.NET Core](https://www.jerriepelser.com/blog/aspnetcore-jwt-saving-bearer-token-as-claim/)
 - [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
-
+- [Authorization for ASP.NET Web APIs](https://auth0.com/blog/aspnet-web-api-authorization/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)

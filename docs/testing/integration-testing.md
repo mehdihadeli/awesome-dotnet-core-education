@@ -3,7 +3,7 @@
 # Integration Testing
 
 ## 📝 Articles
-
+- [Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0)
 - [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
 - [Running Integration Tests in Build Pipelines with a Real Database](https://ardalis.com/running-integration-tests-in-build-pipelines-with-a-real-database/?utm_sq=gk5cykzhad) 
 - [Limitations of the EF Core in-memory database providers](https://blog.joaograssi.com/limitations-ef-core-in-memory-database-providers/)
@@ -25,8 +25,12 @@
 - [Integration Testing with ASP.NET Core 3.1](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1)
 - [Integration Testing with ASP.NET Core 3.1 - Testing Your Application](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-testing-your-app)
 - [Integration Testing with ASP.NET Core 3.1 - Swapping a Dependency](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-swapping-dependency)
+- [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
+- [SQL Server integration testing using xUnit](https://www.jvandertil.nl/posts/2020-04-02_sqlserverintegrationtesting/)
+- [Asynchronous initialisation and cleanup operations with xUnit](https://mderriey.com/2017/09/04/async-lifetime-with-xunit/)
+- [Integration Testing with xUnit](https://jimmybogard.com/integration-testing-with-xunit/)
 ## 📹 Videos
-
+- [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
 - [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) 
 - [ASP.NET Core C# Integration Testing Example (Mocking Identity)](https://www.youtube.com/watch?v=03y-i4nMou4&t=0s)
@@ -36,15 +40,19 @@
 - [Integration Testing ASP.NET Core Web APIs with Docker - Dan Clarke](https://www.youtube.com/watch?v=VgStKMB1duY)
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
+- [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
 - [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
+- [philbir/magic-media](https://github.com/philbir/magic-media)
 ## Library
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
-
+- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
+- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
+- [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

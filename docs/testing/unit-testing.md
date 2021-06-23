@@ -25,13 +25,15 @@
 - [EFS003: Initialize ASP.NET Core Unit Tests](https://www.youtube.com/watch?v=jWIPkpl6Yr0)
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
+- [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
+- [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
 - [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
-
+- [philbir/magic-media](https://github.com/philbir/magic-media)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

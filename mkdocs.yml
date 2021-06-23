@@ -12,8 +12,6 @@ theme:
   sticky_navigation: True
 extra_css:
   - static/extra.css
-extra_javascript:
-  - js/extra.js
 markdown_extensions:
   - smarty
   - sane_lists
@@ -115,6 +113,7 @@ nav:
     - Authorization: security/authorization.md
     - OAuth & OpenID Connect: security/oauth-opencid.md
     - Refresh Token: security/refresh-token.md
+    - Secret Management: security/secret-management.md
   - Logging And Auditing: logging.md
   - Tracing: tracing.md
   - Testing: 
@@ -153,6 +152,9 @@ nav:
   - Roslyn: roslyn.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
+    - GitHub: ide-tools/github.md
+    - Decompile: ide-tools/decompile.md
+    - DotMemory: ide-tools/dotmemory.md
     - Terminal Tools: ide-tools/terminal.md
     - WSL: ide-tools/wsl.md
   - Commenting: commenting.md

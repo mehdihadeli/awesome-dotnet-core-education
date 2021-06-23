@@ -5,7 +5,7 @@
 - [HOW TO CREATE NEW MICROSERVICES EASILY WITH DOTNET CUSTOM TEMPLATES](https://kristhecodingunicorn.com/post/dotnet_custom_templates/)
 - [How to create your own templates for dotnet new](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/)
 - [Reference for template.json](https://github.com/dotnet/templating/wiki/Reference-for-template.json)
-
+- [How to create your .NET project template to use with .NET CLI and Visual Studio](https://auth0.com/blog/create-dotnet-project-template/)
 ## Videos
 - [On .NET Live - Creating your own .NET Project Templates](https://www.youtube.com/watch?v=H_pqfeRgTYw&t=751s)
 

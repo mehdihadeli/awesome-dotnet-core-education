@@ -36,6 +36,7 @@
 - [Intro to gRPC - Step by Step](https://www.youtube.com/watch?v=SRjIp96Qox0)
 - [Mark Gravell Talking Between Services with gRPC and Other Tricks - .NET Oxford - September 2019](https://www.youtube.com/watch?v=ZM0XeSjuwbc)
 - [Talking between services with gRPC, and other tricks - Marc Gravell](https://www.youtube.com/watch?v=W-bULzA0ki8)
+- [Embracing gRPC in .NET, by Irina Scurtu](https://www.youtube.com/watch?v=d8S9jh6Xj6Y)
 
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)

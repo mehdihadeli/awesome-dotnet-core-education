@@ -1,5 +1,8 @@
 # Resharper Tips
 
+## Articles
+- [Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/)
+
 ## Videos
 - [Navigation - ReSharper Essentials](https://www.youtube.com/watch?v=-LlVzyzO3mA)
 - [Shortcuts, Editing, Completion - ReSharper Essentials](https://www.youtube.com/watch?v=yvrheKkjOa4)
@@ -11,3 +14,4 @@
 - [Debugging Tips & Tricks in Rider](https://www.youtube.com/watch?v=uALiyRpnovc)
 - [Code Formatting - ReSharper Essentials](https://www.youtube.com/watch?v=QpeTw4p3aeU)
 - [Inspections and Quick Fixes - ReSharper Essentials](https://www.youtube.com/watch?v=RgDGJ9H63n4)
+- [Debugging Tips and Tricks with JetBrains Rider, by Joseph Guadagno](https://www.youtube.com/watch?v=KM27QGVwgas)

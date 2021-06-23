@@ -1,5 +1,7 @@
 # Async and Await
 
+## Resources
+- [Async-Await - RIP Tutorial](https://riptutorial.com/csharp/topic/48/async-await)
 ## 📝 Articles
 
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
@@ -34,7 +36,10 @@
 - [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
-
+- [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
+- [Making async code run faster in C#](https://www.youtube.com/watch?v=gW19LaAYczI)
+- [Why is Async Code Hard to Debug?](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Why-is-Async-Code-Hard-to-Debug)
+- [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
 - [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading) - Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 

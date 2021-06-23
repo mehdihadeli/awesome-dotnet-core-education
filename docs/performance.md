@@ -33,7 +33,7 @@
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
-
+- [Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://www.youtube.com/watch?v=g8MYUfplpt8)
 ## Library
 
 - [stackify-prefix](https://stackify.com/prefix/)

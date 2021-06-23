@@ -1,5 +1,6 @@
 - [IDE & Tools](index.md)
   - [DotMemory](dotmemory.md)
+  - [GitHub](github.md)
   - [Resharper & Rider](resharper-rider.md)
   - [Terminal Tools](terminal.md)
   - [WSL](wsl.md)

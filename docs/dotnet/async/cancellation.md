@@ -12,7 +12,7 @@
 - [Canceling HTTP Requests in ASP.NET Core with CancellationToken](https://code-maze.com/canceling-http-requests-in-asp-net-core-with-cancellationtoken/)
 ## Videos
 - [Stop wasting server resources by properly using CancellationToken in .NET](https://www.youtube.com/watch?v=b5dyPJ3zyRg)
-
+- [How to Cancel Tasks in C# - Using CancellationTokenSource and CancellationToken](https://www.youtube.com/watch?v=TKc5A3exKBQ&list=PLG8rj6Rr0BU9NXQX3YXtQhVXBD2co2HUQ&index=14)
 ## 🔖 Samples
 
 - [https://github.com/johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)

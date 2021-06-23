@@ -1,5 +1,8 @@
 # Async Best Practice
 
+## Resources
+- [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
+
  ## Articles
 - [Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 - [Async and Await: Here be dragons](https://gist.github.com/ghuntley/e5b5642ecc4428255e61185bb79856e4)
@@ -16,7 +19,4 @@
 ## Videos
 
 - [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)
-
-## 🔖 Samples
-- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
-	> This repository has examples of broken patterns in ASP.NET Core applications
+- [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)

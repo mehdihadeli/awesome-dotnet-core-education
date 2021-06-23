@@ -16,6 +16,8 @@
 ## Library
 
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
+- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
+- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [.NET Testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
@@ -32,6 +34,8 @@
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
 - [nbuilder/nbuilder](https://github.com/nbuilder/nbuilder) - Rapid generation of test objects in .NET
 - [LightBDD/LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+- [nickdodd79/AutoBogus](https://github.com/nickdodd79/AutoBogus) - A C# library complementing the Bogus generator by adding auto creation and population capabilities.
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

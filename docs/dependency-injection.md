@@ -40,18 +40,13 @@
 - [Exploring ASP.NET Core Fundamentals - Understanding Singleton Transient and Scoped Service Lifetimes](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
 - [Using Scrutor to automatically register your services with the ASP.NET Core DI container](https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/)
 - [Dependency Injection lifetimes in .NET - my epiphany](https://www.code4it.dev/blog/dependency-injection-lifetimes)
+
 ## Libraries
-- [khellang/Scrutor](https://github.com/khellang/Scrutor)
-	> Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
-- [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) 
-	> Extensions for ASP.NET Core dependency injection
+- [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+- [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) - Extensions for ASP.NET Core dependency injection
+- [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
+- [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
 
-- [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject)
-	> compile time dependency injection for .NET
-
-- [pakrym/jab](https://github.com/pakrym/jab)	
-	> C# Source Generator based dependency injection container implementation.
-	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

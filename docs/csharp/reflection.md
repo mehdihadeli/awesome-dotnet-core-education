@@ -1,5 +1,8 @@
 # Reflection
 
+## Resources
+- [Reflection - RIP Tutorial](https://riptutorial.com/csharp/topic/28/reflection)
+
 ## Articles
 
 - [Is the era of reflection-heavy C# libraries at an end?](https://blog.marcgravell.com/2021/05/is-era-of-reflection-heavy-c-libraries.html)
@@ -22,8 +25,15 @@
 - [Reflection Part 1: Discovery and Execution](https://www.codemag.com/article/0211161/Reflection-Part-1-Discovery-and-Execution)
 - [Reflection Part 2: Emit](https://www.codemag.com/article/0301051/Reflection-Part-2-Emit)
 - [Benchmarking 4 reflection methods for calling a constructor in .NET](https://andrewlock.net/benchmarking-4-reflection-methods-for-calling-a-constructor-in-dotnet/)
+- [Get All C# Classes Implementing an Interface](https://garywoodfine.com/get-c-classes-implementing-interface/)
+- [Create an instance of a Generic Type and invoke it's method](https://riptutorial.com/csharp/example/14275/create-an-instance-of-a-generic-type-and-invoke-it-s-method)
+- [Get a generic method and invoke it](https://riptutorial.com/csharp/example/10206/get-a-generic-method-and-invoke-it)
+- [Instantiating classes that implement an interface (e.g. plugin activation)](https://riptutorial.com/csharp/example/14824/instantiating-classes-that-implement-an-interface--e-g--plugin-activation-)
+## Videos
+- [Achieving compile-time performance with Reflection in C#](https://www.youtube.com/watch?v=er9nD-usM1A)
+- [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)
+- [C# Reflection Explained (Claim generation example)](https://www.youtube.com/watch?v=cdG2JxuZvNI)
 ## Libraries
-
 - [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
 
 ## Books

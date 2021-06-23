@@ -5,6 +5,7 @@
 - [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
 - [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 - [Configuration providers in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration-providers)
+- [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
 - [ASP. NET Core - Customize Configuration](https://girishgodage.in/blog/customize-configuration)
 - [Creating a custom ConfigurationProvider in ASP.NET Core to parse YAML](https://andrewlock.net/creating-a-custom-iconfigurationprovider-in-asp-net-core-to-parse-yaml/)
 - [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)

@@ -8,7 +8,7 @@
 - [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
 - [Using MessagePack with ASP.NET Core MVC](https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/)
 - [Using MessagePack with ASP.NET Core WebAPI](https://dotnetthoughts.net/using-message-pack-with-asp-net-core/)
-
+- [Fixing JSON Self Referencing Loop Exceptions](https://dotnetcoretutorials.com/2020/03/15/fixing-json-self-referencing-loop-exceptions/)
 ## Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 

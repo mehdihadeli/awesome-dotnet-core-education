@@ -9,6 +9,7 @@
 - [ASP.NET Core Web API versioning](https://dejanstojanovic.net/aspnet/2017/may/aspnet-core-web-api-versioning/)
 - [Generating Swagger example requests with Swashbuckle](https://mattfrear.com/2016/01/25/generating-swagger-example-requests-with-swashbuckle/)
 - [Add an authorization header to your swagger-ui with Swashbuckle (revisited)](https://mattfrear.com/2018/07/21/add-an-authorization-header-to-your-swagger-ui-with-swashbuckle-revisited/)
+- [Your guide to REST API versioning in ASP.NET Core](https://www.daveabrock.com/2021/06/16/rest-api-versioning-aspnet-core/)
 ## 📹 Videos
 
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s)

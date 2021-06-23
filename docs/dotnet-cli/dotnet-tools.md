@@ -13,10 +13,8 @@
 
 ## 📦 Libraries
 
-- [dotnet-tools](https://github.com/natemcmaster/dotnet-tools)
-  > A list of tools to extend the .NET Core command line (dotnet)
-- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
-  > .NET Core Performance Counter Tool
+- [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
+- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters) - .NET Core Performance Counter Tool
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
