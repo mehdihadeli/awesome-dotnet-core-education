@@ -29,6 +29,7 @@
 - [SQL Server integration testing using xUnit](https://www.jvandertil.nl/posts/2020-04-02_sqlserverintegrationtesting/)
 - [Asynchronous initialisation and cleanup operations with xUnit](https://mderriey.com/2017/09/04/async-lifetime-with-xunit/)
 - [Integration Testing with xUnit](https://jimmybogard.com/integration-testing-with-xunit/)
+- [Treat your integration tests as external consumers](https://josef.codes/treat-you-integration-tests-as-external-consumers/)
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
