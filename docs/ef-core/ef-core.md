@@ -29,6 +29,15 @@
 - [LINQ: Beware of deferred execution](https://dev.to/dr_sam_walpole/linq-beware-of-deferred-execution-59db)
 - [A Cleaner Way To Do Entity Configuration With EF Core](https://dotnetcoretutorials.com/2020/06/27/a-cleaner-way-to-do-entity-configuration-with-ef-core/)
 - [Fluent API Configuration](https://www.learnentityframeworkcore.com/configuration/fluent-api)
+- [Configuring DBContext in Entity framework ASP.NET Core – Best Practices](https://www.thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core/)
+- [Database Connection Resiliency in Entity Framework ASP.NET Core](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-asp-net-core/)
+- [Database Connection Resiliency in ASP.NET Core – Part II](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-transaction-asp-net-core/)
+- [Connection Resiliency](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency)
+- [Execution strategies and explicit transactions using BeginTransaction and multiple DbContexts](https://dzfweb.gitbooks.io/microsoft-microservices-book/content/implement-resilient-applications/implement-resilient-entity-framework-core-sql-connections.html)
+- [Using Resilient Entity Framework Core Sql Connections and Transactions: Retries with Exponential Backoff](https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/)
+- [Using Transactions](https://docs.microsoft.com/en-us/ef/core/saving/transactions)
+- [Transaction in Entity Framework](https://www.entityframeworktutorial.net/entityframework6/transaction-in-entity-framework.aspx)
+- [EF Core Advanced Topics Transaction](https://riptutorial.com/ef-core-advanced-topics/learn/100015/transaction)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -37,6 +46,10 @@
 - [Entity Framework Community Standup - Open Source Contributions: How to Add a Feature to EF Core](https://www.youtube.com/watch?v=9OMxy1wal1s)
 - [Entity Framework Community Standup - Triggers for EF Core](https://www.youtube.com/watch?v=Gjys0Yebobk)
 - [Entity Framework Community Standup - Introducing EF Core Compiled Models](https://www.youtube.com/watch?v=XdhX3iLXAPk)
+- [Entity Framework Core In-Depth Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-1)
+- [Entity Framework Core In-Depth Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-2)
+- [Entity Framework Core In-Depth Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-3)
+- [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
 ## 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

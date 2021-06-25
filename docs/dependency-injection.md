@@ -42,6 +42,7 @@
 - [Dependency Injection lifetimes in .NET - my epiphany](https://www.code4it.dev/blog/dependency-injection-lifetimes)
 
 ## Videos
+- [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)
 
 ## Libraries

@@ -48,10 +48,10 @@ markdown_extensions:
 nav:
   - .Net:
     - .Net : dotnet/dotnet.md
-    - .Net Core: dotnet/dotnet-core.md
-    - .Net Standard: dotnet/dotnet-standard.md
     - .Net 5: dotnet/dotnet5.md
-    - .Net 6: dotnet/dotnet6.md
+    - .Net 6: dotnet/dotnet6.md  
+    - .Net Standard: dotnet/dotnet-standard.md
+    - ASP.Net Core: dotnet/dotnet-core.md
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
@@ -86,6 +86,7 @@ nav:
   - SignalR: signalr.md
   - HttpClient: httpclient.md
   - WEB API: web-api.md
+  - Minimal API: minimal-api.md
   - Background Tasks: background-tasks.md
   - Validation: validation.md
   - Razor Pages: razor-pages.md
@@ -97,6 +98,7 @@ nav:
     - MongoDB: nosql/mongodb.md
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
+  - Git: git.md
   - Elastic Search: elastic-search.md
   - Nuget: nuget.md
   - API Versioning: api-versioning.md

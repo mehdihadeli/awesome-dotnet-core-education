@@ -30,10 +30,17 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/)
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 - [Investigate memory issues with ease – Introducing real-time inspections in dotMemory Allocation Analysis](https://blog.jetbrains.com/dotnet/2021/06/01/investigate-memory-issues-with-ease-introducing-real-time-inspections-in-dotmemory-allocation-analysis/)
+- [How to use Span<T> and Memory<T>](https://antao-almada.medium.com/how-to-use-span-t-and-memory-t-c0b126aae652)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
 - [Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://www.youtube.com/watch?v=g8MYUfplpt8)
+- [Connect; 2017 C# 7 2 Understanding Span](https://www.youtube.com/watch?v=mbLIplmHzdk)
+- [A (brief) overview of Span≤T≥ - David Wengier](https://www.youtube.com/watch?v=byvoPD15CXs)
+- [Jeffrey Richter «Efficient Buffer Manipulation using C# 7.2's Span»](https://www.youtube.com/watch?v=gWcyXGIbRDI)
+- [High-performance code design patterns in C#. Konrad Kokosa .NET Fest 2019](https://www.youtube.com/watch?v=3r6gbZFRDHs)
+- [Writing Allocation Free Code in C# - Matt Ellis](https://www.youtube.com/watch?v=nK54s84xRRs)
+- [Writing Allocation Free Code in C#](https://www.youtube.com/watch?v=lb0LCT8xJ3g)
 ## Library
 
 - [stackify-prefix](https://stackify.com/prefix/)

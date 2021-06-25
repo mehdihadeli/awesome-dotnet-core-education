@@ -49,6 +49,8 @@
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
 - [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 - [philbir/magic-media](https://github.com/philbir/magic-media)
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
+- [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit)
 ## Library
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework

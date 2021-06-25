@@ -1,4 +1,4 @@
-# .Net Core
+# ASP.Net Core
 
 ## Resources
 
@@ -36,9 +36,12 @@
 - [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https://www.youtube.com/watch?v=ZdCn6kpGBhI)
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
+
+## Samples
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 5 projects you can use. Readme contains explanations on all projects.
+
 ## 📦 Libraries
 - [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

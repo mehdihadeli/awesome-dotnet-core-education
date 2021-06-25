@@ -14,6 +14,8 @@
 ## 📹 Videos
 
 - [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw)
+- [ASP.NET Core Architecture: Part 3](https://www.youtube.com/watch?v=OTpxQFXxKPs)
+- [ASP.NET Community Standup - ASP.NET Core Architecture: Part 2](www.youtube.com/watch?v=x_AXKLfG8o0)
 - [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ)
 
 <div align="right">
