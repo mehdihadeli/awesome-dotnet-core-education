@@ -8,7 +8,7 @@
 - [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
 - [Testing internal members with InternalsVisibleTo](https://www.code4it.dev/blog/testing-internals-with-internalsvisibleto)
 - [Using C# Named Arguments to Declutter Complex Tests](https://exceptionnotfound.net/using-csharp-named-arguments-to-declutter-complex-tests/)
-
+- [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
 ## Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)

@@ -91,6 +91,7 @@
 - [Building an Async API with ASP.NET Core](https://www.pluralsight.com/courses/building-async-api-aspdotnet-core)
 - [ASP.NET Core Series: Route To Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 - [ASP.NET Core Series: Endpoint Routing](https://www.youtube.com/watch?v=fSSPEM3e7yY)
+- [.NET 5 REST API Tutorial - Build From Scratch With C#](https://www.youtube.com/watch?v=ZXdFisA_hOY)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

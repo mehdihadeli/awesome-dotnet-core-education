@@ -18,6 +18,7 @@
 - [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 - [Testing Production API Endpoints with xUnit](https://ardalis.com/testing-production-api-endpoints-with-xunit/?utm_sq=gkyvlvbcp9)
+- [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 
