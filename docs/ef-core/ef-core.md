@@ -12,12 +12,9 @@
 - [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
 - [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
 - [Change Tracking in EF Core](https://docs.microsoft.com/en-us/ef/core/change-tracking/)
-- [Entity Framework Core – Projection Performance](https://eliottrobson.me/entity-framework-core-projection-performance/)
-- [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) - Ben Cull
-- [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
+- [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/)
 - [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 - [Designing for Related Data without Foreign Keys](https://ardalis.com/related-data-without-foreign-keys/)
-- [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 - [Automate Database Deployments](https://www.programmingwithwolfgang.com/automate-database-deployments/)
 - [Efficient querying with LINQ, AutoMapper and Future queries](https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/)
 - [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
@@ -30,14 +27,7 @@
 - [A Cleaner Way To Do Entity Configuration With EF Core](https://dotnetcoretutorials.com/2020/06/27/a-cleaner-way-to-do-entity-configuration-with-ef-core/)
 - [Fluent API Configuration](https://www.learnentityframeworkcore.com/configuration/fluent-api)
 - [Configuring DBContext in Entity framework ASP.NET Core – Best Practices](https://www.thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core/)
-- [Database Connection Resiliency in Entity Framework ASP.NET Core](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-asp-net-core/)
-- [Database Connection Resiliency in ASP.NET Core – Part II](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-transaction-asp-net-core/)
-- [Connection Resiliency](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency)
-- [Execution strategies and explicit transactions using BeginTransaction and multiple DbContexts](https://dzfweb.gitbooks.io/microsoft-microservices-book/content/implement-resilient-applications/implement-resilient-entity-framework-core-sql-connections.html)
-- [Using Resilient Entity Framework Core Sql Connections and Transactions: Retries with Exponential Backoff](https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/)
-- [Using Transactions](https://docs.microsoft.com/en-us/ef/core/saving/transactions)
-- [Transaction in Entity Framework](https://www.entityframeworktutorial.net/entityframework6/transaction-in-entity-framework.aspx)
-- [EF Core Advanced Topics Transaction](https://riptutorial.com/ef-core-advanced-topics/learn/100015/transaction)
+
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft

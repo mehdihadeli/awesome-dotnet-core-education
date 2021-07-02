@@ -9,12 +9,14 @@
 - [Testing internal members with InternalsVisibleTo](https://www.code4it.dev/blog/testing-internals-with-internalsvisibleto)
 - [Using C# Named Arguments to Declutter Complex Tests](https://exceptionnotfound.net/using-csharp-named-arguments-to-declutter-complex-tests/)
 - [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
+- [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 ## Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
 ## Library
-
+- [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services

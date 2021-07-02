@@ -87,6 +87,7 @@ nav:
   - HttpClient: httpclient.md
   - WEB API: web-api.md
   - Minimal API: minimal-api.md
+  - ML.Net : ml-net.md
   - Background Tasks: background-tasks.md
   - Validation: validation.md
   - Razor Pages: razor-pages.md
@@ -100,6 +101,7 @@ nav:
   - Docker: docker.md
   - Git: git.md
   - Elastic Search: elastic-search.md
+  - OData: odata.md
   - Nuget: nuget.md
   - API Versioning: api-versioning.md
   - Hosted Service: hosted-service.md
@@ -131,12 +133,15 @@ nav:
     - Mocking: testing/mocking.md
     - TDD: testing/tdd.md
     - BDD: testing/bdd.md
+    - XUnit: testing/xunit.md
   - Exception Handling: exception-handling.md
   - EF Core: 
     - EF Core: ef-core/ef-core.md
     - EF Core 5: ef-core/ef-core-5.md
     - Expression Tree: ef-core/expression-tree.md
     - EF Core Migrations: ef-core/ef-core-migration.md
+    - Performance: ef-core/performance.md
+    - Transaction: ef-core/transaction.md
   - Environment: environment.md
   - Mediator: mediator.md
   - Mapping: mapping.md

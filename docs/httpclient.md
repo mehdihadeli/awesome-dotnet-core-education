@@ -31,6 +31,15 @@
 - [USING HTTPCOMPLETIONOPTION TO IMPROVE HTTPCLIENT PERFORMANCE IN .NET](https://www.stevejgordon.co.uk/using-httpcompletionoption-responseheadersread-to-improve-httpclient-performance-dotnet)
 - [DI scopes in IHttpClientFactory message handlers don't work like you think they do](https://andrewlock.net/understanding-scopes-with-ihttpclientfactory-message-handlers/)
 - [HTTPCLIENT CONNECTION POOLING IN .NET CORE](https://www.stevejgordon.co.uk/httpclient-connection-pooling-in-dotnet-core)
+- [Building a typed Httpclient with Refit in ASP.NET Core 3](https://anthonygiretti.com/2019/08/31/building-a-typed-httpclient-with-refit-in-asp-net-core-3/)
+- [Using Refit in ASP.NET Core to remove boilerplate code when consuming REST endpoints](https://www.vaughanreid.com/2020/10/using-refit-in-asp-net-core-to-remove-boilerplate-code-when-consuming-rest-endpoints/)
+- [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/)
+## Videos
+- [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
+- [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)
+- [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

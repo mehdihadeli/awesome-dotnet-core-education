@@ -72,6 +72,8 @@
 - [ASP.NET CORE CORRELATION IDS](https://www.stevejgordon.co.uk/asp-net-core-correlation-ids)
 - [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 - [Preventing Duplicate Web Requests To ASP.NET Core](https://khalidabuhakmeh.com/preventing-duplicate-web-requests-to-aspnet-core)
+- [Using Refit in ASP.NET Core to remove boilerplate code when consuming REST endpoints](https://www.vaughanreid.com/2020/10/using-refit-in-asp-net-core-to-remove-boilerplate-code-when-consuming-rest-endpoints/)
+- [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -92,6 +94,8 @@
 - [ASP.NET Core Series: Route To Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 - [ASP.NET Core Series: Endpoint Routing](https://www.youtube.com/watch?v=fSSPEM3e7yY)
 - [.NET 5 REST API Tutorial - Build From Scratch With C#](https://www.youtube.com/watch?v=ZXdFisA_hOY)
+- [.NET 5 REST API Tutorial](https://www.youtube.com/watch?v=Jvu60R-AWQc)
+- [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

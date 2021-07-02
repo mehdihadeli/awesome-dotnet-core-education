@@ -9,3 +9,6 @@
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
+
+## Samples
+- [dodyg/practical-aspnetcore/tree/net5.0/projects/net6](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)

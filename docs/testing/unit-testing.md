@@ -19,6 +19,13 @@
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 - [Testing Production API Endpoints with xUnit](https://ardalis.com/testing-production-api-endpoints-with-xunit/?utm_sq=gkyvlvbcp9)
 - [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
+- [Unit Testing with ILogger<T>](https://codeburst.io/unit-testing-with-net-core-ilogger-t-e8c16c503a80)
+- [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [Create fake user for ASP.NET Core controller tests](https://gunnarpeipman.com/aspnet-core-test-controller-fake-user/)
+- [Different kind of testing strategies with ASP.NET Core: The basics](https://dotnetfromthemountain.com/aspnet-core-testing-strategies-the-basics/)
+- [Unit testing data access in ASP.​NET Core](https://asp.net-hacker.rocks/2019/01/15/unit-testing-data-access-dotnetcore.html)
+- [How to test your C# Web API](https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api)
+- [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 

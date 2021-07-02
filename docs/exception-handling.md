@@ -35,6 +35,16 @@
 - [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
 - [An opinionated way to consistent Error Handling in ASP.NET Core](https://ankitvijay.net/2021/04/21/consistent-error-handling/)
 - [EXCEPTION HANDLING MIDDLEWARE IN .NET CORE WEB API](https://thecodeblogger.com/2021/05/30/exception-handling-middleware-in-net-core-web-api/?subscribe=success#blog_subscription-5)
+- [Cost of exceptions](https://gunnarpeipman.com/cost-of-exceptions/)
+- [The True Cost of .NET Exceptions -- Solution](https://docs.microsoft.com/en-us/archive/blogs/ricom/the-true-cost-of-net-exceptions-solution)
+- [Design Guidelines Update: Exception Throwing](https://docs.microsoft.com/en-us/archive/blogs/kcwalina/design-guidelines-update-exception-throwing)
+- [Why Exceptions should be Exceptional](https://mattwarren.org/2016/12/20/Why-Exceptions-should-be-Exceptional/)
+- [Exception Throwing](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/exception-throwing?redirectedfrom=MSDN)
+- [Using Standard Exception Types](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/using-standard-exception-types)
+- [Exceptions and Performance](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions-and-performance)
+- [Improving .NET Application Performance Part 10: Exception Management](https://blog.monitis.com/blog/improving-net-application-performance-part-10-exception-management/)
+- [Bad Data, Try/Catch, and Slow Performance](https://buildplease.com/pages/slow-exceptions/)
+- [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

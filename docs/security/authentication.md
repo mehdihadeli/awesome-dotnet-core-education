@@ -47,6 +47,7 @@
 - [Setting up JWT support (Authentication) | ASP.NET Core 5 REST API Tutorial 9](https://www.youtube.com/watch?v=M6AkbBaDGJE)
 - [What is a JWT (JSON Web Token) and why your REST API needs it](https://www.youtube.com/watch?v=qDJYgGzmalQ)
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
+- [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ&t=2s)
 
 ## Samples
 

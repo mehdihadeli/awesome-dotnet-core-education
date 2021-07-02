@@ -33,6 +33,7 @@
 - [Implementing logging in .net core applications for logging, telemetry and your own sanity](https://garywoodfine.com/implementing-logging-in-net-core-applications-for-logging-telemetry-and-your-own-sanity/)
 - [Implementing logging with Serilog](https://garywoodfine.com/implementing-logging-with-serilog/)
 - [Customizing Serilog text output](https://nblumhardt.com/2021/06/customize-serilog-text-output/)
+- [Customized JSON formatting with Serilog](https://nblumhardt.com/2021/06/customize-serilog-json-output/)
 ## 📹 Videos
 
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
@@ -44,6 +45,7 @@
 - [https://github.com/thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
 - [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id) - Enrich logs with a unique ID so you can track logs for specific requests.
 - [PragmaticFlow/Serilog.Sinks.SpectreConsole](https://github.com/PragmaticFlow/Serilog.Sinks.SpectreConsole)
+- [serilog/serilog-expressions](https://github.com/serilog/serilog-expressions) - An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration.
 ## 🔖 Samples
 - [https://github.com/serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 - [https://github.com/jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)

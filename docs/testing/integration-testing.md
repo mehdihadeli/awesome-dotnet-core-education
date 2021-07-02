@@ -22,14 +22,37 @@
 - [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
 - [The curious case of ASP.NET Core integration test deadlock](https://www.strathweb.com/2021/05/the-curious-case-of-asp-net-core-integration-test-deadlock/)
 - [Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/)
+- [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
+- [SQL Server integration testing using xUnit](https://www.jvandertil.nl/posts/2020-04-02_sqlserverintegrationtesting/)
+- [Asynchronous initialisation and cleanup operations with xUnit](https://mderriey.com/2017/09/04/async-lifetime-with-xunit/)- [Integration Testing ASP.NET Core WebApi](https://dasith.me/2018/12/30/integration-testing-aspnet-core-webapi/)
+- [Treat your integration tests as external consumers](https://josef.codes/treat-you-integration-tests-as-external-consumers/)
+- [Unit Testing with ILogger<T>](https://codeburst.io/unit-testing-with-net-core-ilogger-t-e8c16c503a80)
+- [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
+- [Create fake user for ASP.NET Core controller tests](https://gunnarpeipman.com/aspnet-core-test-controller-fake-user/)
+- [Using custom startup class with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-startup/)
+- [Different kind of testing strategies with ASP.NET Core: The basics](https://dotnetfromthemountain.com/aspnet-core-testing-strategies-the-basics/)
+- [Integration testing data access in ASP.​NET Core](https://asp.net-hacker.rocks/2019/01/18/integration-testing-data-access-dotnetcore.html)
+- [Create fake user for ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-fake-user/)
+- [Mocking Data with Bogus](https://dev.to/integerman/mocking-data-with-bogus-25ac)
+- [Using custom startup class with ASP.NET Core integration tests](https://gunnarpeipman.com/testing/aspnet-core-integration-tests-startup/)
+- [Using ASP.NET Core Identity user accounts in integration tests](https://gunnarpeipman.com/aspnet-core-identity-integration-tests/)
+- [How to test your C# Web API](https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api)
+- [Avoid In-Memory Databases for Tests](https://jimmybogard.com/avoid-in-memory-databases-for-tests/)
+- [End-to-End Integration Testing with NServiceBus](https://jimmybogard.com/end-to-end-integration-testing-with-nservicebus/)
+- [End-to-End Integration Testing with NServiceBus: How It Works](https://jimmybogard.com/end-to-end-integration-testing-with-nservicebus-how-it-works/)
+- [Respawn vs SQL Server Snapshots](https://jimmybogard.com/respawn-vs-sql-server-snapshots/)
+- [Integration Testing with xUnit](https://jimmybogard.com/integration-testing-with-xunit/)
 - [Integration Testing with ASP.NET Core 3.1](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1)
 - [Integration Testing with ASP.NET Core 3.1 - Testing Your Application](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-testing-your-app)
 - [Integration Testing with ASP.NET Core 3.1 - Swapping a Dependency](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-swapping-dependency)
-- [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
-- [SQL Server integration testing using xUnit](https://www.jvandertil.nl/posts/2020-04-02_sqlserverintegrationtesting/)
-- [Asynchronous initialisation and cleanup operations with xUnit](https://mderriey.com/2017/09/04/async-lifetime-with-xunit/)
-- [Integration Testing with xUnit](https://jimmybogard.com/integration-testing-with-xunit/)
-- [Treat your integration tests as external consumers](https://josef.codes/treat-you-integration-tests-as-external-consumers/)
+- [Integration Testing with ASP.NET Core 3.1 - Remove the Boiler Plate](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-remove-the-boiler-plate)
+- [Integration Testing with ASP.NET Core 3.1 - Swapping a Dependency with Moq](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-swapping-dependency-with-moq)
+- [Integration Testing with ASP.NET Core 3.1 - Set Default Headers for All Clients](https://adamstorr.azurewebsites.net/blog/integration-testing-with-aspnetcore-3-1-set-default-headers-for-all-clients)
+- [SETTING UP API INTEGRATION TESTS WITH AUTHORIZATION IN .NET CORE](https://lukaszcoding.com/integration-testing-in-net-core/)
+- [Overriding configuration in ASP.NET Core integration tests](https://blog.markvincze.com/overriding-configuration-in-asp-net-core-integration-tests/)
+- [ASP.NET Core integration tests with WebApplicationFactory](https://www.vaughanreid.com/2020/07/asp-net-core-integration-tests-with-webapplicationfactory/)
+- [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
+- [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
@@ -51,11 +74,16 @@
 - [philbir/magic-media](https://github.com/philbir/magic-media)
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
 - [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit)
+- [timdeschryver/HowToTestYourCsharpWebApi](https://github.com/timdeschryver/HowToTestYourCsharpWebApi)
+- [code4it-dev/APIIntegrationTestsExample/](https://github.com/code4it-dev/APIIntegrationTestsExample/)
+- [markvincze/AspNetCoreIntegrationTestConfig](https://github.com/markvincze/AspNetCoreIntegrationTestConfig)
 ## Library
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
+- [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
+- [JasperFx/alba](https://github.com/JasperFx/alba) - Easy integration testing helper for ASP.Net Core applications
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

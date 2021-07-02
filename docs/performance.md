@@ -31,6 +31,12 @@
 - [Scalable and Performant ASP.NET Core Web APIs: Server Caching](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/)
 - [Investigate memory issues with ease – Introducing real-time inspections in dotMemory Allocation Analysis](https://blog.jetbrains.com/dotnet/2021/06/01/investigate-memory-issues-with-ease-introducing-real-time-inspections-in-dotmemory-allocation-analysis/)
 - [How to use Span<T> and Memory<T>](https://antao-almada.medium.com/how-to-use-span-t-and-memory-t-c0b126aae652)
+- [Improving .NET Application Performance - Series](https://blog.monitis.com/blog/?s=Improving+.NET+Application+Performance)
+- [Improving .NET Application Performance](https://blog.monitis.com/blog/improving-net-application-performance/)
+- [Improving .NET Application Performance Part 2: Application Engineering and Design](https://blog.monitis.com/blog/improving-net-application-performance-part-2-application-engineering-and-design-considerations/)
+- [Improving .NET Application Performance Part 3: Class Design Considerations](https://blog.monitis.com/blog/improving-net-application-performance-part-3-class-design-considerations/)
+- [Improving .NET Application Performance Part 4: Garbage Collection](https://blog.monitis.com/blog/improving-net-application-performance-part-4-garbage-collection/)
+- [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
