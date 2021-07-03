@@ -1,6 +1,9 @@
 
 # Testing
 
+## Resources
+- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
+
 ## 📝 Articles
 - [First-Class Tests](https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html) 
 - [Software Testing Guide](https://martinfowler.com/testing/) 

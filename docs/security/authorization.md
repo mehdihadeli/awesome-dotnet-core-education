@@ -13,7 +13,6 @@
 - [Implementing Policy-Based Authorization in ASP.NET Core - Getting Started](https://referbruv.com/blog/posts/implementing-policy-based-authorization-in-aspnet-core-getting-started)
 - [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
 - [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
-- [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
 - [Customizing Authorization Responses in .NET 5.0](https://benfoster.io/blog/customize-authorization-response-aspnet-core/)
 - [Claim based Authorization in Asp.Net Core](http://blog.geveo.com/Claim-based-authorization-ASP-core)
 - [Episode 019 - Roles, claims and policies - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/04/29/aspnet-019-from-zero-to-overkill-roles-claims-policies/)
@@ -23,11 +22,17 @@
 - [Access the JWT bearer token when using the JWT middleware in ASP.NET Core](https://www.jerriepelser.com/blog/aspnetcore-jwt-saving-bearer-token-as-claim/)
 - [Using Roles with the ASP.NET Core JWT middleware](https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/)
 - [Authorization for ASP.NET Web APIs](https://auth0.com/blog/aspnet-web-api-authorization/)
+- [Using a middleware to build a permission-based identity in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-permission-based-authorization-middleware/)
+- [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
+- [Protecting your API endpoints with dynamic policies in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-protecting-api-endpoints-with-dynamic-policies)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
+
+## Samples
+- [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

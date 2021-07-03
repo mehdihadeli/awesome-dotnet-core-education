@@ -53,6 +53,9 @@
 - [ASP.NET Core integration tests with WebApplicationFactory](https://www.vaughanreid.com/2020/07/asp-net-core-integration-tests-with-webapplicationfactory/)
 - [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
 - [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
+- [Mocking JWT tokens in ASP.NET Core integration tests](https://stebet.net/mocking-jwt-tokens-in-asp-net-core-integration-tests/)
+- [ASP.NET Core Integration Testing: Protected endpoints](https://dev.to/kaos/asp-net-core-integration-testing-protected-endpoints-3bpp)
+- [Adding integration tests for permission-protected API endpoints in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-testing-permission-protected-api-endpoints/)
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
@@ -77,6 +80,8 @@
 - [timdeschryver/HowToTestYourCsharpWebApi](https://github.com/timdeschryver/HowToTestYourCsharpWebApi)
 - [code4it-dev/APIIntegrationTestsExample/](https://github.com/code4it-dev/APIIntegrationTestsExample/)
 - [markvincze/AspNetCoreIntegrationTestConfig](https://github.com/markvincze/AspNetCoreIntegrationTestConfig)
+- [raw-coding-youtube/testing-101](https://github.com/raw-coding-youtube/testing-101)
+- [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 ## Library
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
@@ -84,6 +89,7 @@
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [JasperFx/alba](https://github.com/JasperFx/alba) - Easy integration testing helper for ASP.Net Core applications
+- [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

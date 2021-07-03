@@ -30,6 +30,8 @@
 - [Role based JWT Tokens in ASP.NET Core APIs](https://weblog.west-wind.com/posts/2021/Mar/09/Role-based-JWT-Tokens-in-ASPNET-Core)
 - [SECURE AN ANGULAR SPA AND AN ASP.NET CORE API USING AUTH0](https://damienbod.com/2021/05/24/secure-an-angular-spa-and-an-asp-net-core-api-using-auth0/)
 - [ASP.NET Core using Proof Key for Code Exchange (PKCE)](https://www.scottbrady91.com/OpenID-Connect/ASPNET-Core-using-Proof-Key-for-Code-Exchange-PKCE)
+- [JWT Authentication in C# .NET Core example](https://www.thecodebuzz.com/jwt-authentication-in-asp-net-core-3-0-with-examples/)
+- [Get Access token from HttpContext in .NET Core](https://www.thecodebuzz.com/get-access-token-httpcontext-net-core/)
 - [Client Authentication vs. PKCE: Do you need both?](https://www.scottbrady91.com/oauth/client-authentication-vs-pkce)
 ## 📹 Videos
 

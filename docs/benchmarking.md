@@ -5,9 +5,8 @@
 
 ## 📦 Libraries
 
-- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-  > Powerful .NET library for benchmarking
-
+- [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+- [dotnet/crank](https://github.com/dotnet/crank) - Benchmarking infrastructure for applications
 ## 📹 Videos
 
 - [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)

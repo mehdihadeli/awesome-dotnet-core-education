@@ -10,7 +10,11 @@
 - [When we can use HttpContext.Current.Items to stores data in ASP.NET ?](https://dailydotnettips.com/httpcontext-current-items-stores-data-asp-net/)
 - [HttpContext.Items Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpcontext.items)
 - [HttpContext.TraceIdentifier Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpcontext.traceidentifier)
-- [HttpContext.Features Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpcontext.features?view=aspnetcore-5.0)
+- [HttpContext.Features Property](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpcontext.features)
+- [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
+- [How to get custom header value in .NET Core WebAPI](https://www.thecodebuzz.com/get-custom-header-value-net-core-web-api/)
+- [Read And Convert QueryCollection Values In ASP.NET](https://khalidabuhakmeh.com/read-and-convert-querycollection-values-in-aspnet)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
