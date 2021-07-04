@@ -59,9 +59,50 @@ nav:
     - .Net Watch: dotnet/dotnet-watch.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
   - .Net Core Tips: dotnet/dotnet-core-tips.md
-  - .Net Async: dotnet/async/index.md
+  - .Net IL: dotnet/il.md
   - MetaPack: dotnet/metapack.md
-  - C#: csharp/index.md
+  - C#: 
+    - C#: csharp/csharp.md
+    - Boxing: csharp/boxing.md
+    - Closure: csharp/closure.md
+    - Collections & Data Structure:
+     - Collections & Data Structure: csharp/collections/collection-data-structure.md
+     - Enumerable: csharp/collections/enumerable.md
+     - HashSet: csharp/collections/hashset.md
+    - Constant: csharp/constant.md
+    - Operator: csharp/implicit-explicit-operators.md
+    - Linq: csharp/linq.md
+    - Null Checking : csharp/null-check.md
+    - Reflection : csharp/reflection.md
+    - Types : csharp/types.md
+    - Async: 
+      - Async And Await: csharp/async/async-and-await.md
+      - Async Best Practice: csharp/async/async-best-practice.md
+      - Async Collections: csharp/async/async-collections.md
+        - Async Stream And IEnumerableAsync: csharp/async/async-collections/async-stream-and-ienumerableasync.md
+        - Blocking Collection: csharp/async/async-collections/blocking-collection.md
+        - Iterators: csharp/async/async-collections/iterators.md
+        - Lazy Initialization: csharp/async/async-collections/lazy-initialization.md
+      - Asynchronous Messaging: csharp/async/asynchronous-messaging.md
+      - Async Local: csharp/async/asynclocal.md
+      - Awaiter: csharp/async/awaiter.md
+      - Cancellation: csharp/async/cancellation.md
+      - Channels: csharp/async/channels.md
+      - Concurrency Vs Parallelism: csharp/async/concurrency-vs-parallelism)
+      - Configure Await: csharp/async/configure-await.md
+      - Continuations.md: csharp/async/continuations.md
+      - Cpu Bound: csharp/async/cpu-bound.md
+      - Exception Handling: csharp/async/exception-handling)
+      - Io Bound: csharp/async/io-bound.md
+      - Synchronization Context: csharp/async/synchronization-context.md
+      - State Machine: csharp/async/state-machine.md
+      - TaskCompletionSource: csharp/async/task-completion-source.md
+      - Task: csharp/async/task.md
+      - ThreadPool: csharp/async/thread-pool.md
+      - Thread Safty: csharp/async/thread-safty.md
+      - Thread: csharp/async/thread.md
+      - ValueTask: csharp/async/valuetask.md
+      - Recources: csharp/async/resources.md
   - Code Coverage & Analysis: code-coverage-analysis.md
   - MAUI: maui.md
   - Blazor: blazor.md
