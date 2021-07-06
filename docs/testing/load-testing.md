@@ -5,6 +5,7 @@
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 
 ## 📝 Articles
+- [Load testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Load-testing)
 - [Running Load Tests From the Cloud With k6](https://benfoster.io/blog/running-load-tests-from-aws-cloud-with-k6/)
 - [Intro to Testing ASP.NET APIs with k6 - When Unit Tests Meet Load Testing](https://dev.to/k6/intro-to-testing-asp-net-apis-with-k6-when-unit-tests-meet-load-testing-5b5h)
 - [Scalable and Performant ASP.NET Core Web APIs: Load Testing](https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-load-testing/)

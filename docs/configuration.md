@@ -16,6 +16,9 @@
 - [Viewing overwritten configuration values in ASP.NET Core](https://andrewlock.net/viewing-overriden-configuration-values-in-aspnetcore/)
 - [Strongly Typed Configuration Settings in ASP.NET Core](https://weblog.west-wind.com/posts/2016/may/23/strongly-typed-configuration-settings-in-aspnet-core)
 - [Easy Configuration Binding in ASP.NET Core - revisited](https://weblog.west-wind.com/posts/2017/Dec/12/Easy-Configuration-Binding-in-ASPNET-Core-revisited)
+- [Keeping Configuration Settings in Memory](https://visualstudiomagazine.com/Blogs/Tool-Tracker/2019/03/Keeping-Configuration-Settings.aspx)
+- [Using Memory Configuration Provider In .NET Applications](https://thecodeblogger.com/2021/04/18/using-memory-configuration-provider-in-net-applications/)
+- [Testing and Configuration in .NET Core](https://joestead.codes/posts/testing-with-configuration-dotnet/)
 ## 📦 Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)

@@ -57,7 +57,7 @@
 - [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
 - [JonPSmith/EfCore.GenericEventRunner](https://github.com/JonPSmith/EfCore.GenericEventRunner) - A library to allow developer use events to update their database via Entity Framework Core (EF Core)
 - [Lex45x/QueryNinja](https://github.com/Lex45x/QueryNinja/wiki) - Framework for dynamic query building regardless of the source and target.
-
+- [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

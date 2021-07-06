@@ -26,6 +26,11 @@
 - [Unit testing data access in ASP.​NET Core](https://asp.net-hacker.rocks/2019/01/15/unit-testing-data-access-dotnetcore.html)
 - [How to test your C# Web API](https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api)
 - [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
+- [Unit and integration testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Unit-and-integration-testing)
+- [Should you unit-test API/MVC controllers in ASP.NET Core?](https://andrewlock.net/should-you-unit-test-controllers-in-aspnetcore/)
+- [Unit Test and Mock HTTPContext in ASP.NET Core Controller](https://www.thecodebuzz.com/unit-test-and-mock-httpcontext-in-asp-net-core-controller/)
+- [Unit Test and Mock HttpContextAccessor](https://www.thecodebuzz.com/unit-test-and-mock-ihttpcontextaccessor/)
+- [TDD – Unit Testing Naming Conventions and Standards](https://www.thecodebuzz.com/tdd-unit-testing-naming-conventions-and-standards/)
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 

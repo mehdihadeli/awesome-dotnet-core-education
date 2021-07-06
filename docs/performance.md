@@ -38,6 +38,7 @@
 - [Improving .NET Application Performance Part 4: Garbage Collection](https://blog.monitis.com/blog/improving-net-application-performance-part-4-garbage-collection/)
 - [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
 - [Performance Tuning for .NET Core](https://reubenbond.github.io/posts/dotnet-perf-tuning)
+- [Performance best practices in C#](https://kevingosse.medium.com/performance-best-practices-in-c-b85a47bdd93a)
 ## Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)

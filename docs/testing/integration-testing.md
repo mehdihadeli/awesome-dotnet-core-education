@@ -3,7 +3,8 @@
 # Integration Testing
 
 ## 📝 Articles
-- [Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0)
+- [Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests)
+- [Unit and integration testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Unit-and-integration-testing)
 - [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
 - [Running Integration Tests in Build Pipelines with a Real Database](https://ardalis.com/running-integration-tests-in-build-pipelines-with-a-real-database/?utm_sq=gk5cykzhad) 
 - [Limitations of the EF Core in-memory database providers](https://blog.joaograssi.com/limitations-ef-core-in-memory-database-providers/)
@@ -56,6 +57,10 @@
 - [Mocking JWT tokens in ASP.NET Core integration tests](https://stebet.net/mocking-jwt-tokens-in-asp-net-core-integration-tests/)
 - [ASP.NET Core Integration Testing: Protected endpoints](https://dev.to/kaos/asp-net-core-integration-testing-protected-endpoints-3bpp)
 - [Adding integration tests for permission-protected API endpoints in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-testing-permission-protected-api-endpoints/)
+- [Unit Test and Mock HTTPContext in ASP.NET Core Controller](https://www.thecodebuzz.com/unit-test-and-mock-httpcontext-in-asp-net-core-controller/)
+- [Unit Test and Mock HttpContextAccessor](https://www.thecodebuzz.com/unit-test-and-mock-ihttpcontextaccessor/)
+- [Integration tests in ASP.NET Core](https://blog.joaograssi.com/series/integration-tests-in-asp.net-core)
+
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
@@ -82,6 +87,7 @@
 - [markvincze/AspNetCoreIntegrationTestConfig](https://github.com/markvincze/AspNetCoreIntegrationTestConfig)
 - [raw-coding-youtube/testing-101](https://github.com/raw-coding-youtube/testing-101)
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
+- [joaopgrassi/dockercompose-azdevops](https://github.com/joaopgrassi/dockercompose-azdevops)
 ## Library
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
