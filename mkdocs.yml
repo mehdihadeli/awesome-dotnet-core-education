@@ -78,7 +78,8 @@ nav:
     - Async: 
       - Async And Await: csharp/async/async-and-await.md
       - Async Best Practice: csharp/async/async-best-practice.md
-      - Async Collections: csharp/async/async-collections.md
+      - Async Collections: 
+        - Async Collections: csharp/async/async-collections.md
         - Async Stream And IEnumerableAsync: csharp/async/async-collections/async-stream-and-ienumerableasync.md
         - Blocking Collection: csharp/async/async-collections/blocking-collection.md
         - Iterators: csharp/async/async-collections/iterators.md
