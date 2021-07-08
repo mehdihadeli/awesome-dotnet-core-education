@@ -66,9 +66,9 @@ nav:
     - Boxing: csharp/boxing.md
     - Closure: csharp/closure.md
     - Collections & Data Structure:
-     - Collections & Data Structure: csharp/collections/collection-data-structure.md
-     - Enumerable: csharp/collections/enumerable.md
-     - HashSet: csharp/collections/hashset.md
+      - Collections & Data Structure: csharp/collections/collection-data-structure.md
+      - Enumerable: csharp/collections/enumerable.md
+      - HashSet: csharp/collections/hashset.md
     - Constant: csharp/constant.md
     - Operator: csharp/implicit-explicit-operators.md
     - Linq: csharp/linq.md
