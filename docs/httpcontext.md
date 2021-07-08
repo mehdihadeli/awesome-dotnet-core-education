@@ -1,4 +1,4 @@
-# HttpContext
+# HttpContext && HttpContextAccessor
 
 ## 📝 Articles
 - [Accessing HttpContext outside of framework components in ASP.NET Core](https://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/)
@@ -14,7 +14,7 @@
 - [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
 - [How to get custom header value in .NET Core WebAPI](https://www.thecodebuzz.com/get-custom-header-value-net-core-web-api/)
 - [Read And Convert QueryCollection Values In ASP.NET](https://khalidabuhakmeh.com/read-and-convert-querycollection-values-in-aspnet)
-
+- [xunit - how to get HttpContext.User.Identity in unit tests](https://newbedev.com/xunit-how-to-get-httpcontext-user-identity-in-unit-tests)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

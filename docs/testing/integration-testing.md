@@ -55,12 +55,16 @@
 - [How to run integration tests for .NET API](https://www.code4it.dev/blog/integration-tests-for-dotnet-api)
 - [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
 - [Mocking JWT tokens in ASP.NET Core integration tests](https://stebet.net/mocking-jwt-tokens-in-asp-net-core-integration-tests/)
+- [Testing authorisation scenarios in ASP.NET Core Web APIs](https://medium.com/asos-techblog/testing-authorization-scenarios-in-asp-net-core-web-api-484bc95d5f6f)
 - [ASP.NET Core Integration Testing: Protected endpoints](https://dev.to/kaos/asp-net-core-integration-testing-protected-endpoints-3bpp)
 - [Adding integration tests for permission-protected API endpoints in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-testing-permission-protected-api-endpoints/)
 - [Unit Test and Mock HTTPContext in ASP.NET Core Controller](https://www.thecodebuzz.com/unit-test-and-mock-httpcontext-in-asp-net-core-controller/)
 - [Unit Test and Mock HttpContextAccessor](https://www.thecodebuzz.com/unit-test-and-mock-ihttpcontextaccessor/)
 - [Integration tests in ASP.NET Core](https://blog.joaograssi.com/series/integration-tests-in-asp.net-core)
-
+- [Integration testing with Docker and Testcontainers](https://medium.com/@jdelucaa/integration-testing-with-docker-and-testcontainers-3e53e6f44a1b)
+- [Automated Integration Testing over Gitlab CI/CD for Dotnet Core via Testcontainers](https://medium.com/trendyol-tech/automated-integration-testing-over-gitlab-ci-cd-for-dotnet-core-via-testcontainers-b18c7f81e65f)
+- [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
+- [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
@@ -96,6 +100,14 @@
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [JasperFx/alba](https://github.com/JasperFx/alba) - Easy integration testing helper for ASP.Net Core applications
 - [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+- [HofmeisterAn/dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A simple package with guard clause extensions.
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
+- [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API
+- [GestionSystemesTelecom/fake-authentication-jwtbearer/](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
+- [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
+- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
+- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
+- [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

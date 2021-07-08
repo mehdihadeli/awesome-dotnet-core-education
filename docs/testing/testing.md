@@ -14,6 +14,8 @@
 - [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
 - [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
+- [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
+- [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 ## Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
@@ -25,7 +27,6 @@
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [.NET Testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [FluentAssertions](https://github.com/fluentassertions/fluentassertions) - Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
 - [Shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET - the way Asserting -Should- be!
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
@@ -40,7 +41,9 @@
 - [nbuilder/nbuilder](https://github.com/nbuilder/nbuilder) - Rapid generation of test objects in .NET
 - [LightBDD/LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
 - [nickdodd79/AutoBogus](https://github.com/nickdodd79/AutoBogus) - A C# library complementing the Bogus generator by adding auto creation and population capabilities.
-- [bchavez/Bogus](https://github.com/bchavez/Bogus) - 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+- [HofmeisterAn/dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A simple package with guard clause extensions.
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
+- [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -31,6 +31,11 @@
 - [Unit Test and Mock HTTPContext in ASP.NET Core Controller](https://www.thecodebuzz.com/unit-test-and-mock-httpcontext-in-asp-net-core-controller/)
 - [Unit Test and Mock HttpContextAccessor](https://www.thecodebuzz.com/unit-test-and-mock-ihttpcontextaccessor/)
 - [TDD – Unit Testing Naming Conventions and Standards](https://www.thecodebuzz.com/tdd-unit-testing-naming-conventions-and-standards/)
+- [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
+- [How to write good unit tests: Two issues to avoid](https://canro91.github.io/2020/11/02/UnitTestingTips/)
+- [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
+- [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
+- [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/)
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 

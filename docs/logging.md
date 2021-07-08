@@ -58,6 +58,8 @@
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 - [Writing logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core](https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/)
 - [.NET 5 + Serilog: implementando Logs com Elasticsearch, SQLite,](https://renatogroffe.medium.com/net-5-serilog-implementando-logs-com-elasticsearch-sqlite-45d64f5c043e)
+- [Structured logging with Serilog and Seq and ElasticSearch under Docker](https://dev.to/hasdrubal/structure-logging-with-serilog-and-seq-and-elasticsearch-under-docker-16dk)
+- [How to turn off Serilog?](https://stackoverflow.com/questions/30849166/how-to-turn-off-serilog)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
@@ -68,7 +70,7 @@
 - [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id) - Enrich logs with a unique ID so you can track logs for specific requests.
 - [PragmaticFlow/Serilog.Sinks.SpectreConsole](https://github.com/PragmaticFlow/Serilog.Sinks.SpectreConsole)
 - [serilog/serilog-expressions](https://github.com/serilog/serilog-expressions) - An embeddable mini-language for filtering, enriching, and formatting Serilog events, ideal for use with JSON or XML configuration.
-- [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console#themes)
+- [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
 - [serilog/serilog-sinks-elasticsearch](https://github.com/serilog/serilog-sinks-elasticsearch) - A Serilog sink that writes events to Elasticsearch
 - [yorchideas/Serilog.Sinks.Xunit2](https://github.com/yorchideas/Serilog.Sinks.Xunit2)
 ## 🔖 Samples

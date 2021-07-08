@@ -33,6 +33,12 @@
 - [JWT Authentication in C# .NET Core example](https://www.thecodebuzz.com/jwt-authentication-in-asp-net-core-3-0-with-examples/)
 - [Get Access token from HttpContext in .NET Core](https://www.thecodebuzz.com/get-access-token-httpcontext-net-core/)
 - [Client Authentication vs. PKCE: Do you need both?](https://www.scottbrady91.com/oauth/client-authentication-vs-pkce)
+- [JWT Auth in ASP.NET Core](https://codeburst.io/jwt-auth-in-asp-net-core-148fb72bed03)
+- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
+- [Access Tokens](https://auth0.com/docs/tokens/access-tokens)
+- [ID Tokens](https://auth0.com/docs/tokens/id-tokens)
+- [Token Best Practices](https://auth0.com/docs/best-practices/token-best-practices)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -52,7 +58,7 @@
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ&t=2s)
 
 ## Samples
-
+- [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
 - [iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
 - [spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
 - [dejanstojanovic/dotnetcore-token-authentication](https://github.com/dejanstojanovic/dotnetcore-token-authentication) - Token based authentication in ASP.NET Core using Identity Framework

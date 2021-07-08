@@ -36,6 +36,7 @@
 - [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
 - [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/)
 - [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/)
+- [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
 ## Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)

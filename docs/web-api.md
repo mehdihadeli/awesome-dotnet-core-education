@@ -118,6 +118,8 @@
 - [dasiths/SimpleEndpoints](https://github.com/dasiths/SimpleEndpoints) - A simple, convention-based, endpoint per action pattern implementation for AspNetCore 3.0+ with full support for Swagge
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
+- [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
+
 ## 🔖 Samples
 
 - [filipw/apress-recipes-webapi](https://github.com/filipw/apress-recipes-webapi) - Samples from ASP.NET Web API 2: Recipes book.

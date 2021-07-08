@@ -2,7 +2,7 @@
 
 ## Resources
 - [https://restfulapi.net](https://restfulapi.net)
-
+- [whitehouse/api-standards](https://github.com/whitehouse/api-standards)
 ## 📝 Articles
 - [What is REST](https://restfulapi.net)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
@@ -31,6 +31,8 @@
 - [What is an API?](https://restfulapi.net/what-is-an-api/)
 - [REST – PUT vs POST](https://restfulapi.net/rest-put-vs-post/)
 - [HTTP Status Codes Cheatsheet](https://vishnuch.tech/http-status-codes-cheatsheet)
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/index.html)
+- [CRUD API Design & CRUD API Recommendations](https://stoplight.io/blog/crud-api-design/)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
