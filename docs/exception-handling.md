@@ -45,11 +45,12 @@
 - [Improving .NET Application Performance Part 10: Exception Management](https://blog.monitis.com/blog/improving-net-application-performance-part-10-exception-management/)
 - [Bad Data, Try/Catch, and Slow Performance](https://buildplease.com/pages/slow-exceptions/)
 - [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
+- [CARE your Web APIs with Consistent and Structured Error Responses](https://www.dotnetnakama.com/blog/consistent-api-response-errors-care/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
-
+- [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
 ## Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
@@ -59,3 +60,6 @@
 - [safakgur/guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 - [GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+- [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
+- [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [ikyriak/ConsistentApiResponseErrors](https://github.com/ikyriak/ConsistentApiResponseErrors) - A .NET Core middleware that centralizes the handling of input-validation errors, application exceptions and unhandled exceptions.

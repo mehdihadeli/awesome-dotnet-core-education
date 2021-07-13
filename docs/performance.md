@@ -49,6 +49,8 @@
 - [High-performance code design patterns in C#. Konrad Kokosa .NET Fest 2019](https://www.youtube.com/watch?v=3r6gbZFRDHs)
 - [Writing Allocation Free Code in C# - Matt Ellis](https://www.youtube.com/watch?v=nK54s84xRRs)
 - [Writing Allocation Free Code in C#](https://www.youtube.com/watch?v=lb0LCT8xJ3g)
+- [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
+- [https://www.youtube.com/watch?v=isK8Cel3HP0](Diagnosing thread pool exhaustion issues in .NET Core apps)
 ## Library
 
 - [stackify-prefix](https://stackify.com/prefix/)

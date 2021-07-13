@@ -6,6 +6,9 @@ repo_name: 'GitHub'
 repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
 theme: 
   name: material 
+  palette:
+    primary: 'deep purple'
+    accent: 'indigo'  
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False
@@ -75,6 +78,7 @@ nav:
     - Null Checking : csharp/null-check.md
     - Reflection : csharp/reflection.md
     - Types : csharp/types.md
+    - Span: csharp/span.md
     - Async: 
       - Async And Await: csharp/async/async-and-await.md
       - Async Best Practice: csharp/async/async-best-practice.md
@@ -162,6 +166,7 @@ nav:
     - Secret Management: security/secret-management.md
   - Logging And Auditing: logging.md
   - Tracing: tracing.md
+  - Diagnostics: diagnostics.md
   - Testing: 
     - Testing: testing/testing.md
     - Unit Testing: testing/unit-testing.md

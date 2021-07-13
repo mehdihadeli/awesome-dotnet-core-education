@@ -33,6 +33,7 @@
 - [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 - [System.Text.Json and Newtonsoft.Json side-by-side in ASP.NET Core](https://blogs.taiga.nl/martijn/2020/05/28/system-text-json-and-newtonsoft-json-side-by-side-in-asp-net-core/)
 - [JSON.net: how to deserialize without using the default constructor?](https://newbedev.com/json-net-how-to-deserialize-without-using-the-default-constructor)
+- [Utf8Json Media Formatters for ASP.Net Core](https://im5tu.io/article/2018/07/utf8json-media-formatters-for-asp.net-core/)
 - [Json.net also tricked me](https://www.michalkomorowski.com/2017/08/jsonnet-also-tricked-me.html)
 ## Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
