@@ -44,6 +44,7 @@
 - [HofmeisterAn/dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A simple package with guard clause extensions.
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
+- [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -13,7 +13,10 @@
 - [Write simpler tests with Type Builders and AutoFixture](https://canro91.github.io/2021/06/21/WriteSimplerTestsTypeBuilderAndAutoFixture/)
 - [5 tips for better stubs and mocks in C#](https://canro91.github.io/2021/06/07/TipsForBetterStubsAndMocks/)
 - [What are fakes in unit testing: mocks vs stubs](https://canro91.github.io/2021/05/24/WhatAreFakesInTesting/)
-
+- [Generating data in dotnet core with GenFu](http://taswar.zeytinsoft.com/generating-data-in-dotnet-core-with-genfu/)
+- [Realistic Sample Data with GenFu](https://www.davepaquette.com/archive/2015/11/15/realistic-sample-data-with-genfu.aspx)
+- [Playing around with GenFu](https://asp.net-hacker.rocks/2016/01/27/playing-around-with-GenFu.html)
+- [Brincando com GenFu .NET Core](https://dev.to/juniorporfirio/brincando-com-genfu-net-core-5gon)
 ## Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)
@@ -31,3 +34,4 @@
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
+- [MisterJames/GenFu](https://github.com/MisterJames/GenFu) - GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.
