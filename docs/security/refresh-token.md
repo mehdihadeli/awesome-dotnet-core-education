@@ -10,3 +10,4 @@
 - [Refresh Token Rotation](https://auth0.com/docs/tokens/refresh-tokens/refresh-token-rotation)
 ## Videos
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
+- [Refresh JWT with Refresh Tokens in Asp Net Core 5 Rest API Step by Step](https://www.youtube.com/watch?v=T_Hla1WzaZQ&ab_channel=MohamadLawand)
