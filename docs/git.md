@@ -3,7 +3,7 @@
 ## Articles
 - [FORKING AND CLONING FROM GITHUB](https://www.stevejgordon.co.uk/forking-cloning-github)
 - [WORKING ON YOUR FIRST GITHUB ISSUE](https://www.stevejgordon.co.uk/working-on-your-first-github-issue)
-
+- [Five Key Git Concepts Explained the Hard Way](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
 ## Videos
 - [Git and GitHub Tutorials for Beginners! Playlist - TheCodex](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 - [Git and GitHub for Poets Playlist - The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)

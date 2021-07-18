@@ -42,6 +42,7 @@
 - [Dependency Injection lifetimes in .NET - my epiphany](https://www.code4it.dev/blog/dependency-injection-lifetimes)
 - [SOLID Wash Tunnel - IoC Container](https://www.ledjonbehluli.com/posts/wash-tunnel/ioc_container/)
 - [SOLID Wash Tunnel - Dependency Injection](https://www.ledjonbehluli.com/posts/wash-tunnel/dependency_injection/)
+- [Service Lifetimes in ASP.NET Core DI Explained](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
 ## Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

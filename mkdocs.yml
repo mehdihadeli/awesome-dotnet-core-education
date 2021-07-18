@@ -148,6 +148,7 @@ nav:
   - Git: git.md
   - Elastic Search: elastic-search.md
   - OData: odata.md
+  - Debugging: debugging.md
   - Nuget: nuget.md
   - API Versioning: api-versioning.md
   - Hosted Service: hosted-service.md
@@ -165,7 +166,7 @@ nav:
     - Refresh Token: security/refresh-token.md
     - Secret Management: security/secret-management.md
   - Logging And Auditing: logging.md
-  - Tracing: tracing.md
+  - Distributed Tracing: distributed-tracing.md
   - Diagnostics: diagnostics.md
   - Testing: 
     - Testing: testing/testing.md
@@ -200,9 +201,6 @@ nav:
     - Azure Devops: ci-cd/azure-devops.md
     - GitHub Actions: ci-cd/gitHub-actions.md
     - Jenkins: ci-cd/jenkins.md
-  - PaaS:
-    - Heroku: paas/heroku.md
-    - Netlify: paas/netlify.md
   - Roslyn: roslyn.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
@@ -211,6 +209,7 @@ nav:
     - DotMemory: ide-tools/dotmemory.md
     - Terminal Tools: ide-tools/terminal.md
     - WSL: ide-tools/wsl.md
+  - Rx.Net: rx.md
   - Commenting: commenting.md
   - Others: others.md
 

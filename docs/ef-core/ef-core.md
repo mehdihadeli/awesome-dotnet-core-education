@@ -27,7 +27,8 @@
 - [A Cleaner Way To Do Entity Configuration With EF Core](https://dotnetcoretutorials.com/2020/06/27/a-cleaner-way-to-do-entity-configuration-with-ef-core/)
 - [Fluent API Configuration](https://www.learnentityframeworkcore.com/configuration/fluent-api)
 - [Configuring DBContext in Entity framework ASP.NET Core – Best Practices](https://www.thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core/)
-
+- [EF Projections on computed properties and methods without a hassle!](https://onthedrift.com/posts/efcore-projectables/)
+- [EFCore.Projectables and the curious case of an unexpected performance boost](https://onthedrift.com/posts/efcore-projectables-perf/)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -58,6 +59,7 @@
 - [JonPSmith/EfCore.GenericEventRunner](https://github.com/JonPSmith/EfCore.GenericEventRunner) - A library to allow developer use events to update their database via Entity Framework Core (EF Core)
 - [Lex45x/QueryNinja](https://github.com/Lex45x/QueryNinja/wiki) - Framework for dynamic query building regardless of the source and target.
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
+- [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

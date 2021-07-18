@@ -17,6 +17,7 @@
 - [Realistic Sample Data with GenFu](https://www.davepaquette.com/archive/2015/11/15/realistic-sample-data-with-genfu.aspx)
 - [Playing around with GenFu](https://asp.net-hacker.rocks/2016/01/27/playing-around-with-GenFu.html)
 - [Brincando com GenFu .NET Core](https://dev.to/juniorporfirio/brincando-com-genfu-net-core-5gon)
+- [How to use Moq and xUnit for Unit Testing Controllers in ASP.NET Core](https://www.hosting.work/aspnet-core-moq-xunit-unit-testing/)
 ## Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)

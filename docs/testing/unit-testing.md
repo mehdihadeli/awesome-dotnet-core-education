@@ -36,6 +36,7 @@
 - [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
 - [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
 - [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/)
+- [Unit Testing of Web API with xUnit and Moq](https://www.hosting.work/aspnet-core-web-api-xunit-moq-unit-testing/)
 ### Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 

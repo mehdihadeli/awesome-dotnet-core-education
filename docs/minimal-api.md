@@ -18,3 +18,5 @@
 - [oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
 - [bradygaster/minimalApiWithSwagger](https://github.com/bradygaster/minimalApiWithSwagger)
 - [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground)
+- [jaliyaudagedara/minimal-api](https://github.com/jaliyaudagedara/minimal-api)
+- [dotnet-labs/Minimal-URL-Shortener](https://github.com/dotnet-labs/Minimal-URL-Shortener)

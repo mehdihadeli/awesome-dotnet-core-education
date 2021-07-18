@@ -128,6 +128,7 @@
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
+
 ## Templates
 
 - [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
