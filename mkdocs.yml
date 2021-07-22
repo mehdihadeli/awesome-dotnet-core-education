@@ -15,6 +15,8 @@ theme:
   sticky_navigation: True
 extra_css:
   - static/extra.css
+plugins:
+  - markmap
 markdown_extensions:
   - smarty
   - sane_lists
@@ -75,6 +77,7 @@ nav:
     - Constant: csharp/constant.md
     - Operator: csharp/implicit-explicit-operators.md
     - Linq: csharp/linq.md
+    - Extension Methods: csharp/extension-methods.md
     - Null Checking : csharp/null-check.md
     - Reflection : csharp/reflection.md
     - Types : csharp/types.md
@@ -108,6 +111,7 @@ nav:
       - Thread: csharp/async/thread.md
       - ValueTask: csharp/async/valuetask.md
       - Recources: csharp/async/resources.md
+    - Enum: csharp/enum.md
   - Code Coverage & Analysis: code-coverage-analysis.md
   - MAUI: maui.md
   - Blazor: blazor.md

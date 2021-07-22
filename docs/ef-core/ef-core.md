@@ -41,6 +41,7 @@
 - [Entity Framework Core In-Depth Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-2)
 - [Entity Framework Core In-Depth Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-3)
 - [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
+- [Entity Framework Community Standup - Visualizing database query plans](https://www.youtube.com/watch?v=Zhy5antRDJk)
 ## 📦 Libraries
 
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

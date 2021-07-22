@@ -45,7 +45,8 @@
 - [Instantiating classes that implement an interface (e.g. plugin activation)](https://riptutorial.com/csharp/example/14824/instantiating-classes-that-implement-an-interface--e-g--plugin-activation-)
 - [IL Generation in .NET with Sigil](https://www.infoq.com/news/2016/01/sigil-intermediate-language/)
 - [How to: Define a Generic Method with Reflection Emit](https://www.crystalnet-tech.com/RuntimeLibrary/Help/html/scr/How_to__Define_a_Generic_Method_with_Reflection_Emit.html)
-
+- [How do I use reflection to call a generic method?](https://stackoverflow.com/questions/232535/how-do-i-use-reflection-to-call-a-generic-method/27870198)
+- [How to call a generic async method using reflection](https://stackoverflow.com/questions/39674988/how-to-call-a-generic-async-method-using-reflection/39679855)
 ## Videos
 - [Achieving compile-time performance with Reflection in C#](https://www.youtube.com/watch?v=er9nD-usM1A)
 - [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)

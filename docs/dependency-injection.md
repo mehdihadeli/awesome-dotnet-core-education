@@ -43,6 +43,9 @@
 - [SOLID Wash Tunnel - IoC Container](https://www.ledjonbehluli.com/posts/wash-tunnel/ioc_container/)
 - [SOLID Wash Tunnel - Dependency Injection](https://www.ledjonbehluli.com/posts/wash-tunnel/dependency_injection/)
 - [Service Lifetimes in ASP.NET Core DI Explained](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
+- [Cannot Consume Scoped Service From Singleton – A Lesson In ASP.NET Core DI Scopes](https://dotnetcoretutorials.com/2018/03/20/cannot-consume-scoped-service-from-singleton-a-lesson-in-asp-net-core-di-scopes/)
+- [Two gotchas with scoped and singleton dependencies in ASP.NET Core](https://blog.markvincze.com/two-gotchas-with-scoped-and-singleton-dependencies-in-asp-net-core/)
+- [Using scoped services inside singletons](https://samwalpole.com/using-scoped-services-inside-singletons)
 ## Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

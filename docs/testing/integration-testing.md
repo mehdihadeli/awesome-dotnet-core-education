@@ -65,6 +65,7 @@
 - [Automated Integration Testing over Gitlab CI/CD for Dotnet Core via Testcontainers](https://medium.com/trendyol-tech/automated-integration-testing-over-gitlab-ci-cd-for-dotnet-core-via-testcontainers-b18c7f81e65f)
 - [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
+- [.net Core 3.0, DirectoryNotFoundException with Xunit Integration test](https://github.com/dotnet/aspnetcore/issues/17707)
 ## 📹 Videos
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 

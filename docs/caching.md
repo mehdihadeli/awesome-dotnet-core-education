@@ -48,6 +48,7 @@
 - [Redis for .NET Developers | Redis with AspNetCore WebAPI](http://taswar.zeytinsoft.com/redis-for-net-developers-redis-with-aspnetcore-webapi/)
 - [Pub/Sub](https://redis.io/topics/pubsub)
 - [Publish Subscribe](https://sodocumentation.net/stackexchange-redis/topic/1610/publish-subscribe)
+- [How to use Redis and Lua Scripts in a C# ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-redis-and-lua-scripts-in-a-c-asp-net-core-microservice-architecture-e12dc8846707)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

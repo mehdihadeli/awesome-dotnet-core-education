@@ -28,3 +28,18 @@ If you like my work, feel free to:
 Thanks a bunch for supporting me!
 
 [tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-dotnet-core-education&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20for%20learning%20and%20practicing%20about%20.Net%20Core%20and%20its%20related%20technologies&hashtags=dotnetcore,dotnet,csharp,netcore,aspnetcore
+
+
+```markmap
+# Root
+
+## Branch 1
+
+* Branchlet 1a
+* Branchlet 1b
+
+## Branch 2
+
+* Branchlet 2a
+* Branchlet 2b
+```
