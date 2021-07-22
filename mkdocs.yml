@@ -15,8 +15,6 @@ theme:
   sticky_navigation: True
 extra_css:
   - static/extra.css
-plugins:
-  - markmap
 markdown_extensions:
   - smarty
   - sane_lists
