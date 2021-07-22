@@ -17,6 +17,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+[![Sparkline](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education.svg)](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education)
 
 ## Support ⭐
 If you like my work, feel free to:
@@ -28,3 +29,4 @@ If you like my work, feel free to:
 Thanks a bunch for supporting me!
 
 [tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-dotnet-core-education&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20for%20learning%20and%20practicing%20about%20.Net%20Core%20and%20its%20related%20technologies&hashtags=dotnetcore,dotnet,csharp,netcore,aspnetcore
+
