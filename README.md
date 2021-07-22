@@ -17,6 +17,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+[![Sparkline](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education.svg)](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education)
 
 ## Support ⭐
 If you like my work, feel free to:
