@@ -97,6 +97,7 @@
 - [.NET 5 REST API Tutorial - Build From Scratch With C#](https://www.youtube.com/watch?v=ZXdFisA_hOY)
 - [.NET 5 REST API Tutorial](https://www.youtube.com/watch?v=Jvu60R-AWQc)
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
+- [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

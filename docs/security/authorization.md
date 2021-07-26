@@ -25,8 +25,11 @@
 - [Using a middleware to build a permission-based identity in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-permission-based-authorization-middleware/)
 - [Deep dive into policy-based authorization in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-deep-dive-policy-based-authorization/)
 - [Protecting your API endpoints with dynamic policies in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-protecting-api-endpoints-with-dynamic-policies)
-## 📹 Videos
+- [Creating a Basic Authorization Pipeline with MediatR and ASP.NET Core](https://medium.com/@austin.davies0101/creating-a-basic-authorization-pipeline-with-mediatr-and-asp-net-core-c257fe3cc76b)
+- [Handling Authorization In Clean Architecture with ASP.NET Core and MediatR](https://levelup.gitconnected.com/handling-authorization-in-clean-architecture-with-asp-net-core-and-mediatr-6b91eeaa4d15)
+- [Tackle more complex security policies for your ASP.NET Core app](https://jonhilton.net/complex-aspnet-core-custom-security-policies/)
 
+## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)

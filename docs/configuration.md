@@ -19,6 +19,7 @@
 - [Keeping Configuration Settings in Memory](https://visualstudiomagazine.com/Blogs/Tool-Tracker/2019/03/Keeping-Configuration-Settings.aspx)
 - [Using Memory Configuration Provider In .NET Applications](https://thecodeblogger.com/2021/04/18/using-memory-configuration-provider-in-net-applications/)
 - [Testing and Configuration in .NET Core](https://joestead.codes/posts/testing-with-configuration-dotnet/)
+- [Adding validation to strongly typed configuration objects in ASP.NET Core](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-asp-net-core/)
 ## 📦 Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)

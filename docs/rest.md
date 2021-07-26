@@ -33,6 +33,9 @@
 - [HTTP Status Codes Cheatsheet](https://vishnuch.tech/http-status-codes-cheatsheet)
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/index.html)
 - [CRUD API Design & CRUD API Recommendations](https://stoplight.io/blog/crud-api-design/)
+
+## Videos
+- [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

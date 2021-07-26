@@ -49,6 +49,7 @@
 - [Pub/Sub](https://redis.io/topics/pubsub)
 - [Publish Subscribe](https://sodocumentation.net/stackexchange-redis/topic/1610/publish-subscribe)
 - [How to use Redis and Lua Scripts in a C# ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-redis-and-lua-scripts-in-a-c-asp-net-core-microservice-architecture-e12dc8846707)
+- [Caching in ASP.NET Core with LazyCache](https://lukelowrey.com/caching-in-aspnet-core-with-lazycache/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
@@ -66,6 +67,7 @@
 ## Library
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
+- [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 - [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis) - Foundatio Redis
 - [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 - [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) - EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!

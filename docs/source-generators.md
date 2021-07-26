@@ -13,6 +13,7 @@
 - [.NET 5 Source Generators Jump Start](https://khalidabuhakmeh.com/dotnet-5-source-generators-jump-start)
 - [Source Generators in .NET 5 with ReSharper](https://blog.jetbrains.com/dotnet/2020/11/12/source-generators-in-net-5-with-resharper/)
 - [API Client with C# Source Generators](https://sharovarskyi.com/blog/posts/source-generators-api-client/)
+- [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 ## Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)

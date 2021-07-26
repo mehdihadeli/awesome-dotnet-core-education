@@ -35,6 +35,7 @@
 - [JSON.net: how to deserialize without using the default constructor?](https://newbedev.com/json-net-how-to-deserialize-without-using-the-default-constructor)
 - [Utf8Json Media Formatters for ASP.Net Core](https://im5tu.io/article/2018/07/utf8json-media-formatters-for-asp.net-core/)
 - [Json.net also tricked me](https://www.michalkomorowski.com/2017/08/jsonnet-also-tricked-me.html)
+- [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 ## Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)

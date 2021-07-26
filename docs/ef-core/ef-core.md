@@ -29,6 +29,9 @@
 - [Configuring DBContext in Entity framework ASP.NET Core – Best Practices](https://www.thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core/)
 - [EF Projections on computed properties and methods without a hassle!](https://onthedrift.com/posts/efcore-projectables/)
 - [EFCore.Projectables and the curious case of an unexpected performance boost](https://onthedrift.com/posts/efcore-projectables-perf/)
+- [Calling functions in LINQ queries](http://tomasp.net/blog/linq-expand.aspx/)
+- [LINQ: Building an IQueryable provider series](https://docs.microsoft.com/en-us/archive/blogs/mattwar/linq-building-an-iqueryable-provider-series)
+
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
@@ -42,8 +45,9 @@
 - [Entity Framework Core In-Depth Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-3)
 - [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
 - [Entity Framework Community Standup - Visualizing database query plans](https://www.youtube.com/watch?v=Zhy5antRDJk)
-## 📦 Libraries
 
+## 📦 Libraries
+- [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
 - [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - reverse engineering, migrations and model visualization for EF Core
 - [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and MySql
@@ -61,6 +65,8 @@
 - [Lex45x/QueryNinja](https://github.com/Lex45x/QueryNinja/wiki) - Framework for dynamic query building regardless of the source and target.
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
+- [mattwar/iqtoolkit](https://github.com/mattwar/iqtoolkit) - A Toolkit for building LINQ IQueryable providers. This is the official move of my IQToolkit project from CodePlex.
+
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
