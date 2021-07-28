@@ -29,11 +29,11 @@
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 - [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq/) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
-
+- [SimonCropp/GraphQL.EntityFramework](https://github.com/SimonCropp/GraphQL.EntityFramework) - Adds EntityFramework Core IQueryable support to GraphQL
+- [StefH/GraphQL.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/GraphQL.EntityFrameworkCore.DynamicLinq) - GraphQL extensions for EntityFrameworkCore.DynamicLinq to automatically configure the query arguments and execute the query
 ## Samples
 
-- [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars)
-> GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
+- [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

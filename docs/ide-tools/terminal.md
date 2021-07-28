@@ -5,6 +5,7 @@
 - [How to make a pretty prompt in Windows Terminal with Powerline, Nerd Fonts, Cascadia Code, WSL, and oh-my-posh](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh)
 - [6 steps to pimp my terminal](https://stapp.space/few-steps-to-pimp-my-terminal/)
 - [Adding Predictive IntelliSense to my Windows Terminal PowerShell Prompt with PSReadline](https://www.hanselman.com/blog/adding-predictive-intellisense-to-my-windows-terminal-powershell-prompt-with-psreadline)
+
 ## Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -12,3 +13,4 @@
 
 ## Libraries
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - Queen Bey-inspired themes for all your favs.
+- [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal

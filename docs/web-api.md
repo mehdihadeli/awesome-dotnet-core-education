@@ -75,6 +75,7 @@
 - [Using Refit in ASP.NET Core to remove boilerplate code when consuming REST endpoints](https://www.vaughanreid.com/2020/10/using-refit-in-asp-net-core-to-remove-boilerplate-code-when-consuming-rest-endpoints/)
 - [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
 - [Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
+- [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)

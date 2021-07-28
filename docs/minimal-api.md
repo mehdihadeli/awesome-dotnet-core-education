@@ -20,3 +20,7 @@
 - [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground)
 - [jaliyaudagedara/minimal-api](https://github.com/jaliyaudagedara/minimal-api)
 - [dotnet-labs/Minimal-URL-Shortener](https://github.com/dotnet-labs/Minimal-URL-Shortener)
+- [ajithramawickrama/dotnet6minimalapi](https://github.com/ajithramawickrama/dotnet6minimalapi)
+
+## Libraries
+- [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs

@@ -36,11 +36,16 @@
 - [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
 - [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/)
 - [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/)
+- [WORKING WITH POLLY – USING THE CONTEXT TO OBTAIN THE RETRY COUNT FOR DIAGNOSTICS](https://www.stevejgordon.co.uk/polly-using-context-to-obtain-retry-count-diagnostics)
 - [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
+- [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
+- [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
 ## Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
+- [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
+- [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

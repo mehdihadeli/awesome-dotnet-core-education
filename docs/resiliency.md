@@ -7,6 +7,24 @@
 - [Simmy Chaos Engine for .NET – Part 2, Resilience and Injected Faults](https://nodogmablog.bryanhogan.net/2019/07/simmy-chaos-engine-for-net-part-2-resilience-and-injected-faults/)
 - [Simmy Chaos Engine for .NET – Part 3, Adding Latency](https://nodogmablog.bryanhogan.net/2019/08/simmy-chaos-engine-for-net-part-3-adding-latency/)
 - [Chaos Engineering your .NET applications using Simmy](http://josephwoodward.co.uk/2020/01/chaos-engineering-your-dot-net-application-simmy)
+- [Resiliency and high availability in microservices](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/resilient-high-availability-microservices)
+- [Implement resilient applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/)
+- [Handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/handle-partial-failure)
+- [Strategies to handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/partial-failure-strategies)
+- [Creating Resilient Microservices in .NET with Polly](https://code-maze.com/creating-resilient-microservices-in-net-with-polly/)
+- [Microservice resilience – Circuit Breaker using polly in .Net Core](https://dotnetcorecentral.com/blog/microservice-resilience-circuit-breaker-using-polly-in-net-core/)
+- [Resiliency Patterns in Microservice Architecture](https://www.gokhan-gokalp.com/en/resiliency-patterns-in-microservice-architecture/)
+- [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
+- [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
+- [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
+## Videos
+- [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
+- [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
+- [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
+- [Managing Resiliency in Microservices || Full Stack Virtual Conference](https://www.youtube.com/watch?v=DTFvQqQBN2c)
+- [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
+- [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
+- [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 ## Library
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [Polly-Contrib/Simmy](https://github.com/Polly-Contrib/Simmy) - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET

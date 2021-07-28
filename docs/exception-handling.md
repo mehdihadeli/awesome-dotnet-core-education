@@ -46,6 +46,8 @@
 - [Bad Data, Try/Catch, and Slow Performance](https://buildplease.com/pages/slow-exceptions/)
 - [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
 - [CARE your Web APIs with Consistent and Structured Error Responses](https://www.dotnetnakama.com/blog/consistent-api-response-errors-care/)
+- [HTTP API Problem Details in ASP.NET Core](https://codeopinion.com/http-api-problem-details-in-asp-net-core/)
+
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
