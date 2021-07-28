@@ -55,6 +55,7 @@ nav:
     - .Net 6: dotnet/dotnet6.md  
     - .Net Standard: dotnet/dotnet-standard.md
     - ASP.Net Core: dotnet/dotnet-core.md
+    - .Net Core Architecture: dotnet/dotnet-core-architecture.md
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
@@ -119,7 +120,6 @@ nav:
   - Health Check: health-check.md
   - Serialization: serialization.md
   - Generic Host And Web Host: generic-host.md
-  - .Net Core Architecture: dotnet-core-architecture.md
   - Hosting: hosting.md
   - Kestrel: kestrel.md
   - Feature Flags: feature-flags.md
