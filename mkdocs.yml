@@ -109,7 +109,8 @@ nav:
       - Thread Safty: csharp/async/thread-safty.md
       - Thread: csharp/async/thread.md
       - ValueTask: csharp/async/valuetask.md
-      - Recources: csharp/async/resources.md
+      - Resources: csharp/async/resources.md
+    - Record: csharp/record.md
     - Enum: csharp/enum.md
   - Code Coverage & Analysis: code-coverage-analysis.md
   - MAUI: maui.md

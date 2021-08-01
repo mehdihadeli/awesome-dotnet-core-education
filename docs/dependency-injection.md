@@ -50,6 +50,7 @@
 - [Resolving instances with ASP.NET Core DI in static classes](https://www.davidezoccarato.cloud/resolving-instances-with-asp-net-core-di-in-static-classes/)
 - [Accessing ASP.NET Core DI Container From Static Factory Class](https://stackoverflow.com/questions/40611683/accessing-asp-net-core-di-container-from-static-factory-class)
 - [ASP.NET Core Dependency Injection – Cannot consume scoped service](https://codingblast.com/asp-net-core-dependency-injection-cannot-consume-scoped-service/)
+- [Introducing Scrutor - Convention based registration for Microsoft.Extensions.DependencyInjection](https://kristian.hellang.com/introducing-scrutor/)
 ## Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

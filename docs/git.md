@@ -23,3 +23,7 @@
 - [Git Pull Requests explained - Computer Stuff They Didn't Teach You #5](https://www.youtube.com/watch?v=Mfz8NQncwiQ)
 - [Git Rebase vs Merge explained - Computer Stuff They Didn't Teach You #6](https://www.youtube.com/watch?v=hae9zg0-sZY)
 - [Git Push --Force will destroy the timeline and kill us all - Computer Stuff They Didn't Teach You #7](https://www.youtube.com/watch?v=dgOpnebZkRo)
+- [git feature branch example](https://www.youtube.com/watch?v=IfD3PwpOz7U)
+- [Intro to git feature branch workflow](https://www.youtube.com/watch?v=Lj_jAFwofLs)
+- [Combining Git commits with squash](https://www.youtube.com/watch?v=V5KrD7CmO4o)
+- [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
