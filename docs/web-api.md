@@ -76,6 +76,7 @@
 - [Refit Basics](https://elanderson.net/2018/03/refit-basics/)
 - [Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
 - [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
+- [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -124,10 +125,10 @@
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
 
 ## 🔖 Samples
-
+- [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
+- [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 - [filipw/apress-recipes-webapi](https://github.com/filipw/apress-recipes-webapi) - Samples from ASP.NET Web API 2: Recipes book.
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial) - Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
-- [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 

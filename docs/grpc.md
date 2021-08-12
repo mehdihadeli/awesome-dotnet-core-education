@@ -27,6 +27,7 @@
 - [gRPC performance benchmark in ASP.NET Core 3](https://pawelkmiec.net/2019/11/17/gRPC-performance-benchmark.html)
 - [Trying out gRPC in ASP.NET Core 3](https://pawelkmiec.net/2019/10/18/gRPC-ASP.NET-Core.html)
 - [Getting Started protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
+
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -46,7 +47,7 @@
 - [https://github.com/grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
-
+- [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator/src/Utils.Grpc.Mediator)
 ## Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount

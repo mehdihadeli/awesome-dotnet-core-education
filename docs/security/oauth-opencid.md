@@ -16,6 +16,8 @@
 - [Setting up an Authorization Server with OpenIddict - Part IV - Authorization Code Flow](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-iv-authorization-code-flow-3eh8)
 - [Setting up an Authorization Server with OpenIddict - Part V - OpenID Connect](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-v-openid-connect-a8j)
 - [Setting up an Authorization Server with OpenIddict - Part VI - Refresh tokens](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-vi-refresh-tokens-5669)
+- [An introduction to OAuth 2.0 using Facebook in ASP.NET Core](https://andrewlock.net/an-introduction-to-oauth-2-using-facebook-in-asp-net-core/)
+- [An introduction to OpenID Connect in ASP.NET Core](https://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/)
 ## Videos
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 - [SECURING OAUTH BEARER TOKENS FROM MULTIPLE IDENTITY PROVIDERS IN AN ASP.NET CORE API](https://damienbod.com/2021/05/17/securing-multiple-identity-provider-oauth-bearer-tokens-in-an-asp-net-core-api/)

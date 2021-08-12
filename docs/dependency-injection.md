@@ -2,9 +2,10 @@
 # Dependency Injection
 
 ## 📝 Articles
-
 - [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
+- [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+- [Captive Dependency](https://blog.ploeh.dk/2014/06/02/captive-dependency/)
 - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 - [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 - [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
@@ -35,7 +36,6 @@
 - [Automatic factory with Microsoft.Extensions.DependencyInjection and Castle DynamicProxy](https://thomaslevesque.com/2020/09/27/automatic-factory-with-microsoft-extensions-dependencyinjection-and-castle-dynamicproxy/)
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 - [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
-- [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [ASP.NET Core Dependency Injection Best Practices, Tips & Tricks](https://medium.com/volosoft/asp-net-core-dependency-injection-best-practices-tips-tricks-c6e9c67f9d96)
 - [Exploring ASP.NET Core Fundamentals - Understanding Singleton Transient and Scoped Service Lifetimes](https://referbruv.com/blog/posts/exploring-aspnet-core-fundamentals-understanding-singleton-transient-and-scoped-service-lifetimes)
 - [Using Scrutor to automatically register your services with the ASP.NET Core DI container](https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/)
@@ -51,6 +51,10 @@
 - [Accessing ASP.NET Core DI Container From Static Factory Class](https://stackoverflow.com/questions/40611683/accessing-asp-net-core-di-container-from-static-factory-class)
 - [ASP.NET Core Dependency Injection – Cannot consume scoped service](https://codingblast.com/asp-net-core-dependency-injection-cannot-consume-scoped-service/)
 - [Introducing Scrutor - Convention based registration for Microsoft.Extensions.DependencyInjection](https://kristian.hellang.com/introducing-scrutor/)
+- [Constrained Open Generics Support Merged in .NET Core DI Container](https://jimmybogard.com/constrained-open-generics-support-merged-in-net-core-di-container/)
+- [Captive Dependency with ASP.NET Core](https://medium.com/dotnet-hub/captive-dependency-with-asp-net-core-what-is-captive-dependency-8698b588e048)
+- [.NET Core and DI – Beware of Captive Dependency](https://ankitvijay.net/2020/03/17/net-core-and-di-beware-of-captive-dependency/)
+- 
 ## Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

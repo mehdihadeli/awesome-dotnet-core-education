@@ -37,7 +37,4 @@
 - [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
 - [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
 - [KevinDockx/BlazorWASMSecurityBestPractices](https://github.com/KevinDockx/BlazorWASMSecurityBestPractices) - Sample showing a best practice security approach for Blazor WASM apps via the BFF pattern
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core

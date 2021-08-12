@@ -1,11 +1,14 @@
 # Authentication
 
 ## 📝 Articles
-
 - [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+- [.NET 5.0 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2021/05/25/net-5-simple-api-for-authentication-registration-and-user-management)
+- [.NET 5.0 API - JWT Authentication with Refresh Tokens](https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens)
+- [A look behind the JWT bearer authentication middleware in ASP.NET Core](https://andrewlock.net/a-look-behind-the-jwt-bearer-authentication-middleware-in-asp-net-core/)
 - [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 - [Getting started with Securing APIs using JWT Bearer Authentication - Hands on](https://referbruv.com/blog/posts/getting-started-with-securing-apis-using-jwt-bearer-authentication-hands-on)
 - [JWT Authentication In ASP.NET Core](https://www.freecodespot.com/blog/jwt-authentication-in-dotnet-core/)
+- [ASP.NET Core Token Authentication Guide](https://stormpath.com/blog/token-authentication-asp-net-core)
 - [Login Web Application using Cookie Authentication in ASP NET Core](https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/)
 - [Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide](https://www.codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication)
 - [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
@@ -47,6 +50,10 @@
 - [Secure your ASP.NET Core 2.0 API (part 2 - restrict access to JWT bearers only)](https://jonhilton.net/security/apis/secure-your-asp.net-core-2.0-api-part-2-jwt-bearer-authentication/)
 - [Identify users and their permissions with JWTs and ASP.NET Core WebAPI](https://jonhilton.net/identify-users-permissions-with-jwts-and-asp-net-core-webapi/)
 - [Tackle more complex security policies for your ASP.NET Core app](https://jonhilton.net/complex-aspnet-core-custom-security-policies/)
+- [Securing .NET Core 3 API Using JWT authentication](https://thecodeblogger.com/2020/01/31/securing-net-core-3-api-using-jwt-authentication/)
+- [ASP.NET Core and JSON Web Tokens - where are my claims?](https://mderriey.com/2019/06/23/where-are-my-jwt-claims/)
+- [Jwt Claim Names](https://stackoverflow.com/a/50012477/581476)
+- [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -68,6 +75,7 @@
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
 
 ## Samples
+- [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
 - [iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.
 - [spetz/jwt-hmac-rsa-aspnet-core-sample](https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample)
@@ -76,6 +84,11 @@
 - [mmacneil/AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) - Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4
 - [cornflourblue/aspnet-core-3-signup-verification-api](https://github.com/cornflourblue/aspnet-core-3-signup-verification-api) - ASP.NET Core 3.1 - Boilerplate API with Email Sign Up, Verification, Authentication & Forgot Password
 - [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) - WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET 5!
+- [manoj-choudhari-git/AspNetCore-Identity](https://github.com/manoj-choudhari-git/AspNetCore-Identity) - .NET Core Web API and Cookie Authentication
+- [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
+- [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
+- [cornflourblue/dotnet-5-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api) - .NET 5.0 API - JWT Authentication with Refresh Tokens
+- [cornflourblue/aspnet-core-3-jwt-authentication-api](https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api) - ASP.NET Core 3.1 JWT Authentication API
 ## Libraries
 
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework

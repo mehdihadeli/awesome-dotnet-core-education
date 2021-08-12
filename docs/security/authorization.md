@@ -28,7 +28,10 @@
 - [Creating a Basic Authorization Pipeline with MediatR and ASP.NET Core](https://medium.com/@austin.davies0101/creating-a-basic-authorization-pipeline-with-mediatr-and-asp-net-core-c257fe3cc76b)
 - [Handling Authorization In Clean Architecture with ASP.NET Core and MediatR](https://levelup.gitconnected.com/handling-authorization-in-clean-architecture-with-asp-net-core-and-mediatr-6b91eeaa4d15)
 - [Tackle more complex security policies for your ASP.NET Core app](https://jonhilton.net/complex-aspnet-core-custom-security-policies/)
-
+- [Setting global authorization policies using the DefaultPolicy and the FallbackPolicy in ASP.NET Core 3.x](https://andrewlock.net/setting-global-authorization-policies-using-the-defaultpolicy-and-the-fallbackpolicy-in-aspnet-core-3/)
+- [Introduction to Authorisation in ASP.NET Core](https://andrewlock.net/introduction-to-authorisation-in-asp-net-core/)
+- [Custom authorisation policies and requirements in ASP.NET Core](https://andrewlock.net/custom-authorisation-policies-and-requirements-in-asp-net-core/)
+- [Global Authorization Filter in .Net Core: .Net Core Security Part – V](https://neelbhatt.com/2018/03/23/global-authorization-filter-in-net-core-net-core-security-part-v/)
 ## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
@@ -36,7 +39,7 @@
 
 ## Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
-
+- [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

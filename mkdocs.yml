@@ -79,6 +79,7 @@ nav:
     - Extension Methods: csharp/extension-methods.md
     - Null Checking : csharp/null-check.md
     - Reflection : csharp/reflection.md
+    - Generic: csharp/generic.md
     - Types : csharp/types.md
     - Span: csharp/span.md
     - Async: 
@@ -198,6 +199,7 @@ nav:
   - Mapping: mapping.md
   - Caching: caching.md
   - Benchmarking: benchmarking.md
+  - Rate Limiting: rate-limiting.md
   - Package Versioning: package-versioning.md
   - Orleans: orleans.md
   - CI/CD: 

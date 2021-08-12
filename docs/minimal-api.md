@@ -6,6 +6,8 @@
 - [Minimal APIs in ASP.NET Core 6.0 - Part2](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6-part2/)
 - [.NET 6 Preview 4: Introducing Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/06/net-6-preview-4-introducing-minimal.html)
 - [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
+- [Building Minimal APIs In .NET 6](https://dotnetcoretutorials.com/2021/07/16/building-minimal-apis-in-net-6/)
+- [Building a URL Shortener Web App using Minimal APIs in .NET 6](https://medium.com/geekculture/building-a-url-shortener-web-app-using-minimal-apis-in-net-6-99334ac6e98b)
 ## Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -21,6 +23,6 @@
 - [jaliyaudagedara/minimal-api](https://github.com/jaliyaudagedara/minimal-api)
 - [dotnet-labs/Minimal-URL-Shortener](https://github.com/dotnet-labs/Minimal-URL-Shortener)
 - [ajithramawickrama/dotnet6minimalapi](https://github.com/ajithramawickrama/dotnet6minimalapi)
-
+- [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
