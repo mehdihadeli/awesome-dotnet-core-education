@@ -66,7 +66,7 @@
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
 - [mattwar/iqtoolkit](https://github.com/mattwar/iqtoolkit) - A Toolkit for building LINQ IQueryable providers. This is the official move of my IQToolkit project from CodePlex.
-
+- [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

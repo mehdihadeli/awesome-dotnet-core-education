@@ -1,7 +1,7 @@
 
 # Mediator
 
-## Articles
+## 📕 Articles
 - [Using MediatR in ASPNET Core Apps](https://ardalis.com/using-mediatr-in-aspnet-core-apps) 
 - [Mediator Pattern Implemented In .NET/C#](https://dasith.me/2019/01/07/mediator-pattern-implemented-in-net/)
 - [No, MediatR Didn't Run Over My Dog](https://scotthannen.org/blog/2020/06/20/mediatr-didnt-run-over-dog.html)
@@ -14,10 +14,10 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
-## Videos
+## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 
-## Samples
+## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)
 ## Library

@@ -1,6 +1,6 @@
 # Generic
 
-## Articles
+## 📕 Articles
 - [Difference between IsGenericType and IsGenericTypeDefinition](https://stackoverflow.com/questions/31772922/difference-between-isgenerictype-and-isgenerictypedefinition)
 - [Open and Closed Generic Types in C#](https://www.pluralsight.com/guides/open-and-closed-generic-types-in-c)
 - [Reflection and Generic Types](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection-and-generic-types)

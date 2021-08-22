@@ -1,6 +1,6 @@
 # Package Versioning
 
-## Articles
+## 📕 Articles
 - [Practical vs. Strict Semantic Versioning](https://aaronstannard.com/oss-semver/)
 - [Managing Package Versions Centrally](https://stu.dev/managing-package-versions-centrally/)
 - [Microsoft.Build.CentralPackageVersions](https://github.com/microsoft/MSBuildSdks/tree/main/src/CentralPackageVersions)

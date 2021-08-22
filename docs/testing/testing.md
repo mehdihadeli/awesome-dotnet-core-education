@@ -1,7 +1,7 @@
 
 # Testing
 
-## Resources
+## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 
 ## 📝 Articles
@@ -16,7 +16,7 @@
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 - [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
-## Videos
+## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
@@ -45,6 +45,7 @@
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
+- [adrianiftode/FluentAssertions.Web](https://github.com/adrianiftode/FluentAssertions.Web) - FluentAssertions for .Net Web Api projects
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

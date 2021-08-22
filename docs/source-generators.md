@@ -1,7 +1,7 @@
 
 # Source Generators
 
-## Resources
+## 📘 Resources
 - [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
 - [Source Generators Cookbook](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md)
 - [Source Generators](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.md)
@@ -15,7 +15,9 @@
 - [API Client with C# Source Generators](https://sharovarskyi.com/blog/posts/source-generators-api-client/)
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [.NET Source Generators: Finding Class Declarations](https://khalidabuhakmeh.com/dotnet-source-generators-finding-class-declarations)
-## Videos
+- [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
+- [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
+## 📺 Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)
 - [C# Source Generators - Write Code that Writes Code](https://www.youtube.com/watch?v=3YwwdoRg2F4)
@@ -23,7 +25,7 @@
 - [Better C# - Source Generators](https://www.youtube.com/watch?v=1u33UTdllV0)
 - [Episode 21: Roslyn Source Generators](https://www.youtube.com/watch?v=JSFZ3qDx83g)
 - [C# Source Generators in Action, by Andrey Dyatlov](https://www.youtube.com/watch?v=052xutD86uI)
-## Samples
+## 🚀 Samples
 - [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) - A basic template for writing a C# source generator
 - [dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators)
 - [edumentab/SourceGenerator-MediatR-CQRS](https://github.com/edumentab/SourceGenerator-MediatR-CQRS)

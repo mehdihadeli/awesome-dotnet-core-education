@@ -1,7 +1,7 @@
 
 # gRPC
 
-## Resources
+## 📘 Resources
 
 - [gRPC for WCF developers e-book](https://dotnet.microsoft.com/download/e-book/grpc-for-wcf-devs/pdf)
 
@@ -48,7 +48,7 @@
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator/src/Utils.Grpc.Mediator)
-## Samples
+## 🚀 Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 

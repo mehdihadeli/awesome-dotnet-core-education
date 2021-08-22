@@ -1,6 +1,6 @@
 # Code Coverage & Analysis
 
-## Articles
+## 📕 Articles
 - [How to view code coverage with Coverlet and Visual Studio 2019](https://www.code4it.dev/blog/code-coverage-vs-2019-coverlet#coverlet---the-nuget-package-for-code-coverage)
 - [Cobertura, YAML, and Code Coverage Protector: how to view Code Coverage report on Azure DevOps](https://www.code4it.dev/blog/code-coverage-on-azure-devops-yaml-pipelines)
 - [.NET Core Code Coverage as a Global Tool with coverlet](https://www.hanselman.com/blog/net-core-code-coverage-as-a-global-tool-with-coverlet)
@@ -17,5 +17,5 @@
 - [Quickstart: Analyzing .NET projects with SonarQube, MSBuild or Visual Studio Online, and third-party analyzers (StyleCop, ReSharper)](https://devblogs.microsoft.com/devops/quickstart-analyzing-net-projects-with-sonarqube-msbuild-or-visual-studio-online-and-third-party-analyzers-stylecop-resharper/)
 - [SonarQube for continuous analysis of .NET projects](https://arghya.xyz/articles/sonarqube-for-dotnet/)
 - [How to run a SonarCloud scan during Docker builds for .NET Core](https://pumpingco.de/blog/how-to-run-a-sonarcloud-scan-during-docker-builds-for-dotnet-core/)
-## Videos
+## 📺 Videos
 - [On .NET Live - .NET Core Code Coverage with Coverlet](https://www.youtube.com/watch?v=K9XSl3xMilE)

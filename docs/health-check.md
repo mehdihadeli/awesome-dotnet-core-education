@@ -1,6 +1,6 @@
 # Health Check
 
-## Articles
+## 📕 Articles
 - [Health monitoring](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/monitor-app-health)
 - [Adding Health Checks UI](https://rmauro.dev/adding-health-checks-ui/)
 - [Health Checks on your ASP.NET Core Application](https://rmauro.dev/adding-health-checks-to-net-core-application/)

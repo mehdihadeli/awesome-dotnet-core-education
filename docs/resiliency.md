@@ -1,6 +1,6 @@
 # Resiliency
 
-## Articles
+## 📕 Articles
 - [Simmy, the monkey for making chaos](http://elvanydev.com/chaos-injection-with-simmy/)
 - [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
 - [Simmy Chaos Engine for .NET – Part 1, Injecting Faults](https://nodogmablog.bryanhogan.net/2019/07/simmy-chaos-engine-for-net-part-1-injecting-faults/)
@@ -17,7 +17,7 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
 - [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
-## Videos
+## 📺 Videos
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
 - [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)

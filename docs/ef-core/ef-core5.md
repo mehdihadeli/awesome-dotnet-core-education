@@ -32,7 +32,7 @@
 - [Split queries](https://docs.microsoft.com/en-us/ef/core/querying/single-split-queries)
 - [Entity Framework Core supports constructors with arguments](https://gunnarpeipman.com/ef-core-constructor-arguments/)
 
-## Videos
+## 📺 Videos
 - [Intro to Entity Framework Core 5 - New features](https://www.youtube.com/watch?v=hp298SGNFuw)
 ## 📚 Books
 - [Entity Framework Core in Action, Second Edition](https://www.manning.com/books/entity-framework-core-in-action-second-edition)

@@ -1,9 +1,9 @@
 # Reflection
 
-## Resources
+## 📘 Resources
 - [Reflection - RIP Tutorial](https://riptutorial.com/csharp/topic/28/reflection)
 
-## Articles
+## 📕 Articles
 - [Dynamic Programming in the .NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/)
 - [Reflection in .NET](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection)
 - [Reflection and Generic Types](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection-and-generic-types)
@@ -47,7 +47,7 @@
 - [How to: Define a Generic Method with Reflection Emit](https://www.crystalnet-tech.com/RuntimeLibrary/Help/html/scr/How_to__Define_a_Generic_Method_with_Reflection_Emit.html)
 - [How do I use reflection to call a generic method?](https://stackoverflow.com/questions/232535/how-do-i-use-reflection-to-call-a-generic-method/27870198)
 - [How to call a generic async method using reflection](https://stackoverflow.com/questions/39674988/how-to-call-a-generic-async-method-using-reflection/39679855)
-## Videos
+## 📺 Videos
 - [Achieving compile-time performance with Reflection in C#](https://www.youtube.com/watch?v=er9nD-usM1A)
 - [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)
 - [C# Reflection Explained (Claim generation example)](https://www.youtube.com/watch?v=cdG2JxuZvNI)
@@ -56,5 +56,5 @@
 - [kevin-montrose/Sigil](https://github.com/kevin-montrose/Sigil) - A fail-fast validating helper for .NET CIL generation
 - [skbkontur/gremit](https://github.com/skbkontur/gremit) - .NET Reflection.Emit extensions
 - [ekonbenefits/dynamitey](https://github.com/ekonbenefits/dynamitey) - (pronounced dyna-mighty) flexes DLR muscle to do meta-mazing things in .net
-## Books
+## 📚 Books
 - [MetaProgramming in .Net](https://livebook.manning.com/book/metaprogramming-in-dot-net/)

@@ -1,6 +1,6 @@
 # State Machine
 
-## Articles
+## 📕 Articles
 - [Exploring the async/await State Machine – The Awaitable Pattern](https://vkontech.com/exploring-the-async-await-state-machine-the-awaitable-pattern/)
 - [Exploring the async/await State Machine – Main Workflow and State Transitions](https://vkontech.com/exploring-the-async-await-state-machine-main-workflow-and-state-transitions/)
 - [Exploring the async/await State Machine – Conceptual Implementation](https://vkontech.com/exploring-the-async-await-state-machine-conceptual-implementation/)

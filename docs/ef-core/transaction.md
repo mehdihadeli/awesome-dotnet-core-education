@@ -1,6 +1,6 @@
 # Transaction
 
-## Articles
+## 📕 Articles
 - [Entity Framework Core and LINQ to Entities in Depth (7) Data Changes and Transactions](https://weblogs.asp.net/dixin/entity-framework-core-and-linq-to-entities-7-data-changes-and-transactions)
 - [Database Connection Resiliency in Entity Framework ASP.NET Core](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-asp-net-core/)
 - [Database Connection Resiliency in ASP.NET Core – Part II](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-transaction-asp-net-core/)

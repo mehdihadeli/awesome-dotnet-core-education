@@ -10,7 +10,7 @@
 - [How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children)
 - [Using CancellationTokens in ASP.NET Core MVC controllers](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/)
 - [Canceling HTTP Requests in ASP.NET Core with CancellationToken](https://code-maze.com/canceling-http-requests-in-asp-net-core-with-cancellationtoken/)
-## Videos
+## 📺 Videos
 - [Stop wasting server resources by properly using CancellationToken in .NET](https://www.youtube.com/watch?v=b5dyPJ3zyRg)
 - [How to Cancel Tasks in C# - Using CancellationTokenSource and CancellationToken](https://www.youtube.com/watch?v=TKc5A3exKBQ&list=PLG8rj6Rr0BU9NXQX3YXtQhVXBD2co2HUQ&index=14)
 ## 🔖 Samples

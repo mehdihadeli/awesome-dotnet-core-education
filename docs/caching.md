@@ -1,7 +1,7 @@
 
 # Caching
 
-## Articles
+## 📕 Articles
 - [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response)
 - [Cache in-memory in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory)
 - [Distributed caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed)
@@ -59,12 +59,12 @@
 - [Caching](https://redislabs.com/solutions/use-cases/caching/)
 - [Leaderboards](https://redislabs.com/solutions/use-cases/leaderboards/)
 
-## Videos
+## 📺 Videos
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
 - [Response caching using Redis | ASP.NET Core 5 REST API Tutorial 25](https://www.youtube.com/watch?v=KboCpJGa9ag)
 - [How to effectively use Redis Cache in .NET Core (Framework, Standard)](https://www.youtube.com/watch?v=jwek4w6als4)
 
-## Samples
+## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)
 ## Library

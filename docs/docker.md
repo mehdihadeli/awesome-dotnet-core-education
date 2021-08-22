@@ -1,6 +1,6 @@
 # Docker
 
-## Resources
+## 📘 Resources
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
 

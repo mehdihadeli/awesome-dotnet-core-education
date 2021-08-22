@@ -1,6 +1,6 @@
 # API Documentation
 
-## Articles
+## 📕 Articles
 
 - [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration)
 - [How to generate code from OpenAPI definition with Visual Studio 2019](https://www.code4it.dev/blog/openapi-code-generation-vs2019)
@@ -19,5 +19,5 @@
 - [Ignoring properties from controller action model in Swagger using JsonIgnore](https://dejanstojanovic.net/aspnet/2019/october/ignoring-properties-from-controller-action-model-in-swagger-using-jsonignore/)
 - [Displaying multiple select input for Enum in Swagger WebApi UI](https://dejanstojanovic.net/aspnet/2018/march/displaying-multiple-select-input-for-enum-in-swagger-webapi-ui/)
 
-## Videos
+## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)

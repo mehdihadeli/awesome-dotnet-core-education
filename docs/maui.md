@@ -2,7 +2,7 @@
 
 ## 📝 Articles
 
-## Videos
+## 📺 Videos
 
 - [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI)
 

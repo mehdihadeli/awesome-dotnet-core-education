@@ -1,6 +1,6 @@
 # Logging And Auditing
 
-## Resources
+## 📘 Resources
 - [Serilog Docs](https://github.com/serilog/serilog/wiki)
 
 ## 📝 Articles

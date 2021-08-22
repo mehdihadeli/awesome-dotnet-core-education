@@ -38,7 +38,7 @@
 - [.NET Core 2.1 Identity get all users with their associated roles](https://stackoverflow.com/questions/51004516/net-core-2-1-identity-get-all-users-with-their-associated-roles)
 - [How to include Roles in IdentityUser?](https://github.com/aspnet/Identity/issues/1361#issuecomment-348863959)
 
-## Samples
+## 🚀 Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
 - [IdentityManager/IdentityManager2](https://github.com/IdentityManager/IdentityManager2) - Development tool for administering users and roles

@@ -8,7 +8,7 @@
 - [Running Kubernetes end-to-end tests with Kind and GitHub Actions
 The Kind GitHub Action](https://radu-matei.com/blog/kubernetes-e2e-github-actions/)
 - [Testing Kubernetes Deployments within CI Pipelines](https://www.eficode.com/blog/testing-kubernetes-deployments-within-ci-pipelines)
-## Videos
+## 📺 Videos
 - [EFS004: Initializing ASP.NET End-to-End Tests](https://www.youtube.com/watch?v=NcGybsFRLO8)
 - [End-to-End Testing ASP.NET Core APIs (Part 2)](https://www.youtube.com/watch?v=ANqj9pldfso)
 - [The .NET Docs Show - Scenario testing 🧪 Blazor Single-Page Apps](https://www.youtube.com/watch?v=Z9lkKnzJgD8)

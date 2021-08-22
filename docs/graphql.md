@@ -1,6 +1,6 @@
 # GraphQL
 
-## Resources
+## 📘 Resources
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [GraphQL Guide](https://blog.graphql.guide)
 ## 📝 Articles
@@ -32,7 +32,7 @@
 - [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq/) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
 - [SimonCropp/GraphQL.EntityFramework](https://github.com/SimonCropp/GraphQL.EntityFramework) - Adds EntityFramework Core IQueryable support to GraphQL
 - [StefH/GraphQL.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/GraphQL.EntityFrameworkCore.DynamicLinq) - GraphQL extensions for EntityFrameworkCore.DynamicLinq to automatically configure the query arguments and execute the query
-## Samples
+## 🚀 Samples
 
 - [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
 

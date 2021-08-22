@@ -1,7 +1,7 @@
 
 # Load Testing
 
-## Resources
+## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 
 ## 📝 Articles

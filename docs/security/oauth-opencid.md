@@ -1,6 +1,6 @@
 # OAuth & OpenID Connect
 
-## Articles
+## 📕 Articles
 - [Implementing an OpenIddict Authorization server: A Basic Authorization Server](https://www.jerriepelser.com/blog/implementing-openiddict-authorization-server-part-1/)
 - [Implementing an OpenIddict Authorization server: Social Login with GitHub](https://www.jerriepelser.com/blog/implementing-openiddict-authorization-server-part-2/)
 - [An introduction to the ASP.NET 5 Generic OAuth Provider](https://www.jerriepelser.com/blog/introduction-to-aspnet5-generic-oauth-provider/)
@@ -18,7 +18,7 @@
 - [Setting up an Authorization Server with OpenIddict - Part VI - Refresh tokens](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-vi-refresh-tokens-5669)
 - [An introduction to OAuth 2.0 using Facebook in ASP.NET Core](https://andrewlock.net/an-introduction-to-oauth-2-using-facebook-in-asp-net-core/)
 - [An introduction to OpenID Connect in ASP.NET Core](https://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/)
-## Videos
+## 📺 Videos
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 - [SECURING OAUTH BEARER TOKENS FROM MULTIPLE IDENTITY PROVIDERS IN AN ASP.NET CORE API](https://damienbod.com/2021/05/17/securing-multiple-identity-provider-oauth-bearer-tokens-in-an-asp-net-core-api/)
 - [SECURING MULTIPLE AUTH0 APIS IN ASP.NET CORE USING OAUTH BEARER TOKENS](https://damienbod.com/2021/04/19/securing-multiple-auth0-apis-in-asp-net-core-using-oauth-bearer-tokens/)
@@ -26,5 +26,5 @@
 ## Libraries
 - [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OpenID Connect stack for ASP.NET Core 2.1/3.1/5.0 and Microsoft.Owin 4.1 (compatible with ASP.NET 4.6.1)
 
-## Samples
+## 🚀 Samples
 - [robinvanderknaap/authorization-server-openiddict](https://github.com/robinvanderknaap/authorization-server-openiddict) - Authorization Server implemented with OpenIddict.

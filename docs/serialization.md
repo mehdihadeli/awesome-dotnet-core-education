@@ -36,7 +36,9 @@
 - [Utf8Json Media Formatters for ASP.Net Core](https://im5tu.io/article/2018/07/utf8json-media-formatters-for-asp.net-core/)
 - [Json.net also tricked me](https://www.michalkomorowski.com/2017/08/jsonnet-also-tricked-me.html)
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
-## Videos
+- [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
+
+## 📺 Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)
 - [Step by Step Tutorial: Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0)

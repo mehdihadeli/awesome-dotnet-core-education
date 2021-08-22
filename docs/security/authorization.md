@@ -8,6 +8,7 @@
 - [Policy-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies)
 - [Claims-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims)
 - [Resource-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/resourcebased)
+- [Authorize with a specific scheme in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme)
 - [ASP.NET Core - Claims Based Authentication: Claims vs Identities vs Principals](https://eddieabbondanz.io/post/aspnet/claims-based-authentication-claims-identities-principals/)
 - [Role-based and Claims-based Authorization in ASP.NET Core using Policies - Hands on](https://referbruv.com/blog/posts/role-based-and-claims-based-authorization-in-aspnet-core-using-policies-hands-on)
 - [Implementing Policy-Based Authorization in ASP.NET Core - Getting Started](https://referbruv.com/blog/posts/implementing-policy-based-authorization-in-aspnet-core-getting-started)
@@ -37,7 +38,7 @@
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
 
-## Samples
+## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 <div align="right">

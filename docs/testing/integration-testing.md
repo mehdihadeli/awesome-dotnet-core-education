@@ -78,7 +78,7 @@
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
-## Samples
+## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)

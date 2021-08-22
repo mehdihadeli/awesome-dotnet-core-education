@@ -1,6 +1,6 @@
 # Performance
 
-## Articles
+## 📕 Articles
 - [Improve Entity Framework Core Performance](https://khalidabuhakmeh.com/improve-entity-framework-core-performance)
 - [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/)
 - [Entity Framework Core – Projection Performance](https://eliottrobson.me/entity-framework-core-projection-performance/)

@@ -1,6 +1,7 @@
 # Authentication
 
 ## 📝 Articles
+- [Overview of ASP.NET Core authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication)
 - [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 - [.NET 5.0 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2021/05/25/net-5-simple-api-for-authentication-registration-and-user-management)
 - [.NET 5.0 API - JWT Authentication with Refresh Tokens](https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens)
@@ -54,6 +55,7 @@
 - [ASP.NET Core and JSON Web Tokens - where are my claims?](https://mderriey.com/2019/06/23/where-are-my-jwt-claims/)
 - [Jwt Claim Names](https://stackoverflow.com/a/50012477/581476)
 - [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
+- [AuthenticationScheme: "Identity.Application" was not authenticated](https://github.com/IdentityServer/IdentityServer4/issues/1525)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -74,7 +76,7 @@
 - [Asp Net Core 5 Rest API Authentication with JWT Step by Step](https://www.youtube.com/watch?v=LgpC4tYtc6Y&ab_channel=MohamadLawand)
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
 
-## Samples
+## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
 - [iammukeshm/JWTAuthentication.WebApi](https://github.com/iammukeshm/JWTAuthentication.WebApi) - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let's build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.

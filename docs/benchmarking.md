@@ -1,6 +1,6 @@
 # Benchmarking
 
-## Articles
+## 📕 Articles
 - [Profiling .Net Code with BenchmarkDotNet](https://adamsitnik.com/ETW-Profiler/)
 
 ## 📦 Libraries

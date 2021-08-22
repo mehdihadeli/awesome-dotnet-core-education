@@ -1,6 +1,6 @@
 # Enum
 
-## Articles
+## 📕 Articles
 - [Smart enums / Type-safe enums in .NET](https://www.meziantou.net/smart-enums-type-safe-enums-in-dotnet.htm)
 - [Series: Enumeration Classes – DDD and beyond](https://ankitvijay.net/2020/06/12/series-enumeration-classes-ddd-and-beyond/)
 - [Enumeration classes](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)

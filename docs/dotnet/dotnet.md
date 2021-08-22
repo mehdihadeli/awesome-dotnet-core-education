@@ -1,6 +1,6 @@
 # .NET
 
-## Resources 
+## 📘 Resources 
 - [Introducing The .NET Coding Pack for VS Code - Getting Started with C# for Beginners](https://www.hanselman.com/blog/introducing-the-net-coding-pack-for-vs-code-getting-started-with-c-for-beginners)
 
 ## 📝 Articles

@@ -1,6 +1,6 @@
 # Async and Await
 
-## Resources
+## 📘 Resources
 - [Async-Await - RIP Tutorial](https://riptutorial.com/csharp/topic/48/async-await)
 ## 📝 Articles
 

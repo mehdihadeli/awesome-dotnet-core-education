@@ -1,9 +1,9 @@
 # Resharper Tips
 
-## Articles
+## 📕 Articles
 - [Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/)
-
-## Videos
+- [6 Hidden Productivity Gems in Resharper and Rider](https://michaelscodingspot.com/productivity-in-resharper-and-rider/)
+## 📺 Videos
 - [Navigation - ReSharper Essentials](https://www.youtube.com/watch?v=-LlVzyzO3mA)
 - [Shortcuts, Editing, Completion - ReSharper Essentials](https://www.youtube.com/watch?v=yvrheKkjOa4)
 - [Refactoring - ReSharper Essentials](https://www.youtube.com/watch?v=vd9BvAPVmEI)

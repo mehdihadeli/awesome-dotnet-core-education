@@ -1,6 +1,6 @@
 # Identity Server
 
-## Articles
+## 📕 Articles
 
 - [The OpenID Connect (OIDC) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-openid-connect-oidc-architecture-map/ba-p/1119450)
 - [🔑 OAuth 2.0 flows explained in GIFs](https://dev.to/hem/oauth-2-0-flows-explained-in-gifs-2o7a)
@@ -11,7 +11,9 @@
 - [Episode 022 - Integrating IdentityServer4 - Part 2 - Auth Service - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/06/13/aspnet-022-from-zero-to-overkill-integrating-identityserver4-part2-auth-service/)
 - [Securing ASP.NET Core APIs with IdentityServer4 - Getting Started](https://referbruv.com/blog/posts/securing-aspnet-core-apis-with-identityserver4-getting-started)
 - [Implementing Authorization Code Grant using IdentityServer4 with PKCE](https://referbruv.com/blog/posts/implementing-authorization-code-grant-using-identityserver4-with-pkce)
-## Videos
+- [ASP.NET Core 6 and authentication servers: the real bait and switch is not the one you think](https://kevinchalet.com/2021/05/24/asp-net-core-6-and-authentication-servers-the-real-bait-and-switch-is-not-the-one-you-think/)
+- [IdentityServer with ASP.NET Core Identity and MongoDB as Database](https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/)
+## 📺 Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)
 - [How to add ASP.NET Identity and Entity Framework Support for your IdentityServer4 Solution](https://www.youtube.com/watch?v=Sw1rScI20xM)

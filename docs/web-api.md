@@ -1,6 +1,6 @@
 # WEB API
 
-## Resources
+## 📘 Resources
 
 - [oskardudycz/WebApiWith.NETCore](https://github.com/oskardudycz/WebApiWith.NETCore) - Samples and resources of how to design WebApi with .NET Core
 - [REST API Tutorial](https://restfulapi.net/)
@@ -77,6 +77,8 @@
 - [Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
 - [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
 - [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
+- [ASP.NET Core 5 Model Binding to C# 9 Record Types](https://www.davidhayden.me/blog/asp-net-core-5-model-binding-to-csharp-9-record-types)
+- [Beautiful and compact Web APIs revisited – with C# 10 and .NET 6 Preview 7](https://www.strathweb.com/2021/08/beautiful-and-compact-web-apis-revisited-with-c-10-and-net-6-preview-7/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -138,7 +140,7 @@
 - [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
 
-## Books
+## 📚 Books
 
 - [REST API Design Rulebook](http://shop.oreilly.com/product/0636920021575.do)
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)

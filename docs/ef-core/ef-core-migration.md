@@ -1,6 +1,6 @@
 # EF Core Migration
 
-## Articles
+## 📕 Articles
 
 - [EF7 EnsureCreated vs. Migrate Methods](https://thedatafarm.com/data-access/ef7-ensurecreated-vs-migrate-methods/)
 - [Create Database From Model Using Entity Framework Core And ASP.NET Core](http://www.binaryintellect.net/articles/87446533-54b3-41ad-bea9-994091686a55.aspx)
@@ -20,6 +20,6 @@
 - [Handling EF Core migrations in a team](https://jkdev.me/handling-ef-core-migrations/)
 - [How and where to call Database.EnsureCreated and Database.Migrate?](https://stackoverflow.com/questions/38238043/how-and-where-to-call-database-ensurecreated-and-database-migrate)
 
-## Videos
+## 📺 Videos
 
 - [Getting Started With DbUp And Setting Up Azure DEVOPS Pipeline | Deploy Changes to SQL Server](https://www.youtube.com/watch?v=Jm4C-WzAdls)

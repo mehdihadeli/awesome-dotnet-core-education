@@ -1,6 +1,6 @@
 # REST
 
-## Resources
+## 📘 Resources
 - [https://restfulapi.net](https://restfulapi.net)
 - [whitehouse/api-standards](https://github.com/whitehouse/api-standards)
 ## 📝 Articles
@@ -34,7 +34,7 @@
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/index.html)
 - [CRUD API Design & CRUD API Recommendations](https://stoplight.io/blog/crud-api-design/)
 
-## Videos
+## 📺 Videos
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>

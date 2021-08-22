@@ -37,7 +37,7 @@
 - [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
 - [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/)
 - [Unit Testing of Web API with xUnit and Moq](https://www.hosting.work/aspnet-core-web-api-xunit-moq-unit-testing/)
-### Videos
+### 📺 Videos
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 
 - [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) 
@@ -46,7 +46,7 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
-## Samples
+## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)

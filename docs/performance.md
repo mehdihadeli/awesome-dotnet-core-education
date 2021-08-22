@@ -1,7 +1,7 @@
 
 # Performance
 
-## Resources
+## 📘 Resources
 
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 - [Adam Sitnik Blog](https://adamsitnik.com)
@@ -39,7 +39,12 @@
 - [Exceptions and Performance](https://jonskeet.uk/csharp/exceptions.html)
 - [Performance Tuning for .NET Core](https://reubenbond.github.io/posts/dotnet-perf-tuning)
 - [Performance best practices in C#](https://kevingosse.medium.com/performance-best-practices-in-c-b85a47bdd93a)
-## Videos
+- [Performance Improvements in .NET Core](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core/)
+- [Performance Improvements in .NET Core 2.1](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-2-1/)
+- [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/)
+- [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+- [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
 - [Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://www.youtube.com/watch?v=g8MYUfplpt8)
@@ -55,7 +60,7 @@
 
 - [stackify-prefix](https://stackify.com/prefix/)
 
-## Books
+## 📚 Books
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.co.uk/gp/product/148424026X/)
 - [Writing High-Performance .NET Code](https://www.amazon.co.uk/gp/product/0990583457)
 

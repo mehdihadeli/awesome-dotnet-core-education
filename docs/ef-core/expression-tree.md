@@ -1,6 +1,6 @@
 # Expression Tree
 
-## Articles
+## 📕 Articles
 - [Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/expression-trees)
 - [Inspect and Mutate IQueryable Expression Trees](https://blog.jeremylikness.com/blog/inspect-and-mutate-iqueryable-expression-trees/)
 - [Look Behind the IQueryable Curtain](https://blog.jeremylikness.com/blog/look-behind-the-iqueryable-curtain/)
@@ -10,10 +10,10 @@
 - [Use of Expression Trees in .NET for Lambda Decomposition](http://www.abhisheksur.com/2010/09/use-of-expression-trees-in-lamda-c.html)
 - [Build dynamic Linq filters (aka. where() predicates)](https://laurentiu.codes/2021/06/04/build-a-dynamic-linq-filters-aka-where-predicates/)
 
-## Videos
+## 📺 Videos
 - [When LINQ is not LINQ](https://www.youtube.com/watch?v=t2NA1hHT1JE)
 
-## Samples
+## 🚀 Samples
 
 - [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor)
 

@@ -60,8 +60,8 @@
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 - [JosephWoodward/GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - Exception handling as a convention in the ASP.NET Core request pipeline.
 - [safakgur/guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
-- [GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [altmann/FluentResults](https://github.com/altmann/FluentResults)
 - [ikyriak/ConsistentApiResponseErrors](https://github.com/ikyriak/ConsistentApiResponseErrors) - A .NET Core middleware that centralizes the handling of input-validation errors, application exceptions and unhandled exceptions.
