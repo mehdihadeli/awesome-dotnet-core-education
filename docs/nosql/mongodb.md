@@ -9,6 +9,6 @@
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 
-## Library
+## Libraries
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)

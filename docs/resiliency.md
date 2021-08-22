@@ -25,6 +25,6 @@
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
 - [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
-## Library
+## Libraries
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [Polly-Contrib/Simmy](https://github.com/Polly-Contrib/Simmy) - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
