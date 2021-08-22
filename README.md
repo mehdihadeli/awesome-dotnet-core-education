@@ -12,3 +12,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 [![Sparkline](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education.svg)](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education)
 
+
+## Support ⭐
+
+⭐ this repository and we will be happy together :)
+
+Thanks a bunch for supporting me!
