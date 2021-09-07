@@ -18,6 +18,12 @@
 - [Setting up an Authorization Server with OpenIddict - Part VI - Refresh tokens](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-vi-refresh-tokens-5669)
 - [An introduction to OAuth 2.0 using Facebook in ASP.NET Core](https://andrewlock.net/an-introduction-to-oauth-2-using-facebook-in-asp-net-core/)
 - [An introduction to OpenID Connect in ASP.NET Core](https://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/)
+- [Add Login Using the Authorization Code Flow with PKCE](https://auth0.com/docs/flows/add-login-using-the-authorization-code-flow-with-pkce)
+- [OAuth Code Flow](https://curity.io/resources/learn/oauth-code-flow/)
+- [OAuth Implicit Flow](https://curity.io/resources/learn/oauth-implicit-flow/)
+- [OIDC Hybrid Flow](https://curity.io/resources/learn/oauth-hybrid-flow/)
+- [OAuth Client Credentials Flow](https://curity.io/resources/learn/oauth-client-credentials-flow/)
+- [Authorization Code Flow](https://auth0.com/docs/flows/authorization-code-flow)
 ## 📺 Videos
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 - [SECURING OAUTH BEARER TOKENS FROM MULTIPLE IDENTITY PROVIDERS IN AN ASP.NET CORE API](https://damienbod.com/2021/05/17/securing-multiple-identity-provider-oauth-bearer-tokens-in-an-asp-net-core-api/)

@@ -150,6 +150,7 @@ nav:
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
   - Git: git.md
+  - Git-Flow: git-flow.md
   - Elastic Search: elastic-search.md
   - OData: odata.md
   - Debugging: debugging.md
@@ -192,6 +193,9 @@ nav:
     - EF Core 5: ef-core/ef-core-5.md
     - Expression Tree: ef-core/expression-tree.md
     - EF Core Migrations: ef-core/ef-core-migration.md
+    - Explicit Loading: ef-core/explicit-loading.md
+    - Eager Loading: ef-core/eager-loading.md
+    - Lazy Loading: ef-core/lazy-loading.md
     - Performance: ef-core/performance.md
     - Transaction: ef-core/transaction.md
   - Environment: environment.md

@@ -11,6 +11,9 @@
 - [ASP.NET Core 6: Working with minimal APIs](https://anthonygiretti.com/2021/08/12/asp-net-core-6-working-with-minimal-apis/)
 - [.NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
 - [ASP.NET Core in .NET 6 - Introducing minimal APIs](https://asp.net-hacker.rocks/2021/08/17/aspnetcore6-minimal-apis.html)
+- [ASP.NET Core 6: Minimal APIs, two reasons why I can’t do without it so far](https://anthonygiretti.com/2021/08/27/asp-net-core-6-minimal-apis-two-reasons-why-i-cant-do-without-it-so-far/)
+- [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
+- [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://benfoster.io/blog/minimal-apis-custom-model-binding-aspnet-6/)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -29,6 +32,8 @@
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
 - [AnthonyGiretti/aspnetcore-minimal-api](https://github.com/AnthonyGiretti/aspnetcore-minimal-api)
 - [Non-Zero-Days/net-6-minimal-api](https://github.com/Non-Zero-Days/net-6-minimal-api)
+- [Minimal-APIs/minimal-apis.github.io](https://github.com/Minimal-APIs/minimal-apis.github.io)
+- [felipeoriani/MinimalBlogApi](https://github.com/felipeoriani/MinimalBlogApi)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

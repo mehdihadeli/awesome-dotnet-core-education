@@ -11,8 +11,12 @@
 - [Episode 022 - Integrating IdentityServer4 - Part 2 - Auth Service - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/06/13/aspnet-022-from-zero-to-overkill-integrating-identityserver4-part2-auth-service/)
 - [Securing ASP.NET Core APIs with IdentityServer4 - Getting Started](https://referbruv.com/blog/posts/securing-aspnet-core-apis-with-identityserver4-getting-started)
 - [Implementing Authorization Code Grant using IdentityServer4 with PKCE](https://referbruv.com/blog/posts/implementing-authorization-code-grant-using-identityserver4-with-pkce)
+- [Implementing ClientCredentials Grant Flow using IdentityServer4](https://referbruv.com/blog/posts/implementing-clientcredentials-grant-flow-using-identityserver4)
+- [Implementing User Authentication in Angular using IdentityServer4](https://referbruv.com/blog/posts/implementing-user-authentication-in-angular-using-identityserver4)
+- [Implementing Resource Owner Password Credentials (ROPC) using IdentityServer4](https://referbruv.com/blog/posts/implementing-resource-owner-password-credentials-(ropc)-using-identityserver4)
 - [ASP.NET Core 6 and authentication servers: the real bait and switch is not the one you think](https://kevinchalet.com/2021/05/24/asp-net-core-6-and-authentication-servers-the-real-bait-and-switch-is-not-the-one-you-think/)
 - [IdentityServer with ASP.NET Core Identity and MongoDB as Database](https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/)
+
 ## 📺 Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)

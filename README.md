@@ -15,6 +15,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 
 ## Support ⭐
 
-⭐ this repository and we will be happy together :)
+Star this repository and we will be happy together :)
 
 Thanks a bunch for supporting me!

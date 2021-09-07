@@ -27,3 +27,7 @@
 - [Intro to git feature branch workflow](https://www.youtube.com/watch?v=Lj_jAFwofLs)
 - [Combining Git commits with squash](https://www.youtube.com/watch?v=V5KrD7CmO4o)
 - [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+- [git commands tutorials Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-SAZOGnaUlexOzgRqWrOPR)
+- [GitHub tutorial Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS8-8OfcYMuLXnTfnSIGf37k)
+## Libraries
+- [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage

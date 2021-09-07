@@ -36,8 +36,9 @@
 - [JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API](https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api)
 - [ASP.NET Identity Core From Scratch](https://www.blinkingcaret.com/2016/11/30/asp-net-identity-core-from-scratch/)
 - [.NET Core 2.1 Identity get all users with their associated roles](https://stackoverflow.com/questions/51004516/net-core-2-1-identity-get-all-users-with-their-associated-roles)
+- [ASP.NET Identity Lockout](https://www.jamessturtevant.com/posts/ASPNET-Identity-Lockout/)
 - [How to include Roles in IdentityUser?](https://github.com/aspnet/Identity/issues/1361#issuecomment-348863959)
-
+- [User Lockout in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-user-lockout/)
 ## 🚀 Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
