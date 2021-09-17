@@ -59,8 +59,8 @@ nav:
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Template: dotnet-cli/dotnet-template.md
-    - .Net Tools: dotnet/dotnet-tools.md
-    - .Net Watch: dotnet/dotnet-watch.md
+    - .Net Tools: dotnet-cli/dotnet-tools.md
+    - .Net Watch: dotnet-cli/dotnet-watch.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
   - .Net Core Tips: dotnet/dotnet-core-tips.md
   - .Net IL: dotnet/il.md
@@ -145,7 +145,7 @@ nav:
   - NoSQL: 
     - NoSQL: nosql/nosql.md
     - CosmosDB: nosql/cosmosdb.md
-    - PostgreSQL: nosql/postgrsql.md
+    - PostgreSQL: nosql/postgresql.md
     - MongoDB: nosql/mongodb.md
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
@@ -160,7 +160,6 @@ nav:
   - Routing: routing.md
   - Dependency Injection: dependency-injection.md
   - Security: 
-    - Security: security/security.md
     - Encryption And Data Protection: security/encryption.md
     - .Net Core Identity: security/dotnet-identity.md
     - Identity Server: security/identity-server.md
@@ -191,6 +190,7 @@ nav:
   - EF Core: 
     - EF Core: ef-core/ef-core.md
     - EF Core 5: ef-core/ef-core-5.md
+    - EF Core 6: ef-core/ef-core-6.md
     - Expression Tree: ef-core/expression-tree.md
     - EF Core Migrations: ef-core/ef-core-migration.md
     - Explicit Loading: ef-core/explicit-loading.md
@@ -208,7 +208,7 @@ nav:
   - Orleans: orleans.md
   - CI/CD: 
     - Azure Devops: ci-cd/azure-devops.md
-    - GitHub Actions: ci-cd/gitHub-actions.md
+    - GitHub Actions: ci-cd/github-actions.md
     - Jenkins: ci-cd/jenkins.md
   - Roslyn: roslyn.md
   - IDE & Tools: 
