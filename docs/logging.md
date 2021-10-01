@@ -73,10 +73,10 @@
 - [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
 - [serilog/serilog-sinks-elasticsearch](https://github.com/serilog/serilog-sinks-elasticsearch) - A Serilog sink that writes events to Elasticsearch
 - [yorchideas/Serilog.Sinks.Xunit2](https://github.com/yorchideas/Serilog.Sinks.Xunit2)
+- [verticalsoftware/vertical-spectreconsolelogger](https://github.com/verticalsoftware/vertical-spectreconsolelogger)
 ## 🔖 Samples
-
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
-- [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample)
+- [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

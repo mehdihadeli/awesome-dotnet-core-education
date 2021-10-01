@@ -66,7 +66,12 @@
 - [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 - [.net Core 3.0, DirectoryNotFoundException with Xunit Integration test](https://github.com/dotnet/aspnetcore/issues/17707)
+- [Using WireMock.net for Integration Testing](https://www.alexhyett.com/using-wiremock-net-integration-tests/)
+- [Using WireMock for dotnet core Integration tests](https://pcholko.com/posts/2021-04-05/wiremock-integration-test/)
+- [MongoDB integration testing in .Net Core – Vetting Mongo2go vs MongoDb Docker Instance](http://www.jonathanawotwi.com/2021/06/mongodb-integration-testing-in-net-core-mongo2go-vs-mongodb-docker-instance/)
+- [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
 ## 📹 Videos
+- [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
 - [C# Integration Testing Tutorial](https://www.youtube.com/watch?v=OPEC_7J1LOw) 
 - [ASP.NET Core C# Integration Testing Tutorial (File Uploads Example)](https://www.youtube.com/watch?v=0PXZMigt01A) 
@@ -78,8 +83,28 @@
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
+
+
+## Libraries
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
+- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
+- [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
+- [nbalakin/MongoDB.Fake](https://github.com/nbalakin/MongoDB.Fake) - MongoDB.Fake is an in-memory implementation of IMongoClient, IMongoDatabase and IMongoCollection for unit test purposes.
+- [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
+- [JasperFx/alba](https://github.com/JasperFx/alba) - Easy integration testing helper for ASP.Net Core applications
+- [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+- [HofmeisterAn/dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A simple package with guard clause extensions.
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
+- [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API
+- [GestionSystemesTelecom/fake-authentication-jwtbearer/](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
+- [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
+- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
+- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
+- [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
+- [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
 ## 🚀 Samples
-- [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
+- [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
@@ -93,23 +118,8 @@
 - [raw-coding-youtube/testing-101](https://github.com/raw-coding-youtube/testing-101)
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [joaopgrassi/dockercompose-azdevops](https://github.com/joaopgrassi/dockercompose-azdevops)
-## Libraries
-- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
-- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
-- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
-- [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
-- [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
-- [JasperFx/alba](https://github.com/JasperFx/alba) - Easy integration testing helper for ASP.Net Core applications
-- [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
-- [HofmeisterAn/dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - A simple package with guard clause extensions.
-- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A .net fork of testcontainers - in early development
-- [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API
-- [GestionSystemesTelecom/fake-authentication-jwtbearer/](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
-- [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
-- [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
-- [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
-- [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
-- [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
+- [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

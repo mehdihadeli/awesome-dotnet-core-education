@@ -5,7 +5,9 @@
 
 ## 📕 Articles
 - [How to integrate MongoDB with C#](https://www.code4it.dev/blog/mongodb-introduction-with-csharp)
-
+- [ASP.NET Core - MongoDB Repository Pattern & Unit Of Work](https://www.brunobrito.net.br/aspnet-core-mongodb-unit-of-work/)
+- [MongoDB Transactions in .NET Applications](https://exceptionnotfound.net/transactions-in-mongodb-for-net/)
+- [SQL vs NoSQL](https://academind.com/tutorials/sql-vs-nosql)
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 

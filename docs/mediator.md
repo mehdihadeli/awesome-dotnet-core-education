@@ -14,6 +14,11 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
+- [Tackling cross-cutting concerns with a mediator pipeline](https://lostechies.com/jimmybogard/2014/09/09/tackling-cross-cutting-concerns-with-a-mediator-pipeline/)
+- [MediatR Pipeline Examples](https://lostechies.com/jimmybogard/2016/10/13/mediatr-pipeline-examples/)
+- [Applying cross-cutting concerns in ASP.NET Core with MediatR using behaviors](https://lurumad.github.io/cross-cutting-concerns-in-asp-net-core-with-meaditr)
+- [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
+- [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 

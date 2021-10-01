@@ -20,7 +20,9 @@
 - [ASP.​NET Core in .NET 6 - Hot Reload](https://asp.net-hacker.rocks/2021/07/12/aspnetcore6-hot-reload.html)
 - [ASP.​NET Core in .NET 6 - Shadow-copying in IIS](https://asp.net-hacker.rocks/2021/07/19/aspnetcore6-shaddow-copy-iis.html)
 - [ASP.​NET Core in .NET 6 - Hot Reload](https://asp.net-hacker.rocks/2021/07/12/aspnetcore6-hot-reload.html)
-
+- [Part 1 - Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
+- [Part 2 - Comparing WebApplicationBuilder to the Generic Host ](https://andrewlock.net/exploring-dotnet-6-part-2-comparing-webapplicationbuilder-to-the-generic-host/)
+- [Part 3 - Exploring the code behind WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-3-exploring-the-code-behind-webapplicationbuilder/)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

@@ -2,7 +2,6 @@
 # Performance
 
 ## 📘 Resources
-
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 - [Adam Sitnik Blog](https://adamsitnik.com)
 - [Marc Gravell Blog](https://blog.marcgravell.com/)
@@ -44,6 +43,8 @@
 - [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/)
 - [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+- [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet/)
+
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
@@ -55,9 +56,9 @@
 - [Writing Allocation Free Code in C# - Matt Ellis](https://www.youtube.com/watch?v=nK54s84xRRs)
 - [Writing Allocation Free Code in C#](https://www.youtube.com/watch?v=lb0LCT8xJ3g)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
-- [https://www.youtube.com/watch?v=isK8Cel3HP0](Diagnosing thread pool exhaustion issues in .NET Core apps)
-## Libraries
+- [Diagnosing thread pool exhaustion issues in .NET Core apps](https://www.youtube.com/watch?v=isK8Cel3HP0)
 
+## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 
 ## 📚 Books

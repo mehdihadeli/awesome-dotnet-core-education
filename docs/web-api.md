@@ -80,11 +80,12 @@
 - [ASP.NET Core 5 Model Binding to C# 9 Record Types](https://www.davidhayden.me/blog/asp-net-core-5-model-binding-to-csharp-9-record-types)
 - [Beautiful and compact Web APIs revisited – with C# 10 and .NET 6 Preview 7](https://www.strathweb.com/2021/08/beautiful-and-compact-web-apis-revisited-with-c-10-and-net-6-preview-7/)
 - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
+- [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
 - [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
-- [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) - Steve Smith
+- [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) 
 - [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 - [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)

@@ -1,6 +1,12 @@
 
 # NoSQL
 
+## 📕 Articles
+
+- [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
+- [How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)
+- [SQL vs NoSQL](https://academind.com/tutorials/sql-vs-nosql)
+
 ## 📺 Videos
 
 - [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU)
@@ -21,7 +27,3 @@
 - [Horizontal Scaling in Azure SQL Database](https://www.youtube.com/watch?v=ISs__Ub9oh8)
 - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Why and how NoSQL databases can scale "infinitely" | Understanding NoSQL and partitioning](https://www.youtube.com/watch?v=Q-lHpZBh3lQ)
-## 📕 Articles
-
-- [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
-- [How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)

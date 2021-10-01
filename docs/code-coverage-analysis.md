@@ -17,5 +17,8 @@
 - [Quickstart: Analyzing .NET projects with SonarQube, MSBuild or Visual Studio Online, and third-party analyzers (StyleCop, ReSharper)](https://devblogs.microsoft.com/devops/quickstart-analyzing-net-projects-with-sonarqube-msbuild-or-visual-studio-online-and-third-party-analyzers-stylecop-resharper/)
 - [SonarQube for continuous analysis of .NET projects](https://arghya.xyz/articles/sonarqube-for-dotnet/)
 - [How to run a SonarCloud scan during Docker builds for .NET Core](https://pumpingco.de/blog/how-to-run-a-sonarcloud-scan-during-docker-builds-for-dotnet-core/)
+- [Setting up the SonarQube scanner when building a .NET Core container image](https://www.mytechramblings.com/posts/running-a-sonarqube-scan-when-building-docker-image/)
+- [How to Write Cleaner, Safer Code with SonarQube, Docker and .NET Core](https://developer.okta.com/blog/2021/09/08/sonar-qube-dotnet)
+- [Code Coverage in GitHub with .NET Core](https://samlearnsazure.blog/2021/01/05/code-coverage-in-github-with-net-core/)
 ## 📺 Videos
 - [On .NET Live - .NET Core Code Coverage with Coverlet](https://www.youtube.com/watch?v=K9XSl3xMilE)
