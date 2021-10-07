@@ -19,6 +19,7 @@
 - [Applying cross-cutting concerns in ASP.NET Core with MediatR using behaviors](https://lurumad.github.io/cross-cutting-concerns-in-asp-net-core-with-meaditr)
 - [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
+- [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 

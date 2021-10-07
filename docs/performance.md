@@ -57,7 +57,7 @@
 - [Writing Allocation Free Code in C#](https://www.youtube.com/watch?v=lb0LCT8xJ3g)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
 - [Diagnosing thread pool exhaustion issues in .NET Core apps](https://www.youtube.com/watch?v=isK8Cel3HP0)
-
+- [Stephen Toub — Unlocking performance improvements in .NET](https://www.youtube.com/watch?v=zoeqyuvZroc)
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 

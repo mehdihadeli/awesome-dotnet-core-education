@@ -129,8 +129,8 @@ nav:
   - Middleware: middleware.md
   - Action Filters: action-filters.md
   - Configuration: configuration.md
+  - Options: options.md
   - HttContext && HttpContextAccessor: httpcontext.md
-  - Options Pattern: options-pattern.md
   - gRPC: grpc.md
   - WebSockets: web-sockets.md
   - SignalR: signalr.md

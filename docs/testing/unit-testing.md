@@ -38,7 +38,7 @@
 - [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/)
 - [Unit Testing of Web API with xUnit and Moq](https://www.hosting.work/aspnet-core-web-api-xunit-moq-unit-testing/)
 - [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
-
+- [Avoid In-Memory Databases for Tests](https://jimmybogard.com/avoid-in-memory-databases-for-tests/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

@@ -1,4 +1,4 @@
-# Options Pattern
+# Options
 
 ## 📝 Articles
 
