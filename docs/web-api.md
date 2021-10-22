@@ -127,7 +127,7 @@
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
-
+- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 ## 🔖 Samples
 - [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)

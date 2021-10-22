@@ -55,7 +55,7 @@
 - [Captive Dependency with ASP.NET Core](https://medium.com/dotnet-hub/captive-dependency-with-asp-net-core-what-is-captive-dependency-8698b588e048)
 - [.NET Core and DI – Beware of Captive Dependency](https://ankitvijay.net/2020/03/17/net-core-and-di-beware-of-captive-dependency/)
 - [Top Misconceptions About Dependency Injection in ASP.NET Core](https://levelup.gitconnected.com/top-misconceptions-about-dependency-injection-in-asp-net-core-c6a7afd14eb4)
-
+- [Configure Dependency Injection for .NET 5 Console Applications](https://www.programmingwithwolfgang.com/configure-dependency-injection-for-net-5-console-application)
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

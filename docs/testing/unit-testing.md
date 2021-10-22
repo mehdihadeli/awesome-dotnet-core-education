@@ -39,6 +39,9 @@
 - [Unit Testing of Web API with xUnit and Moq](https://www.hosting.work/aspnet-core-web-api-xunit-moq-unit-testing/)
 - [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
 - [Avoid In-Memory Databases for Tests](https://jimmybogard.com/avoid-in-memory-databases-for-tests/)
+- [Unit Testing 101: Write your first unit test in C# with MSTest](https://canro91.github.io/2021/03/15/UnitTesting101/)
+- [5 tips for better stubs and mocks in C#](https://canro91.github.io/2021/06/07/TipsForBetterStubsAndMocks/)
+- [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
@@ -58,6 +61,7 @@
 - [philbir/magic-media](https://github.com/philbir/magic-media)
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
 - [jasontaylordev/CleanArchitectureScMarch2020](https://github.com/jasontaylordev/CleanArchitectureScMarch2020)
+- [mmalvik/NET6-Testing](https://github.com/mmalvik/NET6-Testing)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

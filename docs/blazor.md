@@ -4,6 +4,7 @@
 - [dotnet-presentations/blazor-workshop/](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop
 
 ## 📺 Videos
+- [Modern Web Dev with Blazor and .NET 6 with Jason Taylor](https://www.youtube.com/watch?v=aPDJkl8TNFA)
 - [Blazor API Client using REST & GraphQL APIs - Full Course](https://www.youtube.com/watch?v=agIJTnpfFGA)
 - [Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps (8 Hours Full Course)](https://www.youtube.com/watch?v=KRJFEpIJeUI)
 - [Let's Learn .NET - Blazor](https://www.youtube.com/watch?v=4Xzx7Cm9ykg)
@@ -16,6 +17,7 @@
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 - [CuriousDrive/BlazingChat](https://github.com/CuriousDrive/BlazingChat) - BlazingChat is a Blazor WebAssembly app developed by CuriousDrive for the community. This is a sample application for developers who are just getting started with Blazor.
+- [jasontaylordev/ModernWebDevWithBlazorWasm](https://github.com/jasontaylordev/ModernWebDevWithBlazorWasm) - The sample code from my presentation Modern Web Dev with Blazor WebAsembly and ASP.NET Core 6.
 ## Libraries
 - [mrpmorris/Fluxor](https://github.com/mrpmorris/Fluxor) - Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor.
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
