@@ -60,6 +60,8 @@
 - [.NET 5 + Serilog: implementando Logs com Elasticsearch, SQLite,](https://renatogroffe.medium.com/net-5-serilog-implementando-logs-com-elasticsearch-sqlite-45d64f5c043e)
 - [Structured logging with Serilog and Seq and ElasticSearch under Docker](https://dev.to/hasdrubal/structure-logging-with-serilog-and-seq-and-elasticsearch-under-docker-16dk)
 - [How to turn off Serilog?](https://stackoverflow.com/questions/30849166/how-to-turn-off-serilog)
+- [Setting up Serilog in .NET 6](https://blog.datalust.co/using-serilog-in-net-6/)
+
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
@@ -77,7 +79,7 @@
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
-
+- [datalust/dotnet6-serilog-example](https://github.com/datalust/dotnet6-serilog-example)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

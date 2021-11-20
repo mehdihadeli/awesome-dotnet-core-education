@@ -51,6 +51,7 @@
 - [OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry)
 - [OpenTelemetry in .NET](https://lightstep.com/blog/opentelemetry-net-all-you-need-to-know/)
 - [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
+- [Monitoring a .NET application using OpenTelemetry](https://www.meziantou.net/monitoring-a-dotnet-application-using-opentelemetry.htm)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -62,7 +63,7 @@
 - [Application Diagnostics in .NET Core 3.1 - Damian Edwards & David Fowler](https://www.youtube.com/watch?v=p6CjlnwPhHQ)
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 - [Tracing with Jaeger and Kubernetes](https://www.youtube.com/watch?v=FikF0DtxZno)
-
+- [Exploring distributed tracing with ASP NET Core 6](https://www.youtube.com/watch?v=l1_i8p2hVlE)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)

@@ -48,6 +48,7 @@
 - [CARE your Web APIs with Consistent and Structured Error Responses](https://www.dotnetnakama.com/blog/consistent-api-response-errors-care/)
 - [HTTP API Problem Details in ASP.NET Core](https://codeopinion.com/http-api-problem-details-in-asp-net-core/)
 - [Problem Details: A standard way of specifying errors in HTTP API responses](https://lurumad.github.io/problem-details-an-standard-way-for-specifying-errors-in-http-api-responses-asp.net-core)
+- [Avoid Using Exceptions to Determine API Status Codes and Responses](https://ardalis.com/avoid-using-exceptions-determine-api-status/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)

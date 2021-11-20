@@ -17,9 +17,6 @@
 - [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
 - [Code first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 - [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
-- [gRPC and ASP.NET Core 5 Discover gRPCui the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/) - Anthony Giretti
-- [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) - Anthony Giretti
-- [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/) - Anthony Giretti
 - [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
 - [Generate Links To ASP.NET Core Map Endpoints](https://khalidabuhakmeh.com/generate-links-to-aspnet-core-map-endpoints)
 - [Building a simple Client-Server Interaction with gRPC in ASP.NET Core](https://referbruv.com/blog/posts/building-a-simple-client-server-interaction-with-grpc-in-aspnet-core)
@@ -27,7 +24,17 @@
 - [gRPC performance benchmark in ASP.NET Core 3](https://pawelkmiec.net/2019/11/17/gRPC-performance-benchmark.html)
 - [Trying out gRPC in ASP.NET Core 3](https://pawelkmiec.net/2019/10/18/gRPC-ASP.NET-Core.html)
 - [Getting Started protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
-
+- [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/)
+- [gRPC & ASP.NET Core 3.1: Global error Handling in gRPC & gRPC status codes](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-global-error-handling-in-grpc-grpc-status-codes/)
+- [gRPC & ASP.NET Core 3.1: Message validation](https://anthonygiretti.com/2020/05/18/grpc-asp-net-core-3-1-model-validation/)
+- [gRPC & ASP.NET Core 3.1: What’s gRPC-web & how to create a gRPC-web service ?](https://anthonygiretti.com/2020/03/29/grpc-asp-net-core-3-1-whats-grpc-web-how-to-create-a-grpc-web-service/)
+- [The state of gRPC in the browser](https://grpc.io/blog/state-of-grpc-web/)
+- [gRPC & ASP.NET Core 3.1: How to create a gRPC service ?](https://anthonygiretti.com/2020/03/25/grpc-asp-net-core-3-1-how-to-create-a-grpc-service/)
+- [gRPC & ASP.NET Core 3.1: What’s gRPC ? (introduction)](https://anthonygiretti.com/2020/03/23/grpc-asp-net-core-3-1-whats-grpc-introduction/)
+- [gRPC & ASP.NET Core 3.1: How to create a gRPC-web client ? Examples with Angular 8 and HttpClient](https://anthonygiretti.com/2020/03/29/grpc-asp-net-core-3-1-how-to-create-a-grpc-web-client-examples-with-angular-8-and-httpclient/)
+- [gRPC and ASP.NET Core 5 Discover gRPCui the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/)
+- [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) 
+- [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -39,6 +46,8 @@
 - [Talking between services with gRPC, and other tricks - Marc Gravell](https://www.youtube.com/watch?v=W-bULzA0ki8)
 - [Embracing gRPC in .NET, by Irina Scurtu](https://www.youtube.com/watch?v=d8S9jh6Xj6Y)
 - [gRPC Client/Server Bi-Directional Streaming with C# | Visual Studio 2019](https://www.youtube.com/watch?v=6fiSsxEY4dg)
+- [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
+
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 

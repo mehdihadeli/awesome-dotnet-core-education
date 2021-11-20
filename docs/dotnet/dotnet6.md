@@ -23,6 +23,10 @@
 - [Part 1 - Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
 - [Part 2 - Comparing WebApplicationBuilder to the Generic Host ](https://andrewlock.net/exploring-dotnet-6-part-2-comparing-webapplicationbuilder-to-the-generic-host/)
 - [Part 3 - Exploring the code behind WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-3-exploring-the-code-behind-webapplicationbuilder/)
+- [Hot Reload for .NET 6 in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/25/hot-reload-for-net-6-in-rider-2021-3/)
+- [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/?WT.mc_id=DT-MVP-5002040)
+- [Series: Exploring .NET Core 6](https://andrewlock.net/series/exploring-dotnet-6/)
+- [.NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

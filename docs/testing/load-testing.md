@@ -29,3 +29,6 @@
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+
+## Samples
+- [servicetitan/Stl.Fusion.Samples](https://github.com/servicetitan/Stl.Fusion.Samples)

@@ -6,9 +6,9 @@
 **🚀 This awesome list is available in this link:**
 **[https://mehdihadeli.github.io/awesome-dotnet-core-education](https://mehdihadeli.github.io/awesome-dotnet-core-education/)**
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+<a href="https://mehdihadeli.github.io/awesome-dotnet-core-education"> ![home page](assets/home.png) </a>
+
 
 [![Sparkline](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education.svg)](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education)
 
@@ -18,3 +18,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 Star this repository and we will be happy together :)
 
 Thanks a bunch for supporting me!
+
+## Contribution
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
+
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.

@@ -56,6 +56,7 @@
 - [Jwt Claim Names](https://stackoverflow.com/a/50012477/581476)
 - [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 - [AuthenticationScheme: "Identity.Application" was not authenticated](https://github.com/IdentityServer/IdentityServer4/issues/1525)
+- [ASP.NET Core - Protect your API with API Keys](https://josef.codes/asp-net-core-protect-your-api-with-api-keys/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -91,8 +92,9 @@
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [cornflourblue/dotnet-5-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api) - .NET 5.0 API - JWT Authentication with Refresh Tokens
 - [cornflourblue/aspnet-core-3-jwt-authentication-api](https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api) - ASP.NET Core 3.1 JWT Authentication API
-## Libraries
+- [joseftw/JOS.ApiKeyAuthentication](https://github.com/joseftw/JOS.ApiKeyAuthentication)
 
+## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 
 <div align="right">

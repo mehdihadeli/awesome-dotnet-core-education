@@ -31,7 +31,10 @@
 - [EFCore.Projectables and the curious case of an unexpected performance boost](https://onthedrift.com/posts/efcore-projectables-perf/)
 - [Calling functions in LINQ queries](http://tomasp.net/blog/linq-expand.aspx/)
 - [LINQ: Building an IQueryable provider series](https://docs.microsoft.com/en-us/archive/blogs/mattwar/linq-building-an-iqueryable-provider-series)
-
+- [Entity types with constructors](https://docs.microsoft.com/en-us/ef/core/modeling/constructors)
+- [Get Better at EntityFramework Core — Best Practices](https://medium.com/analytics-vidhya/entityframework-core-dont-get-burnt-in-production-335ddfcfdfda)
+- [Value Conversions](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions?tabs=data-annotations)
+- [Entity Framework Core: Enums](https://medium.com/agilix/entity-framework-core-enums-ee0f8f4063f2)
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft

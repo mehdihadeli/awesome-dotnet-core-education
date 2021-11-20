@@ -60,6 +60,7 @@
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)
 - [.NET Core Dependency Injection - The Booster Jab - with Steve Collins](https://www.youtube.com/watch?v=99Gp9khfgiY)
+- [Asp.Net Core - Dependency Injection - Deep Dive](https://www.youtube.com/watch?v=ORAfsRukNc4)
 ## Libraries
 - [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) - Extensions for ASP.NET Core dependency injection

@@ -6,5 +6,9 @@
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 - [How to perform Unit Testing with xUnit in ASP.NET Core](https://www.hosting.work/aspnet-core-xunit-unit-testing/)
 - [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [Using XUnit Theory and InlineData to Test C# Extension Methods](https://exceptionnotfound.net/using-xunit-theory-and-inlinedata-to-test-c-extension-methods/)
+- [Creating parameterised tests in xUnit with [InlineData], [ClassData], and [MemberData]](https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/)
+- [Pass complex parameters to [Theory]](https://stackoverflow.com/questions/22093843/pass-complex-parameters-to-theory)
+- [xUnit Theory: Working With InlineData, MemberData, ClassData](https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit

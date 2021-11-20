@@ -16,7 +16,10 @@
 - [Implementing Resource Owner Password Credentials (ROPC) using IdentityServer4](https://referbruv.com/blog/posts/implementing-resource-owner-password-credentials-(ropc)-using-identityserver4)
 - [ASP.NET Core 6 and authentication servers: the real bait and switch is not the one you think](https://kevinchalet.com/2021/05/24/asp-net-core-6-and-authentication-servers-the-real-bait-and-switch-is-not-the-one-you-think/)
 - [IdentityServer with ASP.NET Core Identity and MongoDB as Database](https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/)
-
+- [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 1](https://fullstackmark.com/post/22/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-1)
+- [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 2](https://fullstackmark.com/post/23/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2)
+- [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 3](https://fullstackmark.com/post/24/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-3)
+- [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 4](https://fullstackmark.com/post/25/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-4)
 ## 📺 Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)
@@ -25,7 +28,7 @@
 - [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
 
 ## 🔖 Samples
-
+- [mmacneil/fullstack-jobs](https://github.com/mmacneil/fullstack-jobs) - Real(ish) demo using Angular with ASP.NET Core GraphQL and IdentityServer.
 - [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
 - [dnc-identity-identityserver](https://github.com/kimcu-on-thenet/dnc-identity-identityserver) - An example of IdentityServer4 and ASP.NET Identity, Ocelot and Consul
 - [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.

@@ -1,5 +1,8 @@
 # Minimal Api
 
+## Resources
+- [Minimal APIs](https://minimal-apis.github.io/)
+
 ## 📕 Articles
 - [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Minimal APIs in ASP.NET Core 6.0](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/)
@@ -17,6 +20,9 @@
 - [A .NET 6 Minimal API Todo example Playground](https://www.hanselman.com/blog/a-net-6-minimal-api-todo-example-playground)
 - [An opinionated look at Minimal API in .NET 6](https://dev.to/nikiforovall/an-opinionated-look-at-minimal-api-in-net-6-33pd)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
+- [Exploring a minimal Web API with ASP.NET Core 6](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6)
+- [ASP.NET Core Minimal API Swagger tags](https://blog.burgyn.online/2021/10/13/asp-net-minimal-api-swagger-tags)
+
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
@@ -41,7 +47,10 @@
 - [Minimal-APIs/minimal-apis.github.io](https://github.com/Minimal-APIs/minimal-apis.github.io)
 - [felipeoriani/MinimalBlogApi](https://github.com/felipeoriani/MinimalBlogApi)
 - [bradygaster/TodoApp](https://github.com/bradygaster/TodoApp)
-
+- [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi)
+- [DShergilashvili/FutureService](https://github.com/DShergilashvili/FutureService) 
+- [thangchung/minimal-apis-csharp10](https://github.com/thangchung/minimal-apis-csharp10)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
+- [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.

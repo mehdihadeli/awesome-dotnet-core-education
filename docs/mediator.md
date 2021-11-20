@@ -20,6 +20,7 @@
 - [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
 - [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
+
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 
@@ -34,3 +35,4 @@
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator)
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
+- [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)

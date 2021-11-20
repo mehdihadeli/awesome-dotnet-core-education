@@ -17,6 +17,7 @@
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 4](https://fullstackmark.com/post/25/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-4)
 - [Understanding the benefits and limitations of GraphQL versus REST](https://blog.mia-platform.eu/en/understanding-the-benefits-and-limitations-of-graphql-versus-rest-api)
 - [GraphQL for .NET Developers](https://blog.jeremylikness.com/blog/graphql-for-dotnet-developers/)
+- [GraphQL in ASP.NET Core with EF Core](https://dotnetthoughts.net/graphql-in-aspnetcore-with-efcore/)
 ## 📹 Videos
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So&t=2623s)
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
@@ -24,6 +25,7 @@
 - [Hot Chocolate: An introduction to GraphQL on ASP.Net Core - Michael Staib](https://www.youtube.com/watch?v=x7oYYLgZgtY)
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So)
 - [Entity Framework Community Standup - Building Modern Apps with GraphQL](https://www.youtube.com/watch?v=4k3WzW2ZdXs)
+- [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 
 ## Libraries
 - [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) - A GraphQL Client for .NET Standard

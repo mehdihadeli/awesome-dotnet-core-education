@@ -20,6 +20,7 @@
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
+- [Code Testing - Code It Up with Ivo](https://www.youtube.com/playlist?list=PLLGdqRi7N09YoomAKadOjLopq0sIr_PKT)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
@@ -46,6 +47,7 @@
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
 - [adrianiftode/FluentAssertions.Web](https://github.com/adrianiftode/FluentAssertions.Web) - FluentAssertions for .Net Web Api projects
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

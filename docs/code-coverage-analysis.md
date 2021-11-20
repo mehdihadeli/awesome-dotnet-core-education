@@ -20,5 +20,6 @@
 - [Setting up the SonarQube scanner when building a .NET Core container image](https://www.mytechramblings.com/posts/running-a-sonarqube-scan-when-building-docker-image/)
 - [How to Write Cleaner, Safer Code with SonarQube, Docker and .NET Core](https://developer.okta.com/blog/2021/09/08/sonar-qube-dotnet)
 - [Code Coverage in GitHub with .NET Core](https://samlearnsazure.blog/2021/01/05/code-coverage-in-github-with-net-core/)
+- [Entering the NDepend world](https://www.davidguida.net/entering-the-ndepend-world/)
 ## 📺 Videos
 - [On .NET Live - .NET Core Code Coverage with Coverlet](https://www.youtube.com/watch?v=K9XSl3xMilE)

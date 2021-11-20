@@ -44,7 +44,8 @@
 - [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
 - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet/)
-
+- [Astonishing Performance of .NET 5](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
+- [.NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
@@ -60,6 +61,9 @@
 - [Stephen Toub — Unlocking performance improvements in .NET](https://www.youtube.com/watch?v=zoeqyuvZroc)
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
+
+## Samples
+- [servicetitan/Stl.Fusion.Samples](https://github.com/servicetitan/Stl.Fusion.Samples)
 
 ## 📚 Books
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.co.uk/gp/product/148424026X/)

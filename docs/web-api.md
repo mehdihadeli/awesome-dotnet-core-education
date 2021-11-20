@@ -81,6 +81,10 @@
 - [Beautiful and compact Web APIs revisited – with C# 10 and .NET 6 Preview 7](https://www.strathweb.com/2021/08/beautiful-and-compact-web-apis-revisited-with-c-10-and-net-6-preview-7/)
 - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
+- [Dealing with large files in ASP.NET Web API](https://www.strathweb.com/2012/09/dealing-with-large-files-in-asp-net-web-api/)
+- [Efficient file uploads with dotnet](https://josef.codes/efficient-file-uploads-with-dotnet/)
+- [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
+- [How to Upload Large Files](https://scatteredcode.net/how-to-upload-large-files/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -104,6 +108,7 @@
 - [.NET 5 REST API Tutorial](https://www.youtube.com/watch?v=Jvu60R-AWQc)
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
+- [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

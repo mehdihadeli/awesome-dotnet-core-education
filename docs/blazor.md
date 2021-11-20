@@ -12,7 +12,7 @@
 - [Fluxor + C#9 - Redux Pattern in Blazor WebAssembly](https://www.youtube.com/watch?v=sAyH-O0dFaI)
 - [Managing Blazor state using Redux | Blazor Tutorial 11](https://www.youtube.com/watch?v=k_c-ErPaYa8)
 - [Blazor Fundamentals Tutorial Playlist - Nick Chapsas](https://www.youtube.com/playlist?list=PLUOequmGnXxPrY79JGnF72e1Pba8z93zo)
-
+- [Modern Web Dev with Blazor and .NET 6 with Jason Taylor](https://www.youtube.com/watch?v=lRYrhj9lwQk)
 ## 🚀 Samples
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
@@ -22,3 +22,4 @@
 - [mrpmorris/Fluxor](https://github.com/mrpmorris/Fluxor) - Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor.
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
 - [Garderoben/MudBlazor](https://github.com/Garderoben/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
+- [servicetitan/Stl.Fusion](https://github.com/servicetitan/Stl.Fusion) - Build real-time apps (Blazor included) with less than 1% of extra code responsible for real-time updates. Host 10-1000x faster APIs relying on transparent and nearly 100% consistent caching. We call it DREAM, or Distributed REActive Memoization, and it's here to turn real-time on!
