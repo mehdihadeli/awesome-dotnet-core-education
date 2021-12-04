@@ -47,6 +47,7 @@
 - [Embracing gRPC in .NET, by Irina Scurtu](https://www.youtube.com/watch?v=d8S9jh6Xj6Y)
 - [gRPC Client/Server Bi-Directional Streaming with C# | Visual Studio 2019](https://www.youtube.com/watch?v=6fiSsxEY4dg)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
+- [High-performance services with gRPC: What's new in .NET 6](https://www.youtube.com/watch?v=CXH_jEa8dUw)
 
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)

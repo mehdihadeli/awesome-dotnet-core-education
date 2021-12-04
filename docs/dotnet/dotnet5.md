@@ -12,3 +12,4 @@
 ## 📺 Videos
 - [What's new in .NET 5 and C# 9](https://www.youtube.com/watch?v=K32WV452o5c)
 - [Upgrading to .NET 5.0 RC w/ C# 9.0](https://www.youtube.com/watch?v=afyCeCkec4c)
+- [Migrate from .NET 3.1 to .NET 5 in 2021](https://www.youtube.com/watch?v=LLeN-IwqEOE)

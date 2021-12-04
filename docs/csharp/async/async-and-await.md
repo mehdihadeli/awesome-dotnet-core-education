@@ -35,12 +35,18 @@
 - [Asynchronous C#: Making a simple Cup of Tea (Part 2)](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-part-2-1jcj)
 - [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 - [Introducing AsyncUtilities](http://blog.i3arnon.com/2018/02/05/async-utilities/)
+- [Detecting Sync over Async Code in ASP.NET Core](https://codeopinion.com/detecting-sync-over-async-code-in-asp-net-core/)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
 - [Making async code run faster in C#](https://www.youtube.com/watch?v=gW19LaAYczI)
 - [Why is Async Code Hard to Debug?](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Why-is-Async-Code-Hard-to-Debug)
 - [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
+- [Async vs Thread | C# Interview Questions with Answers | Csharp Interview Questions](https://www.youtube.com/watch?v=G3tz9rxts8E)
+- [What are Async and Await ( .NET 4.5 Interview question with answers)?](https://www.youtube.com/watch?v=V2sMXJnDEjM)
+- [C# Async/Await/Task Explained (Deep Dive)](https://www.youtube.com/watch?v=il9gl8MH17s)
+- [Asynchronous Programming in C# Explained (Task.Run, Task.WaitAll, Async and Await)](https://www.youtube.com/watch?v=CrUrvVatAxo)
+- [Better C# - Parallelization (with Dataflow)](https://www.youtube.com/watch?v=zdD7o8Z6MMY)
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
 - [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading) - Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 

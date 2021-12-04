@@ -13,6 +13,8 @@
 - [Managing Blazor state using Redux | Blazor Tutorial 11](https://www.youtube.com/watch?v=k_c-ErPaYa8)
 - [Blazor Fundamentals Tutorial Playlist - Nick Chapsas](https://www.youtube.com/playlist?list=PLUOequmGnXxPrY79JGnF72e1Pba8z93zo)
 - [Modern Web Dev with Blazor and .NET 6 with Jason Taylor](https://www.youtube.com/watch?v=lRYrhj9lwQk)
+- [Blazor Tutorial Playlist - Frank Liu](https://www.youtube.com/playlist?list=PLgRlicSxjeMOwJyqendhcntDqEjCBncci)
+- [Enterprise-grade Blazor apps with .NET 6](https://www.youtube.com/watch?v=GKu-vRxOWr8)
 ## 🚀 Samples
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.

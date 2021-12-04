@@ -22,7 +22,7 @@
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
 - [Exploring a minimal Web API with ASP.NET Core 6](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6)
 - [ASP.NET Core Minimal API Swagger tags](https://blog.burgyn.online/2021/10/13/asp-net-minimal-api-swagger-tags)
-
+- [Using the .NET JSON Source Generator with ASP.NET Core Minimal APIs](https://blog.martincostello.com/using-json-source-generators-with-aspnet-core-minimal-apis/)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
@@ -50,6 +50,8 @@
 - [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi)
 - [DShergilashvili/FutureService](https://github.com/DShergilashvili/FutureService) 
 - [thangchung/minimal-apis-csharp10](https://github.com/thangchung/minimal-apis-csharp10)
+- [martincostello/MinimalApisWithJsonSourceGenerator](https://github.com/martincostello/MinimalApisWithJsonSourceGenerator)
+- [thangchung/todo-dotnet6](https://github.com/thangchung/todo-dotnet6)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

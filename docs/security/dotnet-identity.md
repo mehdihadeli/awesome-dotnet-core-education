@@ -39,7 +39,11 @@
 - [ASP.NET Identity Lockout](https://www.jamessturtevant.com/posts/ASPNET-Identity-Lockout/)
 - [How to include Roles in IdentityUser?](https://github.com/aspnet/Identity/issues/1361#issuecomment-348863959)
 - [User Lockout in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-user-lockout/)
-- [](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity)
+- [Scaffold Identity in ASP.NET Core projects](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity)
+
+## Videos
+- [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
+- [ASP.NET Core Security Playlist - Frank Liu](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
 ## 🚀 Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.

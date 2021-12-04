@@ -62,6 +62,8 @@
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
 - [jasontaylordev/CleanArchitectureScMarch2020](https://github.com/jasontaylordev/CleanArchitectureScMarch2020)
 - [mmalvik/NET6-Testing](https://github.com/mmalvik/NET6-Testing)
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -71,6 +71,8 @@
 - [MongoDB integration testing in .Net Core – Vetting Mongo2go vs MongoDb Docker Instance](http://www.jonathanawotwi.com/2021/06/mongodb-integration-testing-in-net-core-mongo2go-vs-mongodb-docker-instance/)
 - [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
 - [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
+- [ASP.NET Core Integration Tests With TestServer - How Did I Not Know About This?](https://scotthannen.org/blog/2021/11/18/testserver-how-did-i-not-know.html)
+
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
@@ -121,6 +123,8 @@
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [joaopgrassi/dockercompose-azdevops](https://github.com/joaopgrassi/dockercompose-azdevops)
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

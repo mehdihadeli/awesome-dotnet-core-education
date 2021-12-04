@@ -34,5 +34,10 @@
 - [Languages & Runtime Community Standup - Breaking changes & .NET 6 Preview 6 and 7](https://www.youtube.com/watch?v=J0LTqwTojlA)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
+- [Migrating to .NET 6 from .NET Core 3.1 | ASP.NET Core WebAPI](https://www.youtube.com/watch?v=LON-PTi2AC0)
+- [Upgrading from .NET Framework to .NET 6](https://www.youtube.com/watch?v=cOHXt_0VDRI)
+- [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
 ## 🚀 Samples
+- [okyrylchuk/dotnet6_features](https://github.com/okyrylchuk/dotnet6_features)
+- [NikiforovAll/whats-new-in-dotnet6](https://github.com/NikiforovAll/whats-new-in-dotnet6)
 - [dodyg/practical-aspnetcore/tree/net5.0/projects/net6](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)

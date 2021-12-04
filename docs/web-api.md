@@ -85,11 +85,11 @@
 - [Efficient file uploads with dotnet](https://josef.codes/efficient-file-uploads-with-dotnet/)
 - [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 - [How to Upload Large Files](https://scatteredcode.net/how-to-upload-large-files/)
+- [Controller action return types in ASP.NET Core web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
 - [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
-- [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) 
 - [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 - [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
@@ -109,6 +109,7 @@
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
+- [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

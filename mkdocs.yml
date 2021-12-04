@@ -105,7 +105,7 @@ nav:
       - Synchronization Context: csharp/async/synchronization-context.md
       - State Machine: csharp/async/state-machine.md
       - TaskCompletionSource: csharp/async/task-completion-source.md
-      - Task: csharp/async/task.md
+      - TPL & Task: csharp/async/tpl-task.md
       - ThreadPool: csharp/async/thread-pool.md
       - Thread Safty: csharp/async/thread-safty.md
       - Thread: csharp/async/thread.md
