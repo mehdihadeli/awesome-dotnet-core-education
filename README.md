@@ -6,7 +6,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet]
 
-![](./banner.jpg)
+![](./assets/banner.jpg)
 
 > Curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously. Keep Learning Keep Sharing !
 
@@ -14,7 +14,7 @@
 **[https://mehdihadeli.github.io/awesome-dotnet-core-education](https://mehdihadeli.github.io/awesome-dotnet-core-education/)**
 
 
-<a href="https://mehdihadeli.github.io/awesome-dotnet-core-education"> ![home page](assets/home.png) </a>
+<a href="https://mehdihadeli.github.io/awesome-dotnet-core-education"> ![home page](./assets/home.png) </a>
 
 
 [![Sparkline](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education.svg)](https://stars.medv.io/mehdihadeli/awesome-dotnet-core-education)
