@@ -1,8 +1,8 @@
 site_name: Awesome .Net Core Educations
 site_url: https://mehdihadeli.github.io/awesome-dotnet-core-education/
 site_description: A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
-docs_dir: docs/
-repo_name: 'GitHub'
+docs_dir: 
+repo_name: mehdihadeli/awesome-dotnet-core-education
 repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
 edit_uri: edit/main/docs/
 theme: 
