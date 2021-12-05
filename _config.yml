@@ -6,5 +6,5 @@ relative_links:
 include:
   - contributing.md
   - README.md
-  - LICENSE.md
+  - LICENSE
 theme: jekyll-theme-cayman
