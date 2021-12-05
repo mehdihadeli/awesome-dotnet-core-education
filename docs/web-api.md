@@ -110,6 +110,7 @@
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
+- [The .NET Docs Show - Controllers are Dinosaurs: The Case for API Endpoints](https://www.youtube.com/watch?v=9oroj2TmxBs)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
