@@ -52,6 +52,7 @@
 - [thangchung/minimal-apis-csharp10](https://github.com/thangchung/minimal-apis-csharp10)
 - [martincostello/MinimalApisWithJsonSourceGenerator](https://github.com/martincostello/MinimalApisWithJsonSourceGenerator)
 - [thangchung/todo-dotnet6](https://github.com/thangchung/todo-dotnet6)
+- [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

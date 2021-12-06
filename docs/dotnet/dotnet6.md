@@ -27,6 +27,9 @@
 - [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/?WT.mc_id=DT-MVP-5002040)
 - [Series: Exploring .NET Core 6](https://andrewlock.net/series/exploring-dotnet-6/)
 - [.NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
+- [File-Scoped Namespaces – A Look at New Language Features in C# 10](https://blog.jetbrains.com/dotnet/2021/10/28/file-scoped-namespaces-in-csharp-10/)
+- [Implicit Using Statements In .NET 6](https://dotnetcoretutorials.com/2021/08/31/implicit-using-statements-in-net-6)
+- [IEnumerable Chunk In .NET 6](https://dotnetcoretutorials.com/2021/08/12/ienumerable-chunk-in-net-6)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)
