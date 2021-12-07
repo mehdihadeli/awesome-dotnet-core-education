@@ -20,6 +20,7 @@
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 - [CuriousDrive/BlazingChat](https://github.com/CuriousDrive/BlazingChat) - BlazingChat is a Blazor WebAssembly app developed by CuriousDrive for the community. This is a sample application for developers who are just getting started with Blazor.
 - [jasontaylordev/ModernWebDevWithBlazorWasm](https://github.com/jasontaylordev/ModernWebDevWithBlazorWasm) - The sample code from my presentation Modern Web Dev with Blazor WebAsembly and ASP.NET Core 6.
+- [fullstackhero/blazor-wasm-boilerplate](https://github.com/fullstackhero/blazor-wasm-boilerplate) - Blazor WebAssembly Boilerplate for .NET 6.0 using FSH API as the backend.
 ## Libraries
 - [mrpmorris/Fluxor](https://github.com/mrpmorris/Fluxor) - Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor.
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor

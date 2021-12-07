@@ -93,6 +93,7 @@
 - [cornflourblue/dotnet-5-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api) - .NET 5.0 API - JWT Authentication with Refresh Tokens
 - [cornflourblue/aspnet-core-3-jwt-authentication-api](https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api) - ASP.NET Core 3.1 JWT Authentication API
 - [joseftw/JOS.ApiKeyAuthentication](https://github.com/joseftw/JOS.ApiKeyAuthentication)
+- [TanvirArjel/JwtAuthenticationInAspNetCore](https://github.com/TanvirArjel/JwtAuthenticationInAspNetCore)
 
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework

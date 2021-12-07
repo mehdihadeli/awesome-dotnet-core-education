@@ -1,5 +1,8 @@
 # API Documentation
 
+## Resources
+[Swagger Github](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/README.md)
+
 ## 📕 Articles
 
 - [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration)
@@ -18,6 +21,9 @@
 - [DTO comments from external assembly in Swagger documentation in ASP.NET Core](https://dejanstojanovic.net/aspnet/2019/march/dto-comments-from-external-assembly-in-swagger-documentation-in-aspnet-core/)
 - [Ignoring properties from controller action model in Swagger using JsonIgnore](https://dejanstojanovic.net/aspnet/2019/october/ignoring-properties-from-controller-action-model-in-swagger-using-jsonignore/)
 - [Displaying multiple select input for Enum in Swagger WebApi UI](https://dejanstojanovic.net/aspnet/2018/march/displaying-multiple-select-input-for-enum-in-swagger-webapi-ui/)
+- [Swagger Grouping With Controller Name Fallback Using Swashbuckle.AspNetCore](https://rimdev.io/swagger-grouping-with-controller-name-fallback-using-swashbuckle-aspnetcore/)
+- [Swagger in ASP.Net Core](https://dotnetcorecentral.com/blog/swagger-in-asp-net-core/)
+- [Swagger in ASP.NET Core: Tips & Tricks](https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/)
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
