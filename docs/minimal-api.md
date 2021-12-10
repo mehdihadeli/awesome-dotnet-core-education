@@ -23,6 +23,7 @@
 - [Exploring a minimal Web API with ASP.NET Core 6](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6)
 - [ASP.NET Core Minimal API Swagger tags](https://blog.burgyn.online/2021/10/13/asp-net-minimal-api-swagger-tags)
 - [Using the .NET JSON Source Generator with ASP.NET Core Minimal APIs](https://blog.martincostello.com/using-json-source-generators-with-aspnet-core-minimal-apis/)
+- [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)

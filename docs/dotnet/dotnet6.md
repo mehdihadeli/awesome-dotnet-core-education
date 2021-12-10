@@ -30,6 +30,7 @@
 - [File-Scoped Namespaces – A Look at New Language Features in C# 10](https://blog.jetbrains.com/dotnet/2021/10/28/file-scoped-namespaces-in-csharp-10/)
 - [Implicit Using Statements In .NET 6](https://dotnetcoretutorials.com/2021/08/31/implicit-using-statements-in-net-6)
 - [IEnumerable Chunk In .NET 6](https://dotnetcoretutorials.com/2021/08/12/ienumerable-chunk-in-net-6)
+- [Don't Do That, Do This: The .NET 6 Edition](https://www.daveabrock.com/2021/12/08/do-this-not-that-the-net-6-edition/)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

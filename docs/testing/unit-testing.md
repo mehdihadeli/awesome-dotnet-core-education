@@ -42,6 +42,10 @@
 - [Unit Testing 101: Write your first unit test in C# with MSTest](https://canro91.github.io/2021/03/15/UnitTesting101/)
 - [5 tips for better stubs and mocks in C#](https://canro91.github.io/2021/06/07/TipsForBetterStubsAndMocks/)
 - [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
+- [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
+- [Testing with a mocking framework](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking)
+- [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/en/2020/11/28/unit-tests-in-entity-framework-core-5/)
+- [New features for testing your Entity Framework Core 5 code](https://www.thereformedprogrammer.net/new-features-for-unit-testing-your-entity-framework-core-5-code/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
@@ -52,6 +56,7 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
+- [Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor](https://www.youtube.com/watch?v=ddrR440JtiA)
 ## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)

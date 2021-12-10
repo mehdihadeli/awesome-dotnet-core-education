@@ -24,6 +24,7 @@
 - [Swagger Grouping With Controller Name Fallback Using Swashbuckle.AspNetCore](https://rimdev.io/swagger-grouping-with-controller-name-fallback-using-swashbuckle-aspnetcore/)
 - [Swagger in ASP.Net Core](https://dotnetcorecentral.com/blog/swagger-in-asp-net-core/)
 - [Swagger in ASP.NET Core: Tips & Tricks](https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/)
+- [Handling file uploads in Open API with ASP.NET Core](https://dotnetthoughts.net/handling-file-uploads-in-openapi-with-aspnet-core/)
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)

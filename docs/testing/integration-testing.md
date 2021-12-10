@@ -72,8 +72,7 @@
 - [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
 - [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
 - [ASP.NET Core Integration Tests With TestServer - How Did I Not Know About This?](https://scotthannen.org/blog/2021/11/18/testserver-how-did-i-not-know.html)
-
-
+- [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)

@@ -57,6 +57,7 @@
 - [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 - [AuthenticationScheme: "Identity.Application" was not authenticated](https://github.com/IdentityServer/IdentityServer4/issues/1525)
 - [ASP.NET Core - Protect your API with API Keys](https://josef.codes/asp-net-core-protect-your-api-with-api-keys/)
+- [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

@@ -23,3 +23,4 @@
 - [Entering the NDepend world](https://www.davidguida.net/entering-the-ndepend-world/)
 ## 📺 Videos
 - [On .NET Live - .NET Core Code Coverage with Coverlet](https://www.youtube.com/watch?v=K9XSl3xMilE)
+- [Checking out NDepend, a static code analysis tool for .NET](https://www.youtube.com/watch?v=iKyoR_qEsKM)
