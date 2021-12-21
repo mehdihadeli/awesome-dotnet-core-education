@@ -31,6 +31,11 @@
 - [Implicit Using Statements In .NET 6](https://dotnetcoretutorials.com/2021/08/31/implicit-using-statements-in-net-6)
 - [IEnumerable Chunk In .NET 6](https://dotnetcoretutorials.com/2021/08/12/ienumerable-chunk-in-net-6)
 - [Don't Do That, Do This: The .NET 6 Edition](https://www.daveabrock.com/2021/12/08/do-this-not-that-the-net-6-edition/)
+- [20 New APIs in .NET 6](https://blog.okyrylchuk.dev/20-new-apis-in-net-6)
+- [.NET 6 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-6-networking-improvements/)
+- [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [String Interpolation in C# 10 and .NET 6](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/)
+- [LINQ improvements in .NET 6](https://blog.okyrylchuk.dev/linq-improvements-in-net-6)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

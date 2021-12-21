@@ -65,21 +65,11 @@ nav:
   - MetaPack: dotnet/metapack.md
   - C#: 
     - C#: csharp/csharp.md
-    - Boxing: csharp/boxing.md
-    - Closure: csharp/closure.md
-    - Collections & Data Structure:
-      - Collections & Data Structure: csharp/collections/collection-data-structure.md
-      - Enumerable: csharp/collections/enumerable.md
-      - HashSet: csharp/collections/hashset.md
-    - Constant: csharp/constant.md
-    - Operator: csharp/implicit-explicit-operators.md
-    - Linq: csharp/linq.md
-    - Extension Methods: csharp/extension-methods.md
-    - Null Checking : csharp/null-check.md
-    - Reflection : csharp/reflection.md
-    - Generic: csharp/generic.md
-    - Types : csharp/types.md
-    - Span: csharp/span.md
+    - C# Versions:
+      - C# 10: csharp/versions/10.md
+      - C# 9: csharp/versions/9.md
+      - C# 8: csharp/versions/8.md
+      - C# 7: csharp/versions/7.md
     - Async: 
       - Async And Await: csharp/async/async-and-await.md
       - Async Best Practice: csharp/async/async-best-practice.md
@@ -109,6 +99,21 @@ nav:
       - Thread: csharp/async/thread.md
       - ValueTask: csharp/async/valuetask.md
       - Resources: csharp/async/resources.md
+    - Collections & Data Structure:
+      - Collections & Data Structure: csharp/collections/collection-data-structure.md
+      - Enumerable: csharp/collections/enumerable.md
+      - HashSet: csharp/collections/hashset.md
+    - Boxing: csharp/boxing.md
+    - Closure: csharp/closure.md
+    - Constant: csharp/constant.md
+    - Operator: csharp/implicit-explicit-operators.md
+    - Linq: csharp/linq.md
+    - Extension Methods: csharp/extension-methods.md
+    - Null Checking : csharp/null-check.md
+    - Reflection : csharp/reflection.md
+    - Generic: csharp/generic.md
+    - Types : csharp/types.md
+    - Span: csharp/span.md
     - Record: csharp/record.md
     - Enum: csharp/enum.md
   - Code Coverage & Analysis: code-coverage-analysis.md

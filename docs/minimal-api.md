@@ -28,6 +28,7 @@
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
+- [Getting started with Minimal APIs in .Net 6](https://www.youtube.com/watch?v=Ny2q79eD6OI)
 
 ## 🚀 Samples
 - [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
@@ -54,6 +55,7 @@
 - [martincostello/MinimalApisWithJsonSourceGenerator](https://github.com/martincostello/MinimalApisWithJsonSourceGenerator)
 - [thangchung/todo-dotnet6](https://github.com/thangchung/todo-dotnet6)
 - [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
+- [oskardudycz/EventSourcing.NetCore/Warehouse.MinimalAPI](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_minimal_apis/Sample/Warehouse.MinimalAPI)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

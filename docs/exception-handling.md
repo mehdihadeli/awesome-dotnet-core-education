@@ -49,11 +49,13 @@
 - [HTTP API Problem Details in ASP.NET Core](https://codeopinion.com/http-api-problem-details-in-asp-net-core/)
 - [Problem Details: A standard way of specifying errors in HTTP API responses](https://lurumad.github.io/problem-details-an-standard-way-for-specifying-errors-in-http-api-responses-asp.net-core)
 - [Avoid Using Exceptions to Determine API Status Codes and Responses](https://ardalis.com/avoid-using-exceptions-determine-api-status/)
+- [Stop throwing Exceptions! Start being Explicit](https://codeopinion.com/stop-throwing-exceptions-start-being-explicit/)
 ## 📹 Videos
 
-- [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
+- [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
+- [Handling HTTP API Errors with Problem Details](https://www.youtube.com/watch?v=uvTT_0hqhyY&list=PLThyvG1mlMzk9bWLp4UzG4NFTYaWsc105&index=3)
 ## Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)

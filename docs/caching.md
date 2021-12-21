@@ -77,3 +77,4 @@
 - [mjebrahimi/EasyCompressor](https://github.com/mjebrahimi/EasyCompressor) - ⚡ A compression library that implements many compression algorithms such as LZ4, Zstd, LZMA, Snappy, Brotli, GZip, and Deflate. It helps you to improve performance by reducing Memory Usage and Network Traffic for caching.
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor) - EF Core Second Level Cache Interceptor
 - [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) - HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
+- [beetlex-io/BeetleX.Redis](https://github.com/beetlex-io/BeetleX.Redis) - A high-performance async/non-blocking redis client components for dotnet core,default data formater json protobuf and messagepack,support ssl

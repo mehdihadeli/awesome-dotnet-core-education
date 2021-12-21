@@ -8,3 +8,9 @@
 - [Efficient Querying](https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#beware-of-lazy-loading)
 - [Efficient Updating](https://docs.microsoft.com/en-us/ef/core/performance/efficient-updating)
 - [Advanced Performance Topics](https://docs.microsoft.com/en-us/ef/core/performance/advanced-performance-topics?tabs=with-constant)
+
+## Videos
+- [Common mistakes in EF Core - Jernej Kavka - NDC Sydney 2021](https://www.youtube.com/watch?v=iSWxny5MUY8)
+
+## Samples
+- [jernejk/EFCoreSamples.StabilityAndPerformance](https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance) - Showing bad and good examples for EF Core that impacts stability and performance of the applications

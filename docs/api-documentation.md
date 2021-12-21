@@ -28,3 +28,7 @@
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
+
+## Libraries
+- [dmitry-pavlov/api-client-generation-tools](https://github.com/dmitry-pavlov/api-client-generation-tools) - API Client Generation Tools for Visual Studio, Visual Studio Code, and JetBrains Rider
+- [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.

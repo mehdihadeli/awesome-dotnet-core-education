@@ -15,3 +15,4 @@
 - [Code Formatting - ReSharper Essentials](https://www.youtube.com/watch?v=QpeTw4p3aeU)
 - [Inspections and Quick Fixes - ReSharper Essentials](https://www.youtube.com/watch?v=RgDGJ9H63n4)
 - [Debugging Tips and Tricks with JetBrains Rider, by Joseph Guadagno](https://www.youtube.com/watch?v=KM27QGVwgas)
+- [ReSharper & Rider 2021.3 Release Party](https://www.youtube.com/watch?v=eereCKwEOq0)

@@ -13,6 +13,7 @@
 - [API Versioning in ASP.NET Core 3.1 – Best Practices](https://codewithmukesh.com/blog/api-versioning-in-aspnet-core-3-1/)
 - [Overview of API Versioning in ASP.NET Core 3.0+](https://exceptionnotfound.net/overview-of-api-versioning-in-asp-net-core-3-0/)
 - [Versioning an ASP.NET Core API](https://www.meziantou.net/versioning-an-asp-net-core-api.htm)
+- [All about Web API Versioning in ASP.NET Core](https://www.dotnetnakama.com/blog/all-about-web-api-versioning-in-asp-dotnet-core/)
 ## 📹 Videos
 
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s)

@@ -24,6 +24,7 @@
 - [OIDC Hybrid Flow](https://curity.io/resources/learn/oauth-hybrid-flow/)
 - [OAuth Client Credentials Flow](https://curity.io/resources/learn/oauth-client-credentials-flow/)
 - [Authorization Code Flow](https://auth0.com/docs/flows/authorization-code-flow)
+- [Delegation Patterns for OAuth 2.0 using Token Exchange](https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20)
 ## 📺 Videos
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 - [SECURING OAUTH BEARER TOKENS FROM MULTIPLE IDENTITY PROVIDERS IN AN ASP.NET CORE API](https://damienbod.com/2021/05/17/securing-multiple-identity-provider-oauth-bearer-tokens-in-an-asp-net-core-api/)
