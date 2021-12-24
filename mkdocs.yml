@@ -203,7 +203,7 @@ nav:
     - Transaction: ef-core/transaction.md
   - Environment: environment.md
   - Mediator: mediator.md
-  - Mapping: mapping.md
+  - Mapping: mapping/mapping.md
   - Caching: caching.md
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
