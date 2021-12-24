@@ -52,11 +52,11 @@ nav:
     - .Net 5: dotnet/dotnet5.md
     - .Net 6: dotnet/dotnet6.md  
     - .Net Standard: dotnet/dotnet-standard.md
+    - .Net Template: dotnet/dotnet-template.md
     - ASP.Net Core: dotnet/dotnet-core.md
     - .Net Core Architecture: dotnet/dotnet-core-architecture.md
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
-    - .Net Template: dotnet-cli/dotnet-template.md
     - .Net Tools: dotnet-cli/dotnet-tools.md
     - .Net Watch: dotnet-cli/dotnet-watch.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
@@ -203,7 +203,7 @@ nav:
     - Transaction: ef-core/transaction.md
   - Environment: environment.md
   - Mediator: mediator.md
-  - Mapping: mapping.md
+  - Mapping: mapping/mapping.md
   - Caching: caching.md
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
