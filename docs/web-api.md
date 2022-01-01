@@ -19,8 +19,6 @@
 - [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
 - [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 - [Model Binding - ASP.NET Core Demystified](https://exceptionnotfound.net/asp-net-core-demystified-model-binding-in-mvc/)
-- [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
-- [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
 - [Finally the ASP.NET 5 Web API Blog Series!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
 - [ASP.NET Core in .NET 5 – pass parameters to actions](https://www.michalbialecki.com/2020/05/07/asp-net-5-pass-parameters-to-actions/)
 - [Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding)
@@ -78,6 +76,8 @@
 - [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
 - [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
 - [ASP.NET Core 5 Model Binding to C# 9 Record Types](https://www.davidhayden.me/blog/asp-net-core-5-model-binding-to-csharp-9-record-types)
+- [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
+- [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 - [Beautiful and compact Web APIs revisited – with C# 10 and .NET 6 Preview 7](https://www.strathweb.com/2021/08/beautiful-and-compact-web-apis-revisited-with-c-10-and-net-6-preview-7/)
 - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
@@ -112,6 +112,7 @@
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [The .NET Docs Show - Controllers are Dinosaurs: The Case for API Endpoints](https://www.youtube.com/watch?v=9oroj2TmxBs)
+- [ASP.NET Community Standup - A first look at Carter on .NET 6](https://www.youtube.com/watch?v=bSJ5n7alhTs)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
@@ -135,7 +136,6 @@
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
-- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 ## 🔖 Samples
 - [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)

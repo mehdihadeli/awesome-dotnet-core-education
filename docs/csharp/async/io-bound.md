@@ -11,3 +11,5 @@
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](http://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
 - [Task.Factory.StartNew vs Task.Factory.FromAsync](https://stackoverflow.com/questions/17432306/task-factory-startnew-vs-task-factory-fromasync)
 - [Task.Run vs Task.Factory.StartNew](https://devblogs.microsoft.com/pfxteam/task-run-vs-task-factory-startnew/)
+- [Implementing the Task-based Asynchronous Pattern](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern)
+- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)

@@ -13,3 +13,6 @@
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://b2n.ir/871581)
 - [The danger of TaskCompletionSource class](https://devblogs.microsoft.com/premier-developer/the-danger-of-taskcompletionsourcet-class/)
 - [Mechanisms for Creating Tasks](https://devblogs.microsoft.com/pfxteam/mechanisms-for-creating-tasks/)
+
+## Videos
+- [When and how you can use TaskCompletionSource in Async?](https://www.youtube.com/watch?v=OOPOHTEhiUg)

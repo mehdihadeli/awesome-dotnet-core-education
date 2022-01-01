@@ -36,6 +36,7 @@
 - [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) 
 - [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/)
 - [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)

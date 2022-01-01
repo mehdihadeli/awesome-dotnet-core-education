@@ -8,3 +8,4 @@
 - [Enumeration in .NET V ToList() or not ToList()?](https://antao-almada.medium.com/enumeration-in-net-v-tolist-and-toarray-395ce615ecfd)
 - [Array iteration performance in C# — Branching and parallelization](https://antao-almada.medium.com/array-iteration-performance-in-c-branching-and-parallelization-d0705adbf425)
 - [Array iteration performance in C#](https://antao-almada.medium.com/array-iteration-performance-in-c-f9801a2c7a3c)
+- [Fastest way to enumerate a List<T>](https://www.meziantou.net/fastest-way-to-enumerate-a-list-t.htm)

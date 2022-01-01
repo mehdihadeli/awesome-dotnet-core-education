@@ -93,11 +93,12 @@ nav:
       - Synchronization Context: csharp/async/synchronization-context.md
       - State Machine: csharp/async/state-machine.md
       - TaskCompletionSource: csharp/async/task-completion-source.md
-      - TPL & Task: csharp/async/tpl-task.md
+      - TPL & TAP: csharp/async/tpl-tap.md
       - ThreadPool: csharp/async/thread-pool.md
       - Thread Safty: csharp/async/thread-safty.md
       - Thread: csharp/async/thread.md
       - ValueTask: csharp/async/valuetask.md
+      - Sync Over Async: csharp/async/sync-over-async.md
       - Resources: csharp/async/resources.md
     - Collections & Data Structure:
       - Collections & Data Structure: csharp/collections/collection-data-structure.md
@@ -108,6 +109,7 @@ nav:
     - Constant: csharp/constant.md
     - Operator: csharp/implicit-explicit-operators.md
     - Linq: csharp/linq.md
+    - Lowering: lowering.md
     - Extension Methods: csharp/extension-methods.md
     - Null Checking : csharp/null-check.md
     - Reflection : csharp/reflection.md
@@ -201,6 +203,7 @@ nav:
     - Lazy Loading: ef-core/lazy-loading.md
     - Performance: ef-core/performance.md
     - Transaction: ef-core/transaction.md
+    - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
   - Mediator: mediator.md
   - Mapping: mapping.md

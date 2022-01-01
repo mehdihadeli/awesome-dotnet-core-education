@@ -9,5 +9,8 @@
 - [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/)
 - [Introducing C# 10: Record struct](https://anthonygiretti.com/2021/08/03/introducing-c-10-record-struct/)
 - [ASP.NET Core 5 Model Binding to C# 9 Record Types](https://www.davidhayden.me/blog/asp-net-core-5-model-binding-to-csharp-9-record-types)
+- [Are C# 9 records immutable by default?](https://www.daveabrock.com/2020/11/02/csharp-9-records-immutable-default/)
 ## 📺 Videos
 - [C# 9.0: Record types](https://www.youtube.com/watch?v=oSQDZ7GpKwg)
+- [What are record types in C# and how they ACTUALLY work](https://www.youtube.com/watch?v=9v6RENPk5iM)
+- [Records Deep Dive: What, Why and How - David Wengier - NDC Melbourne 2021](https://www.youtube.com/watch?v=lxwNcg2q1-Y)

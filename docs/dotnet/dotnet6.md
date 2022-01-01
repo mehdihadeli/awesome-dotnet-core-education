@@ -36,6 +36,8 @@
 - [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
 - [String Interpolation in C# 10 and .NET 6](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/)
 - [LINQ improvements in .NET 6](https://blog.okyrylchuk.dev/linq-improvements-in-net-6)
+- [.NET 6 Has Arrived: Here Are A Few of My Favorite Things](https://www.daveabrock.com/2021/12/03/dotnet-6-favorite-things/)
+- [What's new in .NET 6 and C# 10. Everything you wanted to know.](https://nikiforovall.github.io/dotnet/csharp/coding-stories/2021/10/29/whats-new-in-dotnet6.html)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

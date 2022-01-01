@@ -8,3 +8,4 @@
 - [Exploring the async/await State Machine – Series Overview](https://vkontech.com/exploring-the-async-await-state-machine-series-overview/)
 - [Exploring the async/await State Machine – Synchronization Context](https://vkontech.com/exploring-the-async-await-state-machine-synchronization-context/)
 - [Dissecting the async methods in C#](https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/)
+- [Understanding async/await State Machine in .NET](https://mykkon.work/async-state-machine/)
