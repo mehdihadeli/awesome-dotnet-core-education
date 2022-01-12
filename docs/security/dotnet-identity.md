@@ -44,6 +44,7 @@
 ## Videos
 - [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
 - [ASP.NET Core Security Playlist - Frank Liu](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
+- [Secure minimal APIs with .NET 6 and Microsoft Identity](https://www.youtube.com/watch?v=ucj8hajOorg)
 ## 🚀 Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
@@ -67,3 +68,6 @@
 - [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
 - [VirtoCommerce/vc-platform](https://github.com/VirtoCommerce/vc-platform)
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
+- [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [TanvirArjel/CleanArchitecture](https://github.com/TanvirArjel/CleanArchitecture)
+- [damikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Identity.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.

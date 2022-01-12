@@ -79,7 +79,7 @@
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ&t=2s)
 - [Asp Net Core 5 Rest API Authentication with JWT Step by Step](https://www.youtube.com/watch?v=LgpC4tYtc6Y&ab_channel=MohamadLawand)
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
-
+- [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
@@ -101,6 +101,7 @@
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
 - [RockSolidKnowledge/TokenExchange](https://github.com/RockSolidKnowledge/TokenExchange) - Token Exchange (RFC 8693) implementation for IdentityServer
 - [damienbod/AspNetCoreYarp](https://github.com/damienbod/AspNetCoreYarp) - ASP.NET Core & Yarp reverse proxy with Azure AD OIDC, OAuth2
+- [pdevito3/heimguard](https://github.com/pdevito3/heimguard) - A small and simple library built to allow you to easily manage permissions in your .NET projects.
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 

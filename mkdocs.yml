@@ -226,6 +226,7 @@ nav:
     - WSL: ide-tools/wsl.md
   - Rx.Net: rx.md
   - Commenting: commenting.md
+  - Formatting: formatting.md
   - Others: others.md
 
 

@@ -124,7 +124,7 @@
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
-
+- [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

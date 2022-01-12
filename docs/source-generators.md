@@ -17,6 +17,7 @@
 - [.NET Source Generators: Finding Class Declarations](https://khalidabuhakmeh.com/dotnet-source-generators-finding-class-declarations)
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
+- [.NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/post/net-5-source-generators-mediatr-cqrs-omg?lang=en)
 ## 📺 Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)

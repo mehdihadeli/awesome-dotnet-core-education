@@ -20,12 +20,18 @@
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 2](https://fullstackmark.com/post/23/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2)
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 3](https://fullstackmark.com/post/24/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-3)
 - [Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 4](https://fullstackmark.com/post/25/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-4)
+- [Getting Started with IdentityServer4 and Duende IdentityServer](https://www.scottbrady91.com/identity-server/getting-started-with-identityserver-4)
+- [API Resources](https://docs.duendesoftware.com/identityserver/v5/fundamentals/resources/api_resources/)
+- [Identity Resources](https://docs.duendesoftware.com/identityserver/v5/fundamentals/resources/identity/)
+- [API Scopes](https://docs.duendesoftware.com/identityserver/v5/fundamentals/resources/api_scopes/)
+- [IdentityServer4, OAuth, OpenID Connect Series](https://code-maze.com/identityserver-4-series/)
 ## 📺 Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)
 - [How to add ASP.NET Identity and Entity Framework Support for your IdentityServer4 Solution](https://www.youtube.com/watch?v=Sw1rScI20xM)
 - [How to Setup FIDO2 for IdentityServer4](https://www.youtube.com/watch?v=j-QjTvBnEn4)
 - [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
+- [Configure ASP.NET Identity with Identity Server 4 | Tutorial Part 1](https://www.youtube.com/watch?v=SXJ377G5bOg)
 
 ## 🔖 Samples
 - [mmacneil/fullstack-jobs](https://github.com/mmacneil/fullstack-jobs) - Real(ish) demo using Angular with ASP.NET Core GraphQL and IdentityServer.
@@ -47,3 +53,4 @@
 - [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
 - [KevinDockx/BlazorWASMSecurityBestPractices](https://github.com/KevinDockx/BlazorWASMSecurityBestPractices) - Sample showing a best practice security approach for Blazor WASM apps via the BFF pattern
 - [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core
+- [damikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Identity.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.

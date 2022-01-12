@@ -11,3 +11,5 @@
 - [Fastest way to enumerate a List<T>](https://www.meziantou.net/fastest-way-to-enumerate-a-list-t.htm)
 - [The .NET Dictionary](https://www.red-gate.com/simple-talk/blogs/the-net-dictionary/)
 - [5 C# Collections that Every C# Developer Must Know](https://programmingwithmosh.com/net/csharp-collections/)
+- [Return the most specific type, accept the most generic type](https://enterprisecraftsmanship.com/posts/return-the-most-specific-type/)
+- [What types should I use to pass collections in C#?](https://markheath.net/post/passing-collections-csharp)

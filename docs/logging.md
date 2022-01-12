@@ -80,6 +80,7 @@
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
 - [datalust/dotnet6-serilog-example](https://github.com/datalust/dotnet6-serilog-example)
+- [hdamikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Logging.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

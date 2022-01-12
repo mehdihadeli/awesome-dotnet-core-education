@@ -4,6 +4,8 @@
 - [Minimal APIs](https://minimal-apis.github.io/)
 
 ## 📕 Articles
+- [Minimal APIs overview](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
+- [Code samples migrated to the new minimal hosting model in ASP.NET Core 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60-samples)
 - [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Minimal APIs in ASP.NET Core 6.0](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/)
 - [Minimal APIs in ASP.NET Core 6.0 - Part2](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6-part2/)
@@ -39,6 +41,8 @@
 - [All you need to know about the NEW Asp.Net Core startup in .NET 6](https://www.youtube.com/watch?v=yJH60VFw1MI)
 - [Coding Shorts: Structuring Minimal APIs - A First Draft](https://www.youtube.com/watch?v=Q_zXFeP-QNI)
 - [Coding Shorts: Changes to Coming to Startup in .NET 6](https://www.youtube.com/watch?v=SGcpIy1Si54)
+- [Secure minimal APIs with .NET 6 and Microsoft Identity](https://www.youtube.com/watch?v=ucj8hajOorg)
+- [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
 ## 🚀 Samples
 - [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
