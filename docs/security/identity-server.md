@@ -25,6 +25,7 @@
 - [Identity Resources](https://docs.duendesoftware.com/identityserver/v5/fundamentals/resources/identity/)
 - [API Scopes](https://docs.duendesoftware.com/identityserver/v5/fundamentals/resources/api_scopes/)
 - [IdentityServer4, OAuth, OpenID Connect Series](https://code-maze.com/identityserver-4-series/)
+- [Fair Trade Software License](https://blog.duendesoftware.com/posts/20220111_fair_trade/)
 ## 📺 Videos
 
 - [Creating your First IdentityServer4 Solution](https://www.youtube.com/watch?v=HJQ2-sJURvA&t=218s)

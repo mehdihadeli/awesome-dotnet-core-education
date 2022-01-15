@@ -61,7 +61,9 @@
 - [Structured logging with Serilog and Seq and ElasticSearch under Docker](https://dev.to/hasdrubal/structure-logging-with-serilog-and-seq-and-elasticsearch-under-docker-16dk)
 - [How to turn off Serilog?](https://stackoverflow.com/questions/30849166/how-to-turn-off-serilog)
 - [Setting up Serilog in .NET 6](https://blog.datalust.co/using-serilog-in-net-6/)
-
+- [ASP.NET Core: Logs (Part 1)](https://rafaelldi.blog/posts/asp-net-core-logs-part-1/)
+- [ASP.NET Core: Logs (Part 2)](https://rafaelldi.blog/posts/asp-net-core-logs-part-2/)
+- [ASP.NET Core: Logs (Part 3)](https://rafaelldi.blog/posts/asp-net-core-logs-part-3/)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 

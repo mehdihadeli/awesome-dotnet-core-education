@@ -4,6 +4,9 @@
 
 - [GETTING STARTED WITH THE ROSLYN APIS: WRITING CODE WITH CODE](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
 - [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm)
+- [Overview of .NET source code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview)
+- [Rule categories](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/categories)
+- [Configuration options for code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/configuration-options)
 
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)

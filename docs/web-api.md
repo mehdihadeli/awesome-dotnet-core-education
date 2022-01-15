@@ -87,6 +87,7 @@
 - [How to Upload Large Files](https://scatteredcode.net/how-to-upload-large-files/)
 - [Controller action return types in ASP.NET Core web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types)
 - [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
+- [REST API with ASP.NET Core](https://rafaelldi.blog/posts/rest-api-with-asp-net-core/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
