@@ -49,6 +49,7 @@
 - [Entity Framework Core In-Depth Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-3)
 - [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
 - [Entity Framework Community Standup - Visualizing database query plans](https://www.youtube.com/watch?v=Zhy5antRDJk)
+- [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
 
 ## 📦 Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.

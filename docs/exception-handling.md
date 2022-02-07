@@ -50,6 +50,7 @@
 - [Problem Details: A standard way of specifying errors in HTTP API responses](https://lurumad.github.io/problem-details-an-standard-way-for-specifying-errors-in-http-api-responses-asp.net-core)
 - [Avoid Using Exceptions to Determine API Status Codes and Responses](https://ardalis.com/avoid-using-exceptions-determine-api-status/)
 - [Stop throwing Exceptions! Start being Explicit](https://codeopinion.com/stop-throwing-exceptions-start-being-explicit/)
+- [Guard Clauses and Exceptions or Validation?](https://ardalis.com/guard-clauses-and-exceptions-or-validation/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)

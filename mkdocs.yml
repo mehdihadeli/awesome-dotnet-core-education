@@ -73,6 +73,7 @@ nav:
     - Async: 
       - Async And Await: csharp/async/async-and-await.md
       - Async Best Practice: csharp/async/async-best-practice.md
+      - Analyzers: csharp/async/analyzers.md
       - Async Collections: 
         - Async Collections: csharp/async/async-collections.md
         - Async Stream And IEnumerableAsync: csharp/async/async-collections/async-stream-and-ienumerableasync.md
@@ -141,6 +142,7 @@ nav:
   - SignalR: signalr.md
   - HttpClient: httpclient.md
   - WEB API: web-api.md
+  - Urls: urls.md
   - Minimal API: minimal-api.md
   - ML.Net : ml-net.md
   - Background Tasks: background-tasks.md
@@ -154,8 +156,10 @@ nav:
     - MongoDB: nosql/mongodb.md
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
-  - Git: git.md
-  - Git-Flow: git-flow.md
+  - GitHub:
+    - Git: github/git.md
+    - Git-Flow: github/git-flow.md
+    - Copilot: github/copilot.md
   - Elastic Search: elastic-search.md
   - OData: odata.md
   - Debugging: debugging.md
@@ -208,10 +212,13 @@ nav:
   - Mediator: mediator.md
   - Mapping: mapping/mapping.md
   - Caching: caching.md
+  - Model Binding: model-binding.md
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
+  - Stronglt Type ID: strongly-type-id.md
   - Package Versioning: package-versioning.md
   - Orleans: orleans.md
+  - WebHook: webhook.md
   - CI/CD: 
     - Azure Devops: ci-cd/azure-devops.md
     - GitHub Actions: ci-cd/github-actions.md
@@ -219,7 +226,6 @@ nav:
   - Roslyn: roslyn.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
-    - GitHub: ide-tools/github.md
     - Decompile: ide-tools/decompile.md
     - DotMemory: ide-tools/dotmemory.md
     - Terminal Tools: ide-tools/terminal.md

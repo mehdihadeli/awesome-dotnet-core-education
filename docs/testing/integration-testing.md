@@ -73,6 +73,8 @@
 - [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
 - [ASP.NET Core Integration Tests With TestServer - How Did I Not Know About This?](https://scotthannen.org/blog/2021/11/18/testserver-how-did-i-not-know.html)
 - [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
+- [Write integration tests on MongoDB with .NET Core and Docker](https://www.davidguida.net/write-integration-tests-on-mongodb-with-net-core-and-docker/)
+- [Handling Integration Tests in a CI pipeline – part 2: an example](https://www.davidguida.net/handling-integration-tests-in-a-ci-pipeline-part-2-an-example/)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -106,6 +108,7 @@
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
+- [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
@@ -125,6 +128,8 @@
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
+- [mizrael/CICDIntegrationTests](https://github.com/mizrael/CICDIntegrationTests)
+- [mizrael/MongoDbIntegrationSample](https://github.com/mizrael/MongoDbIntegrationSample)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

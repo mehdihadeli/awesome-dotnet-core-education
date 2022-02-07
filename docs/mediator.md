@@ -22,6 +22,7 @@
 - [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
 - [Why I don't use MediatR for CQRS](https://cezarypiatek.github.io/post/why-i-dont-use-mediatr-for-cqrs/)
 - [Simple Domain Events with EFCore and MediatR](https://cfrenzel.com/domain-events-efcore-mediatr/)
+- [How I Upgrade my Code-Style of MediatR Pipeline using .NET 6](https://levelup.gitconnected.com/how-i-upgrade-my-code-style-of-mediatr-pipeline-using-net-6-ed49aca61f47)
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 
@@ -37,3 +38,5 @@
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator)
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
 - [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)
+- [litenova/LiteBus](https://github.com/litenova/LiteBus) - An easy-to-use and ambitious in-process mediator to implement CQS with minimum reflection usage and streamable query support.
+- [ITIXO/MediatR.Extensions.AttributedBehaviors](https://github.com/ITIXO/MediatR.Extensions.AttributedBehaviors) - MediatR extension adding ability to specify pipeline behaviors using attributes on command class

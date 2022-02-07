@@ -4,6 +4,7 @@
 - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/)
 - [.NET 6: Collections Improvements](https://www.infoq.com/news/2021/06/Net6-Collections/)
 - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+- [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
 - [Announcing .NET 6 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/?WT.mc_id=DOP-MVP-5003880)
 - [Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
 - [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/)
@@ -38,6 +39,7 @@
 - [LINQ improvements in .NET 6](https://blog.okyrylchuk.dev/linq-improvements-in-net-6)
 - [.NET 6 Has Arrived: Here Are A Few of My Favorite Things](https://www.daveabrock.com/2021/12/03/dotnet-6-favorite-things/)
 - [What's new in .NET 6 and C# 10. Everything you wanted to know.](https://nikiforovall.github.io/dotnet/csharp/coding-stories/2021/10/29/whats-new-in-dotnet6.html)
+- [.Net 6: What’s new in LINQ at a glance!](http://damienvdk.com/index.php/2021/12/12/net-6-the-news-of-linq-in-a-wink/)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)
@@ -48,6 +50,7 @@
 - [Migrating to .NET 6 from .NET Core 3.1 | ASP.NET Core WebAPI](https://www.youtube.com/watch?v=LON-PTi2AC0)
 - [Upgrading from .NET Framework to .NET 6](https://www.youtube.com/watch?v=cOHXt_0VDRI)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
+- [ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=D5xcUtPCG2s)
 ## 🚀 Samples
 - [okyrylchuk/dotnet6_features](https://github.com/okyrylchuk/dotnet6_features)
 - [NikiforovAll/whats-new-in-dotnet6](https://github.com/NikiforovAll/whats-new-in-dotnet6)

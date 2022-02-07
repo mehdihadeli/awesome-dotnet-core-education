@@ -16,4 +16,5 @@
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 - [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 - [SonarLint](https://www.sonarlint.org/)
-- [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer/tree/main/docs)
+- [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer/tree/main/docs) - A Roslyn analyzer to enforce some good practices in C#.
+- [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.

@@ -14,6 +14,7 @@
 - [How to Implement TDD ( Test Driven Development ) in C# | CSharp Interview Questions & Answers](https://www.youtube.com/watch?v=5gMBGVNR8wE)
 - [Test Driven Development asp net core 6](https://www.youtube.com/watch?v=3q6Fit7pzI4)
 - [🚀 DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+- [Building a .NET 6 API Using TDD](https://www.youtube.com/watch?v=ULJ3UEezisw)
 ## Samples
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)

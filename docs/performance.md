@@ -47,6 +47,7 @@
 - [Astonishing Performance of .NET 5](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
 - [.NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet/)
+- [Optimizing CPU-Bound and Memory-Bound .NET Applications: 11 Best Practices](https://michaelscodingspot.com/cpu-bound-memory-bound/)
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)

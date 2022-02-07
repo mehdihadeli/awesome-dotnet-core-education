@@ -18,6 +18,7 @@
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
 - [.NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/post/net-5-source-generators-mediatr-cqrs-omg?lang=en)
+- [C# 9 records as strongly-typed ids - Part 5: final bits and conclusi](https://thomaslevesque.com/2021/03/19/csharp-9-records-as-strongly-typed-ids-part-5-final-bits-and-conclusion/)
 ## 📺 Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)

@@ -1,6 +1,9 @@
 
 # Unit Testing
 
+## Resources
+- [Unit Testing 101: From Zero to Hero](https://canro91.github.io/UnitTesting)
+
 ## 📝 Articles
 
 - [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) 
@@ -46,6 +49,10 @@
 - [Testing with a mocking framework](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking)
 - [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/en/2020/11/28/unit-tests-in-entity-framework-core-5/)
 - [New features for testing your Entity Framework Core 5 code](https://www.thereformedprogrammer.net/new-features-for-unit-testing-your-entity-framework-core-5-code/)
+- [Unit testing MongoDB in C# part 1: the repository](https://www.davidguida.net/unit-testing-mongodb-in-c-part-1-the-repository/)
+- [Unit testing MongoDB in C# part 2: the database context](https://www.davidguida.net/unit-testing-mongodb-in-c-part-2-the-database-context/)
+- [Unit testing MongoDB in C# part 3: the database factories](https://www.davidguida.net/unit-testing-mongodb-in-c-part-3-the-database-factories)
+- [Unit testing MongoDB in C# part 4: the tests, finally](https://www.davidguida.net/unit-testing-mongodb-in-c-part-4-the-tests-finally/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
@@ -57,6 +64,7 @@
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
 - [Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor](https://www.youtube.com/watch?v=ddrR440JtiA)
+- [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
 ## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
