@@ -29,7 +29,7 @@
 - [Using the .NET JSON Source Generator with ASP.NET Core Minimal APIs](https://blog.martincostello.com/using-json-source-generators-with-aspnet-core-minimal-apis/)
 - [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
 - [An opinionated look at Minimal API in .NET 6](https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html)
-
+- [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -74,9 +74,11 @@
 - [maartenba-demo/grocerylistapi](https://github.com/maartenba-demo/grocerylistapi)
 - [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture)
 - [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example)
+- [rh8512/csharp-minimalapi](https://github.com/rh8512/csharp-minimalapi)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
 - [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.
 - [danpdc/SmartModules](https://github.com/danpdc/SmartModules)
 - [marcominerva/MinimalHelpers.Registration](https://github.com/marcominerva/MinimalHelpers.Registration) - A lightweight library to automatically register all the Route Endpoints of a Minimal API project.
+- [csharpfritz/InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - A library that generates Minimal API endpoints for an Entity Framework context.

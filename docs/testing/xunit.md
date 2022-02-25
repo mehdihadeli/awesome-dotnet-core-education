@@ -11,6 +11,6 @@
 - [Creating parameterised tests in xUnit with [InlineData], [ClassData], and [MemberData]](https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/)
 - [Pass complex parameters to [Theory]](https://stackoverflow.com/questions/22093843/pass-complex-parameters-to-theory)
 - [xUnit Theory: Working With InlineData, MemberData, ClassData](https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/)
-
+- [Taking control over xUnit test names](https://gsferreira.com/archive/2021/taking-control-over-xunit-test-names/)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit

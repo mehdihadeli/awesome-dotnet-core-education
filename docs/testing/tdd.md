@@ -15,10 +15,9 @@
 - [Test Driven Development asp net core 6](https://www.youtube.com/watch?v=3q6Fit7pzI4)
 - [🚀 DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Building a .NET 6 API Using TDD](https://www.youtube.com/watch?v=ULJ3UEezisw)
+- [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik](https://www.youtube.com/watch?v=2vEoL3Irgiw)
+
 ## Samples
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

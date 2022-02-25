@@ -6,6 +6,7 @@
 - [Five Key Git Concepts Explained the Hard Way](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
 - [Remote Repositories](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories)
 - [VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
+- [How to merge a specific commit into another branch](https://dev.to/iamafro/how-to-merge-a-specific-commit-into-another-branch--oak)
 
 ## 📺 Videos
 - [Git and GitHub Tutorials for Beginners! Playlist - TheCodex](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)

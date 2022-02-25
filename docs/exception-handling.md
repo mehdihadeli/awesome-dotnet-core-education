@@ -67,5 +67,6 @@
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
-- [altmann/FluentResults](https://github.com/altmann/FluentResults)
+- [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [ikyriak/ConsistentApiResponseErrors](https://github.com/ikyriak/ConsistentApiResponseErrors) - A .NET Core middleware that centralizes the handling of input-validation errors, application exceptions and unhandled exceptions.
+- [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET

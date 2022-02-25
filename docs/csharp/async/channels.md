@@ -1,3 +1,4 @@
+
 # Channels
 
 ## 📝 Articles
@@ -18,7 +19,7 @@
 ## 📹 Videos
 - [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
 - [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
-
+- [Better Parallel Code with C# Channels With Jeremy Clark | Hampton Roads .NET Users Group](https://www.youtube.com/watch?v=VtP31OUJqbY)
 
 ## 🔖 Samples
 

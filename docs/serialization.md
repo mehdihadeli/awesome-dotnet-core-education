@@ -37,11 +37,16 @@
 - [Json.net also tricked me](https://www.michalkomorowski.com/2017/08/jsonnet-also-tricked-me.html)
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
+- [The Definitive Serialization Performance Guide](https://aloiskraus.wordpress.com/2017/04/23/the-definitive-serialization-performance-guide/)
+- [.NET Serialization Benchmark 2019 Roundup](https://aloiskraus.wordpress.com/2019/09/29/net-serialization-benchmark-2019-roundup/)
+- [Serialization Performance Update With .NET 4.7.2](https://aloiskraus.wordpress.com/2018/05/06/serialization-performance-update-with-net-4-7-2/)
+- [The Definitive Serialization Performance Guide](https://aloiskraus.wordpress.com/2017/04/23/the-definitive-serialization-performance-guide/)
 
 ## 📺 Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)
 - [Step by Step Tutorial: Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0)
+
 ## Libraries
 
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
@@ -49,6 +54,7 @@
 - [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/tree/master/csharp) - Protocol Buffers - Google's data interchange format
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
+## Samples
+
+- [Alois-xx/SerializerTests](https://github.com/Alois-xx/SerializerTests) - .NET Serializer testing framework

@@ -1,6 +1,10 @@
-# Git-Flow
+# Git Workflow
 
 ## Articles
+- [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 - [Using GitFlow With GitHub](https://datasift.github.io/gitflow/GitFlowForGitHub.html)

@@ -75,6 +75,7 @@
 - [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
 - [Write integration tests on MongoDB with .NET Core and Docker](https://www.davidguida.net/write-integration-tests-on-mongodb-with-net-core-and-docker/)
 - [Handling Integration Tests in a CI pipeline – part 2: an example](https://www.davidguida.net/handling-integration-tests-in-a-ci-pipeline-part-2-an-example/)
+- [Integration Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#313-integration-tests)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -111,7 +112,7 @@
 - [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
-- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
 - [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
@@ -119,7 +120,7 @@
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
 - [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit)
 - [timdeschryver/HowToTestYourCsharpWebApi](https://github.com/timdeschryver/HowToTestYourCsharpWebApi)
-- [code4it-dev/APIIntegrationTestsExample/](https://github.com/code4it-dev/APIIntegrationTestsExample/)
+- [code4it-dev/APIIntegrationTestsExample](https://github.com/code4it-dev/APIIntegrationTestsExample/)
 - [markvincze/AspNetCoreIntegrationTestConfig](https://github.com/markvincze/AspNetCoreIntegrationTestConfig)
 - [raw-coding-youtube/testing-101](https://github.com/raw-coding-youtube/testing-101)
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
@@ -127,9 +128,10 @@
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
+- [oskardudycz/EventSourcing.NetCore/ECommerce/Orders.Api.Tests](https://github.com/oskardudycz/EventSourcing.NetCore/blob/main/Sample/ECommerce/Orders/Orders.Api.Tests/Orders/InitializingOrder/InitializeOrderTests.cs)
+- [oskardudycz/EventSourcing.NetCore/Shipments.Api.Tests](https://github.com/oskardudycz/EventSourcing.NetCore/blob/main/Sample/ECommerce/Shipments/Shipments.Api.Tests/Packages/SendPackageTests.cs)
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
 - [mizrael/CICDIntegrationTests](https://github.com/mizrael/CICDIntegrationTests)
 - [mizrael/MongoDbIntegrationSample](https://github.com/mizrael/MongoDbIntegrationSample)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [pdevito3/postgres-docker-integration-tests](https://github.com/pdevito3/postgres-docker-integration-tests)
+- [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.Integration](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.Integration)

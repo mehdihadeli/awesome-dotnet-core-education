@@ -1,5 +1,9 @@
 # Formatting
 
+## Resources
+- [Cybermaxs/awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contrib
+- [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
+
 ## Articles
 - [dotnet-format: Prettier your CSharp with lint-staged and husky](https://blog.johnnyreilly.com/2020/12/22/prettier-your-csharp-with-dotnet-format-and-lint-staged/)
 - [Overview of .NET source code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview)
@@ -10,7 +14,7 @@
 - [Code style rule options](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options?view=vs-2022)
 - [How to configure your custom roslyn analyzer using an .editorconfig file](https://www.mytechramblings.com/posts/configure-roslyn-analyzers-using-editorconfig/)
 - [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm)
-
+- [Embedding dotnet format in your development cycle](https://gsferreira.com/archive/2022/embedding-dotnet-format-in-your-development-cycle/)
 ## Libraries
 - [dotnet/format](https://github.com/dotnet/format) - Home for the dotnet-format command
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.

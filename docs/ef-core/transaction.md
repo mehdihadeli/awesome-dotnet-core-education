@@ -10,3 +10,4 @@
 - [Using Transactions](https://docs.microsoft.com/en-us/ef/core/saving/transactions)
 - [Transaction in Entity Framework](https://www.entityframeworktutorial.net/entityframework6/transaction-in-entity-framework.aspx)
 - [EF Core Advanced Topics Transaction](https://riptutorial.com/ef-core-advanced-topics/learn/100015/transaction)
+- [Entity Framework Core - Use TransactionScope With Caution!](https://www.thinktecture.com/en/entity-framework-core/use-transactionscope-with-caution-in-2-1/)

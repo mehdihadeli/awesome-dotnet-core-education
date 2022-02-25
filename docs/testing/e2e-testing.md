@@ -15,6 +15,4 @@
 
 ## Samples
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.EndToEnd](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.EndToEnd)

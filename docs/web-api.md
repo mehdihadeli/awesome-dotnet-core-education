@@ -89,6 +89,8 @@
 - [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
 - [REST API with ASP.NET Core](https://rafaelldi.blog/posts/rest-api-with-asp-net-core/)
 - [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
+- [How YOU can build a Mock REST API based on JSON for ASP .NET and minimal API](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/how-you-can-build-a-mock-rest-api-based-on-json-for-asp-net-and/ba-p/3196039)
+
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)

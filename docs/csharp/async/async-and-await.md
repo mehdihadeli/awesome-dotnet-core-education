@@ -60,6 +60,7 @@
 - [What Is SynchronizationContext](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
 - [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 - [Using Task.WhenAny And Task.WhenAll](https://hamidmosalla.com/2018/04/27/using-task-whenany-and-task-whenall/)
+- [Async Programming : Introduction to Async/Await on ASP.NET](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/october/async-programming-introduction-to-async-await-on-asp-net)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)

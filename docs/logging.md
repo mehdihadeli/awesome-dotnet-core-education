@@ -78,6 +78,7 @@
 - [serilog/serilog-sinks-elasticsearch](https://github.com/serilog/serilog-sinks-elasticsearch) - A Serilog sink that writes events to Elasticsearch
 - [yorchideas/Serilog.Sinks.Xunit2](https://github.com/yorchideas/Serilog.Sinks.Xunit2)
 - [verticalsoftware/vertical-spectreconsolelogger](https://github.com/verticalsoftware/vertical-spectreconsolelogger)
+- [RehanSaeed/Serilog.Enrichers.Span](https://github.com/RehanSaeed/Serilog.Enrichers.Span) - Enrich Serilog log events with properties from Open Telemetry spans.
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
