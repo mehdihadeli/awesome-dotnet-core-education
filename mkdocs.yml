@@ -7,6 +7,8 @@ repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
 edit_uri: edit/main/docs/
 theme: 
   name: material 
+  font:
+    text: Sora
   palette:
     primary: 'deep purple'
     accent: 'indigo'  
@@ -51,21 +53,28 @@ nav:
     - .Net : dotnet/dotnet.md
     - .Net 5: dotnet/dotnet5.md
     - .Net 6: dotnet/dotnet6.md  
+    - .Net 7: dotnet/dotnet7.md  
+    - .Net Build: dotnet/build.md  
     - .Net Standard: dotnet/dotnet-standard.md
     - .Net Template: dotnet/dotnet-template.md
-    - ASP.Net Core: dotnet/dotnet-core.md
+    -  ASP.Net Core: dotnet/dotnet-core.md
     - .Net Core Architecture: dotnet/dotnet-core-architecture.md
+    - .Net Core Tips: dotnet/dotnet-core-tips.md
+    - .Net IL: dotnet/il.md
+    -  MetaPack: dotnet/metapack.md
+  - ASP.NET Core:
+    - ASP.NET Core: asp/asp-net.md 
+    - ASP.NET Core 7 : asp/asp-net-7.md 
+    - ASP.NET Core 6: asp/asp-net-6.md 
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Tools: dotnet-cli/dotnet-tools.md
     - .Net Watch: dotnet-cli/dotnet-watch.md
     - Upgrade Assistant: dotnet-cli/upgrade-assistant.md
-  - .Net Core Tips: dotnet/dotnet-core-tips.md
-  - .Net IL: dotnet/il.md
-  - MetaPack: dotnet/metapack.md
   - C#: 
     - C#: csharp/csharp.md
     - C# Versions:
+      - C# 11: csharp/versions/11.md
       - C# 10: csharp/versions/10.md
       - C# 9: csharp/versions/9.md
       - C# 8: csharp/versions/8.md
@@ -73,6 +82,7 @@ nav:
     - Async: 
       - Async And Await: csharp/async/async-and-await.md
       - Async Best Practice: csharp/async/async-best-practice.md
+      - Analyzers: csharp/async/analyzers.md
       - Async Collections: 
         - Async Collections: csharp/async/async-collections.md
         - Async Stream And IEnumerableAsync: csharp/async/async-collections/async-stream-and-ienumerableasync.md
@@ -91,6 +101,7 @@ nav:
       - Exception Handling: csharp/async/exception-handling)
       - Io Bound: csharp/async/io-bound.md
       - Synchronization Context: csharp/async/synchronization-context.md
+      - SemaphoreSlim: csharp/async/semaphoreslim.md
       - State Machine: csharp/async/state-machine.md
       - TaskCompletionSource: csharp/async/task-completion-source.md
       - TPL & TAP: csharp/async/tpl-tap.md
@@ -111,7 +122,7 @@ nav:
     - Linq: csharp/linq.md
     - Lowering: lowering.md
     - Extension Methods: csharp/extension-methods.md
-    - Null Checking : csharp/null-check.md
+    - Nullable Reference Types : csharp/nullable-reference-types.md
     - Reflection : csharp/reflection.md
     - Generic: csharp/generic.md
     - Types : csharp/types.md
@@ -141,6 +152,7 @@ nav:
   - SignalR: signalr.md
   - HttpClient: httpclient.md
   - WEB API: web-api.md
+  - Urls: urls.md
   - Minimal API: minimal-api.md
   - ML.Net : ml-net.md
   - Background Tasks: background-tasks.md
@@ -154,8 +166,11 @@ nav:
     - MongoDB: nosql/mongodb.md
     - RavenDB: nosql/ravendb.md
   - Docker: docker.md
-  - Git: git.md
-  - Git-Flow: git-flow.md
+  - GitHub:
+    - Git: github/git.md
+    - Git-Flow: github/git-flow.md
+    - Copilot: github/copilot.md
+    - GitHub SubModule: github/sub-module.md
   - Elastic Search: elastic-search.md
   - OData: odata.md
   - Debugging: debugging.md
@@ -196,30 +211,35 @@ nav:
     - EF Core: ef-core/ef-core.md
     - EF Core 5: ef-core/ef-core-5.md
     - EF Core 6: ef-core/ef-core-6.md
+    - EF Core 7: ef-core/ef-core-7.md
     - Expression Tree: ef-core/expression-tree.md
-    - EF Core Migrations: ef-core/ef-core-migration.md
+    - Migrations: ef-core/migration.md
     - Explicit Loading: ef-core/explicit-loading.md
     - Eager Loading: ef-core/eager-loading.md
     - Lazy Loading: ef-core/lazy-loading.md
     - Performance: ef-core/performance.md
     - Transaction: ef-core/transaction.md
+    - Soft Delete: ef-core/soft-delete.md
+    - Query Filters: ef-core/query-filter.md
     - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
   - Mediator: mediator.md
-  - Mapping: mapping/mapping.md
+  - Mapping:
+     Mapping: mapping/mapping.md
+     Mapster: mapping/mapster.md
+     Auto Mapper: mapping/auto-mapper.md
   - Caching: caching.md
+  - Model Binding: model-binding.md
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
+  - Stronglt Type ID: strongly-type-id.md
   - Package Versioning: package-versioning.md
+  - Dapper: dapper.md
   - Orleans: orleans.md
-  - CI/CD: 
-    - Azure Devops: ci-cd/azure-devops.md
-    - GitHub Actions: ci-cd/github-actions.md
-    - Jenkins: ci-cd/jenkins.md
-  - Roslyn: roslyn.md
+  - WebHook: webhook.md
+  - Analizers: analizers.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
-    - GitHub: ide-tools/github.md
     - Decompile: ide-tools/decompile.md
     - DotMemory: ide-tools/dotmemory.md
     - Terminal Tools: ide-tools/terminal.md

@@ -12,5 +12,7 @@
 - [ASP.NET Core health checks quick start](https://gunnarpeipman.com/aspnet-core-health-checks/)
 - [mplement Health Checks Middleware in ASP.NET Core](https://rebin.dev/post/implement-health-checks-middleware-in-asp.net-core/)
 - [How to add Health Checks to ASP.NET Core project. A coding story.](https://nikiforovall.github.io/dotnet/aspnetcore/coding-stories/2021/07/25/add-health-checks-to-aspnetcore.html)
+- [Publish ASP. NET Core health checks to AppMetrics](https://jonasmhansen.com/publish-asp-net-core-health-checks-to-appmetrics/)
+
 ## Libraries
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package

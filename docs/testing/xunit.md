@@ -2,6 +2,7 @@
 
 ## 📕 Articles
 - [Quick introduction to xUnit.ne](https://www.meziantou.net/quick-introduction-to-xunitdotnet.htm)
+- [Parallelize test cases execution in xUnit](https://www.meziantou.net/parallelize-test-cases-execution-in-xunit.htm)
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 - [How to perform Unit Testing with xUnit in ASP.NET Core](https://www.hosting.work/aspnet-core-xunit-unit-testing/)
@@ -10,5 +11,6 @@
 - [Creating parameterised tests in xUnit with [InlineData], [ClassData], and [MemberData]](https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/)
 - [Pass complex parameters to [Theory]](https://stackoverflow.com/questions/22093843/pass-complex-parameters-to-theory)
 - [xUnit Theory: Working With InlineData, MemberData, ClassData](https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/)
+- [Taking control over xUnit test names](https://gsferreira.com/archive/2021/taking-control-over-xunit-test-names/)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit

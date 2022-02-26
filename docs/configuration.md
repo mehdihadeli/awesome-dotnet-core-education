@@ -20,6 +20,10 @@
 - [Using Memory Configuration Provider In .NET Applications](https://thecodeblogger.com/2021/04/18/using-memory-configuration-provider-in-net-applications/)
 - [Testing and Configuration in .NET Core](https://joestead.codes/posts/testing-with-configuration-dotnet/)
 - [Adding validation to strongly typed configuration objects in ASP.NET Core](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-asp-net-core/)
+- [Reloading strongly typed Options on file changes in ASP.NET Core RC2](https://andrewlock.net/reloading-strongly-typed-options-when-appsettings-change-in-asp-net-core-rc2/)
+- [Working with Options pattern in ASP.NET Core (.NET 5) - The Complete Guide](https://referbruv.com/blog/posts/working-with-options-pattern-in-aspnet-core-the-complete-guide)
+- [Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
+
 ## 📦 Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)

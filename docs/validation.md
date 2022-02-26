@@ -11,3 +11,6 @@
 ## Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) > A simple package with guard clause extensions.
+- [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
+- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+- [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET

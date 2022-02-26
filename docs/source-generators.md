@@ -18,6 +18,18 @@
 - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/)
 - [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
 - [.NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/post/net-5-source-generators-mediatr-cqrs-omg?lang=en)
+- [C# 9 records as strongly-typed ids - Part 5: final bits and conclusi](https://thomaslevesque.com/2021/03/19/csharp-9-records-as-strongly-typed-ids-part-5-final-bits-and-conclusion/)
+- [NetEscapades.EnumGenerators: a source generator for enum performanc](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/)
+- [Part 1 - Creating an incremental generator](https://andrewlock.net/creating-a-source-generator-part-1-creating-an-incremental-source-generator/)
+- [Part 2 - Testing an incremental generator with snapshot testing ](https://andrewlock.net/creating-a-source-generator-part-2-testing-an-incremental-generator-with-snapshot-testing/)
+- [Part 3 - Integration testing and NuGet packaging](https://andrewlock.net/creating-a-source-generator-part-3-integration-testing-and-packaging/)
+- [Part 4 - Customising generated code with marker attributes](https://andrewlock.net/creating-a-source-generator-part-4-customising-generated-code-with-marker-attributes/)
+- [Part 5 - Finding a type declaration's namespace and type hierarchy ](https://andrewlock.net/creating-a-source-generator-part-5-finding-a-type-declarations-namespace-and-type-hierarchy/)
+- [Part 6 - Saving source generator output in source control](https://andrewlock.net/creating-a-source-generator-part-6-saving-source-generator-output-in-source-control/)
+- [Part 7 - Solving the source generator 'marker attribute' problem - Part 1](https://andrewlock.net/creating-a-source-generator-part-7-solving-the-source-generator-marker-attribute-problem-part1/)
+- [Part 8 - Solving the source generator 'marker attribute' problem - Part 2](https://andrewlock.net/creating-a-source-generator-part-8-solving-the-source-generator-marker-attribute-problem-part2/)
+- [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
+- [Source generator updates: incremental generators ](https://andrewlock.net/exploring-dotnet-6-part-9-source-generator-updates-incremental-generators/)
 ## 📺 Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)
@@ -41,6 +53,4 @@
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [kostya9/ApiClientGenerator](https://github.com/kostya9/ApiClientGenerator)
 - [meziantou/Meziantou.Framework.StronglyTypedId](https://github.com/meziantou/Meziantou.Framework/tree/main/src/Meziantou.Framework.StronglyTypedId)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects

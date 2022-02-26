@@ -1,7 +1,9 @@
 # Async and Await
 
 ## 📘 Resources
-- [Async-Await - RIP Tutorial](https://riptutorial.com/csharp/topic/48/async-await)
+- [Links about async/await in C#](https://www.meziantou.net/links-async-await-csharp.htm)
+- [Stephen Cleary Blog](https://blog.stephencleary.com/)
+- [Stephen Toub Blog](https://devblogs.microsoft.com/pfxteam/author/toub/)
 ## 📝 Articles
 
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
@@ -39,6 +41,7 @@
 - [Detecting Sync over Async Code in ASP.NET Core](https://codeopinion.com/detecting-sync-over-async-code-in-asp-net-core/)
 - [Removing async void](https://johnthiriet.com/removing-async-void/)
 - [Avoid async void methods](https://haacked.com/archive/2014/11/11/async-void-methods/)
+- [Awaiting an async void method in .NET](https://www.meziantou.net/awaiting-an-async-void-method-in-dotnet.htm)
 - [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html)
 - [A Tour of Task, Part 6: Results](https://blog.stephencleary.com/2014/12/a-tour-of-task-part-6-results.html)
 - [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
@@ -57,6 +60,7 @@
 - [What Is SynchronizationContext](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
 - [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 - [Using Task.WhenAny And Task.WhenAll](https://hamidmosalla.com/2018/04/27/using-task-whenany-and-task-whenall/)
+- [Async Programming : Introduction to Async/Await on ASP.NET](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/october/async-programming-introduction-to-async-await-on-asp-net)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
@@ -73,7 +77,6 @@
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&t=923s)
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
-- [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading) - Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 
 - [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 
 - [AsyncIO.DotNet](https://github.com/firenero/AsyncIO) - Easy-to-use library for common async IO file system operations. 
 - [NeoSmart.AsyncLock](https://github.com/neosmart/AsyncLock) - A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. 

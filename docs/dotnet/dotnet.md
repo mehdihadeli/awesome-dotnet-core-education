@@ -10,3 +10,6 @@
 ## 📹 Videos
 - [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 - [.NET Hot Reload; Update Code While Running](https://www.youtube.com/watch?v=eccKPXt9-pE)
+
+## Samples
+- [TGrannen/dotnet-samples](https://github.com/TGrannen/dotnet-samples) - Repository to showcase common dotnet patterns and packages

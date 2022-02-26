@@ -47,6 +47,10 @@
 - [How to: Define a Generic Method with Reflection Emit](https://www.crystalnet-tech.com/RuntimeLibrary/Help/html/scr/How_to__Define_a_Generic_Method_with_Reflection_Emit.html)
 - [How do I use reflection to call a generic method?](https://stackoverflow.com/questions/232535/how-do-i-use-reflection-to-call-a-generic-method/27870198)
 - [How to call a generic async method using reflection](https://stackoverflow.com/questions/39674988/how-to-call-a-generic-async-method-using-reflection/39679855)
+- [Dynamic method invocation with .NET Core](https://www.davidguida.net/dynamic-method-invocation-with-net-core/)
+- [Using .NET Generics with a type derived at runtime](https://www.thereformedprogrammer.net/using-net-generics-with-a-type-derived-at-runtime/)
+- [How to call a generic extension method with reflection?](https://stackoverflow.com/questions/15927028/how-to-call-a-generic-extension-method-with-reflection)
+- [Using reflection to invoke generic method passing lambda expression](https://stackoverflow.com/questions/19302513/using-reflection-to-invoke-generic-method-passing-lambda-expression)
 ## 📺 Videos
 - [Achieving compile-time performance with Reflection in C#](https://www.youtube.com/watch?v=er9nD-usM1A)
 - [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)
@@ -56,5 +60,9 @@
 - [kevin-montrose/Sigil](https://github.com/kevin-montrose/Sigil) - A fail-fast validating helper for .NET CIL generation
 - [skbkontur/gremit](https://github.com/skbkontur/gremit) - .NET Reflection.Emit extensions
 - [ekonbenefits/dynamitey](https://github.com/ekonbenefits/dynamitey) - (pronounced dyna-mighty) flexes DLR muscle to do meta-mazing things in .net
+- [ReflectionMagic/ReflectionMagic](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
+- [jbevain/mono.reflection](https://github.com/jbevain/mono.reflection) - Some useful reflection helpers, including an IL disassembler.
+- [buunguyen/fasterflect](https://github.com/buunguyen/fasterflect) - .NET Reflection Made Fast and Simple ⛺
+- [RicoSuter/Namotion.Reflection](https://github.com/RicoSuter/Namotion.Reflection) - .NET library with advanced reflection APIs.
 ## 📚 Books
 - [MetaProgramming in .Net](https://livebook.manning.com/book/metaprogramming-in-dot-net/)

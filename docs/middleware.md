@@ -16,11 +16,7 @@
 - [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
 - [Re-reading ASP.Net Core request bodies with EnableBuffering()](https://devblogs.microsoft.com/aspnet/re-reading-asp-net-core-request-bodies-with-enablebuffering/)
 - [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
-
+- [Building a middleware pipeline with WebApplication](https://andrewlock.net/exploring-dotnet-6-part-4-building-a-middleware-pipeline-with-webapplication/)
 ## 📺 Videos
 
 - [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

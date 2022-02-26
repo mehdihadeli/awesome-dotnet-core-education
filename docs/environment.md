@@ -7,6 +7,6 @@
 - [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
 - [Different ways to set environment variable for .NET Core application](https://dejanstojanovic.net/aspnet/2018/july/different-ways-to-set-environment-for-net-core-application/)
 - [Naming of environment variables](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0#naming-of-environment-variables)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
+## Videos
+- [ENVIRONMENTS in ASP NET Core | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=UPgHRiLw4is)

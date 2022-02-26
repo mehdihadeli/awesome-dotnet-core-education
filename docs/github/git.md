@@ -4,6 +4,10 @@
 - [FORKING AND CLONING FROM GITHUB](https://www.stevejgordon.co.uk/forking-cloning-github)
 - [WORKING ON YOUR FIRST GITHUB ISSUE](https://www.stevejgordon.co.uk/working-on-your-first-github-issue)
 - [Five Key Git Concepts Explained the Hard Way](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
+- [Remote Repositories](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories)
+- [VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
+- [How to merge a specific commit into another branch](https://dev.to/iamafro/how-to-merge-a-specific-commit-into-another-branch--oak)
+
 ## 📺 Videos
 - [Git and GitHub Tutorials for Beginners! Playlist - TheCodex](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 - [Git and GitHub for Poets Playlist - The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
@@ -29,5 +33,8 @@
 - [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
 - [git commands tutorials Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-SAZOGnaUlexOzgRqWrOPR)
 - [GitHub tutorial Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS8-8OfcYMuLXnTfnSIGf37k)
+- [How do I Navigate GitHub Code?](https://www.youtube.com/watch?v=V1yvdQszBDM)
+- [What is GitHub Codespaces? (and github.dev)](https://www.youtube.com/watch?v=vDXPkAdqSyI)
+- [The .NET Docs Show - Complete the Developer Loop ⭕ with GitHub Codespaces](https://www.youtube.com/watch?v=vWzPYYoW0kM)
 ## Libraries
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
