@@ -62,6 +62,10 @@ nav:
     - .Net Core Tips: dotnet/dotnet-core-tips.md
     - .Net IL: dotnet/il.md
     -  MetaPack: dotnet/metapack.md
+  - ASP.NET Core:
+    - ASP.NET Core: asp/asp-net.md 
+    - ASP.NET Core 7 : asp/asp-net-7.md 
+    - ASP.NET Core 6: asp/asp-net-6.md 
   - .Net CLI: 
     - .Net CLI: dotnet-cli/dotnet-cli.md
     - .Net Tools: dotnet-cli/dotnet-tools.md
@@ -233,11 +237,7 @@ nav:
   - Dapper: dapper.md
   - Orleans: orleans.md
   - WebHook: webhook.md
-  - CI/CD: 
-    - Azure Devops: ci-cd/azure-devops.md
-    - GitHub Actions: ci-cd/github-actions.md
-    - Jenkins: ci-cd/jenkins.md
-  - Roslyn: roslyn.md
+  - Analizers: analizers.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
     - Decompile: ide-tools/decompile.md

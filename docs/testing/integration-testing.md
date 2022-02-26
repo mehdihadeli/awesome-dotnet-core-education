@@ -76,6 +76,8 @@
 - [Write integration tests on MongoDB with .NET Core and Docker](https://www.davidguida.net/write-integration-tests-on-mongodb-with-net-core-and-docker/)
 - [Handling Integration Tests in a CI pipeline – part 2: an example](https://www.davidguida.net/handling-integration-tests-in-a-ci-pipeline-part-2-an-example/)
 - [Integration Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#313-integration-tests)
+- [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)

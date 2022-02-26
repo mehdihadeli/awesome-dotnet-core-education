@@ -18,10 +18,8 @@
 - [WebHostBuilder](https://girishgodage.in/blog/customize-webhostbuilder)
 - [Customizing ASP.​NET Core Part 11: WebHostBuilder](https://asp.net-hacker.rocks/2019/01/30/customizing-aspnetcore-11-webhostbuilder.html)
 - [Working With .NET Console Host Lifetime Events](https://khalidabuhakmeh.com/working-with-dotnet-console-host-lifetime-events)
+- [Comparing WebApplicationBuilder to the Generic Host](https://andrewlock.net/exploring-dotnet-6-part-2-comparing-webapplicationbuilder-to-the-generic-host/)
+- [Exploring the code behind WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-3-exploring-the-code-behind-webapplicationbuilder/)
 ## 🔖 Samples
 
 - [updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

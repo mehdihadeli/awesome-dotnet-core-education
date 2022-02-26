@@ -1,4 +1,4 @@
-# Roslyn
+# Analizers
 
 ## Resources
 - [Cybermaxs/awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
@@ -21,7 +21,7 @@
 - [Referencing an analyzer from a project](https://www.meziantou.net/referencing-an-analyzer-from-a-project.htm)
 - [Packaging a Roslyn Analyzer with NuGet package references](https://www.meziantou.net/packaging-a-roslyn-analyzer-with-nuget-dependencies.htm)
 - [Multi-targeting a Roslyn analyzer](https://www.meziantou.net/multi-targeting-a-roslyn-analyzer.htm)
-
+- [Analyzers for ASP.NET Core in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-7-analyzers-for-minimal-apis/)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)
