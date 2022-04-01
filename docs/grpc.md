@@ -38,6 +38,11 @@
 - [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
 - [gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/)
 - [gRPC with ASP.NET Core](https://rafaelldi.blog/posts/grpc-with-asp-net-core/)
+- [Protobuf In C# .NET – Part 1 – Getting Started](https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-1-getting-started/)
+- [Protobuf In C# .NET – Part 2 – Serializing/Deserializing](https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-2-serializing-deserializing/)
+- [Getting Started with ASP.NET Core and gRPC](https://blog.jetbrains.com/dotnet/2021/07/19/getting-started-with-asp-net-core-and-grpc/)
+- [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
+- [gRPC Server Reflection in the .NET world](https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -57,14 +62,12 @@
 
 ## Libraries
 
-- [https://github.com/grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
+- [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator/src/Utils.Grpc.Mediator)
+- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 ## 🚀 Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

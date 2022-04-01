@@ -4,8 +4,9 @@
 - [Serilog Docs](https://github.com/serilog/serilog/wiki)
 
 ## 📝 Articles
-- [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
+- [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/)
 - [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging)
+- [Why Serilog?](https://serilog.net/)
 - [Setup Serilog for Asp.Net Core](https://github.com/serilog/serilog-aspnetcore#readme)
 - [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 - [Selective enrichment](https://nblumhardt.com/2019/06/selective-enrichment/)
@@ -64,10 +65,27 @@
 - [ASP.NET Core: Logs (Part 1)](https://rafaelldi.blog/posts/asp-net-core-logs-part-1/)
 - [ASP.NET Core: Logs (Part 2)](https://rafaelldi.blog/posts/asp-net-core-logs-part-2/)
 - [ASP.NET Core: Logs (Part 3)](https://rafaelldi.blog/posts/asp-net-core-logs-part-3/)
+- [High-performance logging with LoggerMessage in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/loggermessage)
+- [HIGH-PERFORMANCE LOGGING IN .NET CORE](https://www.stevejgordon.co.uk/high-performance-logging-in-net-core)
+- [Structured Logging and Interpolated Strings in C# 10](https://habr.com/en/post/591171/)
+- [Adding a Logger With the .NET 6 Minimal Hosting Model](https://onloupe.com/blog/how-to-config-logger-net6-startup/)
+- [One big thing: Logging improvements in .NET 6](https://www.daveabrock.com/2021/08/08/dotnet-stacks-60/)
+- [High-performance logging with LoggerMessage in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/loggermessage)
+- [Compile-time logging source generation](https://docs.microsoft.com/en-us/dotnet/core/extensions/logger-message-generator)
+- [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
+- [NET 6 What's New -- High Performance Logging](https://www.sobyte.net/post/2021-12/dotnet6-logging/)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
-
+- [Write safer C# with conditional compilation](https://www.youtube.com/watch?v=ErrABoJ9HZw)
+- [Structured logging - what is it, why is it useful and how do we do it in Asp.Net Core](https://www.youtube.com/watch?v=8rRQzcbn36o)
+- [C# Logging with Serilog and Seq - Structured Logging Made Easy](https://www.youtube.com/watch?v=_iryZxv8Rxw)
+- [High-performance and compile-time logging source generation in .NET 6](https://www.youtube.com/watch?v=uh0ZL-NBJYw)
+- [You are doing .NET logging wrong. Let's fix it](https://www.youtube.com/watch?v=bnVfrd3lRv8)
+- [High-performance logging in .NET, the proper way](https://www.youtube.com/watch?v=a26zu-pyEyg)
+- [ASP.NET Community Standup - Logging updates in ASP.NET Core 6](https://www.youtube.com/watch?v=V-rwe2yxh1A)
+- [Exploring Source Generation for Logging in .NT 6](https://www.youtube.com/watch?v=Otm8tH0Vrp0)
+- [Stop using String Interpolation when Logging in .NET](https://www.youtube.com/watch?v=6zoMd_FwSwQ)
 ## Libraries
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
@@ -79,11 +97,11 @@
 - [yorchideas/Serilog.Sinks.Xunit2](https://github.com/yorchideas/Serilog.Sinks.Xunit2)
 - [verticalsoftware/vertical-spectreconsolelogger](https://github.com/verticalsoftware/vertical-spectreconsolelogger)
 - [RehanSaeed/Serilog.Enrichers.Span](https://github.com/RehanSaeed/Serilog.Enrichers.Span) - Enrich Serilog log events with properties from Open Telemetry spans.
+- [serilog-contrib/serilog-sinks-grafana-loki](https://github.com/serilog-contrib/serilog-sinks-grafana-loki) - A Serilog sink sending log events to Grafana Loki
+- [mayuki/Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
+- [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
 - [datalust/dotnet6-serilog-example](https://github.com/datalust/dotnet6-serilog-example)
 - [hdamikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Logging.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

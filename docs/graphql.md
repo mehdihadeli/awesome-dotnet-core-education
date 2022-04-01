@@ -31,7 +31,7 @@
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So)
 - [Entity Framework Community Standup - Building Modern Apps with GraphQL](https://www.youtube.com/watch?v=4k3WzW2ZdXs)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
-
+- [.NET Data Community Standup - GraphQL and OData: An In-Depth Discussion](https://www.youtube.com/watch?v=t7nkdORzed4)
 ## Libraries
 - [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) - A GraphQL Client for .NET Standard
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET

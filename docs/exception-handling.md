@@ -70,3 +70,4 @@
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [ikyriak/ConsistentApiResponseErrors](https://github.com/ikyriak/ConsistentApiResponseErrors) - A .NET Core middleware that centralizes the handling of input-validation errors, application exceptions and unhandled exceptions.
 - [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
+- [mantinband/throw](https://github.com/mantinband/throw) - A simple, fluent, extensible, and fully customizable library for throwing exceptions using .NET 6+

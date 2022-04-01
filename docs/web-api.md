@@ -118,6 +118,11 @@
 - [The .NET Docs Show - Controllers are Dinosaurs: The Case for API Endpoints](https://www.youtube.com/watch?v=9oroj2TmxBs)
 - [ASP.NET Community Standup - A first look at Carter on .NET 6](https://www.youtube.com/watch?v=bSJ5n7alhTs)
 - [Clean up your .NET Controllers with ApiEndpoints](https://www.youtube.com/watch?v=SDu0MA6TmuM)
+- [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
+- [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
+- [ASP.NET Community Standup - Instant APIs](https://www.youtube.com/watch?v=mrdyDJUGSms)
+- [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
+
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
@@ -148,7 +153,7 @@
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial) - Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
-
+- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
 ## Templates
 
 - [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1

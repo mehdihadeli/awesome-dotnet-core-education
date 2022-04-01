@@ -41,12 +41,12 @@
 - [.NET Serialization Benchmark 2019 Roundup](https://aloiskraus.wordpress.com/2019/09/29/net-serialization-benchmark-2019-roundup/)
 - [Serialization Performance Update With .NET 4.7.2](https://aloiskraus.wordpress.com/2018/05/06/serialization-performance-update-with-net-4-7-2/)
 - [The Definitive Serialization Performance Guide](https://aloiskraus.wordpress.com/2017/04/23/the-definitive-serialization-performance-guide/)
-
+- [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
 ## 📺 Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)
 - [Step by Step Tutorial: Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0)
-
+- [40% faster JSON serialization with Source Generators in .NET 6](https://www.youtube.com/watch?v=HhyBaJ7uisU)
 ## Libraries
 
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]

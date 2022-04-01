@@ -12,3 +12,14 @@
 - [How to use Nullable Reference Types in .NET Standard 2.0 and .NET Framework](https://www.meziantou.net/how-to-use-nullable-reference-types-in-dotnet-standard-2-0-and-dotnet-.htm)
 - [How to use C# 8 Indices and Ranges in .NET Standard 2.0 and .NET Framework](https://www.meziantou.net/how-to-use-csharp-8-indices-and-ranges-in-dotnet-standard-2-0-and-dotn.htm)
 - [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/)
+- [C# 8.0 nullable references: transcending the type system with AllowNull](https://endjin.com/blog/2020/05/dotnet-csharp-8-nullable-references-transcending-the-type-system-with-allownull)
+- [C# 8.0 nullable references: non-nullable is the new default](https://endjin.com/blog/2020/04/dotnet-csharp-8-nullable-references-non-nullable-is-the-new-default)
+- [C# 8.0 nullable references: inferred (non-)nullness](https://endjin.com/blog/2020/04/dotnet-csharp-8-nullable-references-inferred-non-nullness)
+- [C# 8.0 nullable references: getting started in an existing codebase](https://endjin.com/blog/2020/05/dotnet-csharp-8-nullable-references-getting-started-in-an-existing-codebase)
+- [C# 8.0 nullable references: get better results with nullability attributes](https://endjin.com/blog/2020/05/dotnet-csharp-8-nullable-references-get-better-results-with-nullability-attributes)
+- [C# 8.0 nullable references: transcending the type system with Allow](https://endjin.com/blog/2020/05/dotnet-csharp-8-nullable-references-transcending-the-type-system-with-allownull)
+- [C# 8.0 nullable references: NotNull](https://endjin.com/blog/2020/06/dotnet-csharp-8-nullable-references-notnull)
+- [C# 8.0 nullable references: conditional post-conditions](https://endjin.com/blog/2020/07/dotnet-csharp-8-nullable-references-conditional-post-conditions)
+
+## Videos
+- [C# Nullable reference types – No more null reference exceptions!](https://www.youtube.com/watch?v=NDweaZZZcbc)

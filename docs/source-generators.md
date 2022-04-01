@@ -39,6 +39,7 @@
 - [Episode 21: Roslyn Source Generators](https://www.youtube.com/watch?v=JSFZ3qDx83g)
 - [C# Source Generators in Action, by Andrey Dyatlov](https://www.youtube.com/watch?v=052xutD86uI)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s&t=221s)
+- [Do C# Source Generators ACTUALLY slow your build down?](https://www.youtube.com/watch?v=anesVdQg6Dk)
 ## 🚀 Samples
 - [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) - A basic template for writing a C# source generator
 - [dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators)

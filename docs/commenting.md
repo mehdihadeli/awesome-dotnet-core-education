@@ -9,5 +9,8 @@
 - [10 Best Practices for Code Commenting](https://samirbehara.com/2016/02/25/10-best-practices-for-code-commenting/)
 - [Clean code tips - comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting)
 - [Best practices for writing code comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)
+- [Recommended XML tags for C# documentation comments](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags)
+- [Inherit XML Documentation Comments in C#](https://improveandrepeat.com/2021/04/inherit-xml-documentation-comments-in-c/)
+
 ## 📺 Videos
 - [Are comments in code actually a bad practice?](https://www.youtube.com/watch?v=GjZ1GsQPcg4)

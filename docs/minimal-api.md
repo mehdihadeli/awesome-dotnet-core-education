@@ -46,6 +46,7 @@
 - [Secure minimal APIs with .NET 6 and Microsoft Identity](https://www.youtube.com/watch?v=ucj8hajOorg)
 - [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
 - [ASP.NET Community Standup - Minimal API Deep Dive](https://www.youtube.com/watch?v=NtFM-sK6xAo)
+- [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
 ## 🚀 Samples
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
 - [425show/MinimalWeather](https://github.com/425show/MinimalWeather)
@@ -75,6 +76,7 @@
 - [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture)
 - [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example)
 - [rh8512/csharp-minimalapi](https://github.com/rh8512/csharp-minimalapi)
+- [DamianEdwards/MinimalApis.Extensions/samples](https://github.com/DamianEdwards/MinimalApis.Extensions/tree/main/samples)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

@@ -23,15 +23,21 @@
 - [Reloading strongly typed Options on file changes in ASP.NET Core RC2](https://andrewlock.net/reloading-strongly-typed-options-when-appsettings-change-in-asp-net-core-rc2/)
 - [Working with Options pattern in ASP.NET Core (.NET 5) - The Complete Guide](https://referbruv.com/blog/posts/working-with-options-pattern-in-aspnet-core-the-complete-guide)
 - [Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
+- [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
+- [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
+
+## Videos
+- [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
+- [AZURE APP CONFIGURATION | Central Store For Application Configuration | ASP.NET Core Series](https://www.youtube.com/watch?v=VEjYW14WKRM&t=3s)
+- [FEATURE FLAGS in ASP NET Core | Azure App Configuration | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=qtp90IYMRh8&)
+- [ENVIRONMENT SPECIFIC APP CONFIGURATION - 5 Ways To Manage For ASP NET on AZURE | ASP.NET Core Series](https://www.youtube.com/watch?v=wTSu2aCoR7Y&)
+- [Feature flags with .NET and Azure App Configuration](https://www.youtube.com/watch?v=CcbUqdh8Xw8)
+- [CONFIGURATION in ASP.NET Core | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=5GlgHV_12-k)
 
 ## 📦 Libraries
-
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 
 ## 🔖 Samples
 
 - [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

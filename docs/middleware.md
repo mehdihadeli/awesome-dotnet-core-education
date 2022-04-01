@@ -17,6 +17,10 @@
 - [Re-reading ASP.Net Core request bodies with EnableBuffering()](https://devblogs.microsoft.com/aspnet/re-reading-asp-net-core-request-bodies-with-enablebuffering/)
 - [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
 - [Building a middleware pipeline with WebApplication](https://andrewlock.net/exploring-dotnet-6-part-4-building-a-middleware-pipeline-with-webapplication/)
+- [Service lifetimes in Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection#service-lifetimes)
+- [Factory-based middleware activation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/extensibility)
+- [Middleware activation with a third-party container in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/extensibility-third-party-container)
+- [Middleware in ASP.NET 6 - Intro and Basics](https://exceptionnotfound.net/middleware-in-asp-dotnet-6-intro-and-basics/)
 ## 📺 Videos
 
 - [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)

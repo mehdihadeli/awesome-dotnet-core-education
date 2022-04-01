@@ -1,5 +1,8 @@
 # .Net 6
 
+## Resources
+- [Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
+
 ## 📕 Articles
 - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/)
 - [.NET 6: Collections Improvements](https://www.infoq.com/news/2021/06/Net6-Collections/)
@@ -37,6 +40,7 @@
 - [Upgrading from .NET Framework to .NET 6](https://www.youtube.com/watch?v=cOHXt_0VDRI)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
 - [ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=D5xcUtPCG2s)
+- [4 new useful APIs in .NET 6](https://www.youtube.com/watch?v=3YCdSvDXGJA)
 ## 🚀 Samples
 - [okyrylchuk/dotnet6_features](https://github.com/okyrylchuk/dotnet6_features)
 - [NikiforovAll/whats-new-in-dotnet6](https://github.com/NikiforovAll/whats-new-in-dotnet6)

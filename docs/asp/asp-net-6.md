@@ -1,5 +1,8 @@
 ## ASP.NET Core 6
 
+## Resources
+- [Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
+- [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 ## Articles
 - [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/)
 - [ASP.NET Core updates in .NET 6 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/)
@@ -28,6 +31,9 @@
 - [Part 10 - New dependency injection features in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-10-new-dependency-injection-features-in-dotnet-6/)
 - [Part 11 - [CallerArgumentExpression] and throw helpers](https://andrewlock.net/exploring-dotnet-6-part-11-callerargumentexpression-and-throw-helpers/)
 - [Part 12 - Upgrading a .NET 5 "Startup-based" app to .NET 6](https://andrewlock.net/exploring-dotnet-6-part-12-upgrading-a-dotnet-5-startup-based-app-to-dotnet-6/)
+- [Waiting for your ASP.NET Core app to be ready from an IHostedService in .NET 6](https://andrewlock.net/finding-the-urls-of-an-aspnetcore-app-from-a-hosted-service-in-dotnet-6/)
+- [Cancelling await calls in .NET 6 with Task.WaitAsync()](https://andrewlock.net/cancelling-await-calls-in-dotnet-6-with-task-waitasync/)
+- [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
 
 ## Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)

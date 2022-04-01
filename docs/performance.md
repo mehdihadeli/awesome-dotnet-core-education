@@ -48,6 +48,7 @@
 - [.NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet/)
 - [Optimizing CPU-Bound and Memory-Bound .NET Applications: 11 Best Practices](https://michaelscodingspot.com/cpu-bound-memory-bound/)
+- [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
@@ -61,6 +62,7 @@
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
 - [Diagnosing thread pool exhaustion issues in .NET Core apps](https://www.youtube.com/watch?v=isK8Cel3HP0)
 - [Stephen Toub — Unlocking performance improvements in .NET](https://www.youtube.com/watch?v=zoeqyuvZroc)
+- [.NET Tooling Community Standup - .NET Performance sneak peek!](https://www.youtube.com/watch?v=rwfNDyBBgks)
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 

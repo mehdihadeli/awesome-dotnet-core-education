@@ -33,7 +33,8 @@
 - [How to Setup FIDO2 for IdentityServer4](https://www.youtube.com/watch?v=j-QjTvBnEn4)
 - [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
 - [Configure ASP.NET Identity with Identity Server 4 | Tutorial Part 1](https://www.youtube.com/watch?v=SXJ377G5bOg)
-
+- [Getting Started with Duende IdentityServer (1/2)](https://www.youtube.com/watch?v=DUujxWdnl3M)
+- [Getting Started with Duende IdentityServer (2/2)](https://www.youtube.com/watch?v=qyedQ6RzOHw)
 ## 🔖 Samples
 - [mmacneil/fullstack-jobs](https://github.com/mmacneil/fullstack-jobs) - Real(ish) demo using Angular with ASP.NET Core GraphQL and IdentityServer.
 - [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)

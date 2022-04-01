@@ -10,3 +10,4 @@
 - [Partially closed generic types](https://lostechies.com/jimmybogard/2009/09/01/partially-closed-generic-types/)
 - [Generics: open vs closed types](https://blogs.msmvps.com/luisabreu/blog/2011/03/14/generics-open-vs-closed-types/)
 - [Detect if a generic type is open?](https://stackoverflow.com/questions/25811514/detect-if-a-generic-type-is-open)
+- [Fluent Generics in C#](https://tyrrrz.me/blog/fluent-generics)

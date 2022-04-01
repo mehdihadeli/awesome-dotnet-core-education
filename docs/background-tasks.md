@@ -1,7 +1,7 @@
 # Background Tasks
 
 ## 📝 Articles
-
+- [Background tasks with hosted services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services)
 - [Background Tasks in .NET](https://codeopinion.com/background-tasks/) 
 - [Mediator Pattern with Hangfire](https://codeopinion.com/mediator-pattern-hangfire/) 
 - [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) 
@@ -15,3 +15,6 @@
 - [Background Commands with MediatR and Hangfire](https://codeopinion.com/background-commands-mediatr-hangfire/)
 - [A poor person’s scheduler using .NET Background service](https://ankitvijay.net/2021/02/22/a-poor-mans-scheduler-using-net-background-serivce/)
 - [Hangfire with ASP.NET Core](https://code-maze.com/hangfire-with-asp-net-core/)
+- [Active-Passive Background Service In .Net 6](https://itnext.io/active-passive-background-service-in-net-6-952f3aebd1b7)
+- [Securing Hangfire Dashboard using an OpenID Connect server (IdentityServer 4)](https://lurumad.github.io/securing-hangfire-dashboard-using-an-openid-connect-server-identityserver-4)
+- [Waiting for your ASP.NET Core app to be ready from an IHostedService in .NET 6](https://andrewlock.net/finding-the-urls-of-an-aspnetcore-app-from-a-hosted-service-in-dotnet-6/)

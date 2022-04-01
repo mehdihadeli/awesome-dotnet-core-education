@@ -77,6 +77,8 @@
 - [Handling Integration Tests in a CI pipeline – part 2: an example](https://www.davidguida.net/handling-integration-tests-in-a-ci-pipeline-part-2-an-example/)
 - [Integration Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#313-integration-tests)
 - [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+- [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
+- [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)

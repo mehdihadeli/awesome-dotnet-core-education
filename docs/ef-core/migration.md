@@ -21,6 +21,8 @@
 - [Unable to retrieve project metadata. Ensure it's an MSBuild-based .NET Core project. (Migrations)](https://stackoverflow.com/questions/54912430/unable-to-retrieve-project-metadata-ensure-its-an-msbuild-based-net-core-proj)
 - [Know Everything About .NET EF Core Migrations](https://thecodeblogger.com/2021/07/24/know-everything-about-net-ef-core-migrations/)
 - [Supporting EF Core migrations with WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-5-supporting-ef-core-tools-with-webapplicationbuilder/)
+- [EF Core 6.0: Introducing Migration Bundles](https://jaliyaudagedara.blogspot.com/2021/08/ef-core-60-introducing-migration-bundles.html?spref=tw)
+- [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
 
 ## 📺 Videos
 - [Getting Started With DbUp And Setting Up Azure DEVOPS Pipeline | Deploy Changes to SQL Server](https://www.youtube.com/watch?v=Jm4C-WzAdls)

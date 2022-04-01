@@ -14,3 +14,5 @@
 - [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
+- [mantinband/throw](https://github.com/mantinband/throw) - A simple, fluent, extensible, and fully customizable library for throwing exceptions using .NET 6+
+- [safakgur/guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.

@@ -3,6 +3,9 @@
 
 ## 📝 Articles
 - [Use feature flags in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core?tabs=core5x)
+- [Adding feature flags to an ASP.NET Core app](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part1/)
+- [Working with Feature Flags in ASP.NET Core MVC application](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part2/)
+- [Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
 
 ## Libraries
 - [bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core) - Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.

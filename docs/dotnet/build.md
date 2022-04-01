@@ -13,14 +13,19 @@
 - [Common MSBuild properties and items with Directory.Build.props](https://thomaslevesque.com/2017/09/18/common-msbuild-properties-and-items-with-directory-build-props/)
 - [How to centrally manage NuGet package versions within your solution](https://www.mytechramblings.com/posts/centrally-manage-nuget-versions/)
 - [Managing Package Versions Centrally](https://stu.dev/managing-package-versions-centrally/)
+
 ## Videos
 - [MS Build: Things You Should Know About Project Files - .NET Oxford - January 2020](https://www.youtube.com/watch?v=5HEbsyU5E1g
 - [Build Automation with NUKE](https://www.youtube.com/watch?v=PuItTaThE6c)
 - [Setting up a build with NUKE](https://www.youtube.com/watch?v=xdvpqvOMeyc
 - [10 Ingredients for an AKEless Build System. Matthias Koch .NET Fest 2019](https://www.youtube.com/watch?v=SVD70QYvQ6I)
 - [NuGet PackageReference Versions SOLUTION Wide](https://www.youtube.com/watch?v=GolKKJmqxoc)
+
 ## Libraries
 - [nuke-build/nuke](https://github.com/nuke-build/nuke) - The AKEless Build System for C#/.NET
 - [Fody/Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 ## Samples
 - [damikun/trouble-training/blob/main/Doc/BuildSystem.md](https://github.com/damikun/trouble-training/blob/main/Doc/BuildSystem.md)
+
+## Tools
+- [Sharplab IO](https://sharplab.io/)
