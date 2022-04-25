@@ -6,6 +6,7 @@
 ## 📕 Articles
 
 - [GETTING STARTED WITH THE ROSLYN APIS: WRITING CODE WITH CODE](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
+- [USING THE ROSLYN APIS TO ANALYSE A .NET SOLUTION](https://www.stevejgordon.co.uk/using-the-roslyn-apis-to-analyse-a-dotnet-solution)
 - [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm)
 - [Overview of .NET source code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview)
 - [Rule categories](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/categories)

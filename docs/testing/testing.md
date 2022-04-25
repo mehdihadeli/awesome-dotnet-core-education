@@ -50,3 +50,6 @@
 - [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net (please open issues in
 - [VerifyTests/Verify.EntityFramework](https://github.com/VerifyTests/Verify.EntityFramework) - Extends Verify to allow verification of EntityFramework bits.
 - [flcdrg/Verify.MongoDB](https://github.com/flcdrg/Verify.MongoDB) - Extends Verify to allow verification of MongoDB bits.
+- [riezebosch/hypothesist](https://github.com/riezebosch/hypothesist) - Hypothesize about future events and validate from a test!
+- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
+- [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.

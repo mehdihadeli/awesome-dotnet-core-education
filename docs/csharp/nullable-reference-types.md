@@ -20,6 +20,8 @@
 - [C# 8.0 nullable references: transcending the type system with Allow](https://endjin.com/blog/2020/05/dotnet-csharp-8-nullable-references-transcending-the-type-system-with-allownull)
 - [C# 8.0 nullable references: NotNull](https://endjin.com/blog/2020/06/dotnet-csharp-8-nullable-references-notnull)
 - [C# 8.0 nullable references: conditional post-conditions](https://endjin.com/blog/2020/07/dotnet-csharp-8-nullable-references-conditional-post-conditions)
-
+- [Nullable reference types in C# - Migrating to nullable reference types - Part 1](https://blog.maartenballiauw.be/post/2022/04/11/nullable-reference-types-in-csharp-migrating-to-nullable-reference-types-part-1.html)
+- [Internals of C# nullable reference types - Migrating to nullable reference types - Part 2](https://blog.maartenballiauw.be/post/2022/04/19/internals-of-csharp-nullable-reference-types-migrating-to-nullable-reference-types-part-2.html)
+- [Annotating your C# code - Migrating to nullable reference types - Part 3](https://blog.maartenballiauw.be/post/2022/04/25/annotating-your-csharp-code-migrating-to-nullable-reference-types-part-3.html)
 ## Videos
 - [C# Nullable reference types – No more null reference exceptions!](https://www.youtube.com/watch?v=NDweaZZZcbc)

@@ -7,6 +7,7 @@
 - [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/)
 - [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging)
 - [Why Serilog?](https://serilog.net/)
+- [Logging using DiagnosticSource in ASP.NET Core](https://andrewlock.net/logging-using-diagnosticsource-in-asp-net-core/)
 - [Setup Serilog for Asp.Net Core](https://github.com/serilog/serilog-aspnetcore#readme)
 - [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 - [Selective enrichment](https://nblumhardt.com/2019/06/selective-enrichment/)

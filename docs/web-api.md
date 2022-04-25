@@ -90,7 +90,7 @@
 - [REST API with ASP.NET Core](https://rafaelldi.blog/posts/rest-api-with-asp-net-core/)
 - [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
 - [How YOU can build a Mock REST API based on JSON for ASP .NET and minimal API](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/how-you-can-build-a-mock-rest-api-based-on-json-for-asp-net-and/ba-p/3196039)
-
+- [Developing Api’s using Http Endpoints](https://garywoodfine.com/developing-apis-using-http-endpoints/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -122,6 +122,7 @@
 - [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
 - [ASP.NET Community Standup - Instant APIs](https://www.youtube.com/watch?v=mrdyDJUGSms)
 - [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
+- [ASP.NET Community Standup - Controller Binding Updates in .NET 7](https://www.youtube.com/watch?v=TTpH9GjwY34)
 
 ## 📦 Libraries
 
@@ -166,6 +167,3 @@
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
 - [ASP.NET Web API 2: Building a REST Service from Start to Finish 2nd ed. Edition](https://www.amazon.com/gp/product/1484201108/ref=as_li_qf_sp_asin_il_tl)
 - [ASP.NET Web API 2 Recipes: A Problem-Solution Approach](https://www.amazon.com/ASP-NET-Web-API-Recipes-Problem-Solution-ebook/dp/B01J9LN3DQ/ref=sr_1_15)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

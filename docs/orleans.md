@@ -11,3 +11,4 @@
 
 ## Samples
 - [davidfowl/Orleans.PubSub](https://github.com/davidfowl/Orleans.PubSub) - A pub sub implementation built on top of orleans grains
+- [JorgeCandeias/Trader](https://github.com/JorgeCandeias/Trader) - Trader is an algorithmic trading framework and host built on Microsoft Orleans.

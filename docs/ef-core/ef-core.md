@@ -50,7 +50,7 @@
 - [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
 - [Entity Framework Community Standup - Visualizing database query plans](https://www.youtube.com/watch?v=Zhy5antRDJk)
 - [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
-
+- [.NET Data Community Standup - Database-first with T4 Templates in EF7: Early look](https://www.youtube.com/watch?v=x2nh1vZBsHE)
 ## 📦 Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

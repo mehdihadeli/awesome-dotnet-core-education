@@ -16,3 +16,4 @@
 ## Libraries
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - Queen Bey-inspired themes for all your favs.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
+- [starship/starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!

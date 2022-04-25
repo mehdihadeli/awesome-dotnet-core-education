@@ -79,7 +79,7 @@
 - [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
 - [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
 - [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
-
+- [Testing ASP.NET Core 6 Apps](https://khalidabuhakmeh.com/testing-aspnet-core-6-apps)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -114,6 +114,7 @@
 - [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
 - [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
+- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)
@@ -139,3 +140,4 @@
 - [mizrael/MongoDbIntegrationSample](https://github.com/mizrael/MongoDbIntegrationSample)
 - [pdevito3/postgres-docker-integration-tests](https://github.com/pdevito3/postgres-docker-integration-tests)
 - [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.Integration](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.Integration)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)

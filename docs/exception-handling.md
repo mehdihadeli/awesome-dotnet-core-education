@@ -51,6 +51,8 @@
 - [Avoid Using Exceptions to Determine API Status Codes and Responses](https://ardalis.com/avoid-using-exceptions-determine-api-status/)
 - [Stop throwing Exceptions! Start being Explicit](https://codeopinion.com/stop-throwing-exceptions-start-being-explicit/)
 - [Guard Clauses and Exceptions or Validation?](https://ardalis.com/guard-clauses-and-exceptions-or-validation/)
+- [Exception Handling and Logging in ASP.NET Core Web API](https://codingsonata.com/exception-handling-and-logging-in-asp-net-core-web-api/)
+
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)

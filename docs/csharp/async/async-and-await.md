@@ -63,7 +63,9 @@
 - [Using Task.WhenAny And Task.WhenAll](https://hamidmosalla.com/2018/04/27/using-task-whenany-and-task-whenall/)
 - [Async Programming : Introduction to Async/Await on ASP.NET](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/october/async-programming-introduction-to-async-await-on-asp-net)
 - [Tasks and Parallelism: The New Wave of Multithreading](https://www.codemag.com/Article/1211071/Tasks-and-Parallelism-The-New-Wave-of-Multithreading)
-
+- [A deep-dive into the new Task.WaitAsync() API in .NET 6](https://andrewlock.net/a-deep-dive-into-the-new-task-waitasync-api-in-dotnet-6/)
+- [Keeping up with .NET: learning about new features and APIs](https://andrewlock.net/keeping-up-with-dotnet-learning-about-new-features-and-apis/)
+- [C# async await explained](https://blog.ndepend.com/c-async-await-explained/)
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
