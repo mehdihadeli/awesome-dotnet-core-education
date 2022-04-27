@@ -77,6 +77,7 @@
 - [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example)
 - [rh8512/csharp-minimalapi](https://github.com/rh8512/csharp-minimalapi)
 - [DamianEdwards/MinimalApis.Extensions/samples](https://github.com/DamianEdwards/MinimalApis.Extensions/tree/main/samples)
+- [Elfocrash/clean-minimal-api](https://github.com/Elfocrash/clean-minimal-api)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
@@ -84,3 +85,4 @@
 - [danpdc/SmartModules](https://github.com/danpdc/SmartModules)
 - [marcominerva/MinimalHelpers.Registration](https://github.com/marcominerva/MinimalHelpers.Registration) - A lightweight library to automatically register all the Route Endpoints of a Minimal API project.
 - [csharpfritz/InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - A library that generates Minimal API endpoints for an Entity Framework context.
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern

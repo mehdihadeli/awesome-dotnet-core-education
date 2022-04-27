@@ -52,7 +52,8 @@
 - [Stop throwing Exceptions! Start being Explicit](https://codeopinion.com/stop-throwing-exceptions-start-being-explicit/)
 - [Guard Clauses and Exceptions or Validation?](https://ardalis.com/guard-clauses-and-exceptions-or-validation/)
 - [Exception Handling and Logging in ASP.NET Core Web API](https://codingsonata.com/exception-handling-and-logging-in-asp-net-core-web-api/)
-
+- [The art of designing exceptions](https://cezarypiatek.github.io/post/the-art-of-designing-exceptions/)
+- [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)

@@ -24,7 +24,7 @@
 - [Multi-targeting a Roslyn analyzer](https://www.meziantou.net/multi-targeting-a-roslyn-analyzer.htm)
 - [Analyzers for ASP.NET Core in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-7-analyzers-for-minimal-apis/)
 - [How to configure your custom roslyn analyzer using an .editorconfig file](https://www.mytechramblings.com/posts/configure-roslyn-analyzers-using-editorconfig/)
-
+- [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)
@@ -39,4 +39,7 @@
 - [semihokur/AsyncFixer](https://github.com/semihokur/AsyncFixer) - Advanced async/await Diagnostics and CodeFixes for C#
 - [hvanbakel/Asyncify-CSharp](https://github.com/hvanbakel/Asyncify-CSharp) - Visual Studio analyzer to check for potential use of Task Asynchronous Pattern
 - [Fody/Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
-- [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net (please open issues in
+- [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net 
+- [Suchiman/SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
+- [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
+- [DotNetAnalyzers/AspNetCoreAnalyzers](https://github.com/DotNetAnalyzers/AspNetCoreAnalyzers)

@@ -147,6 +147,10 @@
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
+- [Biarity/Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
+- [alirezanet/Gridify](https://github.com/alirezanet/Gridify) - Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
+- [ikyriak/IdempotentAPI](https://github.com/ikyriak/IdempotentAPI) - A .NET library that handles the HTTP write operations (POST and PATCH) that can affect only once for the given request data and idempotency-key by using an ASP.NET Core attribute (filter).
 ## 🔖 Samples
 - [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
