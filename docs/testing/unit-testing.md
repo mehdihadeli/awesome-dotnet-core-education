@@ -56,7 +56,9 @@
 - [Unit Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#310-unit-tests)
 - [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
 - [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
-
+- [Improve Tests with the Builder Pattern for Test Data](https://ardalis.com/improve-tests-with-the-builder-pattern-for-test-data/)
+- [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
+- [How to create test data with the Builder pattern](https://canro91.github.io/2021/04/26/CreateTestValuesWithBuilders/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

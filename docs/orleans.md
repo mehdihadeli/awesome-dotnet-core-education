@@ -13,3 +13,4 @@
 - [davidfowl/Orleans.PubSub](https://github.com/davidfowl/Orleans.PubSub) - A pub sub implementation built on top of orleans grains
 - [JorgeCandeias/Trader](https://github.com/JorgeCandeias/Trader) - Trader is an algorithmic trading framework and host built on Microsoft Orleans.
 - [IEvangelist/orleans-shopping-cart](https://github.com/IEvangelist/orleans-shopping-cart)
+- [khalidabuhakmeh/HelloOrleans](https://github.com/khalidabuhakmeh/HelloOrleans) - Playing with ASP.NET Core and Orleans in a Client/Server scenario

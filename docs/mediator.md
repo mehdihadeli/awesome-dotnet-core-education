@@ -24,6 +24,7 @@
 - [Simple Domain Events with EFCore and MediatR](https://cfrenzel.com/domain-events-efcore-mediatr/)
 - [How I Upgrade my Code-Style of MediatR Pipeline using .NET 6](https://levelup.gitconnected.com/how-i-upgrade-my-code-style-of-mediatr-pipeline-using-net-6-ed49aca61f47)
 - [You probably don't need MediatR](https://arialdomartini.github.io/mediatr)
+- [How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 

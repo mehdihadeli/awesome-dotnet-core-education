@@ -16,11 +16,16 @@
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 - [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
+- [Improve Tests with the Builder Pattern for Test Data](https://ardalis.com/improve-tests-with-the-builder-pattern-for-test-data/)
+- [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
+- [Flexible and expressive unit tests with the builder pattern](https://www.kenneth-truyers.net/2013/07/15/flexible-and-expressive-unit-tests-with-the-builder-pattern/)
+- [Test Data Builders in C#](https://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/)
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Code Testing - Code It Up with Ivo](https://www.youtube.com/playlist?list=PLLGdqRi7N09YoomAKadOjLopq0sIr_PKT)
+
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
@@ -53,3 +58,4 @@
 - [riezebosch/hypothesist](https://github.com/riezebosch/hypothesist) - Hypothesize about future events and validate from a test!
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov
