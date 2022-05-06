@@ -87,3 +87,5 @@
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
 - [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
 - [linkdotnet/Blog](https://github.com/linkdotnet/Blog)
+- [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
+- [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)

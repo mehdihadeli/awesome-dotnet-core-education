@@ -43,3 +43,4 @@
 - [Suchiman/SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - [DotNetAnalyzers/AspNetCoreAnalyzers](https://github.com/DotNetAnalyzers/AspNetCoreAnalyzers)
+- [cezarypiatek/MultithreadingAnalyzer](https://github.com/cezarypiatek/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading

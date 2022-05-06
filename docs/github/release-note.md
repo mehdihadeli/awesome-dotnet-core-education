@@ -1,5 +1,8 @@
 # Release Notes
 
+## Resources
+- [keep a changelog](https://keepachangelog.com/en/1.1.0/)
+
 ## Articles
 - [A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
 - [About releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
@@ -20,3 +23,10 @@
 - [Decathlon/release-notes-generator-action](https://github.com/Decathlon/release-notes-generator-action) - Action to auto generate a release note based on your events
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
+- [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [mindsers/changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A GitHub action to read and get data from the CHANGELOG.md file 🚀
+- [thomaseizinger/keep-a-changelog-new-release](https://github.com/thomaseizinger/keep-a-changelog-new-release) - Automatically update your CHANGELOG.md for a new release
+- [thomaseizinger/create-release](https://github.com/thomaseizinger/create-release) - A better GitHub action for creating a release.
+- [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+## Samples
+- [linkdotnet/deployment-template/create-release.yml](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows/create-release.yml)

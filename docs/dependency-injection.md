@@ -76,3 +76,4 @@
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
 - [sefacan/Scrutor.AspNetCore](https://github.com/sefacan/Scrutor.AspNetCore) - ASP.NET Core Scrutor extension for automatic registration of classes inherited from IScopedLifetime, ISelfScopedLifetime, ITransientLifetime, ISelfTransientLifetime, ISingletonLifetime, ISelfSingletonLifetime
+- [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter

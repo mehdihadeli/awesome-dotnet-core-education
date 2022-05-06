@@ -23,6 +23,9 @@
 - [GraphQL Mutations in ASP.NET Core](https://dotnetthoughts.net/graphql-mutations-in-aspnetcore/)
 - [GraphQL multiple requests and EF Core DbContext](https://dotnetthoughts.net/graphql-multiple-operations-and-efcore/)
 - [GraphQL in ASP.NET Core with EF Core](https://dotnetthoughts.net/graphql-in-aspnetcore-with-efcore/)
+- [GraphQL with .NET Core (Part - I: Hello World)](https://fiyazhasan.me/graphql-with-net-core-part-i/)
+- [GraphQL with .NET Core (Part - II: Middleware)](https://fiyazhasan.me/graphql-with-net-core-part-ii-middleware/)
+- [GraphQL with .NET Core (Part - III: Dependency Injection)](https://fiyazhasan.me/graphql-with-net-core-part-iii-dependency-injection/)
 ## 📹 Videos
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So&t=2623s)
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
@@ -40,9 +43,6 @@
 - [SimonCropp/GraphQL.EntityFramework](https://github.com/SimonCropp/GraphQL.EntityFramework) - Adds EntityFramework Core IQueryable support to GraphQL
 - [StefH/GraphQL.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/GraphQL.EntityFrameworkCore.DynamicLinq) - GraphQL extensions for EntityFrameworkCore.DynamicLinq to automatically configure the query arguments and execute the query
 ## 🚀 Samples
-
+- [fiyazbinhasan/GraphQLCoreFromScratch](https://github.com/fiyazbinhasan/GraphQLCoreFromScratch) - Learn how to implement scalable APIs with GraphQL and ASP.NET Core. Branch-wise code with the relevant topic for a smooth and easy walkthrough.
 - [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

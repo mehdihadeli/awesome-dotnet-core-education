@@ -43,3 +43,4 @@
 - [litenova/LiteBus](https://github.com/litenova/LiteBus) - An easy-to-use and ambitious in-process mediator to implement CQS with minimum reflection usage and streamable query support.
 - [ITIXO/MediatR.Extensions.AttributedBehaviors](https://github.com/ITIXO/MediatR.Extensions.AttributedBehaviors) - MediatR extension adding ability to specify pipeline behaviors using attributes on command class
 - [ivanpaulovich/FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - .NET Core Web API using Mediator and Domain Driven Design
+- [ppXD/NMediator](https://github.com/ppXD/NMediator)
