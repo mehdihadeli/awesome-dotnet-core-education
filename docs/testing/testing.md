@@ -26,6 +26,8 @@
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Code Testing - Code It Up with Ivo](https://www.youtube.com/playlist?list=PLLGdqRi7N09YoomAKadOjLopq0sIr_PKT)
 - [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik](https://www.youtube.com/watch?v=2vEoL3Irgiw)
+- [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać](https://www.youtube.com/watch?v=IZWLnn2fNko)
+
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.

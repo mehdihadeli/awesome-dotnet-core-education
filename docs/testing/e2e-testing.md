@@ -17,3 +17,8 @@
 ## Samples
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
 - [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.EndToEnd](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.EndToEnd)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
+- [linkdotnet/Blog](https://github.com/linkdotnet/Blog)
+- [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
+- [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
+- [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)

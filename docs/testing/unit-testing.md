@@ -59,7 +59,8 @@
 - [Improve Tests with the Builder Pattern for Test Data](https://ardalis.com/improve-tests-with-the-builder-pattern-for-test-data/)
 - [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
 - [How to create test data with the Builder pattern](https://canro91.github.io/2021/04/26/CreateTestValuesWithBuilders/)
-### 📺 Videos
+- [How to Unit Test an Abstract Class](https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/)
+## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
 - [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 
@@ -72,6 +73,7 @@
 - [Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor](https://www.youtube.com/watch?v=ddrR440JtiA)
 - [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
 - [Learn Unit Test with .Net 6 with xUnit and MOQ](https://www.youtube.com/watch?v=AW7ZcMOtwC8)
+- [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać](https://www.youtube.com/watch?v=IZWLnn2fNko)
 
 ## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
@@ -89,3 +91,5 @@
 - [linkdotnet/Blog](https://github.com/linkdotnet/Blog)
 - [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
+- [bartstc/booking-app](https://github.com/bartstc/booking-app)
+- [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)

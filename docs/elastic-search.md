@@ -16,4 +16,4 @@
 ## Samples
 - [mohamadlawand087/Net6-ELK](https://github.com/mohamadlawand087/Net6-ELK) - Use ElasticSearch and Kibana to your AspNetCore 6 API
 - [damikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Identity.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.
-
+- [hgmauri/elasticsearch-with-nest](https://github.com/hgmauri/elasticsearch-with-nest)

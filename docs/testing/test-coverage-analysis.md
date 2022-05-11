@@ -23,6 +23,8 @@
 - [Entering the NDepend world](https://www.davidguida.net/entering-the-ndepend-world/)
 - [Measuring maintainability metrics with NDepend](https://www.code4it.dev/blog/measure-maintainability-with-ndepend)
 - [Setting up the SonarQube scanner when building a .NET Core container image](https://www.mytechramblings.com/posts/running-a-sonarqube-scan-when-building-docker-image/)
+- [Code Coverage in .NET](https://code-maze.com/dotnet-code-coverage/)
+- [From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
 ## 📺 Videos
 - [On .NET Live - .NET Core Code Coverage with Coverlet](https://www.youtube.com/watch?v=K9XSl3xMilE)
 - [Checking out NDepend, a static code analysis tool for .NET](https://www.youtube.com/watch?v=iKyoR_qEsKM)

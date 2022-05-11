@@ -143,7 +143,6 @@ nav:
     - Deconstruction: csharp/deconstruction.md
     - Record: csharp/record.md
     - Enum: csharp/enum.md
-  - Code Coverage & Analysis: code-coverage-analysis.md
   - MAUI: maui.md
   - Blazor: blazor.md
   - API Documentation: api-documentation.md
@@ -218,6 +217,7 @@ nav:
     - Architectural Testing: testing/architectural-testing.md
     - Contract Testing: testing/contract-testing.md
     - Test Host And WebApplicationFactory: testing/test-host.md
+    - Code Coverage & Analysis: testing/code-coverage-analysis.md
     - Mocking: testing/mocking.md
     - TDD: testing/tdd.md
     - BDD: testing/bdd.md
