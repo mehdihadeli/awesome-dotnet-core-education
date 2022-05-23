@@ -63,7 +63,10 @@
 - [New dependency injection features in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-10-new-dependency-injection-features-in-dotnet-6/)
 - [Dependency Injection Lifetimes in ASP.NET Core](https://code-maze.com/dependency-injection-lifetimes-aspnet-core/)
 - [Advanced Dependency Injection Techniques in ASP.NET Core](https://medium.com/geekculture/advanced-dependency-injection-techniques-in-asp-net-core-3e6e9e0c541a)
-
+- [Four ways to dispose IDisposables in ASP.NET Core](https://andrewlock.net/four-ways-to-dispose-idisposables-in-asp-net-core/)
+- [Composition Root](https://blog.ploeh.dk/2011/07/28/CompositionRoot/)
+- [Dependency Injection Composition Root: Are We Just Moving the Coupling?](https://jeremybytes.blogspot.com/2013/03/dependency-injection-composition-root.html)
+- [Understanding the Composition Root](https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/)
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

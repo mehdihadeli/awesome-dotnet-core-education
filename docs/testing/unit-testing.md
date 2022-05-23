@@ -72,6 +72,7 @@
 - [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
 - [Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor](https://www.youtube.com/watch?v=ddrR440JtiA)
 - [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
+- [.NET Data Community Standup - Testing EF Core Apps (part 2)](https://www.youtube.com/watch?v=4JQUJk8muCc)
 - [Learn Unit Test with .Net 6 with xUnit and MOQ](https://www.youtube.com/watch?v=AW7ZcMOtwC8)
 - [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać](https://www.youtube.com/watch?v=IZWLnn2fNko)
 

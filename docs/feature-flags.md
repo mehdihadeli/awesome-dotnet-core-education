@@ -13,3 +13,4 @@
 
 ## Videos
 - [FEATURE FLAGS in ASP NET Core | Azure App Configuration | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=qtp90IYMRh8)
+- [Implement feature flags in a cloud-native ASP.NET Core microservices app](https://docs.microsoft.com/en-us/learn/modules/microservices-configuration-aspnet-core)

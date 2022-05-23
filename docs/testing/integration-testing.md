@@ -145,3 +145,4 @@
 - [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
+- [pdevito3/WeSendReportsCompany/](https://github.com/pdevito3/WeSendReportsCompany/)

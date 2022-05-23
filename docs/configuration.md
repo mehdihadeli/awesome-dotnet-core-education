@@ -25,6 +25,7 @@
 - [Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
 - [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
 - [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
+- [C# teamwork: share project config with common Nuget Build Asset Packages](https://endjin.com/blog/2020/04/dotnet-csharp-teamwork-share-project-config-with-common-nuget-build-asset-packages)
 
 ## Videos
 - [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)

@@ -35,6 +35,7 @@
 - [Configure ASP.NET Identity with Identity Server 4 | Tutorial Part 1](https://www.youtube.com/watch?v=SXJ377G5bOg)
 - [Getting Started with Duende IdentityServer (1/2)](https://www.youtube.com/watch?v=DUujxWdnl3M)
 - [Getting Started with Duende IdentityServer (2/2)](https://www.youtube.com/watch?v=qyedQ6RzOHw)
+- [Using Duende IdentityServer with Entity Framework and ASP.Net Identity](https://www.youtube.com/watch?v=eLRGlnGGUQs)
 ## 🔖 Samples
 - [mmacneil/fullstack-jobs](https://github.com/mmacneil/fullstack-jobs) - Real(ish) demo using Angular with ASP.NET Core GraphQL and IdentityServer.
 - [SettingUpIdentityServer](https://github.com/kevinrjones/SettingUpIdentityServer)
@@ -56,3 +57,4 @@
 - [KevinDockx/BlazorWASMSecurityBestPractices](https://github.com/KevinDockx/BlazorWASMSecurityBestPractices) - Sample showing a best practice security approach for Blazor WASM apps via the BFF pattern
 - [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core
 - [damikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Identity.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.
+- [PeterBjorck/course-identity-server-in-prod](https://github.com/PeterBjorck/course-identity-server-in-prod)

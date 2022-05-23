@@ -12,3 +12,6 @@
 - [Request Features in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/request-features)
 - [Running async tasks on app startup in ASP.NET Core - Part 1](https://andrewlock.net/running-async-tasks-on-app-startup-in-asp-net-core-part-1/)
 - [Running async tasks on app startup in ASP.NET Core - Part 2](https://andrewlock.net/running-async-tasks-on-app-startup-in-asp-net-core-part-2/)
+
+## Videos
+- [ASP.NET Community Standup - Contributing to ASP.NET Core](https://www.youtube.com/watch?v=hVdwb41FPvU)

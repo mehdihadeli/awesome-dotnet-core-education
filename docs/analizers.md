@@ -25,6 +25,7 @@
 - [Analyzers for ASP.NET Core in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-7-analyzers-for-minimal-apis/)
 - [How to configure your custom roslyn analyzer using an .editorconfig file](https://www.mytechramblings.com/posts/configure-roslyn-analyzers-using-editorconfig/)
 - [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
+- [Raising Coding Standards with .NET 6.0 Code Analyzers](https://endjin.com/blog/2022/01/raising-coding-standard-dotnet-analyzers)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)

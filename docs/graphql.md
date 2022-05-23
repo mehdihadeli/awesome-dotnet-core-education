@@ -26,6 +26,7 @@
 - [GraphQL with .NET Core (Part - I: Hello World)](https://fiyazhasan.me/graphql-with-net-core-part-i/)
 - [GraphQL with .NET Core (Part - II: Middleware)](https://fiyazhasan.me/graphql-with-net-core-part-ii-middleware/)
 - [GraphQL with .NET Core (Part - III: Dependency Injection)](https://fiyazhasan.me/graphql-with-net-core-part-iii-dependency-injection/)
+- [A Basic GraphQL CRUD Operation With .NET6 + Hot Chocolate(V 12) + SQL Database](https://www.learmoreseekmore.com/2022/01/basic-graphql-crud-operation-dotnet6-hotchocolate-v12-sqldatabase.html)
 ## 📹 Videos
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So&t=2623s)
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)

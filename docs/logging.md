@@ -98,10 +98,13 @@
 - [yorchideas/Serilog.Sinks.Xunit2](https://github.com/yorchideas/Serilog.Sinks.Xunit2)
 - [verticalsoftware/vertical-spectreconsolelogger](https://github.com/verticalsoftware/vertical-spectreconsolelogger)
 - [RehanSaeed/Serilog.Enrichers.Span](https://github.com/RehanSaeed/Serilog.Enrichers.Span) - Enrich Serilog log events with properties from Open Telemetry spans.
+- [RehanSaeed/Serilog.Exceptions](https://github.com/RehanSaeed/Serilog.Exceptions) - Log exception details and custom properties that are not output in Exception.ToString().
 - [serilog-contrib/serilog-sinks-grafana-loki](https://github.com/serilog-contrib/serilog-sinks-grafana-loki) - A Serilog sink sending log events to Grafana Loki
 - [mayuki/Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
 - [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 - [Suchiman/SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
+- [getsentry/sentry-dotnet](https://github.com/getsentry/sentry-dotnet)
+- [serilog-contrib/serilog-sinks-sentry](https://github.com/serilog-contrib/serilog-sinks-sentry)
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
