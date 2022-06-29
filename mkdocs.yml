@@ -237,6 +237,7 @@ nav:
     - Transaction: ef-core/transaction.md
     - Soft Delete: ef-core/soft-delete.md
     - Query Filters: ef-core/query-filter.md
+    - Split Query: ef-core/split-query.md
     - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
   - Mediator: mediator.md
@@ -251,6 +252,7 @@ nav:
   - Stronglt Type ID: strongly-type-id.md
   - Package Versioning: package-versioning.md
   - Dapper: dapper.md
+  - Multi Tenancy: multi-tenancy.md
   - Orleans: orleans.md
   - WebHook: webhook.md
   - Analizers: analizers.md

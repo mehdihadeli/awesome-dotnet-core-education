@@ -67,6 +67,8 @@
 - [Composition Root](https://blog.ploeh.dk/2011/07/28/CompositionRoot/)
 - [Dependency Injection Composition Root: Are We Just Moving the Coupling?](https://jeremybytes.blogspot.com/2013/03/dependency-injection-composition-root.html)
 - [Understanding the Composition Root](https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/)
+- [Configuring environment specific services for dependency injection in ASP.NET Core](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
+
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

@@ -53,6 +53,8 @@
 - [.NET Data Community Standup - Database-first with T4 Templates in EF7: Early look](https://www.youtube.com/watch?v=x2nh1vZBsHE)
 - [Shay Rojansky - How Entity Framework translates LINQ all the way to SQL - Dotnetos Conference 2019](https://www.youtube.com/watch?v=r69ZxXgOIK4)
 - [.NET Data Community Standup - Database Pagination](https://www.youtube.com/watch?v=DIKH-q-gJNU)
+- [.NET Data Community Standup - EF Core Architecture: Internal Dependency Injection](https://www.youtube.com/watch?v=pYhe-Mt0HzI)
+
 ## 📦 Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 
@@ -74,4 +76,6 @@
 - [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
 - [mattwar/iqtoolkit](https://github.com/mattwar/iqtoolkit) - A Toolkit for building LINQ IQueryable providers. This is the official move of my IQToolkit project from CodePlex.
 - [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+- [ninjanye/SearchExtensions](https://github.com/ninjanye/SearchExtensions) - Library of IQueryable extension methods to perform searching
+- [efcore/EFCore.CheckConstraints](https://github.com/efcore/EFCore.CheckConstraints) - An Entity Framework Core plugin to automatically add check constraints in various situations
 

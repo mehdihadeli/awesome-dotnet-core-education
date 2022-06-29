@@ -59,6 +59,8 @@
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 - [High-performance services with gRPC: What's new in .NET 6](https://www.youtube.com/watch?v=CXH_jEa8dUw)
 - [ASP.NET Community Standup - gRPC Updates in .NET 7](https://www.youtube.com/watch?v=ds27V6rNick)
+- [Where should you use gRPC? And where NOT to use it!](https://youtu.be/4SuFtQV8RCk)
+
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 

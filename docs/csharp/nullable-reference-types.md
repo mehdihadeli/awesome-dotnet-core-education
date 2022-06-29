@@ -24,5 +24,8 @@
 - [Internals of C# nullable reference types - Migrating to nullable reference types - Part 2](https://blog.maartenballiauw.be/post/2022/04/19/internals-of-csharp-nullable-reference-types-migrating-to-nullable-reference-types-part-2.html)
 - [Annotating your C# code - Migrating to nullable reference types - Part 3](https://blog.maartenballiauw.be/post/2022/04/25/annotating-your-csharp-code-migrating-to-nullable-reference-types-part-3.html)
 - [Techniques and tools to update your C# project - Migrating to nullable reference types - Part 4](https://blog.maartenballiauw.be/post/2022/05/03/techniques-and-tools-to-update-your-csharp-project-migrating-to-nullable-reference-types-part-4.html)
+- [Getting Started on Nullable Reference Types](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)
+- [Approaches for Resolving Nullable Warnings on Existing Codebase](https://thecodeblogger.com/2022/05/31/approaches-for-resolving-nullable-warnings-on-existing-codebase/)
+- [Tips for Estimating the Null Reference Migrations](https://thecodeblogger.com/2022/06/09/tips-for-estimating-the-null-reference-migrations/)
 ## Videos
 - [C# Nullable reference types – No more null reference exceptions!](https://www.youtube.com/watch?v=NDweaZZZcbc)

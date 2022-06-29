@@ -14,3 +14,4 @@
 - [Taking control over xUnit test names](https://gsferreira.com/archive/2021/taking-control-over-xunit-test-names/)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
+- [SimonCropp/XunitContext](https://github.com/SimonCropp/XunitContext) - Extends xUnit to expose extra context and simplify logging

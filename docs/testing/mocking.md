@@ -19,7 +19,7 @@
 - [Brincando com GenFu .NET Core](https://dev.to/juniorporfirio/brincando-com-genfu-net-core-5gon)
 - [How to use Moq and xUnit for Unit Testing Controllers in ASP.NET Core](https://www.hosting.work/aspnet-core-moq-xunit-unit-testing/)
 - [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
-
+- [Why I stopped worrying about test setups by using AutoFixture](https://timdeschryver.dev/blog/why-i-stopped-worrying-about-test-setups-by-using-autofixture)
 ## 📺 Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)

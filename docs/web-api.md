@@ -91,6 +91,10 @@
 - [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
 - [How YOU can build a Mock REST API based on JSON for ASP .NET and minimal API](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/how-you-can-build-a-mock-rest-api-based-on-json-for-asp-net-and/ba-p/3196039)
 - [Developing Api’s using Http Endpoints](https://garywoodfine.com/developing-apis-using-http-endpoints/)
+- [Understanding PathBase in ASP.NET Core](https://andrewlock.net/understanding-pathbase-in-aspnetcore/)
+- [Using PathBase with .NET 6's WebApplicationBuilder](https://andrewlock.net/using-pathbase-with-dotnet-6-webapplicationbuilder/)
+- [Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
+- [Configuring environment specific services for dependency injection in ASP.NET Core](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
@@ -123,7 +127,8 @@
 - [ASP.NET Community Standup - Instant APIs](https://www.youtube.com/watch?v=mrdyDJUGSms)
 - [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
 - [ASP.NET Community Standup - Controller Binding Updates in .NET 7](https://www.youtube.com/watch?v=TTpH9GjwY34)
-
+- [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
+- [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

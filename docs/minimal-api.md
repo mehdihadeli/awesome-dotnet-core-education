@@ -30,6 +30,8 @@
 - [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
 - [An opinionated look at Minimal API in .NET 6](https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html)
 - [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
+- [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
+- [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -47,6 +49,8 @@
 - [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
 - [ASP.NET Community Standup - Minimal API Deep Dive](https://www.youtube.com/watch?v=NtFM-sK6xAo)
 - [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
+- [.NET 6 Minimal API Full Build](https://www.youtube.com/watch?v=5YB49OEmbbE)
+
 ## 🚀 Samples
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
 - [425show/MinimalWeather](https://github.com/425show/MinimalWeather)

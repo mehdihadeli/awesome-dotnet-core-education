@@ -80,6 +80,8 @@
 - [Best Practices - When to use async void | The Xamarin Show](https://www.youtube.com/watch?v=xxifTwQaA0s)
 - [Why is async void bad and how do I await a Task in an object constructor in C#?](https://www.youtube.com/watch?v=O1Tx-k4Vao0)
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&t=923s)
+- [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
+- [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
 - [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 

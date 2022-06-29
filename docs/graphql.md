@@ -27,6 +27,7 @@
 - [GraphQL with .NET Core (Part - II: Middleware)](https://fiyazhasan.me/graphql-with-net-core-part-ii-middleware/)
 - [GraphQL with .NET Core (Part - III: Dependency Injection)](https://fiyazhasan.me/graphql-with-net-core-part-iii-dependency-injection/)
 - [A Basic GraphQL CRUD Operation With .NET6 + Hot Chocolate(V 12) + SQL Database](https://www.learmoreseekmore.com/2022/01/basic-graphql-crud-operation-dotnet6-hotchocolate-v12-sqldatabase.html)
+
 ## 📹 Videos
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So&t=2623s)
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
@@ -36,6 +37,8 @@
 - [Entity Framework Community Standup - Building Modern Apps with GraphQL](https://www.youtube.com/watch?v=4k3WzW2ZdXs)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 - [.NET Data Community Standup - GraphQL and OData: An In-Depth Discussion](https://www.youtube.com/watch?v=t7nkdORzed4)
+- [On .NET Live - LINQ to GraphQL: Query GraphQL with LINQ syntax](https://www.youtube.com/watch?v=hGKecjAKAZI)
+
 ## Libraries
 - [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) - A GraphQL Client for .NET Standard
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
@@ -43,6 +46,7 @@
 - [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq/) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
 - [SimonCropp/GraphQL.EntityFramework](https://github.com/SimonCropp/GraphQL.EntityFramework) - Adds EntityFramework Core IQueryable support to GraphQL
 - [StefH/GraphQL.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/GraphQL.EntityFrameworkCore.DynamicLinq) - GraphQL extensions for EntityFrameworkCore.DynamicLinq to automatically configure the query arguments and execute the query
+
 ## 🚀 Samples
 - [fiyazbinhasan/GraphQLCoreFromScratch](https://github.com/fiyazbinhasan/GraphQLCoreFromScratch) - Learn how to implement scalable APIs with GraphQL and ASP.NET Core. Branch-wise code with the relevant topic for a smooth and easy walkthrough.
 - [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core

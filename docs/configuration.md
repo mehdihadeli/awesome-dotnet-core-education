@@ -26,6 +26,8 @@
 - [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
 - [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
 - [C# teamwork: share project config with common Nuget Build Asset Packages](https://endjin.com/blog/2020/04/dotnet-csharp-teamwork-share-project-config-with-common-nuget-build-asset-packages)
+- [Provide default configuration to your .NET applications](https://www.twilio.com/blog/provide-default-configuration-to-dotnet-applications)
+- [How to better configure C# and .NET applications for Twilio](https://www.twilio.com/blog/better-configuration-csharp-dotnet-for-twilio)
 
 ## Videos
 - [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
@@ -37,7 +39,8 @@
 
 ## 📦 Libraries
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
-
+- [bolorundurowb/dotenv.net](https://github.com/bolorundurowb/dotenv.net) - A library to read .env files in a .NET Core environment
+- [tonerdo/dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files
 ## 🔖 Samples
 
 - [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)

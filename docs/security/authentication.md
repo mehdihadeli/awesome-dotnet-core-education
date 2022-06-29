@@ -70,6 +70,8 @@
 - [Creating Elliptic Curve Keys using OpenSSL](https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-openssl)
 - [Creating RSA Keys using OpenSSL](https://www.scottbrady91.com/openssl/creating-rsa-keys-using-openssl)
 - [How to Generate a Self-Signed Certificate and Private Key using OpenSSL](https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL)
+- [How to Custom Authentication Scheme in ASP.NET Core](https://referbruv.com/blog/implementing-custom-authentication-scheme-and-handler-in-aspnet-core-3x/)
+
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -113,7 +115,7 @@
 - [damienbod/AspNetCoreYarp](https://github.com/damienbod/AspNetCoreYarp) - ASP.NET Core & Yarp reverse proxy with Azure AD OIDC, OAuth2
 - [pdevito3/heimguard](https://github.com/pdevito3/heimguard) - A small and simple library built to allow you to easily manage permissions in your .NET projects.
 - [StefanescuEduard/JwtAuthentication](https://github.com/StefanescuEduard/JwtAuthentication)
-
+- [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth) - Using YARP to flow through credentials from IdentityServer to other apps.
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 

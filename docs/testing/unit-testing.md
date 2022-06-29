@@ -60,6 +60,7 @@
 - [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
 - [How to create test data with the Builder pattern](https://canro91.github.io/2021/04/26/CreateTestValuesWithBuilders/)
 - [How to Unit Test an Abstract Class](https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/)
+- [How to unit test a RavenDB](https://steven-giesel.com/blogPost/0cbe9770-40e7-43b1-980f-d1d3a8b5203d)
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

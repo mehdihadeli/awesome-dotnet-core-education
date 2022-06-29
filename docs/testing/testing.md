@@ -20,6 +20,8 @@
 - [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
 - [Flexible and expressive unit tests with the builder pattern](https://www.kenneth-truyers.net/2013/07/15/flexible-and-expressive-unit-tests-with-the-builder-pattern/)
 - [Test Data Builders in C#](https://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/)
+- [Why I stopped worrying about test setups by using AutoFixture](https://timdeschryver.dev/blog/why-i-stopped-worrying-about-test-setups-by-using-autofixture)
+- [Using records when implementing the builder pattern in C#](https://josef.codes/using-records-when-implementing-the-builder-pattern-in-c-sharp/)
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
@@ -61,3 +63,5 @@
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov
+- [SimonCropp/XunitContext](https://github.com/SimonCropp/XunitContext) - Extends xUnit to expose extra context and simplify logging
+- [oskardudycz/Ogooreck](https://github.com/oskardudycz/Ogooreck) - Sneaky Testing Library in BDD style

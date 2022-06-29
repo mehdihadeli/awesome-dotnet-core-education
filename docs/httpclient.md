@@ -43,6 +43,7 @@
 - [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 - [Logging Polly wait and retry policy ASP.NET CORE 2.1](https://stackoverflow.com/questions/53604295/logging-polly-wait-and-retry-policy-asp-net-core-2-1)
 - [Retry and fallback policies in C# with Polly](https://blog.duijzer.com/posts/polly-refit/)
+- [Round-robin DNS support in .NET HttpClient](https://www.meziantou.net/round-robin-dns-support-in-dotnet-httpclient.htm)
 ## 📺 Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)
@@ -53,6 +54,3 @@
 ## Samples
 - [jacobduijzer/PollyRefitBlogCode](https://github.com/jacobduijzer/PollyRefitBlogCode)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

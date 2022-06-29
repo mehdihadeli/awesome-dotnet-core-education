@@ -10,3 +10,10 @@
 - [.NET 5 NuGet Restore Failures on Linux distributions using NSS or ca-certificates](https://devblogs.microsoft.com/nuget/net-5-nuget-restore-failures-on-linux-distributions-using-nss-or-ca-certificates/)
 - [Notice: .NET 5 NuGet Restore Failures on Linux distributions using NSS or ca-certificates](https://github.com/NuGet/Announcements/issues/56
 - [The NuGet.org repository signing certificate will be updated as soon as March 15th, 2021](https://devblogs.microsoft.com/nuget/the-nuget-org-repository-signing-certificate-will-be-updated-as-soon-as-march-15th-2021/)
+- [Getting Started with Paket – Part 1](https://cockneycoder.wordpress.com/2017/08/07/getting-started-with-paket-part-1/)
+
+## Videos
+- [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
+
+## Libraries
+- [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.

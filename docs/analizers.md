@@ -1,4 +1,4 @@
-# Analizers
+# Analizers & Roslyn
 
 ## Resources
 - [Cybermaxs/awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
@@ -26,6 +26,7 @@
 - [How to configure your custom roslyn analyzer using an .editorconfig file](https://www.mytechramblings.com/posts/configure-roslyn-analyzers-using-editorconfig/)
 - [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
 - [Raising Coding Standards with .NET 6.0 Code Analyzers](https://endjin.com/blog/2022/01/raising-coding-standard-dotnet-analyzers)
+- [Runtime C# Code Compilation Revisited for Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)

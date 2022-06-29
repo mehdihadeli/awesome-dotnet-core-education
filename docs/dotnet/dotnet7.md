@@ -7,3 +7,4 @@
 - [Announcing .NET 7 Preview 2 – The New, ‘New’ Experience](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-2/)
 - [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 - [Announcing .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-4/)
+- [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)

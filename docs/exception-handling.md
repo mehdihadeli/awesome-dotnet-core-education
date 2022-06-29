@@ -74,3 +74,4 @@
 - [ikyriak/ConsistentApiResponseErrors](https://github.com/ikyriak/ConsistentApiResponseErrors) - A .NET Core middleware that centralizes the handling of input-validation errors, application exceptions and unhandled exceptions.
 - [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
 - [mantinband/throw](https://github.com/mantinband/throw) - A simple, fluent, extensible, and fully customizable library for throwing exceptions using .NET 6+
+- [amantinband/error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.

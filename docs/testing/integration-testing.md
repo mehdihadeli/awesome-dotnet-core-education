@@ -80,6 +80,12 @@
 - [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
 - [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
 - [Testing ASP.NET Core 6 Apps](https://khalidabuhakmeh.com/testing-aspnet-core-6-apps)
+- [How to test configuration of HttpClient when using AddHttpClient](https://josef.codes/how-to-test-configuration-of-httpclient-when-using-addhttpclient/)
+- [You wanna test HTTP, right?](https://milestone.topics.it/2021/04/28/you-wanna-test-http.html)
+- [HTTP client and HTTP client factory in integration testing](https://milestone.topics.it/2021/11/10/http-client-factory-in-integration-testing.html)
+- [How to test ASP.NET Core Minimal APIs](https://www.twilio.com/blog/test-aspnetcore-minimal-apis)
+- [Refactor Functional Tests to support Minimal Web APIs](https://timdeschryver.dev/blog/refactor-functional-tests-to-support-minimal-web-apis)
+
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
