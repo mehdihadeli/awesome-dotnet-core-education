@@ -115,11 +115,16 @@ nav:
       - TPL & TAP: csharp/async/tpl-tap.md
       - Parallel For & Foreach: csharp/async/parallel-for-foreach.md
       - ThreadPool: csharp/async/thread-pool.md
-      - Thread Safty: csharp/async/thread-safty.md
       - Thread: csharp/async/thread.md
       - ValueTask: csharp/async/valuetask.md
       - Sync Over Async: csharp/async/sync-over-async.md
       - Resources: csharp/async/resources.md
+    - Locking: 
+        - Lock: csharp/locking/lock.md 
+        - Monitor: csharp/locking/monitor.md 
+        - Mutex: csharp/locking/mutex.md 
+        - Semaphore: csharp/locking/semaphore.md
+        - Thread Safty: csharp/locking/thread-safty.md
     - Collections & Data Structure:
       - Collections & Data Structure: csharp/collections/collection-data-structure.md
       - Enumerable: csharp/collections/enumerable.md

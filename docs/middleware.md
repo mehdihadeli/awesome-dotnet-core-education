@@ -21,6 +21,10 @@
 - [Factory-based middleware activation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/extensibility)
 - [Middleware activation with a third-party container in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/extensibility-third-party-container)
 - [Middleware in ASP.NET 6 - Intro and Basics](https://exceptionnotfound.net/middleware-in-asp-dotnet-6-intro-and-basics/)
+- [Understanding your middleware pipeline with the Middleware Analysis package](https://andrewlock.net/understanding-your-middleware-pipeline-with-the-middleware-analysis-package/)
+- [Under the hood of the Middleware Analysis package](https://andrewlock.net/under-the-hood-of-the-middleware-analysis-package/)
+- [Understanding your middleware pipeline in .NET 6 with the Middleware Analysis package](https://andrewlock.net/understanding-your-middleware-pipeline-in-dotnet-6-with-the-middleware-analysis-package/)
+
 ## 📺 Videos
 
 - [ASP.NET Monsters #91: Middleware vs. Filters](https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-91-Middleware-vs-Filters)

@@ -32,6 +32,7 @@
 - [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
 - [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
 - [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
+- [Filters in Minimal API apps](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/min-api-filters)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)

@@ -1,6 +1,7 @@
 # Thread
 
 ## 📝 Articles
+- [Threading in C#: GETTING STARTED](https://www.albahari.com/threading/)
 - [Multithreading Basics](http://diranieh.com/NETThreading/MultithreadingBasics.htm)
 - [Tasks and Parallelism: The New Wave of Multithreading](https://www.codemag.com/Article/1211071/Tasks-and-Parallelism-The-New-Wave-of-Multithreading)
 
