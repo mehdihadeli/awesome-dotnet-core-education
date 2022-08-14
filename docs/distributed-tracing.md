@@ -27,14 +27,6 @@
 - [Capturing and forwarding correlation IDs in ASP.NET Core, the easy way](https://vgaltes.com/post/forwarding-correlation-ids-in-aspnetcore-version-2/)
 - [ASP.NET CORE CORRELATION IDS](https://www.stevejgordon.co.uk/asp-net-core-correlation-ids)
 - [Diagnostics in .Net Core 3: Listening to outbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-outbound-http-requests/)
-- [Request Tracing And Logging Between Multiple MicroService With Correlation Id Using Serilog In .NET Core](https://www.c-sharpcorner.com/article/logging-and-tracing-in-multiple-microservice-with-correlation-using-net-core/)
-- [.NET Core Log Correlation - Request Id](https://www.frakkingsweet.com/net-core-log-correlation-request-id/)
-- [.NET Core Log Correlation - Arbitrary Log Properties](https://www.frakkingsweet.com/net-core-log-correlation-arbitrary-log-properties/)
-- [.NET Core Log Correlation - Easy Access to the Correlation Id](https://www.frakkingsweet.com/net-core-log-correlation-easy-access-to-headers/)
-- [.NET Core Log Correlation - HttpClient and default headers](https://www.frakkingsweet.com/net-core-log-correlation-httpclient-and-default-headers/)
-- [Passing correlation id across requests](https://ankitvijay.net/2020/11/24/passing-correlation-id-across-requests/)
-- [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
-- [ASP.NET 5 and Log Correlation by Request Id](https://www.tugberkugurlu.com/archive/asp-net-5-and-log-correlation-by-request-id)
 - [A consistent approach to track correlation IDs through microservices](https://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/)
 - [Trace Context](https://www.w3.org/TR/trace-context)
 - [Propagation format for distributed trace context: Baggage](https://w3c.github.io/baggage/)
@@ -57,6 +49,8 @@
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
 - [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
+- [Request Tracing And Logging Between Multiple MicroService With Correlation Id Using Serilog In .NET Core](https://www.c-sharpcorner.com/article/logging-and-tracing-in-multiple-microservice-with-correlation-using-net-core/)
+
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -77,6 +71,7 @@
 - [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
 - [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.
 - [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
+- [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

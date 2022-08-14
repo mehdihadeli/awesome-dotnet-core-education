@@ -75,6 +75,15 @@
 - [Compile-time logging source generation](https://docs.microsoft.com/en-us/dotnet/core/extensions/logger-message-generator)
 - [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
 - [NET 6 What's New -- High Performance Logging](https://www.sobyte.net/post/2021-12/dotnet6-logging/)
+- [How to include scopes when logging exceptions in ASP.NET Core](https://andrewlock.net/how-to-include-scopes-when-logging-exceptions-in-asp-net-core/)
+- [The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
+- [How to improve Serilog logging in .NET 6 by using Scopes](https://www.code4it.dev/blog/serilog-logging-scope)
+- [Scoped Logging Using Microsoft Logger With Serilog In .Net Core Application](https://www.initpals.com/net-core/scoped-logging-using-microsoft-logger-with-serilog-in-net-core-application/)
+- [Logs - Why, good practices, and recommendations](https://dev.to/tnfigueiredo/logs-why-good-practices-and-recommendations-ojd)
+- [Logging Best Practices](https://dev.to/raysaltrelli/logging-best-practices-obo)
+- [Categorizing logs with Serilog in Asp.Net Core](https://dotnetdocs.ir/Post/34/categorizing-logs-with-serilog-in-aspnet-core)
+- [Logging Source Code Generators](https://steven-giesel.com/blogPost/48697958-4aee-474a-8920-e266d1d7b8fa)
+- [Logging with Serilog.Exceptions](https://rehansaeed.com/logging-with-serilog-exceptions/)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
@@ -105,8 +114,12 @@
 - [Suchiman/SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
 - [getsentry/sentry-dotnet](https://github.com/getsentry/sentry-dotnet)
 - [serilog-contrib/serilog-sinks-sentry](https://github.com/serilog-contrib/serilog-sinks-sentry)
+- [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
+- [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings) - Extends Serilog with support for timed operations
+- [serilog/serilog-sinks-async](https://github.com/serilog/serilog-sinks-async) - An asynchronous wrapper for Serilog sinks that logs on a background thread
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
 - [datalust/dotnet6-serilog-example](https://github.com/datalust/dotnet6-serilog-example)
 - [hdamikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Logging.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend
+- [hgmauri/sample-observability](https://github.com/hgmauri/sample-observability) - Example of log collection using .NET, Serilog and Elastic Stack in Docker

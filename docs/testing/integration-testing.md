@@ -99,7 +99,7 @@
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
-
+- [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
@@ -121,6 +121,7 @@
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
 - [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
+- [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)

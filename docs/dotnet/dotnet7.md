@@ -8,4 +8,6 @@
 - [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 - [Announcing .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-4/)
 - [Announcing .NET 7 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-5/)
+- [Announcing .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-6/)
+- [Announcing .NET 7 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7/)
 - [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)

@@ -15,9 +15,9 @@
 - [Cancellation, Part 1: Overview](https://blog.stephencleary.com/2022/02/cancellation-1-overview.html)
 - [Cancellation, Part 2: Requesting Cancellation](https://blog.stephencleary.com/2022/03/cancellation-2-requesting-cancellation.html)
 - [Cancellation, Part 3: Detecting Cancellation](https://blog.stephencleary.com/2022/03/cancellation-3-detecting-cancellation.html)
+- [Patterns & Practices for efficiently handling C# async/await cancel processing and timeouts](https://neuecc.medium.com/patterns-practices-for-efficiently-handling-c-async-await-cancel-processing-and-timeouts-b419ce5f69a4)
 ## 📺 Videos
 - [Stop wasting server resources by properly using CancellationToken in .NET](https://www.youtube.com/watch?v=b5dyPJ3zyRg)
 - [How to Cancel Tasks in C# - Using CancellationTokenSource and CancellationToken](https://www.youtube.com/watch?v=TKc5A3exKBQ&list=PLG8rj6Rr0BU9NXQX3YXtQhVXBD2co2HUQ&index=14)
 ## 🔖 Samples
-
 - [johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)

@@ -8,6 +8,7 @@
 - [CQRS Validation Pipeline with MediatR and FluentValidation](https://code-maze.com/cqrs-mediatr-fluentvalidation/)
 - [Using Fluent Validation with ASP.NET MVC - Part 1: The Basics](https://www.jerriepelser.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/)
 - [Using Fluent Validation with ASP.NET MVC - Part 2: Unit Testing](https://www.jerriepelser.com/blog/using-fluent-validation-with-asp-net-mvc-part-2-unit-testing/)
+- [Minimal API Validation with FluentValidation](https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation)
 ## Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) > A simple package with guard clause extensions.

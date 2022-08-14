@@ -18,6 +18,7 @@
 - [Load Testing vs Stress Testing vs Performance Testing: Difference Discussed](https://www.guru99.com/performance-vs-load-vs-stress-testing.html)
 - [Load Testing vs Stress Testing](https://performancelabus.com/load-testing-vs-stress-testing/)
 - [Load Testing vs. Performance Testing vs. Stress Testing](https://stackify.com/load-testing-vs-performance-testing-vs-stress-testing/)
+- [Testing REST API using K6](https://craftbakery.dev/testing-rest-api-using-k6/)
 ## 📹 Videos
 
 - [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)

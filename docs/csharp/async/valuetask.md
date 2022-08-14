@@ -1,6 +1,7 @@
 # ValueTask
 
 ## 📝 Articles
+- [ValueTask Struct](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.valuetask)
 - [Understanding the Whys, Whats, and Whens of ValueTask](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)
 - [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
 - [How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)

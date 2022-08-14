@@ -33,6 +33,10 @@
 - [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
 - [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 - [Filters in Minimal API apps](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/min-api-filters)
+- [Minimal API Route Handler Filters](https://khalidabuhakmeh.com/minimal-api-route-handler-filters)
+- [Minimal API Validation with FluentValidation](https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation)
+- [.NET 7 Preview 5: Using AsParameters Attribute for Parameter Binding in Minimal API](https://jaliyaudagedara.blogspot.com/2022/07/net-7-preview-5-using-asparameters.html)
+
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -51,7 +55,8 @@
 - [ASP.NET Community Standup - Minimal API Deep Dive](https://www.youtube.com/watch?v=NtFM-sK6xAo)
 - [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
 - [.NET 6 Minimal API Full Build](https://www.youtube.com/watch?v=5YB49OEmbbE)
-
+- [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
+- [Magically creating .NET CRUD API's in minutes!](https://www.youtube.com/watch?v=TI5CeNq3-o8)
 ## 🚀 Samples
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
 - [425show/MinimalWeather](https://github.com/425show/MinimalWeather)
@@ -91,3 +96,5 @@
 - [marcominerva/MinimalHelpers.Registration](https://github.com/marcominerva/MinimalHelpers.Registration) - A lightweight library to automatically register all the Route Endpoints of a Minimal API project.
 - [csharpfritz/InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - A library that generates Minimal API endpoints for an Entity Framework context.
 - [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
+- [DeeJayTC/net-dynamic-api](https://github.com/DeeJayTC/net-dynamic-api) - A library that turns your model into a fully working API, define your model as markdown, json or c#.
+- [NyronW/MinimalEndpoints](https://github.com/NyronW/MinimalEndpoints) - A light weight abstraction over ASP.NET minimal API

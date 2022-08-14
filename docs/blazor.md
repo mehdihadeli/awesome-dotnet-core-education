@@ -28,3 +28,4 @@
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
 - [Garderoben/MudBlazor](https://github.com/Garderoben/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
 - [servicetitan/Stl.Fusion](https://github.com/servicetitan/Stl.Fusion) - Build real-time apps (Blazor included) with less than 1% of extra code responsible for real-time updates. Host 10-1000x faster APIs relying on transparent and nearly 100% consistent caching. We call it DREAM, or Distributed REActive Memoization, and it's here to turn real-time on!
+- [SteveSandersonMS/dotnet-wasi-sdk](https://github.com/SteveSandersonMS/dotnet-wasi-sdk) - Packages for building .NET projects as standalone WASI-compliant modules

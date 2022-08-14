@@ -78,4 +78,5 @@
 - [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
 - [ninjanye/SearchExtensions](https://github.com/ninjanye/SearchExtensions) - Library of IQueryable extension methods to perform searching
 - [efcore/EFCore.CheckConstraints](https://github.com/efcore/EFCore.CheckConstraints) - An Entity Framework Core plugin to automatically add check constraints in various situations
+- [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 

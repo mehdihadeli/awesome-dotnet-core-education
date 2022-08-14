@@ -4,6 +4,8 @@
 - [Learn Git - GitKraken](https://www.gitkraken.com/learn/git)
 - [Git Tutorials - GitKraken](https://www.gitkraken.com/learn/git/tutorials)
 - [Git Best Practices - GitKraken](https://www.gitkraken.com/learn/git/best-practices)
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial.
+- [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
 ## 📕 Articles
 - [FORKING AND CLONING FROM GITHUB](https://www.stevejgordon.co.uk/forking-cloning-github)
 - [WORKING ON YOUR FIRST GITHUB ISSUE](https://www.stevejgordon.co.uk/working-on-your-first-github-issue)
@@ -12,6 +14,7 @@
 - [VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
 - [How to merge a specific commit into another branch](https://dev.to/iamafro/how-to-merge-a-specific-commit-into-another-branch--oak)
 - [Using Git in JetBrain Rider](https://www.jetbrains.com/help/rider/Using_Git_Integration.html)
+- [How does git work?](https://steven-giesel.com/blogPost/327faa1b-3802-4e48-bf39-8b06590da57b)
 ## 📺 Videos
 - [Git and GitHub Tutorials for Beginners! Playlist - TheCodex](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 - [Git and GitHub for Poets Playlist - The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
@@ -46,3 +49,5 @@
 - [Version Control - Rider Essentials](https://www.youtube.com/watch?v=_fTwymtpg78)
 ## Libraries
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) -  ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
+- [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts.

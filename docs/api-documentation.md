@@ -48,3 +48,4 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [jozsefsallai/insomnia-documenter/](https://github.com/jozsefsallai/insomnia-documenter/) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Reference Documentation
+- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor

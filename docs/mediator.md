@@ -28,7 +28,7 @@
 - [CQRS Validation Pipeline with MediatR and FluentValidation](https://code-maze.com/cqrs-mediatr-fluentvalidation/)
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
-
+- [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
 ## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)

@@ -4,6 +4,8 @@
 - [How To Rate Limit Requests In Blazor/ASP.NET Core](https://www.cloudsavvyit.com/12306/how-to-rate-limit-requests-in-blazor-asp-net-core/)
 - [Rate limiting based on client IP](https://riptutorial.com/asp-net-core/example/18611/rate-limiting-based-on-client-ip)
 - [Rate limiting based on client ID](https://riptutorial.com/asp-net-core/example/18612/rate-limiting-based-on-client-id)
+- [Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/)
+- [Exploring Communication of Rate Limits in ASP.NET Core With Rate Limit Headers](https://www.tpeczek.com/2022/07/exploring-communication-of-rate-limits.html)
 ## 📺 Videos
 - [How to rate limit (throttle) your ASP.NET Core API](https://www.youtube.com/watch?v=GQAgh_z1rHY)
 

@@ -52,6 +52,9 @@
 - [Caching in ASP.NET Core with LazyCache](https://lukelowrey.com/caching-in-aspnet-core-with-lazycache/)
 - [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
+- [Exploring the new output caching middleware](https://dev.to/this-is-learning/exploring-the-new-output-caching-middleware-4no1)
+- [Redis Explained - Architecture Notes](https://architecturenotes.co/redis/) 
+
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

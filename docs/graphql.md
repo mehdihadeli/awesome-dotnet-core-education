@@ -46,6 +46,7 @@
 - [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq/) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
 - [SimonCropp/GraphQL.EntityFramework](https://github.com/SimonCropp/GraphQL.EntityFramework) - Adds EntityFramework Core IQueryable support to GraphQL
 - [StefH/GraphQL.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/GraphQL.EntityFrameworkCore.DynamicLinq) - GraphQL extensions for EntityFrameworkCore.DynamicLinq to automatically configure the query arguments and execute the query
+- [byme8/ZeroQL](https://github.com/byme8/ZeroQL)
 
 ## 🚀 Samples
 - [fiyazbinhasan/GraphQLCoreFromScratch](https://github.com/fiyazbinhasan/GraphQLCoreFromScratch) - Learn how to implement scalable APIs with GraphQL and ASP.NET Core. Branch-wise code with the relevant topic for a smooth and easy walkthrough.

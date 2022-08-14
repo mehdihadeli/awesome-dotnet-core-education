@@ -11,6 +11,6 @@
 
 ## Videos
 - [Common mistakes in EF Core - Jernej Kavka - NDC Sydney 2021](https://www.youtube.com/watch?v=iSWxny5MUY8)
-
+- [EF Core Performance - How to Optimize Database Updates?](https://www.youtube.com/watch?v=enpblqLhzzo)
 ## Samples
 - [jernejk/EFCoreSamples.StabilityAndPerformance](https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance) - Showing bad and good examples for EF Core that impacts stability and performance of the applications

@@ -64,6 +64,7 @@
 - [Stephen Toub — Unlocking performance improvements in .NET](https://www.youtube.com/watch?v=zoeqyuvZroc)
 - [.NET Tooling Community Standup - .NET Performance sneak peek!](https://www.youtube.com/watch?v=rwfNDyBBgks)
 - [Jared Parsons - Performance features in C# (Dotnetos Conference 2021)](https://www.youtube.com/watch?v=Q_tvcyl-e60)
+- [Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon](https://www.youtube.com/watch?v=7e4A8fwphi8)
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 
@@ -73,3 +74,4 @@
 ## 📚 Books
 - [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.co.uk/gp/product/148424026X/)
 - [Writing High-Performance .NET Code](https://www.amazon.co.uk/gp/product/0990583457)
+- [High-Performance Programming in C# and .NET: Understand the nuts and bolts of developing robust, faster, and resilient applications in C# 10.0 and .NET 6 ](https://www.amazon.nl/High-Performance-Programming-NET-Understand-applications/dp/1800564716)

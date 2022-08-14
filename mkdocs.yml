@@ -211,6 +211,7 @@ nav:
     - Secret Management: security/secret-management.md
   - Logging And Auditing: logging.md
   - Distributed Tracing: distributed-tracing.md
+  - CorrelationId: correlationId.md
   - Diagnostics: diagnostics.md
   - Testing: 
     - Testing: testing/testing.md
@@ -219,6 +220,7 @@ nav:
     - End-To-End Testing: testing/end-to-end-testing.md
     - Acceptance Testing: testing/acceptance-testing.md
     - Load Testing: testing/load-testing.md
+    - Snapshot Testing: testing/snapshot-testing.md
     - Architectural Testing: testing/architectural-testing.md
     - Contract Testing: testing/contract-testing.md
     - Test Host And WebApplicationFactory: testing/test-host.md
@@ -261,6 +263,10 @@ nav:
   - Orleans: orleans.md
   - WebHook: webhook.md
   - Analizers: analizers.md
+  - Remote Development:
+    - DevContainers: remote-development/devcontainers.md
+    - GitHub Codespace: remote-development/github-codespace.md
+    - Gitpod: remote-development/gitpod.md
   - IDE & Tools: 
     - Reharper & Rider: ide-tools/resharper-rider.md
     - Decompile & DotPeek: ide-tools/decompile.md

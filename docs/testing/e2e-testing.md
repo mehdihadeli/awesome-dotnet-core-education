@@ -13,6 +13,7 @@
 - [EFS004: Initializing ASP.NET End-to-End Tests](https://www.youtube.com/watch?v=NcGybsFRLO8)
 - [End-to-End Testing ASP.NET Core APIs (Part 2)](https://www.youtube.com/watch?v=ANqj9pldfso)
 - [The .NET Docs Show - Scenario testing 🧪 Blazor Single-Page Apps](https://www.youtube.com/watch?v=Z9lkKnzJgD8)
+- [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 
 ## Samples
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)

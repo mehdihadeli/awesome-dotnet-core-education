@@ -95,6 +95,9 @@
 - [Using PathBase with .NET 6's WebApplicationBuilder](https://andrewlock.net/using-pathbase-with-dotnet-6-webapplicationbuilder/)
 - [Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
 - [Configuring environment specific services for dependency injection in ASP.NET Core](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
+- [The Best C# .NET Web Application Tech Stack: Choosing The Back End](https://michaelscodingspot.com/web-application-csharp-server-side/)
+- [Exploring the new output caching middleware](https://dev.to/this-is-learning/exploring-the-new-output-caching-middleware-4no1)
+- [ASP.NET Core on .NET 7.0 - Output caching](https://asp.net-hacker.rocks/2022/07/26/aspnetcore7-outputcaching.html)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)

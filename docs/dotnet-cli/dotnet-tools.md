@@ -10,12 +10,10 @@
 - [dotnet tool list](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-list)
 - [Tutorial: Create a .NET tool using the .NET CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools-how-to-create)
 - [Collect diagnostics in containers](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers)
-
+- [New in .NET Core 3.0: local tools](https://andrewlock.net/new-in-net-core-3-local-tools/)
+- [.NET Core 3 Local Tools](https://stu.dev/dotnet-core-3-local-tools/)
 ## 📦 Libraries
 
 - [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
 - [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters) - .NET Core Performance Counter Tool
 - [lowleveldesign/dotnet-wtrace](https://github.com/lowleveldesign/dotnet-wtrace) - A command-line tool for live tracing .NET applications, based on Event Pipes.
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

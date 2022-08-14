@@ -5,6 +5,7 @@
 - [Evolution of An Async LINQ operator](http://blog.i3arnon.com/2021/07/12/async-linq-operator/)
 - [Calling functions in LINQ queries](http://tomasp.net/blog/linq-expand.aspx/)
 - [LINQ: Building an IQueryable provider series](https://docs.microsoft.com/en-us/archive/blogs/mattwar/linq-building-an-iqueryable-provider-series)
+- [LINQ explained with sketches](https://steven-giesel.com/blogPost/d65c5411-a69b-489f-b73f-18ce0ed8678d)
 ## 📺 Videos
 - [When LINQ is not LINQ](https://www.youtube.com/watch?v=t2NA1hHT1JE)
 

@@ -16,6 +16,7 @@
 - [Git and workflow with GitFlow](https://levelup.gitconnected.com/git-and-workflow-with-gitflow-5f9f76530835)
 - [Git Organized: A Better Git Flow](https://render.com/blog/git-organized-a-better-git-flow)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://steven-giesel.com/blogPost/ff50f268-c0bf-44d8-a5b8-41554ab50ba8)
 ## Videos
 - [Gitflow Tutorial Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS98ELS0mWqav1qTIYaChf41)
 - [GitKraken Tutorial: Intro to Gitflow](https://www.youtube.com/watch?v=eTOgjQ9o4vQ)

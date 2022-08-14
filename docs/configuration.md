@@ -28,7 +28,7 @@
 - [C# teamwork: share project config with common Nuget Build Asset Packages](https://endjin.com/blog/2020/04/dotnet-csharp-teamwork-share-project-config-with-common-nuget-build-asset-packages)
 - [Provide default configuration to your .NET applications](https://www.twilio.com/blog/provide-default-configuration-to-dotnet-applications)
 - [How to better configure C# and .NET applications for Twilio](https://www.twilio.com/blog/better-configuration-csharp-dotnet-for-twilio)
-
+- [Auto Refresh Settings Changes in ASP.NET Core Runtime](https://edi.wang/post/2019/1/5/auto-refresh-settings-changes-in-aspnet-core-runtime)
 ## Videos
 - [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
 - [AZURE APP CONFIGURATION | Central Store For Application Configuration | ASP.NET Core Series](https://www.youtube.com/watch?v=VEjYW14WKRM&t=3s)
