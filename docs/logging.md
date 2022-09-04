@@ -84,6 +84,9 @@
 - [Categorizing logs with Serilog in Asp.Net Core](https://dotnetdocs.ir/Post/34/categorizing-logs-with-serilog-in-aspnet-core)
 - [Logging Source Code Generators](https://steven-giesel.com/blogPost/48697958-4aee-474a-8920-e266d1d7b8fa)
 - [Logging with Serilog.Exceptions](https://rehansaeed.com/logging-with-serilog-exceptions/)
+- [How To Enable Logging In .NET Console Applications](https://thecodeblogger.com/2021/05/11/how-to-enable-logging-in-net-console-applications/)
+- [Collect and Query your Kubernetes Cluster Logs with Grafana Loki](https://www.programmingwithwolfgang.com/collect-and-query-kubernetes-logs-with-grafana-loki)
+- [.NET Core Microservice Logging with Grafana and Loki](https://medium.com/c-sharp-progarmming/net-core-microservice-logging-with-grafana-and-loki-92cd2783ed88)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
@@ -117,6 +120,9 @@
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings) - Extends Serilog with support for timed operations
 - [serilog/serilog-sinks-async](https://github.com/serilog/serilog-sinks-async) - An asynchronous wrapper for Serilog sinks that logs on a background thread
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [serilog-contrib/serilog-sinks-grafana-loki](https://github.com/serilog-contrib/serilog-sinks-grafana-loki) - A Serilog sink sending log events to Grafana Loki
+- [JosephWoodward/Serilog-Sinks-Loki](https://github.com/JosephWoodward/Serilog-Sinks-Loki) - A Serilog Sink for Loki, Grafana's new Prometheus inspired log aggregator
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console

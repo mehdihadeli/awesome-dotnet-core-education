@@ -66,12 +66,14 @@
 - [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
 - [OpenTelemetry will save your day and night - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=pz4bNmlss3w)
 ## 🚀 Samples
-- [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
+- [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) 
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
 - [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
-- [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.
+- [damikun/trouble-training](https://github.com/damikun/trouble-training)
 - [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
 - [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
+- [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
+
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

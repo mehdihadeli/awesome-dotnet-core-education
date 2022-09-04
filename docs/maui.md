@@ -8,3 +8,4 @@
 
 ## 📺 Videos
 - [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI)
+- [.NET MAUI Step by Step Build](https://www.youtube.com/watch?v=LrZwd-f0M4I)

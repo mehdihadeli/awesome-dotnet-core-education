@@ -72,6 +72,8 @@
 - [How to Generate a Self-Signed Certificate and Private Key using OpenSSL](https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL)
 - [How to Custom Authentication Scheme in ASP.NET Core](https://referbruv.com/blog/implementing-custom-authentication-scheme-and-handler-in-aspnet-core-3x/)
 - [The Solution: Easier and More Secure With Authentication Gateways](https://www.angulararchitects.io/aktuelles/the-solution-easier-and-more-secure-with-authentication-gateways/)
+- [Authentication for multiple apps behind a reverse proxy](http://morganridel.fr/authentication-for-multiple-apps-behind-a-reverse-proxy)
+- [Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https://khalidabuhakmeh.com/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -116,7 +118,6 @@
 - [pdevito3/heimguard](https://github.com/pdevito3/heimguard) - A small and simple library built to allow you to easily manage permissions in your .NET projects.
 - [StefanescuEduard/JwtAuthentication](https://github.com/StefanescuEduard/JwtAuthentication)
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth) - Using YARP to flow through credentials from IdentityServer to other apps.
-
 
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework

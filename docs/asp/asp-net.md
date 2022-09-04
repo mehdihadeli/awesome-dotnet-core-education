@@ -5,6 +5,7 @@
 - [ASP.NET Core 2.2 & 3 REST API Tutorial - Nick Chapsass](https://www.youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU)
 - [ASP.NET Core General Tutorial - Nick Chapsass](https://www.youtube.com/playlist?list=PLUOequmGnXxOFPJv8H7DNIappcta9brtN)
 - [ASP.NET Core - Codewrinkles](https://www.youtube.com/playlist?list=PL2E-vlKoo_v1dfQPJX3PuzT4B1ZJulQ-p)
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore)
 ## Articles
 - [Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage)
 - [Microsoft.AspNetCore.App for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage-app)

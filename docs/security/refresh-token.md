@@ -14,7 +14,8 @@
 - [.NET 5.0 API - JWT Authentication with Refresh Tokens](https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens)
 - [Implement Refresh JWT token in Asp.net Core 5 WEBAPI with database (Detailed Guide)](https://codepedia.info/aspnet-core-jwt-refresh-token-authentication)
 - [.NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API](https://jasonwatmore.com/post/2022/01/24/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api)
-
+- [Revoking Access to JWT tokens with a Blacklist/Deny List](https://supertokens.com/blog/revoking-access-with-a-jwt-blacklist)
+- [Store Refresh Tokens in Redis](https://dev.to/jacobsngoodwin/12-store-refresh-tokens-in-redis-1k5d)
 ## 📺 Videos
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
 - [Refresh JWT with Refresh Tokens in Asp Net Core 5 Rest API Step by Step](https://www.youtube.com/watch?v=T_Hla1WzaZQ&ab_channel=MohamadLawand)
@@ -24,3 +25,4 @@
 - [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
 - [mmacneil/AspNetCoreApiStarter](https://github.com/mmacneil/AspNetCoreApiStarter) - An ASP.NET Core (v2.1) Web API project to quickly bootstrap new projects. Includes Identity, JWT authentication w/ refresh tokens.
 - [cornflourblue/dotnet-5-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api) - .NET 5.0 API - JWT Authentication with Refresh Tokens
+- [cornflourblue/dotnet-6-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api) - .NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API

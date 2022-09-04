@@ -27,5 +27,6 @@
 - [Getting Started on Nullable Reference Types](https://thecodeblogger.com/2022/05/26/getting-started-on-nullable-reference-types/)
 - [Approaches for Resolving Nullable Warnings on Existing Codebase](https://thecodeblogger.com/2022/05/31/approaches-for-resolving-nullable-warnings-on-existing-codebase/)
 - [Tips for Estimating the Null Reference Migrations](https://thecodeblogger.com/2022/06/09/tips-for-estimating-the-null-reference-migrations/)
+- [Nullable Reference Migration – How to decide the nullability ?](https://thecodeblogger.com/2022/08/16/nullable-reference-migration-how-to-decide-the-nullability/)
 ## Videos
 - [C# Nullable reference types – No more null reference exceptions!](https://www.youtube.com/watch?v=NDweaZZZcbc)

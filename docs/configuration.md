@@ -42,6 +42,6 @@
 - [bolorundurowb/dotenv.net](https://github.com/bolorundurowb/dotenv.net) - A library to read .env files in a .NET Core environment
 - [tonerdo/dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files
 ## 🔖 Samples
-
+- [Codebytes/dotnet-configuration-in-depth](https://github.com/Codebytes/dotnet-configuration-in-depth)
 - [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
 

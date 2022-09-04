@@ -2,7 +2,7 @@
 
 ## Resources
 - [Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
-
+- [Migrate from ASP.NET Core 5.0 to 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60)
 ## 📕 Articles
 - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/)
 - [.NET 6: Collections Improvements](https://www.infoq.com/news/2021/06/Net6-Collections/)
@@ -44,4 +44,5 @@
 ## 🚀 Samples
 - [okyrylchuk/dotnet6_features](https://github.com/okyrylchuk/dotnet6_features)
 - [NikiforovAll/whats-new-in-dotnet6](https://github.com/NikiforovAll/whats-new-in-dotnet6)
-- [dodyg/practical-aspnetcore/tree/net5.0/projects/net6](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)
+- [gsferreira/dotnet-playground](https://github.com/gsferreira/dotnet-playground)

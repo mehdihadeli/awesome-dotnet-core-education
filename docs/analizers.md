@@ -27,6 +27,7 @@
 - [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
 - [Raising Coding Standards with .NET 6.0 Code Analyzers](https://endjin.com/blog/2022/01/raising-coding-standard-dotnet-analyzers)
 - [Runtime C# Code Compilation Revisited for Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)
+- [Finding .NET Transitive Dependencies and Tidying Up Your Project](https://gsferreira.com/archive/2022/finding-dotnet-transitive-dependencies-and-tidying-up-your-project/)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)
@@ -46,3 +47,4 @@
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - [DotNetAnalyzers/AspNetCoreAnalyzers](https://github.com/DotNetAnalyzers/AspNetCoreAnalyzers)
 - [cezarypiatek/MultithreadingAnalyzer](https://github.com/cezarypiatek/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
+- [spectresystems/snitch](https://github.com/spectresystems/snitch) - A tool that help you find duplicate transitive package references.

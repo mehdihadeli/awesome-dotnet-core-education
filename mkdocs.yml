@@ -208,6 +208,7 @@ nav:
     - Authorization: security/authorization.md
     - OAuth & OpenID Connect: security/oauth-opencid.md
     - Refresh Token: security/refresh-token.md
+    - Revoking Token: security/revoking-token.md
     - Secret Management: security/secret-management.md
   - Logging And Auditing: logging.md
   - Distributed Tracing: distributed-tracing.md
@@ -247,6 +248,7 @@ nav:
     - Split Query: ef-core/split-query.md
     - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
+  - ID: id.md
   - Mediator: mediator.md
   - Mapping:
      Mapping: mapping/mapping.md

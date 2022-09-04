@@ -36,6 +36,7 @@
 - [Minimal API Route Handler Filters](https://khalidabuhakmeh.com/minimal-api-route-handler-filters)
 - [Minimal API Validation with FluentValidation](https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation)
 - [.NET 7 Preview 5: Using AsParameters Attribute for Parameter Binding in Minimal API](https://jaliyaudagedara.blogspot.com/2022/07/net-7-preview-5-using-asparameters.html)
+- [.Net 7 (Preview 4) - Minimal API Filters](https://dev.to/moe23/net-7-preview-4-minimal-api-filters-1812)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
@@ -88,6 +89,7 @@
 - [rh8512/csharp-minimalapi](https://github.com/rh8512/csharp-minimalapi)
 - [DamianEdwards/MinimalApis.Extensions/samples](https://github.com/DamianEdwards/MinimalApis.Extensions/tree/main/samples)
 - [Elfocrash/clean-minimal-api](https://github.com/Elfocrash/clean-minimal-api)
+- [khalidabuhakmeh/GroupsAndFilters](https://github.com/khalidabuhakmeh/GroupsAndFilters)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

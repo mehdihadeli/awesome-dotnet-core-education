@@ -132,6 +132,7 @@
 - [ASP.NET Community Standup - Controller Binding Updates in .NET 7](https://www.youtube.com/watch?v=TTpH9GjwY34)
 - [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
 - [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
+- [Making .NET 7’s NEW output cache scale with Redis](https://www.youtube.com/watch?v=WeHZ_NMC-Jo)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
