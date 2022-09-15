@@ -55,6 +55,7 @@
 - [Profiling a .NET6 app running in a linux container with dotnet-trace, dotnet-dump, dotnet-counters, dotnet-gcdump and Visual Studio](https://www.mytechramblings.com/posts/profiling-a-net-app-with-dotnet-cli-diagnostic-tools/)
 - [A brief introduction to DiagnosticSource](https://andrewlock.net/a-brief-introduction-to-diagnostic-source/)
 - [Consuming anonymous types with DiagnosticListener in .NET 6](https://andrewlock.net/consuming-anonymous-types-with-diagnosticlistener-in-dotnet6/)
+
 ## 📺 Videos
 - [Diagnostics Improvements in .NET Core 3.0](https://www.youtube.com/watch?v=fkjetdIdcyg)
 - [Introducing the Diagnostics Client Library for .NET Core](https://www.youtube.com/watch?v=Rei6d9nKaFQ)
@@ -63,6 +64,7 @@
 - [.NET Design Review: System.Diagnostics.Activity](https://www.youtube.com/watch?v=a3xPdYi6jYU)
 - [Diagnosing .NET 6 issues from sidecar containers using dotnet-monitor](https://www.youtube.com/watch?v=oCY9BsAw5oU)
 - [dotnet-monitor Fundamentals - Accessing .NET Diagnostics Easier](https://www.youtube.com/watch?v=pG0t19bEYJw)
+- [dotnet-monitor: Enabling a diagnostics sidecar in AKS](https://www.youtube.com/watch?v=3nzZO34nUFQ)
 ## 🚀 Samples
 - [gregkalapos/DiagnosticSource](https://github.com/gregkalapos/DotNetConceptOfTheWeek/tree/master/18_DiagnosticSource)
 - [aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs](https://github.com/aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs)

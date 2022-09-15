@@ -66,6 +66,7 @@
 - [.NET Tooling Community Standup - .NET Performance sneak peek!](https://www.youtube.com/watch?v=rwfNDyBBgks)
 - [Jared Parsons - Performance features in C# (Dotnetos Conference 2021)](https://www.youtube.com/watch?v=Q_tvcyl-e60)
 - [Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon](https://www.youtube.com/watch?v=7e4A8fwphi8)
+- [Languages & Runtime Community Standup - .NET Performance with Stephen Toub](https://www.youtube.com/watch?v=5PrQw0bRthE)
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 

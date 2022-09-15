@@ -54,7 +54,10 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [Exploring the new output caching middleware](https://dev.to/this-is-learning/exploring-the-new-output-caching-middleware-4no1)
 - [Redis Explained - Architecture Notes](https://architecturenotes.co/redis/) 
-
+- [Delete Single or multiple or All keys in Redis .NET – Guidelines](https://www.thecodebuzz.com/delete-keys-all-keys-redis-cache-cluster-net-csharp-net-core/)
+- [Redis-Dependency Injection of the ConnectionMultiplexer – Best Practices](https://www.thecodebuzz.com/redis-dependency-injection-connectionmultiplexer-redis-cache-netcore-csharp/)
+- [Redis Distributed Cache in C#.NET with Examples](https://www.thecodebuzz.com/redis-distributed-cache-asp-net-core-csharp-redis-examples/)
+- [Get all keys from Redis Cache in C#.NET](https://www.thecodebuzz.com/get-all-keys-from-redis-cache-in-c-net/)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
@@ -66,7 +69,11 @@
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
 - [Response caching using Redis | ASP.NET Core 5 REST API Tutorial 25](https://www.youtube.com/watch?v=KboCpJGa9ag)
 - [How to effectively use Redis Cache in .NET Core (Framework, Standard)](https://www.youtube.com/watch?v=jwek4w6als4)
-
+- [Redis Crash Course - the What, Why and How to use Redis as your primary database](https://www.youtube.com/watch?v=OqCK95AS-YE)
+- [Can Redis be used as a Primary database?](https://www.youtube.com/watch?v=VLTPqImLapM)
+- [Caching Architectures | Microservices Caching Patterns | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=0x-ZV_vP73k)
+- [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+- [Redis Stack: The Complete Redis for All Developers](https://www.youtube.com/watch?v=9JeAu--liMk)
 ## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)

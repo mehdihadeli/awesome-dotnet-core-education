@@ -63,6 +63,7 @@ nav:
     - .Net 6: dotnet/dotnet6.md  
     - .Net 7: dotnet/dotnet7.md  
     - .Net Build: dotnet/build.md  
+    - .Net Package Management: dotnet/package-management.md
     - .Net Standard: dotnet/dotnet-standard.md
     - .Net Template: dotnet/dotnet-template.md
     -  ASP.Net Core: dotnet/dotnet-core.md
@@ -177,13 +178,6 @@ nav:
   - Validation: validation.md
   - Razor Pages: razor-pages.md
   - GraphQL: graphql.md
-  - NoSQL: 
-    - NoSQL: nosql/nosql.md
-    - CosmosDB: nosql/cosmosdb.md
-    - PostgreSQL: nosql/postgresql.md
-    - MongoDB: nosql/mongodb.md
-    - RavenDB: nosql/ravendb.md
-  - Docker: docker.md
   - GitHub:
     - Git: github/git.md
     - Release Notes: github/release-note.md
@@ -264,6 +258,7 @@ nav:
   - Multi Tenancy: multi-tenancy.md
   - Orleans: orleans.md
   - WebHook: webhook.md
+  - Code Generation: code-generation.md
   - Analizers: analizers.md
   - Remote Development:
     - DevContainers: remote-development/devcontainers.md
@@ -281,7 +276,7 @@ nav:
     - DotNet Intreactive: ide-tools/dotnet-interactive.md
     - WSL: ide-tools/wsl.md
   - Rx.Net: rx.md
-  - Commenting: commenting.md
+  - Documentation: documentation.md
   - Formatting: formatting.md
   - Others: others.md
 

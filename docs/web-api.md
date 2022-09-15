@@ -168,8 +168,8 @@
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
+- [davidfowl/WebApplicationPlugins](https://github.com/davidfowl/WebApplicationPlugins) - A sample plugin model for ASP.NET Core applications
 ## Templates
-
 - [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
 - [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.

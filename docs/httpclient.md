@@ -43,6 +43,8 @@
 - [Logging Polly wait and retry policy ASP.NET CORE 2.1](https://stackoverflow.com/questions/53604295/logging-polly-wait-and-retry-policy-asp-net-core-2-1)
 - [Retry and fallback policies in C# with Polly](https://blog.duijzer.com/posts/polly-refit/)
 - [Round-robin DNS support in .NET HttpClient](https://www.meziantou.net/round-robin-dns-support-in-dotnet-httpclient.htm)
+- [SOCKS Proxy Support In C# .NET](https://dotnetcoretutorials.com/2021/07/11/socks-proxy-support-in-net/)
+
 ## 📺 Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)

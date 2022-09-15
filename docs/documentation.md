@@ -1,4 +1,4 @@
-# Commenting
+# Documentation
 
 ## 📕 Articles
 - [C# Comments: A Complete Guide, Including Examples](https://blog.submain.com/c-comments-complete-guide/)
@@ -14,3 +14,6 @@
 
 ## 📺 Videos
 - [Are comments in code actually a bad practice?](https://www.youtube.com/watch?v=GjZ1GsQPcg4)
+
+## Libraries
+- [Chase-William/.Docs](https://github.com/Chase-William/.Docs) - DotDocs is an intuitive & reliable documentation generator library for C# projects. Currently it produces markdown files as documentation and support for website generation is planned.

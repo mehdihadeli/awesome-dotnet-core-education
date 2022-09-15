@@ -19,3 +19,4 @@
 ## Samples
 - [NikiforovAll/devcontainer-for-dotnet6-demo](https://github.com/NikiforovAll/devcontainer-for-dotnet6-demo)
 - [NikiforovAll/todo-csharp-cosmos-sql](https://github.com/NikiforovAll/todo-csharp-cosmos-sql)
+- [thangchung/coffeeshop-on-nomad}(https://github.com/thangchung/coffeeshop-on-nomad)
