@@ -37,7 +37,7 @@
 - [Minimal API Validation with FluentValidation](https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation)
 - [.NET 7 Preview 5: Using AsParameters Attribute for Parameter Binding in Minimal API](https://jaliyaudagedara.blogspot.com/2022/07/net-7-preview-5-using-asparameters.html)
 - [.Net 7 (Preview 4) - Minimal API Filters](https://dev.to/moe23/net-7-preview-4-minimal-api-filters-1812)
-
+- [Adding Clarity To .NET Minimal Hosting APIs](https://khalidabuhakmeh.com/adding-clarity-to-dotnet-minimal-hosting)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)

@@ -95,3 +95,4 @@
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bartstc/booking-app](https://github.com/bartstc/booking-app)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
+- [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)

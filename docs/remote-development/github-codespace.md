@@ -16,4 +16,8 @@
 
 ## Samples
 - [NikiforovAll/todo-csharp-cosmos-sql](https://github.com/NikiforovAll/todo-csharp-cosmos-sql)
-
+- [Microsoft/vscode-remote-try-dotnetcore](https://github.com/Microsoft/vscode-remote-try-dotnetcore)
+- [microsoft/vscode-dev-containers/dotnet-postgres](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/dotnet-postgres)
+- [microsoft/vscode-dev-containers/dotnet-mssql](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/dotnet-mssql)
+- [microsoft/vscode-dev-containers/dotnet](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/dotnet)
+- [devcontainers/images/dotnet](https://github.com/devcontainers/images/tree/main/src/dotnet)

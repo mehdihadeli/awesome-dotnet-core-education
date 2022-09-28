@@ -153,3 +153,4 @@
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
 - [pdevito3/WeSendReportsCompany/](https://github.com/pdevito3/WeSendReportsCompany/)
+- [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)
