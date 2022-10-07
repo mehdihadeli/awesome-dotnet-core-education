@@ -1,5 +1,8 @@
 # LINQ
 
+## Resources
+- [EDULINQ – THE E-BOOK](https://codeblog.jonskeet.uk/category/edulinq/)
+
 ## 📕 Articles
 - [Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq)
 - [Evolution of An Async LINQ operator](http://blog.i3arnon.com/2021/07/12/async-linq-operator/)
@@ -20,5 +23,6 @@
 - [jackmott/LinqFaster](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 - [manofstick/Cistern.ValueLinq](https://github.com/manofstick/Cistern.ValueLinq)
 - [mattwar/iqtoolkit](https://github.com/mattwar/iqtoolkit) - A Toolkit for building LINQ IQueryable providers. This is the official move of my IQToolkit project from CodePlex.
+- [i3arnon/MoreAsyncLINQ](https://github.com/i3arnon/MoreAsyncLINQ) - Additional async LINQ to objects operators for IAsyncEnumerable<T>
 ## 🚀 Samples
 - [NetFabric/LinqBenchmarks](https://github.com/NetFabric/LinqBenchmarks) - Benchmarking LINQ and alternative implementations

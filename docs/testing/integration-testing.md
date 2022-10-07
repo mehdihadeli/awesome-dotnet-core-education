@@ -100,7 +100,7 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
-
+- [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
@@ -153,3 +153,4 @@
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
 - [pdevito3/WeSendReportsCompany/](https://github.com/pdevito3/WeSendReportsCompany/)
+- [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)

@@ -216,6 +216,7 @@ nav:
     - Acceptance Testing: testing/acceptance-testing.md
     - Load Testing: testing/load-testing.md
     - Snapshot Testing: testing/snapshot-testing.md
+    - Mutation Testing: testing/mutation-testing.md
     - Architectural Testing: testing/architectural-testing.md
     - Contract Testing: testing/contract-testing.md
     - Test Host And WebApplicationFactory: testing/test-host.md

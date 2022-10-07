@@ -54,7 +54,7 @@
 - [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/tree/master/csharp) - Protocol Buffers - Google's data interchange format
-
+- [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C#.
 ## Samples
 
 - [Alois-xx/SerializerTests](https://github.com/Alois-xx/SerializerTests) - .NET Serializer testing framework

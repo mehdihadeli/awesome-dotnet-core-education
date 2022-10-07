@@ -14,6 +14,10 @@
 - [ASP.NET Core 6 and IAsyncEnumerable - Async Streamed JSON vs NDJSON](https://www.tpeczek.com/2021/07/aspnet-core-6-and-iasyncenumerable.html)
 - [.NET Application Controller Actions Now Support Asynchronous Streaming Response .NET6](https://www.learmoreseekmore.com/2021/11/dotnet6-feature-controllers-acitons-now-support-asynchronous-streaming-response.html)
 - [Async Enumerable in C# (Part 1)](https://markheath.net/post/async-enumerable-1)
+- [Consuming JSON Objects Stream (NDJSON) With HttpClient](https://www.tpeczek.com/2020/10/consuming-json-objects-stream-ndjson.html)
 ## 📺 Videos
 - [C# Async Yield Return: IAsyncEnumerable will change your life!!!](https://www.youtube.com/watch?v=w3hc7nxXxf4)
 - [Is Parallel.For/ForEach in C# actually worth it? (and how to modernize it)](https://www.youtube.com/watch?v=lHuyl_WTpME)
+
+## Libraries
+- [tpeczek/Ndjson.AsyncStreams](https://github.com/tpeczek/Ndjson.AsyncStreams) - Ndjson.AsyncStreams is a solution for working with asynchronous streaming data sources over HTTP using NDJSON (Newline Delimited JSON).

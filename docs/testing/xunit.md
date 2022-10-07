@@ -13,6 +13,9 @@
 - [xUnit Theory: Working With InlineData, MemberData, ClassData](https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/)
 - [Taking control over xUnit test names](https://gsferreira.com/archive/2021/taking-control-over-xunit-test-names/)
 - [Capturing Output](https://xunit.net/docs/capturing-output)
+
+## Videos
+- [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [SimonCropp/XunitContext](https://github.com/SimonCropp/XunitContext) - Extends xUnit to expose extra context and simplify logging

@@ -76,7 +76,7 @@
 - [.NET Data Community Standup - Testing EF Core Apps (part 2)](https://www.youtube.com/watch?v=4JQUJk8muCc)
 - [Learn Unit Test with .Net 6 with xUnit and MOQ](https://www.youtube.com/watch?v=AW7ZcMOtwC8)
 - [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać](https://www.youtube.com/watch?v=IZWLnn2fNko)
-
+- [How to test your tests in .NET](https://www.youtube.com/watch?v=sGwfwtkaDfk)
 ## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
@@ -95,3 +95,4 @@
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bartstc/booking-app](https://github.com/bartstc/booking-app)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
+- [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)

@@ -64,5 +64,6 @@
 - [jbevain/mono.reflection](https://github.com/jbevain/mono.reflection) - Some useful reflection helpers, including an IL disassembler.
 - [buunguyen/fasterflect](https://github.com/buunguyen/fasterflect) - .NET Reflection Made Fast and Simple ⛺
 - [RicoSuter/Namotion.Reflection](https://github.com/RicoSuter/Namotion.Reflection) - .NET library with advanced reflection APIs.
+- [osoykan/FluentAssemblyScanner](https://github.com/osoykan/FluentAssemblyScanner) - Fluent assembly and type scanner 🔍 for .Net
 ## 📚 Books
 - [MetaProgramming in .Net](https://livebook.manning.com/book/metaprogramming-in-dot-net/)

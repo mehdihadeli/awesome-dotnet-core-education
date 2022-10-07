@@ -26,6 +26,7 @@
 - [Creating a mocking library for .NET in C# FROM SCRATCH](https://www.youtube.com/watch?v=9kEURoqHKZ0)
 - [Generating realistic fake data in .NET using Bogus](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 - [Introduction to Unit Testing Using AutoFixture](https://www.youtube.com/watch?v=ivEke62spOg)
+- [Mocking APIs with Mockaco | .NET 7](https://www.youtube.com/watch?v=QBnXCgZFzM0)
 
 ## Libraries
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
@@ -39,3 +40,4 @@
 - [AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer](https://github.com/AnthonyGiretti/Calzolari-EFCore-Flurl-FakeBearerToken-TestServer)
 - [MisterJames/GenFu](https://github.com/MisterJames/GenFu) - GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.
 - [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.
+- [natenho/Mockaco](https://github.com/natenho/Mockaco) - HTTP mock server, useful to stub services and simulate dynamic API responses, leveraging ASP.NET Core features, built-in fake data generation and pure C# scripting

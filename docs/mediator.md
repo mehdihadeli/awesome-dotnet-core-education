@@ -45,3 +45,4 @@
 - [ITIXO/MediatR.Extensions.AttributedBehaviors](https://github.com/ITIXO/MediatR.Extensions.AttributedBehaviors) - MediatR extension adding ability to specify pipeline behaviors using attributes on command class
 - [ivanpaulovich/FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - .NET Core Web API using Mediator and Domain Driven Design
 - [ppXD/NMediator](https://github.com/ppXD/NMediator)
+- [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
