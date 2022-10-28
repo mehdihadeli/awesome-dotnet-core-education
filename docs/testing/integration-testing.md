@@ -85,7 +85,8 @@
 - [HTTP client and HTTP client factory in integration testing](https://milestone.topics.it/2021/11/10/http-client-factory-in-integration-testing.html)
 - [How to test ASP.NET Core Minimal APIs](https://www.twilio.com/blog/test-aspnetcore-minimal-apis)
 - [Refactor Functional Tests to support Minimal Web APIs](https://timdeschryver.dev/blog/refactor-functional-tests-to-support-minimal-web-apis)
-
+- [Intro to .NET Unit & Integration Testing with SpecsFor](https://www.infoq.com/articles/specsfor/)
+- [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -102,7 +103,7 @@
 - [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 - [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
 ## Libraries
-- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
@@ -147,10 +148,13 @@
 - [mizrael/MongoDbIntegrationSample](https://github.com/mizrael/MongoDbIntegrationSample)
 - [pdevito3/postgres-docker-integration-tests](https://github.com/pdevito3/postgres-docker-integration-tests)
 - [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.Integration](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.Integration)
-- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
 - [linkdotnet/Blog](https://github.com/linkdotnet/Blog)
-- [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [valentinacupac/banking-kata-dotnet](https://github.com/valentinacupac/banking-kata-dotnet)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
 - [pdevito3/WeSendReportsCompany/](https://github.com/pdevito3/WeSendReportsCompany/)
 - [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing)
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
+- [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
+- [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin)

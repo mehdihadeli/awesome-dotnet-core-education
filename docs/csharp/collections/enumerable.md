@@ -13,3 +13,4 @@
 - [What types should I use to pass collections in C#?](https://markheath.net/post/passing-collections-csharp)
 - [IEnumerable<> vs List<> as a parameter](https://stackoverflow.com/questions/65570281/ienumerable-vs-list-as-a-parameter/65570426#65570426)
 - [ITERATE, DAMN YOU!](https://codeblog.jonskeet.uk/2010/07/27/iterate-damn-you/)
+- [Generic types are for arguments, specific types are for return values](https://enterprisecraftsmanship.com/posts/generic-types-arguments-specific-types-return-values/)

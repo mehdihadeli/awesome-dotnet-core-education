@@ -20,6 +20,7 @@
 - [How to use Moq and xUnit for Unit Testing Controllers in ASP.NET Core](https://www.hosting.work/aspnet-core-moq-xunit-unit-testing/)
 - [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
 - [Why I stopped worrying about test setups by using AutoFixture](https://timdeschryver.dev/blog/why-i-stopped-worrying-about-test-setups-by-using-autofixture)
+- [Stubs and mocks break encapsulation](https://blog.ploeh.dk/2022/10/17/stubs-and-mocks-break-encapsulation/)
 ## 📺 Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)
@@ -33,7 +34,7 @@
 - [force-net/DeepCloner](https://github.com/force-net/DeepCloner) - Fast object cloner for .NET
 - [Tynamix/ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET/) - The .NET ObjectFiller fills the properties of your .NET objects with random data
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - 📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.

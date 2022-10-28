@@ -6,6 +6,12 @@
 - [Test-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html)
 - [Outside-in Diamond 🔷 TDD #1 - a style made from (& for) ordinary people](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-1-style-made.html)
 - [Outside-in Diamond 🔷 TDD #2 (anatomy of a style)](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-2-anatomy-of.html)
+- [Effective Test Driven Development](https://jeremydmiller.com/2022/10/03/effective-test-driven-development/)
+- [Real Life TDD Example](https://jeremydmiller.com/2022/10/04/real-life-tdd-example/)
+- [Why TDD will change your developer life?](https://itnext.io/why-tdd-will-change-your-developer-life-b0bf234e15ac)
+- [Practical TDD — First Lesson](https://itnext.io/practical-tdd-first-lesson-1c689fffe4ec)
+- [Practical TDD — Lesson 2](https://itnext.io/practical-tdd-lesson-2-d9d48283b0c4)
+- [TDD practical lessons 3 — Classes collaboration](https://itnext.io/practical-tdd-3-9a76b3e045d8)
 ## 📺 Videos
 - [TDD - Test Driven Development in C# - Pluralsight](https://www.pluralsight.com/courses/csharp-test-driven-development)
 - [Test Driven Development with C# and .NET Core MVC - Packt](https://www.packtpub.com/product/test-driven-development-with-c-and-net-core-mvc-video/9781788391238)

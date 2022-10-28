@@ -24,4 +24,4 @@
 ## Videos
 - [ASP.NET Community Standup - Contributing to ASP.NET Core](https://www.youtube.com/watch?v=hVdwb41FPvU)
 - [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
-- [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
+- [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)#

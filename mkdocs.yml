@@ -7,6 +7,12 @@ repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
 edit_uri: edit/main/docs/
 theme: 
   name: material 
+  #https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - toc.integrate 
+    - navigation.top
   font:
     text: Sora
   palette:
@@ -163,7 +169,7 @@ nav:
   - REST: rest.md
   - Middleware: middleware.md
   - Action Filters: action-filters.md
-  - Configuration: configuration.md
+  - Configuration & Secrets : configuration-secrets.md
   - Options: options.md
   - HttContext: httpcontext.md
   - gRPC: grpc.md
@@ -241,6 +247,7 @@ nav:
     - Soft Delete: ef-core/soft-delete.md
     - Query Filters: ef-core/query-filter.md
     - Split Query: ef-core/split-query.md
+    - Interceptor: ef-core/interceptor.md
     - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
   - ID: id.md
@@ -273,10 +280,11 @@ nav:
     - Dotcover: ide-tools/dotcover.md
     - DataGrip: ide-tools/datagrip.md
     - VSCode: ide-tools/vscode.md
-    - Terminal Tools: ide-tools/terminal.md
+    - Terminal & Dotfiles: ide-tools/terminal-dotfiles.md
     - DotNet Intreactive: ide-tools/dotnet-interactive.md
     - WSL: ide-tools/wsl.md
   - Rx.Net: rx.md
+  - Regex: regex.md
   - Documentation: documentation.md
   - Formatting: formatting.md
   - Others: others.md

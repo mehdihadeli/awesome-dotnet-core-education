@@ -5,7 +5,7 @@
 - [Unit Testing 101: From Zero to Hero](https://canro91.github.io/UnitTesting)
 
 ## 📝 Articles
-
+- [Unit testing best practices with .NET Core and .NET Standard](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
 - [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) 
 - [C# – How to unit test code that uses HttpClient](https://makolyte.com/csharp-how-to-unit-test-code-that-uses-httpclient/)
 - [How to unit test a class that consumes an HttpClient with IHttpClientFactory in ASP.NET Core?](https://anthonygiretti.com/2018/09/06/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-asp-net-core/)
@@ -61,6 +61,9 @@
 - [How to create test data with the Builder pattern](https://canro91.github.io/2021/04/26/CreateTestValuesWithBuilders/)
 - [How to Unit Test an Abstract Class](https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/)
 - [How to unit test a RavenDB](https://steven-giesel.com/blogPost/0cbe9770-40e7-43b1-980f-d1d3a8b5203d)
+- [Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
+- [Intro to .NET Unit & Integration Testing with SpecsFor](https://www.infoq.com/articles/specsfor/)
+- [DRY vs DAMP in Unit Tests](https://enterprisecraftsmanship.com/posts/dry-damp-unit-tests)
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
@@ -96,3 +99,5 @@
 - [bartstc/booking-app](https://github.com/bartstc/booking-app)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
 - [Elfocrash/testing-workshop-ndcoslo2022](https://github.com/Elfocrash/testing-workshop-ndcoslo2022)
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
+- [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin)

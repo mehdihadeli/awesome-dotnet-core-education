@@ -5,7 +5,8 @@
 - [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 
 ## 📕 Articles
-- [Minimal APIs overview](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
+- [Minimal APIs overview](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
+- [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 - [Code samples migrated to the new minimal hosting model in ASP.NET Core 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60-samples)
 - [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Minimal APIs in ASP.NET Core 6.0](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/)
@@ -38,6 +39,8 @@
 - [.NET 7 Preview 5: Using AsParameters Attribute for Parameter Binding in Minimal API](https://jaliyaudagedara.blogspot.com/2022/07/net-7-preview-5-using-asparameters.html)
 - [.Net 7 (Preview 4) - Minimal API Filters](https://dev.to/moe23/net-7-preview-4-minimal-api-filters-1812)
 - [Adding Clarity To .NET Minimal Hosting APIs](https://khalidabuhakmeh.com/adding-clarity-to-dotnet-minimal-hosting)
+- [Unit and integration tests in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/test-min-api)
+
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -59,6 +62,7 @@
 - [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
 - [Magically creating .NET CRUD API's in minutes!](https://www.youtube.com/watch?v=TI5CeNq3-o8)
 ## 🚀 Samples
+- [dotnet/AspNetCore.Docs.Samples/minimal-apis/samples](https://github.com/dotnet/AspNetCore.Docs.Samples/tree/main/fundamentals/minimal-apis/samples)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
 - [425show/MinimalWeather](https://github.com/425show/MinimalWeather)
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6#minimal-hosting-default-configuration)
@@ -90,6 +94,7 @@
 - [DamianEdwards/MinimalApis.Extensions/samples](https://github.com/DamianEdwards/MinimalApis.Extensions/tree/main/samples)
 - [Elfocrash/clean-minimal-api](https://github.com/Elfocrash/clean-minimal-api)
 - [khalidabuhakmeh/GroupsAndFilters](https://github.com/khalidabuhakmeh/GroupsAndFilters)
+- [dotnet/aspnet-api-versioning/examples](https://github.com/dotnet/aspnet-api-versioning/tree/main/examples)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
@@ -100,3 +105,4 @@
 - [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
 - [DeeJayTC/net-dynamic-api](https://github.com/DeeJayTC/net-dynamic-api) - A library that turns your model into a fully working API, define your model as markdown, json or c#.
 - [NyronW/MinimalEndpoints](https://github.com/NyronW/MinimalEndpoints) - A light weight abstraction over ASP.NET minimal API
+- [michelcedric/StructuredMinimalApi](https://github.com/michelcedric/StructuredMinimalApi) - The goal of this project it's to show how to use MinimalApi.Endpoint package. It demontrate how to configure API endpoints as individual classes based on minimal Api (.Net 6)

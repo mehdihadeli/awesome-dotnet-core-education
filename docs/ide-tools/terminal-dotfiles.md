@@ -1,4 +1,4 @@
-# Terminal Tools
+# Terminal & Dotfiles
 
 ## Resources
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -35,6 +35,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-
+- [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + IntelliJ IDEA + GitBash with zsh
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

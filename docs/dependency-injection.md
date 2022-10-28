@@ -68,7 +68,9 @@
 - [Dependency Injection Composition Root: Are We Just Moving the Coupling?](https://jeremybytes.blogspot.com/2013/03/dependency-injection-composition-root.html)
 - [Understanding the Composition Root](https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/)
 - [Configuring environment specific services for dependency injection in ASP.NET Core](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
-
+- [Is Dependency Injection dead? - Part 1](https://www.davidguida.net/is-dependency-injection-dead-part-1)
+- [Is Dependency Injection dead? - Part 2: Service Lifetimes](https://www.davidguida.net/is-dependency-injection-dead-part-2-service-lifetimes
+- [Is Dependency Injection dead? - Part 3: Anti-Patterns](https://www.davidguida.net/is-dependency-injection-dead-part-3-anti-patterns)
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

@@ -1,4 +1,4 @@
-# Configuration
+# Configuration & Secrets Management
 
 ## 📝 Articles
 
@@ -29,6 +29,13 @@
 - [Provide default configuration to your .NET applications](https://www.twilio.com/blog/provide-default-configuration-to-dotnet-applications)
 - [How to better configure C# and .NET applications for Twilio](https://www.twilio.com/blog/better-configuration-csharp-dotnet-for-twilio)
 - [Auto Refresh Settings Changes in ASP.NET Core Runtime](https://edi.wang/post/2019/1/5/auto-refresh-settings-changes-in-aspnet-core-runtime)
+- [Adding validation to strongly typed configuration objects in .NET 6](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-dotnet-6/)
+- [Adding validation to strongly typed configuration objects using FluentValidation](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-using-flentvalidation/)
+- [Azure Key Vault configuration provider in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/key-vault-configuration)
+- [Safe storage of app secrets in development in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets)
+- [Using User Secrets Configuration In .NET](https://dotnetcoretutorials.com/2022/04/28/using-user-secrets-configuration-in-net/)
+- [Secret Management in ASP.Net 5.0 Web APIs](https://technologyleads.io/blog/asp-net-5-web-api-secret-management)
+- [Secrets Management in .NET Applications](https://auth0.com/blog/secret-management-in-dotnet-applications/)
 ## Videos
 - [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
 - [AZURE APP CONFIGURATION | Central Store For Application Configuration | ASP.NET Core Series](https://www.youtube.com/watch?v=VEjYW14WKRM&t=3s)
@@ -36,12 +43,17 @@
 - [ENVIRONMENT SPECIFIC APP CONFIGURATION - 5 Ways To Manage For ASP NET on AZURE | ASP.NET Core Series](https://www.youtube.com/watch?v=wTSu2aCoR7Y&)
 - [Feature flags with .NET and Azure App Configuration](https://www.youtube.com/watch?v=CcbUqdh8Xw8)
 - [CONFIGURATION in ASP.NET Core | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=5GlgHV_12-k)
-
+- [SECRET MANAGER In ASP NET Core | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=PkLLP2tcd28)
+- [How to manage user secrets in dot net core](https://www.youtube.com/watch?v=8zcqGaPwDW0)
+- [Secretless apps with .NET and Azure Key Vault](https://www.youtube.com/watch?v=f8Hf-YUrC10)
+- [How to use Azure Key Vault + .NET Core easily | Secrets, Keys and Certificates - English](https://www.youtube.com/watch?v=RTq72C10x88)
 ## 📦 Libraries
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 - [bolorundurowb/dotenv.net](https://github.com/bolorundurowb/dotenv.net) - A library to read .env files in a .NET Core environment
 - [tonerdo/dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files
 ## 🔖 Samples
 - [Codebytes/dotnet-configuration-in-depth](https://github.com/Codebytes/dotnet-configuration-in-depth)
-- [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
+- [WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
+- [hashicorp/hello-vault-dotnet](https://github.com/hashicorp/hello-vault-dotnet) - Runnable C# examples of how to integrate an application with HashiCorp Vault.
+- [auth0-blog/dotnet-secrets-management](https://github.com/auth0-blog/dotnet-secrets-management)
 

@@ -43,7 +43,7 @@
 - [GregFinzer/Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) - What you have been waiting for 👍 Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 - [force-net/DeepCloner](https://github.com/force-net/DeepCloner) - Fast object cloner for .NET
 - [Tynamix/ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET/) - The .NET ObjectFiller fills the properties of your .NET objects with random data
-- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+- [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
 - [JonPSmith/EfCore.TestSupport](https://github.com/JonPSmith/EfCore.TestSupport) - Tools for helping in unit testing applications that use Entity Framework Core
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
@@ -65,3 +65,6 @@
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov
 - [SimonCropp/XunitContext](https://github.com/SimonCropp/XunitContext) - Extends xUnit to expose extra context and simplify logging
 - [oskardudycz/Ogooreck](https://github.com/oskardudycz/Ogooreck) - Sneaky Testing Library in BDD style
+- [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - .NET BDD Framework. 
+- [LightBDD/LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+- [machine/machine.specifications](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.

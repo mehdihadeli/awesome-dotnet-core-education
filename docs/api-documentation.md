@@ -6,6 +6,7 @@
 ## 📕 Articles
 
 - [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration)
+- [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 - [How to generate code from OpenAPI definition with Visual Studio 2019](https://www.code4it.dev/blog/openapi-code-generation-vs2019)
 - [ASP.NET Core web API documentation with Swagger / OpenAPI](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger)
 - [Getting Started with Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle)

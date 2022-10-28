@@ -42,6 +42,7 @@
 - [Serialization Performance Update With .NET 4.7.2](https://aloiskraus.wordpress.com/2018/05/06/serialization-performance-update-with-net-4-7-2/)
 - [The Definitive Serialization Performance Guide](https://aloiskraus.wordpress.com/2017/04/23/the-definitive-serialization-performance-guide/)
 - [PLAYING WITH SYSTEM.TEXT.JSON SOURCE GENERATORS](https://www.stevejgordon.co.uk/playing-with-system-text-json-source-generators)
+- [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/)
 ## 📺 Videos
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)
@@ -55,6 +56,7 @@
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/tree/master/csharp) - Protocol Buffers - Google's data interchange format
 - [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C#.
+- [gregsdennis/json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 ## Samples
 
 - [Alois-xx/SerializerTests](https://github.com/Alois-xx/SerializerTests) - .NET Serializer testing framework

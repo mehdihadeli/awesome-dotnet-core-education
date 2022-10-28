@@ -24,3 +24,4 @@
 - [damikun/trouble-training](https://github.com/damikun/trouble-training/blob/main/Doc/Identity.md) - FullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.
 - [hgmauri/elasticsearch-with-nest](https://github.com/hgmauri/elasticsearch-with-nest)
 - [stevejgordon/elasticsearch-demo](https://github.com/stevejgordon/elasticsearch-demo) - Demo code (before and after) from my talk "An introduction to Elasticsearch (for .NET developers)".
+- [AntonioFalcaoJr/Dotnet5.Elasticsearch](https://github.com/AntonioFalcaoJr/Dotnet5.Elasticsearch)

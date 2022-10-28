@@ -51,4 +51,4 @@
 ## 🚀 Samples
 - [fiyazbinhasan/GraphQLCoreFromScratch](https://github.com/fiyazbinhasan/GraphQLCoreFromScratch) - Learn how to implement scalable APIs with GraphQL and ASP.NET Core. Branch-wise code with the relevant topic for a smooth and easy walkthrough.
 - [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
-
+- [AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication](https://github.com/AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication) - This project exemplifies the implementation and dockerization of a simple Razor Web MVC Core consuming a full GraphQL 4 Web API, build in a .NET 6 multi-layer project, considering development best practices

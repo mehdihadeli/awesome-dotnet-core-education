@@ -48,3 +48,4 @@
 - [DotNetAnalyzers/AspNetCoreAnalyzers](https://github.com/DotNetAnalyzers/AspNetCoreAnalyzers)
 - [cezarypiatek/MultithreadingAnalyzer](https://github.com/cezarypiatek/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
 - [spectresystems/snitch](https://github.com/spectresystems/snitch) - A tool that help you find duplicate transitive package references.
+- [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
