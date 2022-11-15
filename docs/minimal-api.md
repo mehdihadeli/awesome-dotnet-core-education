@@ -40,7 +40,9 @@
 - [.Net 7 (Preview 4) - Minimal API Filters](https://dev.to/moe23/net-7-preview-4-minimal-api-filters-1812)
 - [Adding Clarity To .NET Minimal Hosting APIs](https://khalidabuhakmeh.com/adding-clarity-to-dotnet-minimal-hosting)
 - [Unit and integration tests in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/test-min-api)
-
+- [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
+- [ASP.NET Core Versioning: Minimal APIs](https://im5tu.io/article/2022/10/asp.net-core-versioning-minimal-apis/)
+- [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -61,6 +63,7 @@
 - [.NET 6 Minimal API Full Build](https://www.youtube.com/watch?v=5YB49OEmbbE)
 - [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
 - [Magically creating .NET CRUD API's in minutes!](https://www.youtube.com/watch?v=TI5CeNq3-o8)
+- [Versioning ASP.NET Core MVC & Minimal APIs](https://www.youtube.com/watch?v=YRJGKyzjFlY)
 ## 🚀 Samples
 - [dotnet/AspNetCore.Docs.Samples/minimal-apis/samples](https://github.com/dotnet/AspNetCore.Docs.Samples/tree/main/fundamentals/minimal-apis/samples)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
@@ -95,6 +98,7 @@
 - [Elfocrash/clean-minimal-api](https://github.com/Elfocrash/clean-minimal-api)
 - [khalidabuhakmeh/GroupsAndFilters](https://github.com/khalidabuhakmeh/GroupsAndFilters)
 - [dotnet/aspnet-api-versioning/examples](https://github.com/dotnet/aspnet-api-versioning/tree/main/examples)
+- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

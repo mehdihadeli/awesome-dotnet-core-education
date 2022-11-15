@@ -29,6 +29,7 @@
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 - [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
+- [Using MediatR in .NET? Maybe replace it with this](https://www.youtube.com/watch?v=aaFLtcf8cO4)
 ## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)

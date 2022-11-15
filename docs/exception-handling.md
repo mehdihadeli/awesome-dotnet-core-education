@@ -12,7 +12,7 @@
 - [Exceptions for flow control in C#](https://enterprisecraftsmanship.com/posts/exceptions-for-flow-control/) 
 - [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) 
 - [Fail Fast principle](https://enterprisecraftsmanship.com/posts/fail-fast-principle/) 
-- [REST API response codes: 400 vs 500](https://enterprisecraftsmanship.com/posts/rest-api-response-codes-400-vs-500/) 
+- [REST API response codes: 400 vs 500](https://enterprisecraftsmanship.com/posts/rest-api-response-codes-400-vs-500/)
 - [What is an exceptional situation in code?](https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/) 
 - [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) 
 - [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
@@ -54,6 +54,9 @@
 - [Exception Handling and Logging in ASP.NET Core Web API](https://codingsonata.com/exception-handling-and-logging-in-asp-net-core-web-api/)
 - [The art of designing exceptions](https://cezarypiatek.github.io/post/the-art-of-designing-exceptions/)
 - [Exception usage analyzer](https://cezarypiatek.github.io/post/exceptions-usages-analyzer/)
+- [Rethrow Exceptions with ExceptionDispatchInfo](https://weblogs.asp.net/morteza/rethrow-exceptions-with-exceptiondispatchinfo)
+- [ExceptionDispatchInfo And Capturing Exceptions](https://khalidabuhakmeh.com/exceptiondispatchinfo-and-capturing-exceptions)
+- [Top 10 Dotnet Exception Anti-Patterns in C#](https://newdevsguide.com/2022/11/06/exception-anti-patterns-in-csharp/)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)

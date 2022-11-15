@@ -87,6 +87,8 @@
 - [Refactor Functional Tests to support Minimal Web APIs](https://timdeschryver.dev/blog/refactor-functional-tests-to-support-minimal-web-apis)
 - [Intro to .NET Unit & Integration Testing with SpecsFor](https://www.infoq.com/articles/specsfor/)
 - [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
+- [Integration Testing ASP.NET Core APIs incl. auth and database](https://www.fearofoblivion.com/asp-net-core-integration-testing)
+- [Pro Testing with Xunit & Localstack](https://im5tu.io/article/2022/09/pro-testing-with-xunit-localstack/)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -102,6 +104,8 @@
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 - [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
+- [The BEST way to reset your database for testing in .NET](https://www.youtube.com/watch?v=E4TeWBFzcCw)
+
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
@@ -158,3 +162,4 @@
 - [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
 - [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin)
+- [ChrisKlug/asp-net-core-integration-testing-demo](https://github.com/ChrisKlug/asp-net-core-integration-testing-demo)

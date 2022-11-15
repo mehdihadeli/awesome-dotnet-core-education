@@ -11,7 +11,8 @@
 - [Notice: .NET 5 NuGet Restore Failures on Linux distributions using NSS or ca-certificates](https://github.com/NuGet/Announcements/issues/56
 - [The NuGet.org repository signing certificate will be updated as soon as March 15th, 2021](https://devblogs.microsoft.com/nuget/the-nuget-org-repository-signing-certificate-will-be-updated-as-soon-as-march-15th-2021/)
 - [Getting Started with Paket – Part 1](https://cockneycoder.wordpress.com/2017/08/07/getting-started-with-paket-part-1/)
-
+- [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/)
+- [Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
 ## Videos
 - [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
 

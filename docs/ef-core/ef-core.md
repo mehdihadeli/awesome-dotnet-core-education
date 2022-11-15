@@ -79,4 +79,4 @@
 - [ninjanye/SearchExtensions](https://github.com/ninjanye/SearchExtensions) - Library of IQueryable extension methods to perform searching
 - [efcore/EFCore.CheckConstraints](https://github.com/efcore/EFCore.CheckConstraints) - An Entity Framework Core plugin to automatically add check constraints in various situations
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
-
+- [efcore/EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)

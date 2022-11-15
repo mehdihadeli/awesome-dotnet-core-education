@@ -65,5 +65,6 @@
 - [buunguyen/fasterflect](https://github.com/buunguyen/fasterflect) - .NET Reflection Made Fast and Simple ⛺
 - [RicoSuter/Namotion.Reflection](https://github.com/RicoSuter/Namotion.Reflection) - .NET library with advanced reflection APIs.
 - [osoykan/FluentAssemblyScanner](https://github.com/osoykan/FluentAssemblyScanner) - Fluent assembly and type scanner 🔍 for .Net
+- [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 ## 📚 Books
 - [MetaProgramming in .Net](https://livebook.manning.com/book/metaprogramming-in-dot-net/)

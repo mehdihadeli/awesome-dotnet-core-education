@@ -11,3 +11,7 @@
 
 ## Libraries
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+- [cristipufu/aspnetcore-redis-rate-limiting](https://github.com/cristipufu/aspnetcore-redis-rate-limiting) - Set up a Redis backplane for ASP.NET Core multi-node deployments, using the built-in Rate Limiting support that's part of .NET 7.
+
+## Samples
+- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)

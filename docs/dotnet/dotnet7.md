@@ -1,4 +1,4 @@
-## .Net 7
+# .Net 7
 
 ## Articles
 - [ASP.NET Core updates in .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-7-preview-1/)
@@ -13,7 +13,7 @@
 - [Announcing .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/)
 - [Announcing .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/)
 - [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)
-
+- [What's new in .NET 7](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7)
 ## Videos
 - [Hidden gems and live coding with .NET 7 ](https://ignite.microsoft.com/en-US/sessions/639d9c8d-e826-4a51-9e75-4c2c402b410a)
 

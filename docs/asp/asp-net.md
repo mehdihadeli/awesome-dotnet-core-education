@@ -21,6 +21,7 @@
 - [Understanding PathBase in ASP.NET Core](https://andrewlock.net/understanding-pathbase-in-aspnetcore/)
 - [Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
 - [Using PathBase with .NET 6's WebApplicationBuilder](https://andrewlock.net/using-pathbase-with-dotnet-6-webapplicationbuilder/)
+- [How fast is really ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 ## Videos
 - [ASP.NET Community Standup - Contributing to ASP.NET Core](https://www.youtube.com/watch?v=hVdwb41FPvU)
 - [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)

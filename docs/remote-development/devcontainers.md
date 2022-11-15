@@ -1,6 +1,10 @@
 # DevContainers
 
-# Articles
+## Resources
+- [Development Containers](https://containers.dev/)
+- [Development Container Specification](https://containers.dev/implementors/spec/)
+
+## Articles
 - [devcontainer.json reference](https://code.visualstudio.com/docs/remote/devcontainerjson-reference)
 - [Dev container features (preview)](https://code.visualstudio.com/docs/remote/containers#_dev-container-features-preview)
 - [Dotnet CLI Install Script - Devcontainer Feature](https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/dotnet.md)
@@ -16,6 +20,7 @@
 - [Introduction to dev containers](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/introduction-to-dev-containers)
 - [GitHub Codespaces vs Gitpod – Full Stack Development Moves to the Cloud](https://www.freecodecamp.org/news/github-codespaces-vs-gitpod-cloud-based-dev-environments/)
 - [Development Containers & GitHub Codespaces kill the “works on my machine” problem](https://blog.codecentric.de/en/2022/06/dev-containers-github-codespaces/)
+
 ## Samples
 - [NikiforovAll/devcontainer-for-dotnet6-demo](https://github.com/NikiforovAll/devcontainer-for-dotnet6-demo)
 - [NikiforovAll/todo-csharp-cosmos-sql](https://github.com/NikiforovAll/todo-csharp-cosmos-sql)

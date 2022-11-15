@@ -33,6 +33,7 @@
 - [Publishing your docs with Postman](https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/)
 - [Swagger and ReDoc for Documenting WEB API in .NET 5](https://dev.to/caiocesar/swagger-and-redoc-for-documenting-web-api-in-net-5-2ba0)
 - [How to make ASP.NET Core API Documentation using Swagger and ReDoc (.NET 6)](https://christian-schou.dk/how-to-make-api-documentation-using-swagger/)
+- [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
 - [Generating API Documentations From Insomnia Using Insomnia Documenter - Tutorial and Demo](https://www.youtube.com/watch?v=pq2u3FqVVy8)

@@ -44,6 +44,7 @@
 - [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) - A basic template for writing a C# source generator
 - [dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators)
 - [edumentab/SourceGenerator-MediatR-CQRS](https://github.com/edumentab/SourceGenerator-MediatR-CQRS)
+- [davidfowl/SourceGeneratorPlayground](https://github.com/davidfowl/SourceGeneratorPlayground) - A playground for source generation ideas for asp.net core
 ## Libraries
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.

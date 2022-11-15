@@ -16,11 +16,13 @@
 - [All about Web API Versioning in ASP.NET Core](https://www.dotnetnakama.com/blog/all-about-web-api-versioning-in-asp-dotnet-core/)
 - [Asp.Net Core 5 - API Versioning](https://dev.to/moe23/asp-net-core-5-api-versioning-3jnp)
 - [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
+- [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
+- [ASP.NET Core Versioning: MVC APIs](https://im5tu.io/article/2022/09/asp.net-core-versioning-mvc-apis/)
+- [ASP.NET Core Versioning: Minimal APIs](https://im5tu.io/article/2022/10/asp.net-core-versioning-minimal-apis/)
 ## 📹 Videos
-
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s)
 - [Implementing versioning | ASP.NET Core 5 REST API Tutorial 2](https://www.youtube.com/watch?v=WFEE5yVJwGU)
-
+- [Versioning ASP.NET Core MVC & Minimal APIs](https://www.youtube.com/watch?v=YRJGKyzjFlY)
 ## Libraries
 - [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore
 - [dotnet/aspnet-api-versioning/examples](https://github.com/dotnet/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and 

@@ -74,6 +74,7 @@
 - [The Solution: Easier and More Secure With Authentication Gateways](https://www.angulararchitects.io/aktuelles/the-solution-easier-and-more-secure-with-authentication-gateways/)
 - [Authentication for multiple apps behind a reverse proxy](http://morganridel.fr/authentication-for-multiple-apps-behind-a-reverse-proxy)
 - [Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https://khalidabuhakmeh.com/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)
+- [What's New in .NET 7 for Authentication and Authorization](https://auth0.com/blog/whats-new-in-dotnet-7-for-authentication-and-authorization/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

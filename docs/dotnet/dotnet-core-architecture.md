@@ -17,7 +17,4 @@
 - [ASP.NET Core Architecture: Part 3](https://www.youtube.com/watch?v=OTpxQFXxKPs)
 - [ASP.NET Community Standup - ASP.NET Core Architecture: Part 2](www.youtube.com/watch?v=x_AXKLfG8o0)
 - [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [.NET Architects Panel | .NET Conf 2022](https://www.youtube.com/watch?v=x_JsCQCci_Q)
