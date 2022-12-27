@@ -13,6 +13,8 @@
 - [Getting Started with Paket – Part 1](https://cockneycoder.wordpress.com/2017/08/07/getting-started-with-paket-part-1/)
 - [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/)
 - [Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
+- [Ensuring best practices for NuGet packages](https://www.meziantou.net/ensuring-best-practices-for-nuget-packages.htm)
+- [Package authoring best practices](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
 ## Videos
 - [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
 

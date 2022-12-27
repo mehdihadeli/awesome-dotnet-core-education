@@ -26,11 +26,15 @@
 - [Authorization Code Flow](https://auth0.com/docs/flows/authorization-code-flow)
 - [Delegation Patterns for OAuth 2.0 using Token Exchange](https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20)
 - [IMPLEMENTING OPENID CODE FLOW WITH PKCE USING OPENIDDICT AND ANGULAR](https://damienbod.com/2017/04/11/implementing-openid-implicit-flow-using-openiddict-and-angular/)
+- [Using Duende BFF with React](https://wrapt.dev/blog/using-duende-bff-with-react)
+- [Securing SPAs using the BFF Pattern (once and for all)](https://blog.duendesoftware.com/posts/20210326_bff/)
 ## 📺 Videos
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 - [SECURING OAUTH BEARER TOKENS FROM MULTIPLE IDENTITY PROVIDERS IN AN ASP.NET CORE API](https://damienbod.com/2021/05/17/securing-multiple-identity-provider-oauth-bearer-tokens-in-an-asp-net-core-api/)
 - [SECURING MULTIPLE AUTH0 APIS IN ASP.NET CORE USING OAUTH BEARER TOKENS](https://damienbod.com/2021/04/19/securing-multiple-auth0-apis-in-asp-net-core-using-oauth-bearer-tokens/)
-
+- [ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=0uSwPdYOm9k)
+- [ASP.NET Core External Authentication (OAuth, .NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=PUXpfr1LzPE)
+- [ASP.NET Core Custom OAuth Server (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=EBVKlm0wyTE)
 ## Libraries
 - [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OpenID Connect stack for ASP.NET Core 2.1/3.1/5.0 and Microsoft.Owin 4.1 (compatible with ASP.NET 4.6.1)
 

@@ -23,7 +23,14 @@
 - [Supporting EF Core migrations with WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-5-supporting-ef-core-tools-with-webapplicationbuilder/)
 - [EF Core 6.0: Introducing Migration Bundles](https://jaliyaudagedara.blogspot.com/2021/08/ef-core-60-introducing-migration-bundles.html?spref=tw)
 - [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
-
+- [Dapper Migrations with FluentMigrator and ASP.NET Core](https://code-maze.com/dapper-migrations-fluentmigrator-aspnetcore/)
+- [Database Migrations with DbUp](https://elanderson.net/2020/08/database-migrations-with-dbup/)
+- [Database Creation with DbUp](https://elanderson.net/2020/10/database-creation-with-dbup/)
+- [Code-based Database Migrations with DbUp](https://elanderson.net/2020/08/code-based-database-migrations-with-dbup/)
+- [Always Run Migrations with DbUp](https://elanderson.net/2020/08/always-run-migrations-with-dbup/)
+- [Logging Script Output with DbUp](https://elanderson.net/2020/08/logging-script-output-with-dbup/)
+- [Migrations in Transactions with DbUp](https://elanderson.net/2020/09/migrations-in-transactions-with-dbup/)
+- [Applying Migrations](https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/applying?tabs=dotnet-core-cli)
 ## 📺 Videos
 - [Getting Started With DbUp And Setting Up Azure DEVOPS Pipeline | Deploy Changes to SQL Server](https://www.youtube.com/watch?v=Jm4C-WzAdls)
 - [Using fluentmigrator for automated database deployment (in ASP.NET Core)](https://www.youtube.com/watch?v=cdYR5aIJr80)
@@ -31,6 +38,7 @@
 - [Getting started with DbUp - Step By Step](https://www.youtube.com/watch?v=NSDbkNL-upU)
 - [Dev Streams Site - Adding FluentMigrator to ASP.NET Core - Ep 169](https://www.youtube.com/watch?v=IX5ehpjpH3g)
 - [Learn Dapper in an Hour! (.NET Core 5)](https://www.youtube.com/watch?v=IVsN0WlufWc)
+
 ## Samples
 - [bricelam/Sample-SplitMigrations](https://github.com/bricelam/Sample-SplitMigrations) - Use EFCore Migrations with multi-assembly project
 - [dotnet/EntityFramework.Docs/ThreeProjectMigrations](https://github.com/dotnet/EntityFramework.Docs/tree/main/samples/core/Schemas/ThreeProjectMigrations)

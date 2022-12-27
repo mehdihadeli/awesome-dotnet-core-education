@@ -1,6 +1,9 @@
 
 # BDD
 
+## Resources
+- [`omergulen/awesome-bdd`](https://github.com/omergulen/awesome-bdd) - A collection of awesome things regarding the behavior-driven development ecosystem. A curated list of courses, tutorials, libraries, tips and tricks, books, videos, and awesome resources about BDD.
+
 ## 📕 Articles
 - [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
 - [Ogooreck, a sneaky testing library in BDD style](https://event-driven.io/en/ogooreck_sneaky_bdd_testing_framework/)
@@ -23,12 +26,13 @@
 - [Getting Started with SpecFlow](https://www.youtube.com/watch?v=HpRzI0C-x-8)
 - [.Net Core Unit Testing (With Machine.Specifications and FakeItEasy)](https://www.youtube.com/watch?v=SaQPQik6_hc)
 ## Libraries
-- [oskardudycz/Ogooreck](https://github.com/oskardudycz/Ogooreck) - Sneaky Testing Library in BDD style
-- [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - .NET BDD Framework. 
-- [LightBDD/LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
-- [machine/machine.specifications](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
-- [MattHoneycutt/SpecsFor](https://github.com/MattHoneycutt/SpecsFor) - SpecsFor is a light-weight Behavior-Driven Development framework that focuses on ease of use for *developers* by minimizing testing friction.
-- [ttutisani/Xunit.Gherkin.Quick](https://github.com/ttutisani/Xunit.Gherkin.Quick) - BDD in .NET Core - using Xunit and Gherkin (compatible with both .NET Core and .NET)
+- [`oskardudycz/Ogooreck`](https://github.com/oskardudycz/Ogooreck) - Sneaky Testing Library in BDD style
+- [`SpecFlowOSS/SpecFlow`](https://github.com/SpecFlowOSS/SpecFlow) - .NET BDD Framework. 
+- [`LightBDD/LightBDD`](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+- [`machine/machine.specifications`](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
+- [`MattHoneycutt/SpecsFor`](https://github.com/MattHoneycutt/SpecsFor) - SpecsFor is a light-weight Behavior-Driven Development framework that focuses on ease of use for *developers* by minimizing testing friction.
+- [`ttutisani/Xunit.Gherkin.Quick`](https://github.com/ttutisani/Xunit.Gherkin.Quick) - BDD in .NET Core - using Xunit and Gherkin (compatible with both .NET Core and .NET)
+
 ## Samples
-- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample)
-- [MarkNijhof/Fohjin/](https://github.com/MarkNijhof/Fohjin/)
+- [`oskardudycz/EventSourcing.NetCore`](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample)
+- [`MarkNijhof/Fohjin`](https://github.com/MarkNijhof/Fohjin/)

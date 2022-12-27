@@ -64,6 +64,7 @@
 - [Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
 - [Intro to .NET Unit & Integration Testing with SpecsFor](https://www.infoq.com/articles/specsfor/)
 - [DRY vs DAMP in Unit Tests](https://enterprisecraftsmanship.com/posts/dry-damp-unit-tests)
+- [Automated Testing](https://docs.abp.io/en/abp/4.0/Testing)
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

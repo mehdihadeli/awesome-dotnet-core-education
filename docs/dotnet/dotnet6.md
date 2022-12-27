@@ -28,7 +28,7 @@
 - [.NET 6 Has Arrived: Here Are A Few of My Favorite Things](https://www.daveabrock.com/2021/12/03/dotnet-6-favorite-things/)
 - [What's new in .NET 6 and C# 10. Everything you wanted to know.](https://nikiforovall.github.io/dotnet/csharp/coding-stories/2021/10/29/whats-new-in-dotnet6.html)
 - [.Net 6: What’s new in LINQ at a glance!](http://damienvdk.com/index.php/2021/12/12/net-6-the-news-of-linq-in-a-wink/)
-
+- [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)

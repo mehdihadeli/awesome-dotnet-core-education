@@ -23,6 +23,7 @@
 - [Building a .NET 6 API Using TDD](https://www.youtube.com/watch?v=ULJ3UEezisw)
 - [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik](https://www.youtube.com/watch?v=2vEoL3Irgiw)
 - [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać](https://www.youtube.com/watch?v=IZWLnn2fNko)
+- [THIS stops 90% of C# Developers Learning TDD](https://www.youtube.com/watch?v=x5hsO6R6Me8)
 ## Samples
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)

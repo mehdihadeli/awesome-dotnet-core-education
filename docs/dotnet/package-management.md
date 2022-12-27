@@ -21,6 +21,8 @@
 - [Package Source Mapping](https://docs.microsoft.com/en-us/nuget/consume-packages/package-source-mapping)
 - [Finding transitive dependencies using dotnet core](https://joeblogs.technology/2021/03/finding-transitive-dependencies-using-dotnet-core/)
 - [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/)
+- [Ensuring best practices for NuGet packages](https://www.meziantou.net/ensuring-best-practices-for-nuget-packages.htm)
+- [Package authoring best practices](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
 ## Videos
 - [PM on the NuGet team at Microsoft - Claire Novotny - NDC London 2022](https://youtu.be/C_2BStepVKw?t=3102)
 - [NuGet PackageReference Versions SOLUTION Wide](https://www.youtube.com/watch?v=GolKKJmqxoc)

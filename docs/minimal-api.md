@@ -43,6 +43,7 @@
 - [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
 - [ASP.NET Core Versioning: Minimal APIs](https://im5tu.io/article/2022/10/asp.net-core-versioning-minimal-apis/)
 - [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
+- [Adding Experimental HTTP Methods To ASP.NET Core](https://khalidabuhakmeh.com/adding-experimental-http-methods-to-aspnet-core)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -64,6 +65,7 @@
 - [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
 - [Magically creating .NET CRUD API's in minutes!](https://www.youtube.com/watch?v=TI5CeNq3-o8)
 - [Versioning ASP.NET Core MVC & Minimal APIs](https://www.youtube.com/watch?v=YRJGKyzjFlY)
+- [.NET 7 minimal API from scratch | FULL COURSE | clean architecture, repository pattern, CQRS MediatR](https://www.youtube.com/watch?v=RRrsFE6OXAQ)
 ## 🚀 Samples
 - [dotnet/AspNetCore.Docs.Samples/minimal-apis/samples](https://github.com/dotnet/AspNetCore.Docs.Samples/tree/main/fundamentals/minimal-apis/samples)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
@@ -110,3 +112,4 @@
 - [DeeJayTC/net-dynamic-api](https://github.com/DeeJayTC/net-dynamic-api) - A library that turns your model into a fully working API, define your model as markdown, json or c#.
 - [NyronW/MinimalEndpoints](https://github.com/NyronW/MinimalEndpoints) - A light weight abstraction over ASP.NET minimal API
 - [michelcedric/StructuredMinimalApi](https://github.com/michelcedric/StructuredMinimalApi) - The goal of this project it's to show how to use MinimalApi.Endpoint package. It demontrate how to configure API endpoints as individual classes based on minimal Api (.Net 6)
+- [davidfowl/uController](https://github.com/davidfowl/uController) - A source generator for minimal APIs

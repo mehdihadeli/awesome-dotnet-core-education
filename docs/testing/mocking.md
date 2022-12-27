@@ -21,6 +21,9 @@
 - [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
 - [Why I stopped worrying about test setups by using AutoFixture](https://timdeschryver.dev/blog/why-i-stopped-worrying-about-test-setups-by-using-autofixture)
 - [Stubs and mocks break encapsulation](https://blog.ploeh.dk/2022/10/17/stubs-and-mocks-break-encapsulation/)
+- [How to Create Bogus Data in C#](https://jackhiston.com/2017/10/1/how-to-create-bogus-data-in-c/)
+- [Seed Entity Framework Core With Bogus Data](https://khalidabuhakmeh.com/seed-entity-framework-core-with-bogus)
+- [API mocking in C# with WireMock.Net](https://www.ontestautomation.com/api-mocking-in-csharp-with-wiremock-net/)
 ## 📺 Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)
@@ -28,7 +31,7 @@
 - [Generating realistic fake data in .NET using Bogus](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 - [Introduction to Unit Testing Using AutoFixture](https://www.youtube.com/watch?v=ivEke62spOg)
 - [Mocking APIs with Mockaco | .NET 7](https://www.youtube.com/watch?v=QBnXCgZFzM0)
-
+- [Writing robust integration tests in .NET with WireMock.NET](https://www.youtube.com/watch?v=YU3ohofu6UU)
 ## Libraries
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
 - [force-net/DeepCloner](https://github.com/force-net/DeepCloner) - Fast object cloner for .NET

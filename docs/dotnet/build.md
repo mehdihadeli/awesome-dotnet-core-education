@@ -5,7 +5,7 @@
 - [Cross-platform Build Automation with Nuke](https://dev.to/damikun/the-cross-platform-build-automation-with-nuke-1kmc)
 - [damikun/trouble-training/Doc/BuildSystem.md](https://github.com/damikun/trouble-training/blob/main/Doc/BuildSystem.md)
 - [Quick Wins for .NET build pipelines](https://gsferreira.com/archive/2022/quick-wins-for-dotnet-build-pipelines/)
-
+- [Automate your .NET project builds with NUKE a cross-platform build automation solution](https://laurentkempe.com/2022/02/02/automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution/)
 ## Videos
 - [MS Build: Things You Should Know About Project Files - .NET Oxford - January 2020](https://www.youtube.com/watch?v=5HEbsyU5E1g
 - [Build Automation with NUKE](https://www.youtube.com/watch?v=PuItTaThE6c)

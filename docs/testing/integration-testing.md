@@ -89,6 +89,12 @@
 - [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
 - [Integration Testing ASP.NET Core APIs incl. auth and database](https://www.fearofoblivion.com/asp-net-core-integration-testing)
 - [Pro Testing with Xunit & Localstack](https://im5tu.io/article/2022/09/pro-testing-with-xunit-localstack/)
+- [API mocking in C# with WireMock.Net](https://www.ontestautomation.com/api-mocking-in-csharp-with-wiremock-net/)
+- [Using WireMock for dotnet core Integration tests](https://pcholko.com/posts/2021-04-05/wiremock-integration-test/)
+- [Testing your ASP.NET Core application - using a real database](https://josef.codes/testing-your-asp-net-core-application-using-a-real-database/)
+- [CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/16/cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -105,7 +111,12 @@
 - [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 - [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
 - [The BEST way to reset your database for testing in .NET](https://www.youtube.com/watch?v=E4TeWBFzcCw)
-
+- [.NET 6 minimal API–Integration testing](https://bartwullems.blogspot.com/2022/01/net-6-minimal-apiintegration-testing.html)
+- [Building an Event Driven .NET Application: Integration Testing](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-integration-testing)
+- [Writing robust integration tests in .NET with WireMock.NET](https://www.youtube.com/watch?v=YU3ohofu6UU)
+- [Mocking APIs with Mockaco | .NET 7](https://www.youtube.com/watch?v=QBnXCgZFzM
+- [The BEST way to reset your database for testing in .NET](https://www.youtube.com/watch?v=E4TeWBFzcCw)
+- [Mastering Testcontainers for Better Integration Tests](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
@@ -127,6 +138,10 @@
 - [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
+- [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+- [bruno-garcia/Bazinga.AspNetCore.Authentication.Basic](https://github.com/bruno-garcia/Bazinga.AspNetCore.Authentication.Basic) - Basic Authentication for Microsoft ASP.NET Core Authentication
+- [EasyNetQ/EasyNetQ.Management.Client](https://github.com/EasyNetQ/EasyNetQ.Management.Client) - EasyNetQ.Management.Client is a .NET client for the RabbitMQ RESTful management API
+- [thinkco/rabbitmq-httpclient-dotnet](https://github.com/thinkco/rabbitmq-httpclient-dotnet) - RabbitMQ Management HTTP Client for .netCore
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)
@@ -163,3 +178,9 @@
 - [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
 - [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin)
 - [ChrisKlug/asp-net-core-integration-testing-demo](https://github.com/ChrisKlug/asp-net-core-integration-testing-demo)
+- [ServiceComposer/ServiceComposer.AspNetCore.Tests](https://github.com/ServiceComposer/ServiceComposer.AspNetCore/tree/master/src/ServiceComposer.AspNetCore.Tests)
+- [mehdihadeli/WebApplicationFactoryWithHost-Sample](https://github.com/mehdihadeli/WebApplicationFactoryWithHost-Sample)
+- [joseftw/jos.tests](https://github.com/joseftw/jos.tests)
+- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
+- [benjaminsampica/DynamoLeagueBlazor](https://github.com/benjaminsampica/DynamoLeagueBlazor)
+- [pdevito3/TestingServiceRegistration](https://github.com/pdevito3/TestingServiceRegistration)

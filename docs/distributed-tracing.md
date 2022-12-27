@@ -73,7 +73,8 @@
 - [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
 - [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
 - [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
-
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/pull/181)
+- [Eventuous/eventuous](https://github.com/Eventuous/eventuous)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

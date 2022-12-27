@@ -75,6 +75,11 @@
 - [Authentication for multiple apps behind a reverse proxy](http://morganridel.fr/authentication-for-multiple-apps-behind-a-reverse-proxy)
 - [Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https://khalidabuhakmeh.com/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)
 - [What's New in .NET 7 for Authentication and Authorization](https://auth0.com/blog/whats-new-in-dotnet-7-for-authentication-and-authorization/)
+- [Authorization for ASP.NET Web APIs](https://auth0.com/blog/aspnet-web-api-authorization/)
+- [Create development-time JWTs using dotnet user-jwts](https://craftbakery.dev/create-jwt-using-dotnet-user-jwts/)
+- [Authorize with a specific scheme in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme/)
+- [JWT authentication improvements & automatic authentication configuration](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-5/#jwt-authentication-improvements-automatic-authentication-configuration)
+- [Test Authorization in ASP.NET Core Web APIs With the user-jwts Tool](https://auth0.com/blog/test-authorization-in-aspnet-core-webapi-with-user-jwts-tool/)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -96,6 +101,18 @@
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
 - [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
 - [Developing Flexible Authorisation Capabilities in ASP NET Core - Jason Taylor - NDC Melbourne 2022](https://www.youtube.com/watch?v=BVJVhceN3N4)
+- [ASP.NET Core Authentication (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=ExQJljpj1lY)
+- [ASP.NET Core JWT Authentication Tutorial (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=8FvN5bhVYxY)
+- [ASP.NET Core External Authentication (OAuth, .NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=PUXpfr1LzPE)
+- [ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=0uSwPdYOm9k)
+- [ASP.NET Core SPA Authentication Tutorial (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=DpLtCbW_x2I)
+- [ASP.NET Core SSO with Cookie Authentication (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=o6lFWj6ExJs)
+- [ASP.NET Core Custom OAuth Server (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=EBVKlm0wyTE)
+- [ASP.NET Core Refresh Token (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=EC69dEspO64)
+- [ASP.NET Core Cookie Authentication (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=hw2B6SZj8y8)
+- [ASP.NET Core Authentication Schemas (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=N_zVCCpnjXM)
+- [ASP.NET Core Identity Management Guide (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=3_oGxPpSjLw)
+- [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.

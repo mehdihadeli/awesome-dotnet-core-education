@@ -46,6 +46,7 @@
 - [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
 - [ASP.NET Core Security Playlist - Frank Liu](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
 - [Secure minimal APIs with .NET 6 and Microsoft Identity](https://www.youtube.com/watch?v=ucj8hajOorg)
+- [ASP.NET Core Identity Management Guide (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=3_oGxPpSjLw)
 ## 🚀 Samples
 
 - [CustomUserManagement.MVC](https://github.com/iammukeshm/CustomUserManagement.MVC) - Let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.

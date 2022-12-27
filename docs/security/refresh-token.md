@@ -19,7 +19,7 @@
 ## 📺 Videos
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
 - [Refresh JWT with Refresh Tokens in Asp Net Core 5 Rest API Step by Step](https://www.youtube.com/watch?v=T_Hla1WzaZQ&ab_channel=MohamadLawand)
-
+- [ASP.NET Core Refresh Token (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=EC69dEspO64)
 ## 🚀 Samples
 - [manoj-choudhari-git/AspNetCore-Identity](https://github.com/manoj-choudhari-git/AspNetCore-Identity) - .NET Core Web API and Cookie Authentication
 - [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)

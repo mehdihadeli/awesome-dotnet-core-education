@@ -56,3 +56,5 @@
 - [kostya9/ApiClientGenerator](https://github.com/kostya9/ApiClientGenerator)
 - [meziantou/Meziantou.Framework.StronglyTypedId](https://github.com/meziantou/Meziantou.Framework/tree/main/src/Meziantou.Framework.StronglyTypedId)
 - [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
+- [davidfowl/uController](https://github.com/davidfowl/uController) - A source generator for minimal APIs
+- [devlooped/DependencyInjection.Attributed](https://github.com/devlooped/DependencyInjection.Attributed) - Provides compile-time discovery and code generation of service registrations from attributed types

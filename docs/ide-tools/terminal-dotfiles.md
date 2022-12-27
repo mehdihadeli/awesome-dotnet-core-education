@@ -14,6 +14,9 @@
 - [Getting Started With Dotfiles](https://www.webpro.nl/articles/getting-started-with-dotfiles)
 - [Dev Environment as a Code (DEaaC) with DevContainers, Dotfiles, and GitHub Codespaces](https://nikiforovall.github.io/productivity/devcontainers/2022/08/13/deaac.html)
 - [Try out .NET 6 inside your own development environment built with devcontainers, docker, and vscode](https://nikiforovall.github.io/productivity/devcontainers/2021/10/14/devcontainer-for-dotnet6.html)
+- [How did I automate the setup of my developer Windows laptop?](https://www.techwatching.dev/posts/automate-developer-machine)
+- [Automating my development machine installation](https://laurentkempe.com/2018/06/01/Automating-development-machine-installation/)
+- [Automate Windows 10 Developer Machine Setup](https://edi.wang/post/2018/12/21/automate-windows-10-developer-machine-setup)
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -21,6 +24,9 @@
 - [How to install and use fzf: the command-line fuzzy finder](https://www.youtube.com/watch?v=1a5NiMhqAR0)
 - [Customizing your ZSH Prompt with Git Info](https://www.youtube.com/watch?v=nEvsWQrKVcQ)
 - [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM)
+- [Windows Terminal Level Up! Oh My Posh, Nerd Fonts, and IntelliSense](https://www.youtube.com/watch?v=ila-keQMhGU)
+- [Windows Terminal My Top Tips for using Windows Terminal like a Pro](https://www.youtube.com/watch?v=FC-gLkYWXLw)
+- [Windows development setup with WSL2, ZSH, VSCode, and more](https://www.youtube.com/watch?v=oF6gLyhQDdw)
 ## Libraries
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - Queen Bey-inspired themes for all your favs.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
@@ -36,5 +42,19 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 - [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + IntelliJ IDEA + GitBash with zsh
+- [TechWatching/dotfiles](https://github.com/TechWatching/dotfiles)
+- [Microsoft/windows-dev-box-setup-scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+- [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+- [laurentkempe/Cacao](https://github.com/laurentkempe/Cacao) - Leveraging Boxstarter and Chocolatey to quickly install most of the developers tools I use for my daily job!
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [mattgwagner/dotfiles](https://github.com/mattgwagner/dotfiles) - A personal grab bag of development tools and references
+- [mattgwagner/New-Machine](https://github.com/mattgwagner/New-Machine) - Utilizing Vagrant, Packer, Chocolatey, and Boxstarter to Configure my Dev Machines
+- [kurone-kito/setup.windows](https://github.com/kurone-kito/setup.windows) - Desktop environment preference for Windows (8.1, or later)
+- [emgdev/dev-setup](https://github.com/emgdev/dev-setup)
+- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
+- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [renemarc/dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
+- [bevry/dorothy](https://github.com/bevry/dorothy) - A better dotfile ecosystem with cross-platform automations. Supports fish, zsh, bash, mac, linux, windows. Zero to hero in minutes on new and existing machines.
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

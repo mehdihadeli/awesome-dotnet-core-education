@@ -16,6 +16,7 @@
 - [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 - [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 - [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
+- [ASP .NET Core Web Application : Routing and Endpoint Internals](https://thecodeblogger.com/2021/05/27/asp-net-core-web-application-routing-and-endpoint-internals/)
 ## 📺 Videos
 - [ASP.NET Core Series: Route To Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 - [ASP.NET Core Series: Endpoint Routing](https://www.youtube.com/watch?v=fSSPEM3e7yY)

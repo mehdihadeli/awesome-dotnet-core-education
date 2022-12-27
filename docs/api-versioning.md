@@ -29,3 +29,7 @@
 
 ## Samples
 - [dotnet/aspnet-api-versioning/examples](https://github.com/dotnet/aspnet-api-versioning/tree/main/examples)
+- [dotnet/aspnet-api-versioning/WebApi/MinimalOpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalOpenApiExample)
+- [dotnet/aspnet-api-versioning/WebApi/OpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/OpenApiExample)
+- [dotnet/aspnet-api-versioning/WebApi/MinimalApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalApiExample)
+- [dotnet/aspnet-api-versioning/WebApi/BasicExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/BasicExample)

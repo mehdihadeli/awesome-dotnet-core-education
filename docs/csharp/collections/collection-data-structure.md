@@ -17,6 +17,7 @@
 - [What types should I use to pass collections in C#?](https://markheath.net/post/passing-collections-csharp)
 - [What types should I use to pass collections in C#?](https://markheath.net/post/passing-collections-csharp)
 - [Guidelines for Collections](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/guidelines-for-collections)
+- [Array, List, Collection, Set, ReadOnlyList - what? A comprehensive and exhaustive list of collection-like types](https://steven-giesel.com/blogPost/f11aadf5-5a55-4742-b046-28dddd0b3ebf)
 ## Libraries
 - [dadhi/ImTools](https://github.com/dadhi/ImTools) - Fast and memory-efficient immutable collections and helper data structures
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.

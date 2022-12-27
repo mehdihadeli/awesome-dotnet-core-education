@@ -6,9 +6,9 @@
 - [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
 - [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
 - [ASP.NET CORE DEPENDENCY INJECTION AND SERVICE LIFETIMES](https://peakup.org/blog/asp-net-core-dependency-injection-and-service-lifetimes/)
-- [Dependency Resolving Mastery in ASP.NET Core Apps](https://levelup.gitconnected.com/dependency-resolving-mastery-in-asp-net-core-apps-f3515ab40fd2)
-- [Top Misconceptions About Dependency Injection in ASP.NET Core](https://levelup.gitconnected.com/top-misconceptions-about-dependency-injection-in-asp-net-core-c6a7afd14eb4)
-- [Advanced Dependency Injection Techniques in ASP.NET Core](https://medium.com/geekculture/advanced-dependency-injection-techniques-in-asp-net-core-3e6e9e0c541a)
+- [Dependency Resolving Mastery in ASP.NET Core Apps](https://levelup.gitconnected.com/dependency-resolving-mastery-in-asp-net-core-apps-f3515ab40fd2) ⭐⭐⭐
+- [Top Misconceptions About Dependency Injection in ASP.NET Core](https://levelup.gitconnected.com/top-misconceptions-about-dependency-injection-in-asp-net-core-c6a7afd14eb4) ⭐⭐⭐
+- [Advanced Dependency Injection Techniques in ASP.NET Core](https://medium.com/geekculture/advanced-dependency-injection-techniques-in-asp-net-core-3e6e9e0c541a) ⭐⭐⭐
 - [Captive Dependency](https://blog.ploeh.dk/2014/06/02/captive-dependency/)
 - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 - [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
@@ -69,14 +69,19 @@
 - [Understanding the Composition Root](https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/)
 - [Configuring environment specific services for dependency injection in ASP.NET Core](https://andrewlock.net/configuring-environment-specific-services-in-asp-net-core/)
 - [Is Dependency Injection dead? - Part 1](https://www.davidguida.net/is-dependency-injection-dead-part-1)
-- [Is Dependency Injection dead? - Part 2: Service Lifetimes](https://www.davidguida.net/is-dependency-injection-dead-part-2-service-lifetimes
+- [Is Dependency Injection dead? - Part 2: Service Lifetimes](https://www.davidguida.net/is-dependency-injection-dead-part-2-service-lifetimes)
 - [Is Dependency Injection dead? - Part 3: Anti-Patterns](https://www.davidguida.net/is-dependency-injection-dead-part-3-anti-patterns)
+- [Controller activation and dependency injection in ASP.NET Core MVC](https://andrewlock.net/controller-activation-and-dependency-injection-in-asp-net-core-mvc/)
+- [New in ASP.NET Core 3: Service provider validation](https://andrewlock.net/new-in-asp-net-core-3-service-provider-validation/) ⭐⭐
+- [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
+- [Injecting services into ValidationAttributes in ASP.NET Core](https://andrewlock.net/injecting-services-into-validationattributes-in-asp-net-core/)
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)
 - [.NET Core Dependency Injection - The Booster Jab - with Steve Collins](https://www.youtube.com/watch?v=99Gp9khfgiY)
 - [Asp.Net Core - Dependency Injection - Deep Dive](https://www.youtube.com/watch?v=ORAfsRukNc4)
 - [Dependency Injection in ASP.NET Core 6 - Pluralsight](https://www.pluralsight.com/courses/dependency-injection-asp-dot-net-core-6)
+- [Validate your dependencies correctly in .NET](https://www.youtube.com/watch?v=8JkHgymp2R4)
 ## Libraries
 - [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) - Extensions for ASP.NET Core dependency injection
@@ -84,3 +89,4 @@
 - [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
 - [sefacan/Scrutor.AspNetCore](https://github.com/sefacan/Scrutor.AspNetCore) - ASP.NET Core Scrutor extension for automatic registration of classes inherited from IScopedLifetime, ISelfScopedLifetime, ITransientLifetime, ISelfTransientLifetime, ISingletonLifetime, ISelfSingletonLifetime
 - [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
+- [devlooped/DependencyInjection.Attributed](https://github.com/devlooped/DependencyInjection.Attributed) - Provides compile-time discovery and code generation of service registrations from attributed types

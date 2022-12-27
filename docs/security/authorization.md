@@ -33,14 +33,14 @@
 - [Introduction to Authorisation in ASP.NET Core](https://andrewlock.net/introduction-to-authorisation-in-asp-net-core/)
 - [Custom authorisation policies and requirements in ASP.NET Core](https://andrewlock.net/custom-authorisation-policies-and-requirements-in-asp-net-core/)
 - [Global Authorization Filter in .Net Core: .Net Core Security Part – V](https://neelbhatt.com/2018/03/23/global-authorization-filter-in-net-core-net-core-security-part-v/)
+- [Simplifying User and Role Based Permissions in .NET](https://wrapt.dev/blog/simplifying-user-and-role-based-permissions-in-dotnet)
+
 ## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
 - [Dominick Baier - Authorization for Modern Applications @ DevConf 2018](https://www.youtube.com/watch?v=Dlrf85NTuAU)
+- [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
 ## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -8,7 +8,9 @@
 - [Efficient Querying](https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#beware-of-lazy-loading)
 - [Efficient Updating](https://docs.microsoft.com/en-us/ef/core/performance/efficient-updating)
 - [Advanced Performance Topics](https://docs.microsoft.com/en-us/ef/core/performance/advanced-performance-topics?tabs=with-constant)
-
+- [Entity Framework 7 performance improvements due to less roundtrips](https://davecallan.com/entity-framework-7-performance-improvements/)
+- [Announcing Entity Framework Core 7 Preview 6: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-ef-core-7-preview6-performance-optimizations/)
+- [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
 ## Videos
 - [Common mistakes in EF Core - Jernej Kavka - NDC Sydney 2021](https://www.youtube.com/watch?v=iSWxny5MUY8)
 - [EF Core Performance - How to Optimize Database Updates?](https://www.youtube.com/watch?v=enpblqLhzzo)

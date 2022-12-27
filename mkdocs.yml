@@ -142,6 +142,7 @@ nav:
     - Operator: csharp/implicit-explicit-operators.md
     - Linq: csharp/linq.md
     - Covariance: csharp/covariance.md
+    - Required: csharp/required.md
     - Lowering: lowering.md
     - Extension Methods: csharp/extension-methods.md
     - Nullable Reference Types : csharp/nullable-reference-types.md
@@ -189,6 +190,7 @@ nav:
     - Release Notes: github/release-note.md
     - Git-Flow: github/git-flow.md
     - Projects: github/projects.md
+    - SSH: github/ssh.md
     - Copilot: github/copilot.md
     - GitHub SubModule: github/sub-module.md
   - Elastic Search: elastic-search.md
@@ -238,14 +240,17 @@ nav:
     - EF Core 6: ef-core/ef-core-6.md
     - EF Core 7: ef-core/ef-core-7.md
     - Expression Tree: ef-core/expression-tree.md
-    - Migrations: ef-core/migration.md
     - Explicit Loading: ef-core/explicit-loading.md
     - Eager Loading: ef-core/eager-loading.md
     - Lazy Loading: ef-core/lazy-loading.md
+    - Projection: ef-core/projection.md
     - Performance: ef-core/performance.md
     - Transaction: ef-core/transaction.md
     - Soft Delete: ef-core/soft-delete.md
     - Query Filters: ef-core/query-filter.md
+    - Reverse Engineering: ef-core/reverse-engineering.md
+    - Seed : ef-core/seed.md
+    - Own Types : ef-core/own-types.md
     - Split Query: ef-core/split-query.md
     - Interceptor: ef-core/interceptor.md
     - Change Tracking: ef-core/change-tracking.md
@@ -262,6 +267,7 @@ nav:
   - Rate Limiting: rate-limiting.md
   - Stronglt Type ID: strongly-type-id.md
   - Package Versioning: package-versioning.md
+  - Migrations: migration.md
   - Dapper: dapper.md
   - Multi Tenancy: multi-tenancy.md
   - Orleans: orleans.md

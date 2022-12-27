@@ -68,3 +68,7 @@
 - [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - .NET BDD Framework. 
 - [LightBDD/LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
 - [machine/machine.specifications](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
+- [webmotions/fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
+- [bruno-garcia/Bazinga.AspNetCore.Authentication.Basic](https://github.com/bruno-garcia/Bazinga.AspNetCore.Authentication.Basic) - Basic Authentication for Microsoft ASP.NET Core Authentication
+- [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API
+- [basdijkstra/rest-assured-net](https://github.com/basdijkstra/rest-assured-net) - C# DSL for writing readable tests for REST APIs
