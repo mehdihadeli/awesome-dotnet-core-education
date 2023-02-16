@@ -24,6 +24,7 @@
 - [How to Create Bogus Data in C#](https://jackhiston.com/2017/10/1/how-to-create-bogus-data-in-c/)
 - [Seed Entity Framework Core With Bogus Data](https://khalidabuhakmeh.com/seed-entity-framework-core-with-bogus)
 - [API mocking in C# with WireMock.Net](https://www.ontestautomation.com/api-mocking-in-csharp-with-wiremock-net/)
+- [Mocking dependencies in ASP.NET Core tests](https://cezarypiatek.github.io/post/mocking-dependencies-in-asp-net-core/)
 ## 📺 Videos
 - [Clean mocking for unit tests using NSubstitute in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=LcQYv0cBWk0)
 - [Getting started with Mocking using Moq in .NET (Core, Framework, Standard)](https://www.youtube.com/watch?v=9ZvDBSQa_so)

@@ -65,6 +65,7 @@
 - [Intro to .NET Unit & Integration Testing with SpecsFor](https://www.infoq.com/articles/specsfor/)
 - [DRY vs DAMP in Unit Tests](https://enterprisecraftsmanship.com/posts/dry-damp-unit-tests)
 - [Automated Testing](https://docs.abp.io/en/abp/4.0/Testing)
+- [Dotnet Core - Filter out specific test projects when running dotnet test](https://josef.codes/dotnet-core-filter-out-specific-test-projects-when-running-dotnet-test/)
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

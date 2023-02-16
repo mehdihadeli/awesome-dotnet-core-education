@@ -23,3 +23,7 @@
 - [SonarLint](https://www.sonarlint.org/)
 - [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer/tree/main/docs) - A Roslyn analyzer to enforce some good practices in C#.
 - [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+
+## Samples
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet/blob/develop/.editorconfig)
+- [BEagle1984/silverback ](https://github.com/BEagle1984/silverback/blob/master/.editorconfig)

@@ -22,6 +22,9 @@
 - [Test Data Builders in C#](https://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/)
 - [Why I stopped worrying about test setups by using AutoFixture](https://timdeschryver.dev/blog/why-i-stopped-worrying-about-test-setups-by-using-autofixture)
 - [Using records when implementing the builder pattern in C#](https://josef.codes/using-records-when-implementing-the-builder-pattern-in-c-sharp/)
+- [Dotnet Core - Filter out specific test projects when running dotnet test](https://josef.codes/dotnet-core-filter-out-specific-test-projects-when-running-dotnet-test/)
+- [How to set .runsettings in JetBrains Rider and MSTest](https://stackoverflow.com/questions/56787555/how-to-set-runsettings-in-jetbrains-rider-and-mstest)
+- [Configure unit tests by using a .runsettings file](https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022)
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
@@ -72,3 +75,5 @@
 - [bruno-garcia/Bazinga.AspNetCore.Authentication.Basic](https://github.com/bruno-garcia/Bazinga.AspNetCore.Authentication.Basic) - Basic Authentication for Microsoft ASP.NET Core Authentication
 - [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API
 - [basdijkstra/rest-assured-net](https://github.com/basdijkstra/rest-assured-net) - C# DSL for writing readable tests for REST APIs
+- [formulahendry/vscode-dotnet-test-explorer](https://github.com/formulahendry/vscode-dotnet-test-explorer) - .NET Core Test Explorer for Visual Studio Code
+- [VerifyTests/Verify.Wolverine](https://github.com/VerifyTests/Verify.Wolverine) - Adds Verify support for verifying Wolverine via a custom test context.

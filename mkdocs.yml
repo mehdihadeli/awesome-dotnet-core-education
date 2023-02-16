@@ -143,10 +143,10 @@ nav:
     - Linq: csharp/linq.md
     - Covariance: csharp/covariance.md
     - Required: csharp/required.md
-    - Lowering: lowering.md
+    - Compiler & Lowering: compiler-lowering.md
     - Extension Methods: csharp/extension-methods.md
     - Nullable Reference Types : csharp/nullable-reference-types.md
-    - Reflection : csharp/reflection.md
+    - Reflection & Assemblies: csharp/reflection.md
     - Null Check: csharp/null-check.md
     - Conditional Compilation & Assert: csharp/conditional-compilation-assert.md
     - Generic: csharp/generic.md
@@ -178,17 +178,17 @@ nav:
   - SignalR: signalr.md
   - HttpClient: httpclient.md
   - WEB API: web-api.md
-  - Urls: urls.md
+  - Lunch Urls & launchSettings: lunch-urls-launchsettings.md
   - Minimal API: minimal-api.md
   - ML.Net : ml-net.md
   - Background Tasks: background-tasks.md
-  - Validation: validation.md
   - Razor Pages: razor-pages.md
   - GraphQL: graphql.md
   - GitHub:
     - Git: github/git.md
     - Release Notes: github/release-note.md
     - Git-Flow: github/git-flow.md
+    - Conventional Commits: github/conventional-commits.md
     - Projects: github/projects.md
     - SSH: github/ssh.md
     - Copilot: github/copilot.md
@@ -233,7 +233,7 @@ nav:
     - TDD: testing/tdd.md
     - BDD: testing/bdd.md
     - XUnit: testing/xunit.md
-  - Exception Handling: exception-handling.md
+  - Exception && Validation: exception-validation.md
   - EF Core: 
     - EF Core: ef-core/ef-core.md
     - EF Core 5: ef-core/ef-core-5.md
@@ -266,14 +266,18 @@ nav:
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
   - Stronglt Type ID: strongly-type-id.md
-  - Package Versioning: package-versioning.md
+  - Semantic Versioning: semantic-versioning.md
   - Migrations: migration.md
   - Dapper: dapper.md
   - Multi Tenancy: multi-tenancy.md
   - Orleans: orleans.md
+  - Localization: localization.md
   - WebHook: webhook.md
   - Code Generation: code-generation.md
-  - Analizers: analizers.md
+  - Roslyn Analizers: roslyn-analizers.md
+  - Tools:
+    - Cake: tools/cake.md
+    - Nuke: tools/nuke.md
   - Remote Development:
     - DevContainers: remote-development/devcontainers.md
     - GitHub Codespace: remote-development/github-codespace.md

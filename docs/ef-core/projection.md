@@ -1,9 +1,10 @@
 # Projection
 
 ## Articles
-- [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/)
+- [Expression and Projection Magic for Entity Framework Core](https://benjii.me/2018/01/expression-projection-magic-entity-framework-core/) ⭐⭐
 - [EF Core Projection Queries](https://www.tektutorialshub.com/entity-framework-core/projection-queries-in-ef-core/)
 - [EF Projections on computed properties and methods without a hassle!](https://onthedrift.com/posts/efcore-projectables/)
+- [Avoid AsNoTracking and Include when querying using Entity Framework in ASP.NET](https://www.devtrends.co.uk/blog/avoid-asnotracking-and-include-when-querying-using-entity-framework-in-asp.net) ⭐⭐
 
 ## Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.

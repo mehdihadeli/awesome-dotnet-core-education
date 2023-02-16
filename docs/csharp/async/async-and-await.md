@@ -5,8 +5,8 @@
 - [Stephen Cleary Blog](https://blog.stephencleary.com/)
 - [Stephen Toub Blog](https://devblogs.microsoft.com/pfxteam/author/toub/)
 - [Task-Based Asynchronous Pattern - Whitepaper](http://www.microsoft.com/en-us/download/details.aspx?id=19957)
-## 📝 Articles
 
+## 📝 Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
 - [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
@@ -66,6 +66,10 @@
 - [A deep-dive into the new Task.WaitAsync() API in .NET 6](https://andrewlock.net/a-deep-dive-into-the-new-task-waitasync-api-in-dotnet-6/)
 - [Keeping up with .NET: learning about new features and APIs](https://andrewlock.net/keeping-up-with-dotnet-learning-about-new-features-and-apis/)
 - [C# async await explained](https://blog.ndepend.com/c-async-await-explained/)
+- [ASP.NET Core - Why async await is useful](https://steven-giesel.com/blogPost/b925c8c1-03ba-4eb6-9b81-f09df56e0158)
+- [No, No, No - Tasks are not threads and they are not for performance!](https://steven-giesel.com/blogPost/d095383f-7ea9-4419-96b8-889c6981cce0)
+- [Asynchronous Programming Patterns in .NET](https://code-maze.com/asynchronous-programming-patterns-dotnet/)
+
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)

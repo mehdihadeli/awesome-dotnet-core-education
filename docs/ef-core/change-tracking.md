@@ -11,3 +11,5 @@
 - [Secrets of DetectChanges Part 2: When is DetectChanges called automatically?](https://blog.oneunicorn.com/2012/03/11/secrets-of-detectchanges-part-2-when-is-detectchanges-called-automatically/)
 - [Secrets of DetectChanges Part 3: Switching off automatic DetectChanges](https://blog.oneunicorn.com/2012/03/12/secrets-of-detectchanges-part-3-switching-off-automatic-detectchanges/)
 - [Secrets of DetectChanges Part 4: Binary properties and complex types](https://blog.oneunicorn.com/2012/03/13/secrets-of-detectchanges-part-4-binary-properties-and-complex-types/)
+- [Entity Framework .AsNoTracking() – why & how (EF and EF Core)](https://agirlamonggeeks.com/2019/05/06/entity-framework-asnotracking-why-how-ef-and-ef-core/) ⭐⭐
+- [Avoid AsNoTracking and Include when querying using Entity Framework in ASP.NET](https://www.devtrends.co.uk/blog/avoid-asnotracking-and-include-when-querying-using-entity-framework-in-asp.net) ⭐⭐

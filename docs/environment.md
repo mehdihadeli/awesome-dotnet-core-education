@@ -8,6 +8,7 @@
 - [Different ways to set environment variable for .NET Core application](https://dejanstojanovic.net/aspnet/2018/july/different-ways-to-set-environment-for-net-core-application/)
 - [Naming of environment variables](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0#naming-of-environment-variables)
 - [Secrets Management in .NET Applications](https://auth0.com/blog/secret-management-in-dotnet-applications/)
+- [Using .env in .NET](https://dusted.codes/dotenv-in-dotnet) ⭐
 ## Videos
 - [ENVIRONMENTS in ASP NET Core | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=UPgHRiLw4is)
 - [ENVIRONMENT SPECIFIC APP CONFIGURATION - 5 Ways To Manage For ASP NET on AZURE | ASP.NET Core Series](https://www.youtube.com/watch?v=wTSu2aCoR7Y&)

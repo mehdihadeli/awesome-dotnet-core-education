@@ -7,6 +7,10 @@
 - [Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/)
 - [6 Hidden Productivity Gems in Resharper and Rider](https://michaelscodingspot.com/productivity-in-resharper-and-rider/)
 - [Using Git in JetBrain Rider](https://www.jetbrains.com/help/rider/Using_Git_Integration.html)
+- [Use EditorConfig - Rider](https://www.jetbrains.com/help/rider/2022.3/Using_EditorConfig.html) ⭐
+- [Configure code inspection settings](https://www.jetbrains.com/help/rider/Code_Analysis__Configuring_Warnings.html) ⭐
+- [Code Inspections in C# - Rider](https://jetbrains.com.xy2401.com/help/resharper/Reference__Code_Inspections_CSHARP.html) ⭐
+- [Index of EditorConfig properties - Rider](https://jetbrains.com.xy2401.com/help/resharper/EditorConfig_Index.html) ⭐
 
 ## 📺 Videos
 - [Navigation - ReSharper Essentials](https://www.youtube.com/watch?v=-LlVzyzO3mA)

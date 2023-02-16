@@ -17,6 +17,7 @@
 - [How did I automate the setup of my developer Windows laptop?](https://www.techwatching.dev/posts/automate-developer-machine)
 - [Automating my development machine installation](https://laurentkempe.com/2018/06/01/Automating-development-machine-installation/)
 - [Automate Windows 10 Developer Machine Setup](https://edi.wang/post/2018/12/21/automate-windows-10-developer-machine-setup)
+- [How to write great git commit messages|](https://bitspeicher.blog/how-to-be-a-good-commitizen/)
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -56,5 +57,14 @@
 - [renemarc/dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 - [bevry/dorothy](https://github.com/bevry/dorothy) - A better dotfile ecosystem with cross-platform automations. Supports fish, zsh, bash, mac, linux, windows. Zero to hero in minutes on new and existing machines.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [folke/devmoji](https://github.com/folke/devmoji) - 🤖 🚀 ✨ Emojify your conventional commits with Devmoji
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Intellij Context and template-based completion for conventional/semantic commits.
+- [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. ⭐
+- [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits ⭐⭐
+- [gitmoji-intellij-plugin](https://github.com/patou/gitmoji-intellij-plugin) - Intellij plugin for add a button on the commit dialog to add gitmoji
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

@@ -5,8 +5,8 @@
 
 ## 📕 Articles
 
-- [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration)
-- [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
+- [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi) ⭐
+- [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration) 
 - [How to generate code from OpenAPI definition with Visual Studio 2019](https://www.code4it.dev/blog/openapi-code-generation-vs2019)
 - [ASP.NET Core web API documentation with Swagger / OpenAPI](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger)
 - [Getting Started with Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle)
@@ -31,13 +31,14 @@
 - [How to Create Documentation for Your REST API with Insomnia](https://www.digitalocean.com/community/tutorials/how-to-create-documentation-for-your-rest-api-with-insomnia)
 - [Documenting your API with Postman](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
 - [Publishing your docs with Postman](https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/)
-- [Swagger and ReDoc for Documenting WEB API in .NET 5](https://dev.to/caiocesar/swagger-and-redoc-for-documenting-web-api-in-net-5-2ba0)
 - [How to make ASP.NET Core API Documentation using Swagger and ReDoc (.NET 6)](https://christian-schou.dk/how-to-make-api-documentation-using-swagger/)
-- [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 - [Multiple authorization scheme in Swagger UI in .NET core](https://medium.com/@niteshsinghal85/assign-specific-authorization-scheme-to-endpoint-in-swagger-ui-in-net-core-cd84d2a2ebd7)
 - [OpenAPI vs. Swagger](https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-5.0#openapi-vs-swagge)
 - [OpenAPI Specification on by default](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0?view=aspnetcore-5.0#openapi-specification-on-by-default)
-- [Generate C# client for OpenAPI](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
+- [Generate C# client for OpenAPI - NSwag](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html) ⭐⭐
+- [Get started with Swashbuckle and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle) ⭐
+- [What is AddEndpointsApiExplorer in ASP.NET Core 6](https://blog.devgenius.io/what-is-addendpointsapiexplorer-in-asp-net-core-6-64ba52d15979) ⭐
+- [What is AddEndpointsApiExplorer in ASP.NET Core 6 - StackOverflow](https://stackoverflow.com/a/71933535/581476) ⭐
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
@@ -56,7 +57,9 @@
 - [jozsefsallai/insomnia-documenter/](https://github.com/jozsefsallai/insomnia-documenter/) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Reference Documentation
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-
+- [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore
+- [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Use FluentValidation rules instead of ComponentModel attributes
+- [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions) - Swagger tools for documenting API's built on ASP.NET Core
 ## Samples
 - [dotnet/aspnet-api-versioning/WebApi/MinimalOpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalOpenApiExample)
 - [dotnet/aspnet-api-versioning/WebApi/OpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/OpenApiExample)

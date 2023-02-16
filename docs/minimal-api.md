@@ -19,8 +19,8 @@
 - [.NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
 - [ASP.NET Core in .NET 6 - Introducing minimal APIs](https://asp.net-hacker.rocks/2021/08/17/aspnetcore6-minimal-apis.html)
 - [ASP.NET Core 6: Minimal APIs, two reasons why I can’t do without it so far](https://anthonygiretti.com/2021/08/27/asp-net-core-6-minimal-apis-two-reasons-why-i-cant-do-without-it-so-far/)
-- [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
-- [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://benfoster.io/blog/minimal-apis-custom-model-binding-aspnet-6/)
+- [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/) ⭐⭐ 
+- [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://benfoster.io/blog/minimal-apis-custom-model-binding-aspnet-6/) ⭐⭐
 - [Getting a complex type as a simple type from the query string in a ASP.NET Core API controller](https://blog.codingmilitia.com/2022/01/03/getting-complex-type-as-simple-type-query-string-aspnet-core-api-controller/)
 - [A .NET 6 Minimal API Todo example Playground](https://www.hanselman.com/blog/a-net-6-minimal-api-todo-example-playground)
 - [An opinionated look at Minimal API in .NET 6](https://dev.to/nikiforovall/an-opinionated-look-at-minimal-api-in-net-6-33pd)
@@ -44,6 +44,16 @@
 - [ASP.NET Core Versioning: Minimal APIs](https://im5tu.io/article/2022/10/asp.net-core-versioning-minimal-apis/)
 - [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 - [Adding Experimental HTTP Methods To ASP.NET Core](https://khalidabuhakmeh.com/adding-experimental-http-methods-to-aspnet-core)
+- [What is AddEndpointsApiExplorer in ASP.NET Core 6](https://blog.devgenius.io/what-is-addendpointsapiexplorer-in-asp-net-core-6-64ba52d15979) ⭐
+- [What is AddEndpointsApiExplorer in ASP.NET Core 6 - StackOverflow](https://stackoverflow.com/a/71933535/581476) ⭐
+- [A first look behind the scenes of minimal API endpoints - Behind the scenes of minimal APIs - Part 1](https://andrewlock.net/behind-the-scenes-of-minimal-apis-1-a-first-look-behind-the-scenes-of-minimal-api-endpoints/) ⭐⭐
+- [Extracting metadata from a minimal API handler - Behind the scenes of minimal APIs - Part 2](https://andrewlock.net/behind-the-scenes-of-minimal-apis-2-extracting-metadata-from-a-minimal-api-handler/) ⭐⭐
+- [Exploring the model-binding logic of minimal APIs - Behind the scenes of minimal APIs - Part 3](https://andrewlock.net/behind-the-scenes-of-minimal-apis-3-exploring-the-model-binding-logic-of-minimal-apis/) ⭐⭐
+- [Generating argument expressions for minimal APIs - Behind the scenes of minimal APIs - Part 4](https://andrewlock.net/behind-the-scenes-of-minimal-apis-4-generating-argument-expressions-for-minimal-apis/) ⭐⭐
+- [Generating argument expressions for minimal APIs (continued) - Behind the scenes of minimal APIs - Part 5](https://andrewlock.net/behind-the-scenes-of-minimal-apis-5-generating-argument-expressions-for-minimal-apis-continuted/) ⭐⭐
+- [Generating the response writing expression for RequestDelegate
+Behind the scenes of minimal APIs - Part 6](https://andrewlock.net/behind-the-scenes-of-minimal-apis-6-generating-the-response-writing-expression/) ⭐⭐
+
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
@@ -66,6 +76,7 @@
 - [Magically creating .NET CRUD API's in minutes!](https://www.youtube.com/watch?v=TI5CeNq3-o8)
 - [Versioning ASP.NET Core MVC & Minimal APIs](https://www.youtube.com/watch?v=YRJGKyzjFlY)
 - [.NET 7 minimal API from scratch | FULL COURSE | clean architecture, repository pattern, CQRS MediatR](https://www.youtube.com/watch?v=RRrsFE6OXAQ)
+
 ## 🚀 Samples
 - [dotnet/AspNetCore.Docs.Samples/minimal-apis/samples](https://github.com/dotnet/AspNetCore.Docs.Samples/tree/main/fundamentals/minimal-apis/samples)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)

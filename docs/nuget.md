@@ -15,6 +15,8 @@
 - [Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
 - [Ensuring best practices for NuGet packages](https://www.meziantou.net/ensuring-best-practices-for-nuget-packages.htm)
 - [Package authoring best practices](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
+- [Detecting breaking changes between two versions of a NuGet package at packaging time](https://www.meziantou.net/detecting-breaking-changes-between-two-versions-of-a-nuget-package-at-packaging.htm)
+- [Validate against a baseline package version](https://learn.microsoft.com/en-us/dotnet/fundamentals/package-validation/baseline-version-validator?WT.mc_id=DT-MVP-5003978)
 ## Videos
 - [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
 

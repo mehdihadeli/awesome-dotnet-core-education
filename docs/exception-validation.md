@@ -1,4 +1,4 @@
-# Exception Handling
+# Exception && Validation
 
 ## 📝 Articles
 
@@ -29,6 +29,13 @@
 - [Mapping exceptions to HTTP responses with .NET Core](https://jeroenhildering.com/2016/11/24/mapping-exceptions-to-http-responses-with-net-core/)
 - [Setting up an Exception Mapper in .NET Core 2.0](https://www.foreach.be/blog/setting-up-an-exception-mapper-in-net-core-2-0)
 - [Using Middleware to trap Exceptions in Asp.Net Core](https://docs.microsoft.com/en-us/archive/blogs/brandonh/using-middleware-to-trap-exceptions-in-asp-net-core)
+- [Cool validation with FluentValidation](https://www.code4it.dev/blog/fluentvalidation)
+- [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
+- [How to Use Fluent Validation in ASP.NET Core 3 – Powerful Validations](https://codewithmukesh.com/blog/fluent-validation-aspnet-core/)
+- [CQRS Validation Pipeline with MediatR and FluentValidation](https://code-maze.com/cqrs-mediatr-fluentvalidation/)
+- [Using Fluent Validation with ASP.NET MVC - Part 1: The Basics](https://www.jerriepelser.com/blog/using-fluent-validation-with-asp-net-mvc-part-1-the-basics/)
+- [Using Fluent Validation with ASP.NET MVC - Part 2: Unit Testing](https://www.jerriepelser.com/blog/using-fluent-validation-with-asp-net-mvc-part-2-unit-testing/)
+- [Minimal API Validation with FluentValidation](https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation)
 - [Centralized exception handling and request validation in ASP.NET Core](https://www.strathweb.com/2018/07/centralized-exception-handling-and-request-validation-in-asp-net-core/)
 - [Error Handling and ExceptionFilter Dependency Injection for ASP.NET Core APIs](https://weblog.west-wind.com/posts/2016/oct/16/error-handling-and-exceptionfilter-dependency-injection-for-aspnet-core-apis)
 - [Global Exception Handling in ASP.NET Core WEB API](https://www.talkingdotnet.com/global-exception-handling-in-aspnet-core-webapi/)
@@ -57,14 +64,16 @@
 - [Rethrow Exceptions with ExceptionDispatchInfo](https://weblogs.asp.net/morteza/rethrow-exceptions-with-exceptiondispatchinfo)
 - [ExceptionDispatchInfo And Capturing Exceptions](https://khalidabuhakmeh.com/exceptiondispatchinfo-and-capturing-exceptions)
 - [Top 10 Dotnet Exception Anti-Patterns in C#](https://newdevsguide.com/2022/11/06/exception-anti-patterns-in-csharp/)
-## 📹 Videos
+- [How to validate business logic](https://event-driven.io/en/how_to_validate_business_logic/)
+- [Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/)
 
+## 📹 Videos
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
-- [Handling HTTP API Errors with Problem Details](https://www.youtube.com/watch?v=uvTT_0hqhyY&list=PLThyvG1mlMzk9bWLp4UzG4NFTYaWsc105&index=3)
-## Libraries
+- [Handling HTTP API Errors with Problem Details](https://www.youtube.com/watch?v=uvTT_0hqhyY)
 
+## Libraries
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 - [khellang/Middleware.ProblemDetails](https://github.com/khellang/Middleware/tree/master/src/ProblemDetails) - Various ASP.NET Core middleware
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
@@ -78,3 +87,4 @@
 - [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
 - [mantinband/throw](https://github.com/mantinband/throw) - A simple, fluent, extensible, and fully customizable library for throwing exceptions using .NET 6+
 - [amantinband/error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
+- [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assemblystrongly-typed validation rules.

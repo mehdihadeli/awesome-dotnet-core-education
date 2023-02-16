@@ -1,5 +1,8 @@
 # ID
 
+## Articles
+- [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
+
 ## Libraries
 - [RobThree/NUlid](https://github.com/RobThree/NUlid) - .Net ULID implementation
 - [RobThree/IdGen](https://github.com/RobThree/IdGen) - Twitter Snowflake-alike ID generator for .Net

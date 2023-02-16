@@ -48,6 +48,7 @@
 - [ASP.NET Core Configuration – Options Pattern](https://code-maze.com/aspnet-configuration-options/)
 - [ASP.NET Core Configuration – Options Validation](https://code-maze.com/aspnet-configuration-options-validation/)
 - [Validating .NET Configuration](https://chris-ayers.com/2022/12/03/validating-dotnet-configuration)
+- [Using .env in .NET](https://dusted.codes/dotenv-in-dotnet) ⭐
 ## Videos
 - [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
 - [AZURE APP CONFIGURATION | Central Store For Application Configuration | ASP.NET Core Series](https://www.youtube.com/watch?v=VEjYW14WKRM&t=3s)

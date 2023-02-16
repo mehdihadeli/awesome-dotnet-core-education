@@ -2,6 +2,7 @@
 
 ## 📕 Articles
 - [Quick introduction to xUnit.ne](https://www.meziantou.net/quick-introduction-to-xunitdotnet.htm)
+- [What xunit NuGet Packages Should I Use?](https://xunit.net/docs/nuget-packages) ⭐⭐
 - [Parallelize test cases execution in xUnit](https://www.meziantou.net/parallelize-test-cases-execution-in-xunit.htm)
 - [Writing Logs to xunit Test Output](https://blog.martincostello.com/writing-logs-to-xunit-test-output/)
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
@@ -25,13 +26,23 @@
 - [XUnit Collection fixtures](https://bartwullems.blogspot.com/2021/09/xunit-collection-fixtures.html)
 - [XUnit–Dependency Injection](https://bartwullems.blogspot.com/2021/04/xunitdependency-injection.html)
 - [XUnit - Make your tests more readible](https://bartwullems.blogspot.com/2020/04/xunit-make-your-tests-more-readible.html)
-
+- [XUnit – Part 7: Categorizing Tests with xUnit Trait](https://hamidmosalla.com/2020/03/01/xunit-part-7-categorizing-tests-with-xunit-trait/)
+- [Organizing Tests With xUnit Traits](https://www.brendanconnolly.net/organizing-tests-with-xunit-traits/)
+- [Improve your pipeline maintainability with test categories in xUnit](https://dateo-software.de/blog/test-categories-in-xunit)
+- [Custom Traits in xUnit](https://bytelanguage.wordpress.com/2020/12/12/custom-traits-in-xunit/)
+- [Test categories](https://www.jetbrains.com/help/rider/Test_Categories.html)
+- [Dotnet Core - Filter out specific test projects when running dotnet test](https://josef.codes/dotnet-core-filter-out-specific-test-projects-when-running-dotnet-test/)
+- [How to set .runsettings in JetBrains Rider and MSTest](https://stackoverflow.com/questions/56787555/how-to-set-runsettings-in-jetbrains-rider-and-mstest)
+- [Configure unit tests by using a .runsettings file](https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022)
+- [Capturing output in extensibility classes](https://xunit.net/docs/capturing-output#output-in-extensions) ⭐
+- [Add diagnostic message sink option for fixtures](https://github.com/xunit/xunit/issues/565) ⭐
+- [Tracking down a hanging xUnit test in CI: building a custom Test Framework](https://andrewlock.net/tracking-down-a-hanging-xunit-test-in-ci-building-a-custom-test-framework/) ⭐
 ## Videos
 - [Testing like a PRO with XUnit & Localstack - .NET 7](https://www.youtube.com/watch?v=Ad7wruPBp3M)
 
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [SimonCropp/XunitContext](https://github.com/SimonCropp/XunitContext) - Extends xUnit to expose extra context and simplify logging
-
+- [brendanconnolly/Xunit.Categories](https://github.com/brendanconnolly/Xunit.Categories) - Friendlier attributes to help categorize your tests
 ## Samples
 - [xunit/samples.xunit](https://github.com/xunit/samples.xunit) - Samples for xUnit.net 

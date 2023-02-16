@@ -1,5 +1,8 @@
 # Elastic Search
 
+## Resources
+- [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
+
 ## 📕 Articles
 - [Elasticsearch: How to Add Full-Text Search to Your Database](https://mentormate.medium.com/elasticsearch-how-to-add-full-text-search-to-your-database-ee2f3ea4d3f3)
 - [Logging with ElasticSearch, Kibana, ASP.NET Core and Docker](https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker)

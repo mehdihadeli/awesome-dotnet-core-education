@@ -75,6 +75,7 @@
 - [New in ASP.NET Core 3: Service provider validation](https://andrewlock.net/new-in-asp-net-core-3-service-provider-validation/) ⭐⭐
 - [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [Injecting services into ValidationAttributes in ASP.NET Core](https://andrewlock.net/injecting-services-into-validationattributes-in-asp-net-core/)
+- [Structure and order your DI container](https://steven-giesel.com/blogPost/f557493c-0919-44fc-8073-40b4fb90d53e)
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

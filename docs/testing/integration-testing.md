@@ -95,6 +95,7 @@
 - [CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/16/cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
+- [Mocking dependencies in ASP.NET Core tests](https://cezarypiatek.github.io/post/mocking-dependencies-in-asp-net-core/)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)

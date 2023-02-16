@@ -1,4 +1,4 @@
-# Analizers & Roslyn
+# Roslyn Analizers
 
 ## Resources
 - [Cybermaxs/awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
@@ -7,7 +7,7 @@
 
 - [GETTING STARTED WITH THE ROSLYN APIS: WRITING CODE WITH CODE](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
 - [USING THE ROSLYN APIS TO ANALYSE A .NET SOLUTION](https://www.stevejgordon.co.uk/using-the-roslyn-apis-to-analyse-a-dotnet-solution)
-- [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm)
+- [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm) ⭐⭐
 - [Overview of .NET source code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview)
 - [Rule categories](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/categories)
 - [Configuration options for code analysis](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/configuration-options)
@@ -49,3 +49,7 @@
 - [cezarypiatek/MultithreadingAnalyzer](https://github.com/cezarypiatek/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
 - [spectresystems/snitch](https://github.com/spectresystems/snitch) - A tool that help you find duplicate transitive package references.
 - [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
+
+## Samples
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet/blob/develop/.editorconfig)
+- [BEagle1984/silverback ](https://github.com/BEagle1984/silverback/blob/master/.editorconfig)

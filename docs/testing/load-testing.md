@@ -3,6 +3,7 @@
 
 ## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
+[grafana/k6-learn](https://github.com/grafana/k6-learn)
 
 ## 📝 Articles
 - [Load testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Load-testing)
@@ -21,7 +22,7 @@
 - [Testing REST API using K6](https://craftbakery.dev/testing-rest-api-using-k6/)
 - [How to control a live k6 test, with these built-in commands](https://k6.io/blog/how-to-control-a-live-k6-test/)
 - [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3)
-- [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6/)
+- [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6/) ⭐
 - [API load testing](https://k6.io/docs/testing-guides/api-load-testing/)
 - [Advanced Examples k6](https://k6.io/docs/using-k6/scenarios/advanced-examples/)
 - [How to generate a constant request rate in k6 with the new scenarios API?](https://k6.io/blog/how-to-generate-a-constant-request-rate-with-the-new-scenarios-api/)
@@ -44,3 +45,4 @@
 ## Samples
 - [servicetitan/Stl.Fusion.Samples](https://github.com/servicetitan/Stl.Fusion.Samples)
 - [SwissLife-OSS/K6-MultiScenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - A K6 Multi Scenario template applying some best practices along some examples
+- [grafana/k6-learn](https://github.com/grafana/k6-learn)
