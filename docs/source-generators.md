@@ -6,6 +6,7 @@
 - [Source Generators Cookbook](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md)
 - [Source Generators](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.md)
 - [davidwengier/SourceGeneratorPlayground](https://github.com/davidwengier/SourceGeneratorPlayground) - The source code for https://sourcegen.dev - The C# Source Generator Playground
+
 ## 📝 Articles
 - [Strongly-typed Ids using C# Source Generators - Gérald Barré](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
 - [Introducing C# Source Generators - DevBlogs](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
@@ -30,6 +31,15 @@
 - [Part 8 - Solving the source generator 'marker attribute' problem - Part 2](https://andrewlock.net/creating-a-source-generator-part-8-solving-the-source-generator-marker-attribute-problem-part2/)
 - [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
 - [Source generator updates: incremental generators ](https://andrewlock.net/exploring-dotnet-6-part-9-source-generator-updates-incremental-generators/)
+- [Mapping ASP.NET Core minimal API endpoints with C# source generators](https://blog.codingmilitia.com/2023/01/31/mapping-aspnet-core-minimal-api-endpoints-with-csharp-source-generators/)
+- [C# Source Generators: How to get build information?](https://steven-giesel.com/blogPost/cec8df6e-b271-4b4c-8ff6-e9f3aa5e26a1)
+- [Testing Roslyn Incremental Source Generators](https://www.meziantou.net/testing-roslyn-incremental-source-generators.htm) ⭐
+- [Incremental Roslyn Source Generators In .NET 6: Code Sharing Of The Future – Part 1](https://www.thinktecture.com/net/roslyn-source-generators-introduction/)
+- [Incremental Roslyn Source Generators In .NET 6: Testing Source Generators, Analyzers & Code Fixes – Part 3](https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes-testing/)
+- [C# Source Generators](https://mstack.nl/blog/20210801-source-generators)
+- [C# Source Generators - UnitTesting](https://mstack.nl/blog/20220801-source-generators-part2/)
+- [JOS.Enumeration - Now using source generators](https://josef.codes/jos-enumeration-now-using-source-generators/)
+
 ## 📺 Videos
 - [How to bend reality to your will with C# Source Generators](https://www.youtube.com/watch?v=pF1Qh2Ty7MQ)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s)
@@ -40,6 +50,8 @@
 - [C# Source Generators in Action, by Andrey Dyatlov](https://www.youtube.com/watch?v=052xutD86uI)
 - [C# Source Generators - Write code that writes code - David Wengier](https://www.youtube.com/watch?v=pqLs7X6Cr6s&t=221s)
 - [Do C# Source Generators ACTUALLY slow your build down?](https://www.youtube.com/watch?v=anesVdQg6Dk)
+- [Let’s Build an Incremental Source Generator With Roslyn, by Stefan Pölz](https://www.youtube.com/watch?v=azJm_Y2nbAI)
+
 ## 🚀 Samples
 - [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) - A basic template for writing a C# source generator
 - [dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators)

@@ -6,6 +6,7 @@
 
 ## Videos
 - [Testing your C# code reliably by freezing it in time](https://www.youtube.com/watch?v=Q1_YkcPwpqY)
+- [Snapshot Testing in .NET with Verify](https://www.youtube.com/watch?v=rS32vjMve48)
 
 ## Libraries
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework

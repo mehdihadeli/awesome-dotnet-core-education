@@ -1,8 +1,8 @@
 # Resiliency
 
 ## 📕 Articles
-- [Simmy, the monkey for making chaos](http://elvanydev.com/chaos-injection-with-simmy/)
-- [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
+- [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+- [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/) ⭐
 - [Simmy Chaos Engine for .NET – Part 1, Injecting Faults](https://nodogmablog.bryanhogan.net/2019/07/simmy-chaos-engine-for-net-part-1-injecting-faults/)
 - [Simmy Chaos Engine for .NET – Part 2, Resilience and Injected Faults](https://nodogmablog.bryanhogan.net/2019/07/simmy-chaos-engine-for-net-part-2-resilience-and-injected-faults/)
 - [Simmy Chaos Engine for .NET – Part 3, Adding Latency](https://nodogmablog.bryanhogan.net/2019/08/simmy-chaos-engine-for-net-part-3-adding-latency/)
@@ -11,24 +11,49 @@
 - [Implement resilient applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/)
 - [Handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/handle-partial-failure)
 - [Strategies to handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/partial-failure-strategies)
-- [Creating Resilient Microservices in .NET with Polly](https://code-maze.com/creating-resilient-microservices-in-net-with-polly/)
+- [Resiliency and high availability in microservices](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/resilient-high-availability-microservices)
+- [Implement resilient applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/)
+- [Handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/handle-partial-failure)
+- [Strategies to handle partial failure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/partial-failure-strategies)
+- [Creating Resilient Microservices in .NET with Polly](https://code-maze.com/creating-resilient-microservices-in-net-with-polly/) ⭐
 - [Microservice resilience – Circuit Breaker using polly in .Net Core](https://dotnetcorecentral.com/blog/microservice-resilience-circuit-breaker-using-polly-in-net-core/)
 - [Resiliency Patterns in Microservice Architecture](https://www.gokhan-gokalp.com/en/resiliency-patterns-in-microservice-architecture/)
-- [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
+- [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/) ⭐
 - [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
 - [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
+- [Refactoring Towards Resilience: A Primer](https://jimmybogard.com/refactoring-towards-resilience-a-primer/)
+- [Refactoring Towards Resilience: Evaluating Stripe Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-stripe-options/)
+- [Refactoring Towards Resilience: Evaluating SendGrid Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-sendgrid-options/)
+- [Refactoring Towards Resilience: Evaluating RabbitMQ Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-rabbitmq-options/)
+- [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
+- [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
+- [Fault Handling with Polly – A Beginners Guide](https://dotnetplaybook.com/fault-handling-with-polly-a-beginners-guide/)
+- [Improve resilience in the .NET applications](https://medium.com/@emanuele.bucarelli/improve-resilience-in-the-net-application-80adda2c7710) ⭐
 - [Build Resilient Microservices (Web API) using Polly in ASP.NET Core](https://procodeguide.com/programming/polly-in-aspnet-core/)
+- [Strategies to Handle Transient Faults in Web APIs](https://www.dotnetnakama.com/blog/strategies-to-handle-transient-faults-in-web-apis/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/) ⭐
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/) ⭐
+- [WORKING WITH POLLY – USING THE CONTEXT TO OBTAIN THE RETRY COUNT FOR DIAGNOSTICS](https://www.stevejgordon.co.uk/polly-using-context-to-obtain-retry-count-diagnostics)
+- [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/) ⭐
+- [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/) ⭐
+- [Using Polly for .NET Resilience and Transient-Fault-Handling with .NET Core](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core) ⭐
+- [Optimally Configuring ASP.NET Core HttpClientFactory](https://rehansaeed.com/optimally-configuring-asp-net-core-httpclientfactory/) ⭐
+
 ## 📺 Videos
-- [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
-- [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
+- [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
 - [Managing Resiliency in Microservices || Full Stack Virtual Conference](https://www.youtube.com/watch?v=DTFvQqQBN2c)
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
 - [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
+- [Bulkhead Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=R2FT5edyKOg)
+- [Circuit Breaker Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=ADHcBxEXvFA)
 - [Fault Handling with Polly and .NET 6](https://www.youtube.com/watch?v=DSMdUvL8N30)
 - [POLLY - RESILIENCY and FAULT HANDLING With HTTP Client | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=z6YcU0PW_9E)
 
-## Libraries
+## 📦 Libraries
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [Polly-Contrib/Simmy](https://github.com/Polly-Contrib/Simmy) - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
+
+## Samples
+- [RehanSaeed/HttpClientSample](https://github.com/RehanSaeed/HttpClientSample) ⭐ A sample ASP.NET Core project showing how to configure the HttpClientFactory

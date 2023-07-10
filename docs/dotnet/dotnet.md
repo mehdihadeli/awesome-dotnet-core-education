@@ -7,6 +7,7 @@
 - [Dotnet Developer References](https://github.com/hgmauri/references-for-dotnet-developers)
 - [Favourite .NET Content Creators](https://github.com/matthiasjost/dotnet-content-creators)
 ## 📝 Articles
+- [What is .NET, and why should you choose it?](https://devblogs.microsoft.com/dotnet/why-dotnet/)
 - [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 - [.NET Basics](https://dusted.codes/dotnet-basics)
 - [Introducing The .NET Coding Pack for VS Code - Getting Started with C# for Beginners](https://www.hanselman.com/blog/introducing-the-net-coding-pack-for-vs-code-getting-started-with-c-for-beginners)

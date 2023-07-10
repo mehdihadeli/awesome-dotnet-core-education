@@ -45,6 +45,8 @@
 - [Round-robin DNS support in .NET HttpClient](https://www.meziantou.net/round-robin-dns-support-in-dotnet-httpclient.htm)
 - [SOCKS Proxy Support In C# .NET](https://dotnetcoretutorials.com/2021/07/11/socks-proxy-support-in-net/)
 - [HTTP client and HTTP client factory in integration testing](https://milestone.topics.it/2021/11/10/http-client-factory-in-integration-testing.html)
+- [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
+
 ## 📺 Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)
@@ -54,4 +56,4 @@
 
 ## Samples
 - [jacobduijzer/PollyRefitBlogCode](https://github.com/jacobduijzer/PollyRefitBlogCode)
-
+- [RehanSaeed/HttpClientSample](https://github.com/RehanSaeed/HttpClientSample) ⭐ A sample ASP.NET Core project showing how to configure the HttpClientFactory

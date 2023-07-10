@@ -66,6 +66,10 @@
 - [DRY vs DAMP in Unit Tests](https://enterprisecraftsmanship.com/posts/dry-damp-unit-tests)
 - [Automated Testing](https://docs.abp.io/en/abp/4.0/Testing)
 - [Dotnet Core - Filter out specific test projects when running dotnet test](https://josef.codes/dotnet-core-filter-out-specific-test-projects-when-running-dotnet-test/)
+- [The “Best Practices” of Nested Unit Tests](https://www.testwithspring.com/lesson/the-best-practices-of-nested-unit-tests/)
+- [Writing Nested Unit Tests](https://www.testwithspring.com/lesson/writing-nested-unit-tests/)
+- [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
+
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 

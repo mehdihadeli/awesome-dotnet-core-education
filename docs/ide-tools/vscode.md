@@ -20,6 +20,7 @@
 - [Debugging Windows Subsystem for Linux](https://github.com/OmniSharp/omnisharp-vscode/wiki/Windows-Subsystem-for-Linux)  ⭐
 - [Attaching to remote processes](https://github.com/OmniSharp/omnisharp-vscode/wiki/Attaching-to-remote-processes)  ⭐
 - [Remote Debugging On Linux Arm](https://github.com/OmniSharp/omnisharp-vscode/wiki/Remote-Debugging-On-Linux-Arm)  ⭐
+- [How to debug a .NET Core app in Docker with VSCode](https://www.richard-banks.org/2018/07/debugging-core-in-docker.html)
 
 ## Videos
 - [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)

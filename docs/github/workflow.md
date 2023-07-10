@@ -27,10 +27,13 @@
 - [GitHub actions example for automatic release drafts and changelog.md creation](https://johanneskonings.dev/github/2021/02/28/github_automatic_releases_and-changelog/) ⭐
 - [Managing a branch protection rule](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule)
 - [How to write great git commit messages|](https://bitspeicher.blog/how-to-be-a-good-commitizen/)
-- [Release workflow guide](https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/release-workflow/README.md) ⭐⭐⭐
+- [Release workflow guide](https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/release-workflow/README.md) ⭐⭐
 - [Semantic versioning with git flow and the marvelous way to go there](https://levelup.gitconnected.com/semantic-versioning-with-git-flow-and-the-marvelous-way-to-go-there-b9f97b90455c)
 - [Fix git “tip of your current branch is behind its remote counterpart” - 4 real-world solutions](https://codewithhugo.com/fix-git-failed-to-push-updates-were-rejected/) ⭐
 - [What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/) ⭐
+- [GitFlow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful)
+- [OneFlow – a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+- [Follow-up to 'GitFlow considered harmful'](https://www.endoflineblog.com/follow-up-to-gitflow-considered-harmful)
 
 ## Videos
 - [Gitflow Tutorial Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS98ELS0mWqav1qTIYaChf41)

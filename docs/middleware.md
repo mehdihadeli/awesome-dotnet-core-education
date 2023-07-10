@@ -1,10 +1,11 @@
 	
 # Middleware
 
-## 📝 Articles
-
+## 📝 Articles 
+- [ASP.NET Core Middleware](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/) ⭐
+- [Write custom ASP.NET Core middleware](learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write) ⭐
+- [Middleware in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/middleware) ⭐
 - [DEEP DIVE: HOW IS THE ASP.NET CORE MIDDLEWARE PIPELINE BUILT?](https://www.stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built)
-- [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0)
 - [Understanding your middleware pipeline with the Middleware Analysis package](https://andrewlock.net/understanding-your-middleware-pipeline-with-the-middleware-analysis-package/)
 - [Exploring IStartupFilter in ASP.NET Core](https://andrewlock.net/exploring-istartupfilter-in-asp-net-core/)
 - [Creating an endpoint from multiple middleware in ASP.NET Core 3.x](https://andrewlock.net/creating-an-endpoint-from-multiple-middleware-in-aspnetcore-3/)

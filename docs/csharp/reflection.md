@@ -76,6 +76,7 @@
 - [Achieving compile-time performance with Reflection in C#](https://www.youtube.com/watch?v=er9nD-usM1A)
 - [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)
 - [C# Reflection Explained (Claim generation example)](https://www.youtube.com/watch?v=cdG2JxuZvNI)
+- [.NET IL Weaving Demo with Mono.Cecil](https://www.youtube.com/watch?v=L-RQmSPy7Qo)
 
 ## Tools
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)

@@ -69,6 +69,7 @@
 - [ASP.NET Core - Why async await is useful](https://steven-giesel.com/blogPost/b925c8c1-03ba-4eb6-9b81-f09df56e0158)
 - [No, No, No - Tasks are not threads and they are not for performance!](https://steven-giesel.com/blogPost/d095383f-7ea9-4419-96b8-889c6981cce0)
 - [Asynchronous Programming Patterns in .NET](https://code-maze.com/asynchronous-programming-patterns-dotnet/)
+- [How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
 
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)

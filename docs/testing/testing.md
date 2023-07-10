@@ -25,6 +25,9 @@
 - [Dotnet Core - Filter out specific test projects when running dotnet test](https://josef.codes/dotnet-core-filter-out-specific-test-projects-when-running-dotnet-test/)
 - [How to set .runsettings in JetBrains Rider and MSTest](https://stackoverflow.com/questions/56787555/how-to-set-runsettings-in-jetbrains-rider-and-mstest)
 - [Configure unit tests by using a .runsettings file](https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022)
+- [The “Best Practices” of Nested Unit Tests](https://www.testwithspring.com/lesson/the-best-practices-of-nested-unit-tests/)
+- [Writing Nested Unit Tests](https://www.testwithspring.com/lesson/writing-nested-unit-tests/)
+
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)

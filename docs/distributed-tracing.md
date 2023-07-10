@@ -50,6 +50,9 @@
 - [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
 - [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
 - [Request Tracing And Logging Between Multiple MicroService With Correlation Id Using Serilog In .NET Core](https://www.c-sharpcorner.com/article/logging-and-tracing-in-multiple-microservice-with-correlation-using-net-core/)
+- [Instrumenting .NET Apps with OpenTelemetry](https://www.thorsten-hans.com/instrumenting-dotnet-apps-with-opentelemetry/)
+- [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c)
+- [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
@@ -65,16 +68,8 @@
 - [Exploring distributed tracing with ASP NET Core 6](https://www.youtube.com/watch?v=l1_i8p2hVlE)
 - [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
 - [OpenTelemetry will save your day and night - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=pz4bNmlss3w)
-## 🚀 Samples
-- [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) 
-- [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
-- [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
-- [damikun/trouble-training](https://github.com/damikun/trouble-training)
-- [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
-- [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
-- [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
-- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/pull/181)
-- [Eventuous/eventuous](https://github.com/Eventuous/eventuous)
+- [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
+
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
@@ -85,3 +80,16 @@
 - [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
 - [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
+
+## 🚀 Samples
+- [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) 
+- [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
+- [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
+- [damikun/trouble-training](https://github.com/damikun/trouble-training)
+- [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
+- [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
+- [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/pull/181)
+- [Eventuous/eventuous](https://github.com/Eventuous/eventuous)
+- [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) ⭐ - Practical .NET Observability with OpenTelemetry Collector
+- [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector

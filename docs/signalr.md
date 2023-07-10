@@ -22,11 +22,10 @@
 - [ASP.NET Core Websockets with SignalR Intro](https://www.youtube.com/watch?v=Fr4rWZIDdzs)
 - [SignalR: To Chat and Beyond - David Pine](https://www.youtube.com/watch?v=i3RXbOY6-0I)
 - [ASP.NET Core SignalR - Feature Overview](https://www.youtube.com/watch?v=q5ZHAUUAlQE)
+- [ASP.NET Core SignalR - Notifications Service](https://www.youtube.com/watch?v=ccwFiOWN8n0)
+
 ## Samples
 - [binarythistle/S02E03-WebSockets-Vs-SignalR](https://github.com/binarythistle/S02E03-WebSockets-Vs-SignalR)
 - [IEvangelist/signalr-chat](https://github.com/IEvangelist/signalr-chat) - A chat app built with Blazor WebAssembly, hosted on ASP.NET Core, with the latest C# and SignalR -- need I say more?
 - [matthamil/Chatazon](https://github.com/matthamil/Chatazon) - Implementing websockets in .NET Core
 - [iammukeshm/BlazorChat](https://github.com/iammukeshm/BlazorChat) - Building a Complete Chat Application in Blazor WebAssembly 5.0 with SignalR and Identity. UI is taken care by MudBlazor Component Library
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

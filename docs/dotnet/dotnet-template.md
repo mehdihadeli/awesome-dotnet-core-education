@@ -1,15 +1,30 @@
 # .Net Template
 
+## Resources
+- [.Net Template Engine GitHub](https://github.com/dotnet/templating)
+
 ## 📕 Articles
 - [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
 - [HOW TO CREATE NEW MICROSERVICES EASILY WITH DOTNET CUSTOM TEMPLATES](https://kristhecodingunicorn.com/post/dotnet_custom_templates/)
-- [How to create your own templates for dotnet new](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/)
+- [How to create your own templates for dotnet new](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/) ⭐
 - [Reference for template.json](https://github.com/dotnet/templating/wiki/Reference-for-template.json)
 - [How to create your .NET project template to use with .NET CLI and Visual Studio](https://auth0.com/blog/create-dotnet-project-template/)
 - [Make your own custom .NET Core templates](https://craftbakery.dev/make-your-own-custom-netcore-template/)
+- [Creating .NET Project Templates](https://code-maze.com/dotnet-project-templates-creation/) ⭐
+- [Tutorial: Create an item template](https://learn.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-item-template)
+- [Tutorial: Create a project template](https://learn.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-project-template) ⭐
+- [Tutorial: Create a template package](https://learn.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-template-package)
+- [Custom templates for dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/custom-templates) ⭐⭐
+- [Reference for template.json](https://github.com/dotnet/templating/wiki/Reference-for-template.json) ⭐⭐
+- [Custom Project Templates Using dotnet new](https://rehansaeed.com/custom-project-templates-using-dotnet-new/)
+- [dotnet new Feature Selection](https://rehansaeed.com/dotnet-new-feature-selection/)
+- [Unit Testing dotnet new Templates](https://rehansaeed.com/unit-testing-dotnet-new-templates/)
 
 ## 📺 Videos
-- [On .NET Live - Creating your own .NET Project Templates](https://www.youtube.com/watch?v=H_pqfeRgTYw&t=751s)
+- [On .NET Live - Creating your own .NET Project Templates](https://www.youtube.com/watch?v=H_pqfeRgTYw)
+- [How to create your own project templates in .NET](https://www.youtube.com/watch?v=rdWZo5PD9Ek) ⭐
+- [Create a .NET Core Project Template](https://www.youtube.com/watch?v=GDNcxU0_OuE)
+- [Create a .NET Core Project Template for Visual Studio](https://www.youtube.com/watch?v=2hpNFrY_faI)
 
 ## Templates
 - [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) - Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach

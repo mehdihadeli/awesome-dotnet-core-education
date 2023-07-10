@@ -7,7 +7,7 @@
 - [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 - [Efficient Querying](https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#beware-of-lazy-loading)
 - [Efficient Updating](https://docs.microsoft.com/en-us/ef/core/performance/efficient-updating)
-- [Advanced Performance Topics](https://docs.microsoft.com/en-us/ef/core/performance/advanced-performance-topics?tabs=with-constant)
+- [Advanced Performance Topics](https://learn.microsoft.com/en-us/ef/core/performance/advanced-performance-topics)
 - [Entity Framework 7 performance improvements due to less roundtrips](https://davecallan.com/entity-framework-7-performance-improvements/)
 - [Announcing Entity Framework Core 7 Preview 6: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-ef-core-7-preview6-performance-optimizations/)
 - [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)

@@ -59,7 +59,7 @@
 - [Captive Dependency with ASP.NET Core](https://medium.com/dotnet-hub/captive-dependency-with-asp-net-core-what-is-captive-dependency-8698b588e048)
 - [.NET Core and DI – Beware of Captive Dependency](https://ankitvijay.net/2020/03/17/net-core-and-di-beware-of-captive-dependency/)
 - [Top Misconceptions About Dependency Injection in ASP.NET Core](https://levelup.gitconnected.com/top-misconceptions-about-dependency-injection-in-asp-net-core-c6a7afd14eb4)
-- [Configure Dependency Injection for .NET 5 Console Applications](https://www.programmingwithwolfgang.com/configure-dependency-injection-for-net-5-console-application)
+- [Configure Dependency Injection for .NET 5 Console Applications](https://www.programmingwithwolfgang.com/configure-dependency-injection-for-net-5-console-applications/)
 - [New dependency injection features in .NET 6 ](https://andrewlock.net/exploring-dotnet-6-part-10-new-dependency-injection-features-in-dotnet-6/)
 - [Dependency Injection Lifetimes in ASP.NET Core](https://code-maze.com/dependency-injection-lifetimes-aspnet-core/)
 - [Advanced Dependency Injection Techniques in ASP.NET Core](https://medium.com/geekculture/advanced-dependency-injection-techniques-in-asp-net-core-3e6e9e0c541a)
@@ -76,6 +76,14 @@
 - [The dangers and gotchas of using scoped services in IConfigureOptions](https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-in-asp-net-core/)
 - [Injecting services into ValidationAttributes in ASP.NET Core](https://andrewlock.net/injecting-services-into-validationattributes-in-asp-net-core/)
 - [Structure and order your DI container](https://steven-giesel.com/blogPost/f557493c-0919-44fc-8073-40b4fb90d53e)
+- [Building a Console App with .NET Generic Host](https://dfederm.com/building-a-console-app-with-.net-generic-host/)
+- [How To Enable Logging In .NET Console Applications](https://thecodeblogger.com/2021/05/11/how-to-enable-logging-in-net-console-applications/)
+- [USING HOSTBUILDER AND THE GENERIC HOST IN .NET CORE MICROSERVICES](https://www.stevejgordon.co.uk/using-generic-host-in-dotnet-core-console-based-microservices)
+- [How to run .NET Core Console app using generic host builder](https://stackoverflow.com/questions/68392429/how-to-run-net-core-console-app-using-generic-host-builder)
+- [Verifying your DI Container](https://steven-giesel.com/blogPost/ce948083-974a-4c16-877f-246b8909fa6d)
+- [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICEPROVIDER AND HOW IS IT BUILT?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built) ⭐⭐
+- [Dependency injection guidelines](https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-guidelines)
+
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)

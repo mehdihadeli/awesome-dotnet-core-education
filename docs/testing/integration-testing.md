@@ -96,6 +96,8 @@
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
 - [Mocking dependencies in ASP.NET Core tests](https://cezarypiatek.github.io/post/mocking-dependencies-in-asp-net-core/)
+- [How to Setup Integration Tests in .NET Without a WebApplicationFactory](https://wrapt.dev/blog/integration-tests-in-dotnet-without-webappfactory)
+
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -118,6 +120,7 @@
 - [Mocking APIs with Mockaco | .NET 7](https://www.youtube.com/watch?v=QBnXCgZFzM
 - [The BEST way to reset your database for testing in .NET](https://www.youtube.com/watch?v=E4TeWBFzcCw)
 - [Mastering Testcontainers for Better Integration Tests](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
+
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
@@ -185,3 +188,5 @@
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
 - [benjaminsampica/DynamoLeagueBlazor](https://github.com/benjaminsampica/DynamoLeagueBlazor)
 - [pdevito3/TestingServiceRegistration](https://github.com/pdevito3/TestingServiceRegistration)
+- [pdevito3/PatientPlayground](https://github.com/pdevito3/PatientPlayground) 
+- [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore)

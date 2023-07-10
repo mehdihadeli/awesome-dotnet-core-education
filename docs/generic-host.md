@@ -20,6 +20,11 @@
 - [Working With .NET Console Host Lifetime Events](https://khalidabuhakmeh.com/working-with-dotnet-console-host-lifetime-events)
 - [Comparing WebApplicationBuilder to the Generic Host](https://andrewlock.net/exploring-dotnet-6-part-2-comparing-webapplicationbuilder-to-the-generic-host/)
 - [Exploring the code behind WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-3-exploring-the-code-behind-webapplicationbuilder/)
+- [USING HOSTBUILDER AND THE GENERIC HOST IN .NET CORE MICROSERVICES](https://www.stevejgordon.co.uk/using-generic-host-in-dotnet-core-console-based-microservices)
+- [Building a Console App with .NET Generic Host](https://dfederm.com/building-a-console-app-with-.net-generic-host/)
+- [How To Enable Logging In .NET Console Applications](https://thecodeblogger.com/2021/05/11/how-to-enable-logging-in-net-console-applications/)
+- [How to run .NET Core Console app using generic host builder](https://stackoverflow.com/questions/68392429/how-to-run-net-core-console-app-using-generic-host-builder)
+
 ## 🔖 Samples
 
 - [updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)

@@ -1,4 +1,4 @@
-# Nuget
+# Nuget & Pack
 
 ## 📕 Articles
 
@@ -17,6 +17,13 @@
 - [Package authoring best practices](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
 - [Detecting breaking changes between two versions of a NuGet package at packaging time](https://www.meziantou.net/detecting-breaking-changes-between-two-versions-of-a-nuget-package-at-packaging.htm)
 - [Validate against a baseline package version](https://learn.microsoft.com/en-us/dotnet/fundamentals/package-validation/baseline-version-validator?WT.mc_id=DT-MVP-5003978)
+- [NuGet pack and restore as MSBuild targets](https://learn.microsoft.com/en-us/nuget/reference/msbuild-targets)
+- [.nuspec reference](https://learn.microsoft.com/en-us/nuget/reference/nuspec)
+- [Create a NuGet package using MSBuild](https://learn.microsoft.com/en-us/nuget/create-packages/creating-a-package-msbuild)
+- [Create a NuGet package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/create-packages/creating-a-package-dotnet-cli)
+- [Create a package using the nuget.exe CLI](https://learn.microsoft.com/en-us/nuget/create-packages/creating-a-package)
+- [Publishing a NuGet package using GitHub and GitHub Actions](https://www.meziantou.net/publishing-a-nuget-package-following-best-practices-using-github.htm)
+
 ## Videos
 - [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
 

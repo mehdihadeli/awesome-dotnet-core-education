@@ -18,6 +18,10 @@
 - [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
 - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
 - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
+- [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+- [Understanding the .NET ecosystem: The introduction of .NET Standard](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-introduction-of-dotnet-standard/)
+
+
 ## Videos
 - [Hidden gems and live coding with .NET 7 ](https://ignite.microsoft.com/en-US/sessions/639d9c8d-e826-4a51-9e75-4c2c402b410a)
 

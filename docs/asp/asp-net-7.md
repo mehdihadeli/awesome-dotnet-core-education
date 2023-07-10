@@ -16,6 +16,7 @@
 - [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
 - [Announcing ASP.NET Core in .NET 7](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/)
 - [What's new in ASP.NET Core 7.0](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-7.0)
+- [Problem Details responses everywhere with ASP.NET Core and .NET 7](https://www.strathweb.com/2022/08/problem-details-responses-everywhere-with-asp-net-core-and-net-7/)
 
 ## Videos
 - [ASP.NET Core in .NET 7 Preview 1 - What you need to know](https://www.youtube.com/watch?v=VgmsFck3RWU)

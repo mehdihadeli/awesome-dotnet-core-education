@@ -6,11 +6,14 @@
 - [A preview of WSL in the Microsoft Store is now available!](https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/)
 - [Systemd support is now available in WSL!](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 - [The Windows Subsystem for Linux in the Microsoft Store is now generally available on Windows 10 and 11](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-in-the-microsoft-store-is-now-generally-available-on-windows-10-and-11/)
+- [How to access host ip and port?](https://github.com/microsoft/WSL/issues/1032)
 
 ## 📺 Videos
 - [How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead?](https://www.youtube.com/watch?v=j0PPcUUtHlw)
 - [Developing on Windows with WSL2 (Subsystem for Linux), VS Code, Docker, and the Terminal](https://www.youtube.com/watch?v=A0eqZujVfYU&t=580s)
 - [WSL2, Visual Studio Code, Windows 10, Ubuntu/Linux + more - Computer Stuff They Didn't Teach You #19](https://www.youtube.com/watch?v=Owrk9UxnMdI)
+- [WSL 2 Networking](https://www.youtube.com/watch?v=yCK3easuYm4) ⭐
+- [A Linux Dev Environment on Windows with WSL 2, Docker Desktop and More](https://www.youtube.com/watch?v=idW-an99TAM)
 
 ## Libraries
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.

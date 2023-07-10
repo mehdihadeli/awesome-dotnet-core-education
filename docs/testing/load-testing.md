@@ -19,7 +19,7 @@
 - [Load Testing vs Stress Testing vs Performance Testing: Difference Discussed](https://www.guru99.com/performance-vs-load-vs-stress-testing.html)
 - [Load Testing vs Stress Testing](https://performancelabus.com/load-testing-vs-stress-testing/)
 - [Load Testing vs. Performance Testing vs. Stress Testing](https://stackify.com/load-testing-vs-performance-testing-vs-stress-testing/)
-- [Testing REST API using K6](https://craftbakery.dev/testing-rest-api-using-k6/)
+- [Testing REST API using K6](https://craftbakery.dev/testing-rest-api-using-k6/) ⭐
 - [How to control a live k6 test, with these built-in commands](https://k6.io/blog/how-to-control-a-live-k6-test/)
 - [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3)
 - [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6/) ⭐

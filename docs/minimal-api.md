@@ -5,8 +5,11 @@
 - [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 
 ## 📕 Articles
-- [Minimal APIs overview](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
+- [Minimal APIs overview](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis) ⭐
 - [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
+- [Parameter Binding in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/parameter-binding) ⭐
+- [How to create responses in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/responses) ⭐
+- [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi) ⭐
 - [Code samples migrated to the new minimal hosting model in ASP.NET Core 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60-samples)
 - [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Minimal APIs in ASP.NET Core 6.0](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/)
@@ -20,6 +23,7 @@
 - [ASP.NET Core in .NET 6 - Introducing minimal APIs](https://asp.net-hacker.rocks/2021/08/17/aspnetcore6-minimal-apis.html)
 - [ASP.NET Core 6: Minimal APIs, two reasons why I can’t do without it so far](https://anthonygiretti.com/2021/08/27/asp-net-core-6-minimal-apis-two-reasons-why-i-cant-do-without-it-so-far/)
 - [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/) ⭐⭐ 
+- [Minimal API validation with ASP.NET 7.0 Endpoint Filters](https://benfoster.io/blog/minimal-api-validation-endpoint-filters/) ⭐⭐ 
 - [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://benfoster.io/blog/minimal-apis-custom-model-binding-aspnet-6/) ⭐⭐
 - [Getting a complex type as a simple type from the query string in a ASP.NET Core API controller](https://blog.codingmilitia.com/2022/01/03/getting-complex-type-as-simple-type-query-string-aspnet-core-api-controller/)
 - [A .NET 6 Minimal API Todo example Playground](https://www.hanselman.com/blog/a-net-6-minimal-api-todo-example-playground)
@@ -42,7 +46,6 @@
 - [Unit and integration tests in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/test-min-api)
 - [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
 - [ASP.NET Core Versioning: Minimal APIs](https://im5tu.io/article/2022/10/asp.net-core-versioning-minimal-apis/)
-- [OpenAPI support in minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi)
 - [Adding Experimental HTTP Methods To ASP.NET Core](https://khalidabuhakmeh.com/adding-experimental-http-methods-to-aspnet-core)
 - [What is AddEndpointsApiExplorer in ASP.NET Core 6](https://blog.devgenius.io/what-is-addendpointsapiexplorer-in-asp-net-core-6-64ba52d15979) ⭐
 - [What is AddEndpointsApiExplorer in ASP.NET Core 6 - StackOverflow](https://stackoverflow.com/a/71933535/581476) ⭐
@@ -53,6 +56,17 @@
 - [Generating argument expressions for minimal APIs (continued) - Behind the scenes of minimal APIs - Part 5](https://andrewlock.net/behind-the-scenes-of-minimal-apis-5-generating-argument-expressions-for-minimal-apis-continuted/) ⭐⭐
 - [Generating the response writing expression for RequestDelegate
 Behind the scenes of minimal APIs - Part 6](https://andrewlock.net/behind-the-scenes-of-minimal-apis-6-generating-the-response-writing-expression/) ⭐⭐
+- [Building the final RequestDelegate Behind the scenes of minimal APIs - Part 7](https://andrewlock.net/behind-the-scenes-of-minimal-apis-7-building-the-final-requestdelegate/) ⭐⭐
+- [ASP.NET Core7: Use endpoint groups to manage minimal APIs versioning](https://anthonygiretti.com/2023/03/16/asp-net-core7-use-endpoint-groups-to-manage-minimal-apis-versioning/)
+- [What’s New in .NET 7 for Minimal APIs?](https://www.telerik.com/blogs/whats-new-dotnet-7-minimal-apis)
+- [Problem Details responses everywhere with ASP.NET Core and .NET 7](https://www.strathweb.com/2022/08/problem-details-responses-everywhere-with-asp-net-core-and-net-7/)
+- [Handle errors in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+- [How to handle errors in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/handle-errrors/)
+- [.NET 7 Preview 5: Using [AsParameters] Attribute for Parameter Binding in Minimal APIs](https://jaliyaudagedara.blogspot.com/2022/07/net-7-preview-5-using-asparameters.html) ⭐
+- [Using Query String Parameters with Minimal APIs](https://code-maze.com/aspnetcore-query-string-parameters-minimal-apis/)
+- [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
+- [Middleware in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/middleware) ⭐
+- [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
@@ -112,6 +126,7 @@ Behind the scenes of minimal APIs - Part 6](https://andrewlock.net/behind-the-sc
 - [khalidabuhakmeh/GroupsAndFilters](https://github.com/khalidabuhakmeh/GroupsAndFilters)
 - [dotnet/aspnet-api-versioning/examples](https://github.com/dotnet/aspnet-api-versioning/tree/main/examples)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
+
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
@@ -124,3 +139,4 @@ Behind the scenes of minimal APIs - Part 6](https://andrewlock.net/behind-the-sc
 - [NyronW/MinimalEndpoints](https://github.com/NyronW/MinimalEndpoints) - A light weight abstraction over ASP.NET minimal API
 - [michelcedric/StructuredMinimalApi](https://github.com/michelcedric/StructuredMinimalApi) - The goal of this project it's to show how to use MinimalApi.Endpoint package. It demontrate how to configure API endpoints as individual classes based on minimal Api (.Net 6)
 - [davidfowl/uController](https://github.com/davidfowl/uController) - A source generator for minimal APIs
+- [yavorfingarov/Reprise](https://github.com/yavorfingarov/Reprise) - A micro-framework that brings the REPR pattern into ASP.NET Core Minimal APIs.

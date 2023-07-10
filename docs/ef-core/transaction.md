@@ -11,3 +11,6 @@
 - [Transaction in Entity Framework](https://www.entityframeworktutorial.net/entityframework6/transaction-in-entity-framework.aspx)
 - [EF Core Advanced Topics Transaction](https://riptutorial.com/ef-core-advanced-topics/learn/100015/transaction)
 - [Entity Framework Core - Use TransactionScope With Caution!](https://www.thinktecture.com/en/entity-framework-core/use-transactionscope-with-caution-in-2-1/)
+- [TransactionScope with multiple databases in C#](https://www.educative.io/answers/transactionscope-with-multiple-databases-in-c-sharp)
+- [Using Transactions](https://learn.microsoft.com/en-us/ef/core/saving/transactions)
+- [Saving Data](https://learn.microsoft.com/en-us/ef/core/saving/)

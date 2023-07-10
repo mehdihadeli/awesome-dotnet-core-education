@@ -9,6 +9,4 @@
 - [Creating Windows Services In .NET Core – Part 3 – The “.NET Core Worker” Way](https://dotnetcoretutorials.com/2019/12/07/creating-windows-services-in-net-core-part-3-the-net-core-worker-way/)
 - [Creating Windows Services In .NET Core – Part 2 – The “Topshelf” Way](https://dotnetcoretutorials.com/2019/09/27/creating-windows-services-in-net-core-part-2-the-topshelf-way/)
 - [Access Background Services From ASP.NET Core](https://khalidabuhakmeh.com/access-background-services-from-aspnet-core)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [CONCURRENT HOSTED SERVICE START AND STOP IN .NET 8](https://www.stevejgordon.co.uk/concurrent-hosted-service-start-and-stop-in-dotnet-8)

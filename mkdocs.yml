@@ -65,9 +65,10 @@ markdown_extensions:
 nav:
   - .Net:
     - .Net : dotnet/dotnet.md
-    - .Net 5: dotnet/dotnet5.md
-    - .Net 6: dotnet/dotnet6.md  
-    - .Net 7: dotnet/dotnet7.md  
+    - .Net 8: dotnet/dotnet8.md 
+    - .Net 7: dotnet/dotnet7.md 
+    - .Net 6: dotnet/dotnet6.md     
+    - .Net 5: dotnet/dotnet5.md 
     - .Net Build: dotnet/build.md  
     - .Net Package Management: dotnet/package-management.md
     - .Net Standard: dotnet/dotnet-standard.md
@@ -77,8 +78,10 @@ nav:
     - .Net Core Tips: dotnet/dotnet-core-tips.md
     - .Net IL: dotnet/il.md
     -  MetaPack: dotnet/metapack.md
+    - global.json File: dotnet/global-json.md
   - ASP.NET Core:
     - ASP.NET Core: asp/asp-net.md 
+    - ASP.NET Core 8 : asp/asp-net-8.md 
     - ASP.NET Core 7 : asp/asp-net-7.md 
     - ASP.NET Core 6: asp/asp-net-6.md 
   - .Net CLI: 
@@ -196,7 +199,7 @@ nav:
   - Elastic Search: elastic-search.md
   - OData: odata.md
   - Debugging: debugging.md
-  - Nuget: nuget.md
+  - Nuget & Pack: nuget-pack.md
   - API Versioning: api-versioning.md
   - Hosted Service: hosted-service.md
   - Routing: routing.md
@@ -236,9 +239,10 @@ nav:
   - Exception && Validation: exception-validation.md
   - EF Core: 
     - EF Core: ef-core/ef-core.md
-    - EF Core 5: ef-core/ef-core-5.md
-    - EF Core 6: ef-core/ef-core-6.md
+    - EF Core 8: ef-core/ef-core-8.md
     - EF Core 7: ef-core/ef-core-7.md
+    - EF Core 6: ef-core/ef-core-6.md
+    - EF Core 5: ef-core/ef-core-5.md
     - Expression Tree: ef-core/expression-tree.md
     - Explicit Loading: ef-core/explicit-loading.md
     - Eager Loading: ef-core/eager-loading.md
@@ -252,15 +256,13 @@ nav:
     - Seed : ef-core/seed.md
     - Own Types : ef-core/own-types.md
     - Split Query: ef-core/split-query.md
+    - Compiled Query: ef-core/compiled-query.md
     - Interceptor: ef-core/interceptor.md
     - Change Tracking: ef-core/change-tracking.md
   - Environment: environment.md
   - ID: id.md
   - Mediator: mediator.md
-  - Mapping:
-     Mapping: mapping/mapping.md
-     Mapster: mapping/mapster.md
-     Auto Mapper: mapping/auto-mapper.md
+  - Mapping: mapping.md
   - Caching: caching.md
   - Model Binding: model-binding.md
   - Benchmarking: benchmarking.md

@@ -64,8 +64,10 @@
 - [Rethrow Exceptions with ExceptionDispatchInfo](https://weblogs.asp.net/morteza/rethrow-exceptions-with-exceptiondispatchinfo)
 - [ExceptionDispatchInfo And Capturing Exceptions](https://khalidabuhakmeh.com/exceptiondispatchinfo-and-capturing-exceptions)
 - [Top 10 Dotnet Exception Anti-Patterns in C#](https://newdevsguide.com/2022/11/06/exception-anti-patterns-in-csharp/)
-- [How to validate business logic](https://event-driven.io/en/how_to_validate_business_logic/)
-- [Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/)
+- [How to validate business logic](https://event-driven.io/en/how_to_validate_business_logic/) ⭐
+- [Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/) ⭐
+- [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/) ⭐
+- [ASP.NET Core 8: Improved exception handling with IExceptionHandler](https://anthonygiretti.com/2023/06/14/asp-net-core-8-improved-exception-handling-with-iexceptionhandler/)
 
 ## 📹 Videos
 - [STOP throwing Exceptions! Start being Explicit](https://www.youtube.com/watch?v=4UEanbBaJy4)

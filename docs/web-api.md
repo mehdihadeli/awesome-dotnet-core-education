@@ -98,8 +98,10 @@
 - [The Best C# .NET Web Application Tech Stack: Choosing The Back End](https://michaelscodingspot.com/web-application-csharp-server-side/)
 - [Exploring the new output caching middleware](https://dev.to/this-is-learning/exploring-the-new-output-caching-middleware-4no1)
 - [ASP.NET Core on .NET 7.0 - Output caching](https://asp.net-hacker.rocks/2022/07/26/aspnetcore7-outputcaching.html)
-## 📹 Videos
+- [Problem Details responses everywhere with ASP.NET Core and .NET 7](https://www.strathweb.com/2022/08/problem-details-responses-everywhere-with-asp-net-core-and-net-7/)
+- [Handle errors in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
 
+## 📹 Videos
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
 - [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
 - [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
@@ -133,8 +135,9 @@
 - [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
 - [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
 - [Making .NET 7’s NEW output cache scale with Redis](https://www.youtube.com/watch?v=WeHZ_NMC-Jo)
-## 📦 Libraries
+- [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU) ⭐
 
+## 📦 Libraries
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
 - [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.

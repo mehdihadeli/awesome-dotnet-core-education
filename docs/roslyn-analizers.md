@@ -28,6 +28,8 @@
 - [Raising Coding Standards with .NET 6.0 Code Analyzers](https://endjin.com/blog/2022/01/raising-coding-standard-dotnet-analyzers)
 - [Runtime C# Code Compilation Revisited for Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)
 - [Finding .NET Transitive Dependencies and Tidying Up Your Project](https://gsferreira.com/archive/2022/finding-dotnet-transitive-dependencies-and-tidying-up-your-project/)
+- [Incremental Roslyn Source Generators In .NET 6: Better Experience Through Roslyn Analyzers & Code Fixes – Part 2](https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes/)
+- [Incremental Roslyn Source Generators In .NET 6: Testing Source Generators, Analyzers & Code Fixes – Part 3](https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes-testing/)
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)

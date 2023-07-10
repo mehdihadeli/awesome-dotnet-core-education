@@ -1,6 +1,9 @@
 # Authentication
 
 ## 📝 Articles
+- [Introduction to JSON Web Tokens](https://jwt.io/introduction)
+- [JSON Web Tokens](https://auth0.com/docs/secure/tokens/json-web-tokens)
+- [The Hard Parts of JWT Security Nobody Talks About](https://www.pingidentity.com/en/resources/blog/post/jwt-security-nobody-talks-about.html)
 - [Overview of ASP.NET Core authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication)
 - [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 - [.NET 5.0 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2021/05/25/net-5-simple-api-for-authentication-registration-and-user-management)
@@ -80,6 +83,8 @@
 - [Authorize with a specific scheme in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme/)
 - [JWT authentication improvements & automatic authentication configuration](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-5/#jwt-authentication-improvements-automatic-authentication-configuration)
 - [Test Authorization in ASP.NET Core Web APIs With the user-jwts Tool](https://auth0.com/blog/test-authorization-in-aspnet-core-webapi-with-user-jwts-tool/)
+- [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/)
+
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -142,3 +147,5 @@
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 - [madeyoga/AuthEndpoints](https://github.com/madeyoga/AuthEndpoints) - A simple auth library for Asp.Net 6 that provides a set of web api controllers and minimal api endpoints to handle authentication actions
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [dmunch/biscuit-net](https://github.com/dmunch/biscuit-net) - .NET implementation of the Biscuit authorization token specification
+- [pdevito3/HeimGuard](https://github.com/pdevito3/HeimGuard) - A simple library that allows you to easily manage permissions in your .NET projects.

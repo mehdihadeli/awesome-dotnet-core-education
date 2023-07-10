@@ -6,6 +6,9 @@
 - [How to use Cake with Github Actions](https://garywoodfine.com/how-to-use-cake-with-github-actions/)
 - [Simplified versioning and publishing for .NET libraries](https://medium.com/@michael.wolfenden/simplified-versioning-and-publishing-for-net-libraries-a28e5e740fa6)
 
+## Videos
+- [Cake (C#) - both scripting and Frosting!](www.youtube.com/watch?v=qKRxSut0W-I)
+
 ## Libraries
 - [cake-build/cake-action](https://github.com/cake-build/cake-action) Run Cake (C# Make) scripts in your GitHub Actions workflows.
 

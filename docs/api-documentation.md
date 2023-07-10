@@ -4,9 +4,10 @@
 [Swagger Github](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/README.md)
 
 ## 📕 Articles
-
 - [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi) ⭐
 - [Understanding Swagger integration in .NET Core](https://www.code4it.dev/blog/swagger-integration) 
+- [Get started with NSwag and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag) ⭐
+- [Get started with Swashbuckle and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle) ⭐
 - [How to generate code from OpenAPI definition with Visual Studio 2019](https://www.code4it.dev/blog/openapi-code-generation-vs2019)
 - [ASP.NET Core web API documentation with Swagger / OpenAPI](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger)
 - [Getting Started with Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle)
@@ -36,9 +37,21 @@
 - [OpenAPI vs. Swagger](https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-5.0#openapi-vs-swagge)
 - [OpenAPI Specification on by default](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0?view=aspnetcore-5.0#openapi-specification-on-by-default)
 - [Generate C# client for OpenAPI - NSwag](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html) ⭐⭐
-- [Get started with Swashbuckle and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle) ⭐
 - [What is AddEndpointsApiExplorer in ASP.NET Core 6](https://blog.devgenius.io/what-is-addendpointsapiexplorer-in-asp-net-core-6-64ba52d15979) ⭐
 - [What is AddEndpointsApiExplorer in ASP.NET Core 6 - StackOverflow](https://stackoverflow.com/a/71933535/581476) ⭐
+- [Understanding  the API-First Approach to Building Products](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+- [How Wix Accelerated Open Platform Dev with Standardized APIs & Schemas](https://medium.com/wix-engineering/how-wix-accelerated-open-platform-dev-with-standardized-apis-schemas-e4fbbf25f5d8)
+- [Contract first OpenAPI development (but still use Swagger UI with ASP.NET Core)](https://blog.codingmilitia.com/2023/04/02/contract-first-openapi-development-but-still-use-swagger-ui-with-asp.net-core/) ⭐
+- [Using OpenApiReference To Generate Open API Client Code](https://stevetalkscode.co.uk/openapireference-commands)
+- [NSwag.MSBuild](https://github.com/RicoSuter/NSwag/wiki/NSwag.MSBuild) ⭐
+- [NSwag Configuration Document](https://github.com/RicoSuter/NSwag/wiki/NSwag-Configuration-Document) ⭐
+- [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)
+- [Open-source HTTP API packages and tools](https://devblogs.microsoft.com/dotnet/open-source-http-api-packages-and-tools/)
+- [Generating HTTP API clients using Visual Studio Connected Services](https://devblogs.microsoft.com/dotnet/generating-http-api-clients-using-visual-studio-connected-services/) ⭐
+- [How to generate a swagger.json file on build in .NET core](https://medium.com/@woeterman_94/how-to-generate-a-swagger-json-file-on-build-in-net-core-fa74eec3df1) ⭐
+- [Generating HTTP API clients using dotnet tools and Visual Studio Connected Services](https://dotnetthoughts.net/generating-http-api-clients-using-dotnet-tools/)
+- [.NET OpenAPI tool command reference and installation](https://learn.microsoft.com/en-us/aspnet/core/web-api/microsoft.dotnet-openapi)
+- [Using OpenApiReference To Generate Open API Client Code](https://stevetalkscode.co.uk/openapireference-commands) ⭐
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
@@ -50,6 +63,8 @@
 - [Insomnia Software Playlist - Kong](https://www.youtube.com/playlist?list=PLg_AhYkg50vjKpcFY6S8d7u-FpKk9EBYA)
 - [Insomnia walkthrough](https://www.youtube.com/watch?v=H_k8Z8Zq99s)
 - [Insomnia REST Client – Getting Started with the Sendwithus API](https://www.youtube.com/watch?v=lPFOEufD6mQ)
+- [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU) ⭐
+
 ## Libraries
 - [dmitry-pavlov/api-client-generation-tools](https://github.com/dmitry-pavlov/api-client-generation-tools) - API Client Generation Tools for Visual Studio, Visual Studio Code, and JetBrains Rider
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
@@ -63,3 +78,6 @@
 ## Samples
 - [dotnet/aspnet-api-versioning/WebApi/MinimalOpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalOpenApiExample)
 - [dotnet/aspnet-api-versioning/WebApi/OpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/OpenApiExample)
+- [joaofbantunes/MinimalVersionedOpenApiSample](https://github.com/joaofbantunes/MinimalVersionedOpenApiSample)
+- [joaofbantunes/SwaggerUiWithoutGenSample](https://github.com/joaofbantunes/SwaggerUiWithoutGenSample)
+- [cezarypiatek/SampleWebApiClientGeneration](https://github.com/cezarypiatek/SampleWebApiClientGeneration)

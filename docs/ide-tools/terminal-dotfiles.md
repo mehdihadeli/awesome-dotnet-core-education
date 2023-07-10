@@ -3,6 +3,7 @@
 ## Resources
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [Dotfiles Guide](http://dotfiles.github.io/)
+
 ## 📕 Articles
 - [Taking your PowerShell prompt to the next level with Windows Terminal and Oh my Posh 3](https://www.hanselman.com/blog/taking-your-powershell-prompt-to-the-next-level-with-windows-terminal-and-oh-my-posh-3)
 - [How to make a pretty prompt in Windows Terminal with Powerline, Nerd Fonts, Cascadia Code, WSL, and oh-my-posh](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh)
@@ -18,6 +19,12 @@
 - [Automating my development machine installation](https://laurentkempe.com/2018/06/01/Automating-development-machine-installation/)
 - [Automate Windows 10 Developer Machine Setup](https://edi.wang/post/2018/12/21/automate-windows-10-developer-machine-setup)
 - [How to write great git commit messages|](https://bitspeicher.blog/how-to-be-a-good-commitizen/)
+- [Managing Your Dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/) ⭐
+- [Source-controlling Config files in Git (dotfiles?)](https://www.danclarke.com/config-files-in-git) ⭐
+- [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) ⭐⭐
+- [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-windows-powershell-to-the-next-level-by-starship-2gb2)
+- [How to Create a PowerShell Profile – Step-by-Step](https://lazyadmin.nl/powershell/powershell-profile/)
+
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -28,14 +35,16 @@
 - [Windows Terminal Level Up! Oh My Posh, Nerd Fonts, and IntelliSense](https://www.youtube.com/watch?v=ila-keQMhGU)
 - [Windows Terminal My Top Tips for using Windows Terminal like a Pro](https://www.youtube.com/watch?v=FC-gLkYWXLw)
 - [Windows development setup with WSL2, ZSH, VSCode, and more](https://www.youtube.com/watch?v=oF6gLyhQDdw)
+- [Windows Terminal, NeoVim, OhMyPosh!... Awesome combo!](https://www.youtube.com/watch?v=v34n_lgOe1c) ⭐
+- [A Linux Dev Environment on Windows with WSL 2, Docker Desktop and More](https://www.youtube.com/watch?v=idW-an99TAM)
+
 ## Libraries
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - Queen Bey-inspired themes for all your favs.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [starship/starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [xcad2k/dotfiles](https://github.com/xcad2k/dotfiles) - These files are my personal customization files that I use to personalize my Windows and/or Linux desktop experience.
 - [NikiforovAll/dotfiles](https://github.com/NikiforovAll/dotfiles) - allows to bootstrap dev environment
-- [NikiforovAll/dotbot](https://github.com/NikiforovAll/dotbot)
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles)
 - [spencerwooo/dotfiles](https://github.com/spencerwooo/dotfiles#windows) - Dotfiles for all 
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with
@@ -66,5 +75,16 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. ⭐
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits ⭐⭐
 - [gitmoji-intellij-plugin](https://github.com/patou/gitmoji-intellij-plugin) - Intellij plugin for add a button on the commit dialog to add gitmoji
+- [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf ⭐⭐
+- [NikiforovAll/dotbot](https://github.com/NikiforovAll/dotbot)  ⭐⭐
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles  ⭐⭐
+- [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template)  ⭐⭐
+- [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command! ⭐⭐
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) ⭐⭐
+- [ecarlson94/dotbot-template](https://github.com/ecarlson94/dotbot-template) Template repository for advanced Dotbot setup
+- [ecarlson94/dotfiles](https://github.com/ecarlson94/dotfiles) - dotfiles and machine setup scripts.
+- [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
+- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) ⭐⭐
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

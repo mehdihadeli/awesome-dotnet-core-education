@@ -7,7 +7,4 @@
 - [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 - [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
 - [Options Pattern in .NET Core](https://codeburst.io/options-pattern-in-net-core-a50285aeb18d)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [Using the new configuration binder source generator Exploring the .NET 8 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/)

@@ -95,6 +95,8 @@
 - [Net Core + Serilog + ElasticSearch + Kibana](https://medium.com/@matias.paulo84/net-core-serilog-elasticsearch-kibana-3bd080ff4c1e)
 - [Serilog Tutorial](https://blog.datalust.co/serilog-tutorial/)
 - [Defining custom logging messages with LoggerMessage.Define in ASP.NET Core](https://andrewlock.net/defining-custom-logging-messages-with-loggermessage-define-in-asp-net-core/)
+- [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c)
+
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
@@ -131,6 +133,8 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [serilog-contrib/serilog-sinks-grafana-loki](https://github.com/serilog-contrib/serilog-sinks-grafana-loki) - A Serilog sink sending log events to Grafana Loki
 - [JosephWoodward/Serilog-Sinks-Loki](https://github.com/JosephWoodward/Serilog-Sinks-Loki) - A Serilog Sink for Loki, Grafana's new Prometheus inspired log aggregator
+- [serilog/serilog-sinks-opentelemetry](https://github.com/serilog/serilog-sinks-opentelemetry) - Serilog to OpenTelemetry Logs sink
+
 ## 🔖 Samples
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore/tree/dev/samples/Sample)
 - [jernejk/AspNetCoreSerilogExample](https://github.com/jernejk/AspNetCoreSerilogExample) - Microsoft ILogger implementation for Spectre console
