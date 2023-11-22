@@ -14,6 +14,9 @@
 - [SignalR - Sending a message to a specific user using (IUserIdProvider) *NEW 2.0.0*](https://stackoverflow.com/questions/19522103/signalr-sending-a-message-to-a-specific-user-using-iuseridprovider-new-2-0)
 - [How to Send Client-Specific Messages Using SignalR](https://code-maze.com/how-to-send-client-specific-messages-using-signalr/)
 - [.NET Core with SignalR and Angular – Real-Time Charts](https://code-maze.com/netcore-signalr-angular-realtime-charts/)
+- [How to implement SignalR in a .NET 7 + Angular 15 web application](https://mfcallahan.blog/2020/11/05/how-to-implement-signalr-in-a-net-core-angular-web-application/) ⭐
+- [Practical ASP.NET Core SignalR: Scaling](https://codeopinion.com/practical-asp-net-core-signalr-scaling/)
+- [How to use SignalR with ASP.NET Core Angular](https://referbruv.com/blog/how-to-use-signalr-with-asp-net-core-angular/) ⭐
 
 ## 📹 Videos
 - [Asp.Net Core WebSockets Vs SignalR. Which should you use? (Full Course)](https://www.youtube.com/watch?v=ycVgXe6v1VQ)

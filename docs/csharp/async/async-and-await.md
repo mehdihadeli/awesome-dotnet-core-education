@@ -70,6 +70,7 @@
 - [No, No, No - Tasks are not threads and they are not for performance!](https://steven-giesel.com/blogPost/d095383f-7ea9-4419-96b8-889c6981cce0)
 - [Asynchronous Programming Patterns in .NET](https://code-maze.com/asynchronous-programming-patterns-dotnet/)
 - [How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
+- [C# async await Explained](https://blog.ndepend.com/c-async-await-explained/) ⭐
 
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
@@ -88,9 +89,12 @@
 - [What's the point of async/await in an ASP.NET Core application?](https://www.youtube.com/watch?v=COeg6UoPe_Q)
 - [Episode 010 - Async all the things - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=CGi1bQgaqwg)
 - [C# async and await from zero to hero](https://www.youtube.com/watch?v=88e9uMlLCf8)
+- [Stephen Cleary — Asynchronous streams](https://www.youtube.com/watch?v=-Tq4wLyen7Q)
+
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
 - [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 
 - [AsyncIO.DotNet](https://github.com/firenero/AsyncIO) - Easy-to-use library for common async IO file system operations. 
 - [NeoSmart.AsyncLock](https://github.com/neosmart/AsyncLock) - A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. 
 - [Open-NET-Libraries/Open.ChannelExtensions](https://github.com/Open-NET-Libraries/Open.ChannelExtensions) - A set of extensions for optimizing/simplifying System.Threading.Channels usage.
+- [timonkrebs/MemoizR](https://github.com/timonkrebs/MemoizR) - Declarative Structured Concurrency for C#

@@ -11,3 +11,4 @@
 - [ullmark/hashids.net](https://github.com/ullmark/hashids.net) - A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [benfoster/minid](https://github.com/benfoster/minid) - Minid generates human-readable, URL-friendly, unique identifiers that are computed in-memory.
+- [sqids/sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short YouTube-like IDs from numbers.

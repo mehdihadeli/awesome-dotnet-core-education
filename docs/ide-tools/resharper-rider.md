@@ -30,6 +30,6 @@
 - [Debugging Tips and Tricks with JetBrains Rider, by Joseph Guadagno](https://www.youtube.com/watch?v=KM27QGVwgas)
 - [ReSharper & Rider 2021.3 Release Party](https://www.youtube.com/watch?v=eereCKwEOq0)
 - [Version Control - Rider Essentials](https://www.youtube.com/watch?v=_fTwymtpg78)
-
+- [Mastering Git in JetBrains Rider](https://www.youtube.com/watch?v=Xzw6ttOIpnE)
 ## Tools
 - [GitHubPang/Rossynt](https://github.com/GitHubPang/Rossynt) - Roslyn syntax tree viewer for C#. Works on JetBrains Rider and all other IntelliJ IDEA-based IDEs.

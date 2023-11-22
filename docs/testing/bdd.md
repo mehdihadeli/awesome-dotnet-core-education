@@ -20,6 +20,9 @@
 - [How Cucumber finds your features and step definitions](https://cucumber.io/docs/gherkin/step-organization/)
 - [Testing an Event Sourced Aggregate Root](https://buildplease.com/pages/fpc-13/)
 - [An Executable Specification](https://buildplease.com/pages/fpc-14/)
+- [Behaviour-Driven Design is more than tests](https://event-driven.io/en/behaviour_driven_design_is_not_about_tests/)
+- [Specification By Example](https://fraktalio.com/blog/specification-by-example.html)
+
 ## 📹 Videos
 - [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
 - [Getting started with BDD using Specflow .NET Core 3.1 (C#)](https://www.youtube.com/watch?v=O5oHiBD5Lvk)

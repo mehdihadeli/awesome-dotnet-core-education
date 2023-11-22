@@ -18,3 +18,8 @@
 - [Active-Passive Background Service In .Net 6](https://itnext.io/active-passive-background-service-in-net-6-952f3aebd1b7)
 - [Securing Hangfire Dashboard using an OpenID Connect server (IdentityServer 4)](https://lurumad.github.io/securing-hangfire-dashboard-using-an-openid-connect-server-identityserver-4)
 - [Waiting for your ASP.NET Core app to be ready from an IHostedService in .NET 6](https://andrewlock.net/finding-the-urls-of-an-aspnetcore-app-from-a-hosted-service-in-dotnet-6/)
+- [CONCURRENT HOSTED SERVICE START AND STOP IN .NET 8](https://www.stevejgordon.co.uk/concurrent-hosted-service-start-and-stop-in-dotnet-8)
+- [INTRODUCING THE NEW IHOSTEDLIFECYCLESERVICE INTERFACE IN .NET 8](https://www.stevejgordon.co.uk/introducing-the-new-ihostedlifecycleservice-interface-in-dotnet-8)
+
+## Videos
+- [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0)

@@ -24,7 +24,6 @@
 - [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) ⭐⭐
 - [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-windows-powershell-to-the-next-level-by-starship-2gb2)
 - [How to Create a PowerShell Profile – Step-by-Step](https://lazyadmin.nl/powershell/powershell-profile/)
-
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -86,5 +85,7 @@
 - [ecarlson94/dotfiles](https://github.com/ecarlson94/dotfiles) - dotfiles and machine setup scripts.
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) ⭐⭐
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

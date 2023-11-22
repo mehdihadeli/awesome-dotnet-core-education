@@ -12,6 +12,8 @@
 - [Basic guide to Semantic Release](https://thecodinganalyst.github.io/knowledgebase/Basic-guide-to-Semantic-Release/) ⭐⭐
 - [How to use Github actions to build & deploy Github nuget packages](https://garywoodfine.com/how-to-use-github-actions-to-build-deploy-github-nuget-packages/) ⭐
 - [Release Channels - React](https://reactjs.org/docs/release-channels.html) ⭐
+- [Versioning made easier with Nerdbank.GitVersioning](https://ml-software.ch/posts/versioning-made-easier-with-nerdbank-gitversioning) ⭐
+
 ## 📹 Videos
 - [Streamlining package versioning with MinVer](https://www.youtube.com/watch?v=2sFCBJOhWWY)
 - [NuGet PackageReference Versions SOLUTION Wide](https://www.youtube.com/watch?v=GolKKJmqxoc)

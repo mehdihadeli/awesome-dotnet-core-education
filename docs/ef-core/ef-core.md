@@ -36,6 +36,9 @@
 - [Value Conversions](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions?tabs=data-annotations)
 - [Entity Framework Core: Enums](https://medium.com/agilix/entity-framework-core-enums-ee0f8f4063f2)
 - [Entity Framework Enum Code First Lookup Table](https://codewithshadman.com/entity-framework-enum-code-first/)
+- [MongoDB Provider for Entity Framework Core Now Available in Public Preview](https://www.mongodb.com/blog/post/mongodb-provider-entity-framework-core-now-available-public-preview)
+- [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/)
+
 ## 📹 Videos
 
 - [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) 
@@ -54,7 +57,7 @@
 - [Shay Rojansky - How Entity Framework translates LINQ all the way to SQL - Dotnetos Conference 2019](https://www.youtube.com/watch?v=r69ZxXgOIK4)
 - [.NET Data Community Standup - Database Pagination](https://www.youtube.com/watch?v=DIKH-q-gJNU)
 - [.NET Data Community Standup - EF Core Architecture: Internal Dependency Injection](https://www.youtube.com/watch?v=pYhe-Mt0HzI)
-
+- [.NET Data Community Standup - Introducing the MongoDB provider for EF Core](https://www.youtube.com/watch?v=Zat-ferrjro)
 ## 📦 Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

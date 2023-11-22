@@ -15,6 +15,7 @@
 - [Are C# 9 records immutable by default?](https://www.daveabrock.com/2020/11/02/csharp-9-records-immutable-default/)
 - [Using records when implementing the builder pattern in C#](https://josef.codes/using-records-when-implementing-the-builder-pattern-in-c-sharp/)
 - [Deconstructing a C# record with properties](https://alexanderzeitler.com/articles/deconstructing-a-csharp-record-with-properties/)
+- [C# Record Explained](https://blog.ndepend.com/c-record-explained/)
 
 ## 📺 Videos
 - [C# 9.0: Record types](https://www.youtube.com/watch?v=oSQDZ7GpKwg)

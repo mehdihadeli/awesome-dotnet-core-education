@@ -83,6 +83,7 @@
 - [Verifying your DI Container](https://steven-giesel.com/blogPost/ce948083-974a-4c16-877f-246b8909fa6d)
 - [ASP.NET CORE DEPENDENCY INJECTION: WHAT IS THE ISERVICEPROVIDER AND HOW IS IT BUILT?](https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built) ⭐⭐
 - [Dependency injection guidelines](https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-guidelines)
+- [Keyed Services in .NET8's Dependency Injection](https://dev.to/xelit3/keyed-services-in-net8s-dependency-injection-2gni)
 
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)

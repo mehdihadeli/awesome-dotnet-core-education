@@ -84,9 +84,13 @@
 - [JWT authentication improvements & automatic authentication configuration](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-5/#jwt-authentication-improvements-automatic-authentication-configuration)
 - [Test Authorization in ASP.NET Core Web APIs With the user-jwts Tool](https://auth0.com/blog/test-authorization-in-aspnet-core-webapi-with-user-jwts-tool/)
 - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/)
+- [ASP.NET Core 8.0 Preview: All New Identity Endpoints](https://jaliyaudagedara.blogspot.com/2023/08/aspnet-core-80-preview-all-new-identity.html)
+- [Can you use the .NET 8 Identity API endpoints with IdentityServer?](https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/)
+- [Can you use the ASP.NET Core Identity API endpoints with OpenIddict?](https://kevinchalet.com/2023/10/04/can-you-use-the-asp-net-core-identity-api-endpoints-with-openiddict/)
+- [.NET 8: What's New for Authentication and Authorization](https://auth0.com/blog/whats-new-dotnet8-authentication-authorization/)
+- [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/)
 
 ## 📹 Videos
-
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
 - [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](https://www.youtube.com/watch?v=IjbtWPXVJGw)
 - [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic)

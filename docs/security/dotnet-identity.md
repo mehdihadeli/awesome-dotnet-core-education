@@ -41,6 +41,12 @@
 - [User Lockout in ASP.NET Core Identity](https://www.yogihosting.com/aspnet-core-identity-user-lockout/)
 - [Scaffold Identity in ASP.NET Core projects](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity)
 - [Customising ASP.NET Core Identity EF Core naming conventions for PostgreSQL](https://andrewlock.net/customising-asp-net-core-identity-ef-core-naming-conventions-for-postgresql/)
+- [ASP.NET Core 8.0 Preview: All New Identity Endpoints](https://jaliyaudagedara.blogspot.com/2023/08/aspnet-core-80-preview-all-new-identity.html)
+- [Introducing the Identity API endpoints Exploring the .NET 8 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/)
+- [Should you use the .NET 8 Identity API endpoints?](https://andrewlock.net/should-you-use-the-dotnet-8-identity-api-endpoints/)
+- [Can you use the .NET 8 Identity API endpoints with IdentityServer?](https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/)
+- [Can you use the ASP.NET Core Identity API endpoints with OpenIddict?](https://kevinchalet.com/2023/10/04/can-you-use-the-asp-net-core-identity-api-endpoints-with-openiddict/)
+- [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/)
 
 ## Videos
 - [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)

@@ -96,6 +96,7 @@
 - [Serilog Tutorial](https://blog.datalust.co/serilog-tutorial/)
 - [Defining custom logging messages with LoggerMessage.Define in ASP.NET Core](https://andrewlock.net/defining-custom-logging-messages-with-loggermessage-define-in-asp-net-core/)
 - [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c)
+- [Creating a pretty console logger using Go's slog package](https://dusted.codes/creating-a-pretty-console-logger-using-gos-slog-package)
 
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
@@ -109,6 +110,7 @@
 - [ASP.NET Community Standup - Logging updates in ASP.NET Core 6](https://www.youtube.com/watch?v=V-rwe2yxh1A)
 - [Exploring Source Generation for Logging in .NT 6](https://www.youtube.com/watch?v=Otm8tH0Vrp0)
 - [Stop using String Interpolation when Logging in .NET](https://www.youtube.com/watch?v=6zoMd_FwSwQ)
+
 ## Libraries
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.

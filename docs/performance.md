@@ -50,6 +50,8 @@
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet/)
 - [Optimizing CPU-Bound and Memory-Bound .NET Applications: 11 Best Practices](https://michaelscodingspot.com/cpu-bound-memory-bound/)
 - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
+- [AUTOMATING MEMORY PROFILING WITH THE JETBRAINS DOTMEMORY PROFILER API](https://www.stevejgordon.co.uk/automating-memory-profiling-with-the-jetbrains-dotmemory-profiler-api)
+
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)
 - [C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
@@ -67,6 +69,8 @@
 - [Jared Parsons - Performance features in C# (Dotnetos Conference 2021)](https://www.youtube.com/watch?v=Q_tvcyl-e60)
 - [Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon](https://www.youtube.com/watch?v=7e4A8fwphi8)
 - [Languages & Runtime Community Standup - .NET Performance with Stephen Toub](https://www.youtube.com/watch?v=5PrQw0bRthE)
+- [Reviewing new .NET 8 Performance Tools](https://www.youtube.com/watch?v=TfHv9LKuZzE)
+
 ## Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 

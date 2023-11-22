@@ -4,6 +4,7 @@
 ## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 - [dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET) - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
+
 ## 📝 Articles
 - [First-Class Tests](https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html) 
 - [Software Testing Guide](https://martinfowler.com/testing/) 
@@ -27,6 +28,7 @@
 - [Configure unit tests by using a .runsettings file](https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022)
 - [The “Best Practices” of Nested Unit Tests](https://www.testwithspring.com/lesson/the-best-practices-of-nested-unit-tests/)
 - [Writing Nested Unit Tests](https://www.testwithspring.com/lesson/writing-nested-unit-tests/)
+- [Testing your Polly policies](https://josef.codes/testing-your-polly-policies/)
 
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)

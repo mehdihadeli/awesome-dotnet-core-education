@@ -7,6 +7,7 @@
 - [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 - [Efficient Querying](https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#beware-of-lazy-loading)
 - [Efficient Updating](https://docs.microsoft.com/en-us/ef/core/performance/efficient-updating)
+- [Asynchronous streams in C# 8.0](https://dev.to/mbernard/asynchronous-streams-in-c-8-0-33la)
 - [Advanced Performance Topics](https://learn.microsoft.com/en-us/ef/core/performance/advanced-performance-topics)
 - [Entity Framework 7 performance improvements due to less roundtrips](https://davecallan.com/entity-framework-7-performance-improvements/)
 - [Announcing Entity Framework Core 7 Preview 6: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-ef-core-7-preview6-performance-optimizations/)

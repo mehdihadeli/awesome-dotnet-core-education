@@ -77,6 +77,7 @@ nav:
     - .Net Core Architecture: dotnet/dotnet-core-architecture.md
     - .Net Core Tips: dotnet/dotnet-core-tips.md
     - .Net IL: dotnet/il.md
+    -  Multi Target: dotnet/multi-target.md
     -  MetaPack: dotnet/metapack.md
     - global.json File: dotnet/global-json.md
   - ASP.NET Core:
@@ -264,12 +265,14 @@ nav:
   - Mediator: mediator.md
   - Mapping: mapping.md
   - Caching: caching.md
+  - Aspire: aspire.md
   - Model Binding: model-binding.md
   - Benchmarking: benchmarking.md
   - Rate Limiting: rate-limiting.md
   - Stronglt Type ID: strongly-type-id.md
   - Semantic Versioning: semantic-versioning.md
   - Migrations: migration.md
+  - Service Discovery: service-discovery.md
   - Dapper: dapper.md
   - Multi Tenancy: multi-tenancy.md
   - Orleans: orleans.md

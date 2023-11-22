@@ -16,6 +16,7 @@
 - [Basic guide to Semantic Release](https://thecodinganalyst.github.io/knowledgebase/Basic-guide-to-Semantic-Release/) ⭐⭐
 - [How to Lint Commit Messages with Husky and CommitLint](https://betterprogramming.pub/how-to-lint-commit-messages-with-husky-and-commitlint-b51d20a5e514) ⭐⭐
 - [How to customize Conventional Commits in a .NET application using GitHooks](https://www.code4it.dev/blog/conventional-commit-with-githooks) ⭐⭐
+- [Pre-commit hooks with Husky.NET - build, format, and test your .NET application before a Git commit](https://www.code4it.dev/blog/husky-dotnet-precommit-hooks/) ⭐⭐
 
 ## Videos
 - [How to Manage Releases with Semantic Versioning and Git Tags](https://www.youtube.com/watch?v=4wPjo5C-v8Y) ⭐⭐

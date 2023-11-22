@@ -97,6 +97,8 @@
 - [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
 - [Mocking dependencies in ASP.NET Core tests](https://cezarypiatek.github.io/post/mocking-dependencies-in-asp-net-core/)
 - [How to Setup Integration Tests in .NET Without a WebApplicationFactory](https://wrapt.dev/blog/integration-tests-in-dotnet-without-webappfactory)
+- [Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit](https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/)
+- [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
@@ -146,6 +148,7 @@
 - [bruno-garcia/Bazinga.AspNetCore.Authentication.Basic](https://github.com/bruno-garcia/Bazinga.AspNetCore.Authentication.Basic) - Basic Authentication for Microsoft ASP.NET Core Authentication
 - [EasyNetQ/EasyNetQ.Management.Client](https://github.com/EasyNetQ/EasyNetQ.Management.Client) - EasyNetQ.Management.Client is a .NET client for the RabbitMQ RESTful management API
 - [thinkco/rabbitmq-httpclient-dotnet](https://github.com/thinkco/rabbitmq-httpclient-dotnet) - RabbitMQ Management HTTP Client for .netCore
+
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)
@@ -190,3 +193,4 @@
 - [pdevito3/TestingServiceRegistration](https://github.com/pdevito3/TestingServiceRegistration)
 - [pdevito3/PatientPlayground](https://github.com/pdevito3/PatientPlayground) 
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore)
+- [khalidabuhakmeh/TestingWithContainers](https://github.com/khalidabuhakmeh/TestingWithContainers)
