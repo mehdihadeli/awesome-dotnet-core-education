@@ -24,6 +24,10 @@
 - [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) ⭐⭐
 - [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-windows-powershell-to-the-next-level-by-starship-2gb2)
 - [How to Create a PowerShell Profile – Step-by-Step](https://lazyadmin.nl/powershell/powershell-profile/)
+- [How To Manage Dotfiles With Chezmoi](https://jerrynsh.com/how-to-manage-dotfiles-with-chezmoi/) ⭐
+- [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) ⭐
+- [MANAGING DOTFILES WITH CHEZMOI](https://adrianvasile.dev/2023/01/12/dotfiles-using-chezmoi.html) ⭐
+
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 - [How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!](https://www.youtube.com/watch?v=lu__oGZVT98)
@@ -86,6 +90,12 @@
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles)
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) ⭐⭐
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+- [narze/dotfiles/dotbot](https://github.com/narze/dotfiles/tree/dotbot) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script.
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. 
+- [posquit0/dotfiles](https://github.com/posquit0/dotfiles) - Awesome configurations for the development environments
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) ⭐ - My arch setup script and dotfiles
+- [alrra/dotfiles](https://github.com/alrra/dotfiles) - macOS / Ubuntu dotfiles
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

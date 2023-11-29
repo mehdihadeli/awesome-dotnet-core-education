@@ -93,6 +93,7 @@
 - [osoykan/FluentAssemblyScanner](https://github.com/osoykan/FluentAssemblyScanner) - Fluent assembly and type scanner 🔍 for .Net
 - [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 - [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries
+- [adrianoc/cecilifier](https://github.com/adrianoc/cecilifier) - A tool aiming to make it a little bit easier to learn Mono.Cecil
 
 ## Samples
 - [jbevain/cecil.samples](https://github.com/jbevain/cecil.samples) - Samples for Cecil
