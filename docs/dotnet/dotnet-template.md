@@ -19,6 +19,7 @@
 - [Custom Project Templates Using dotnet new](https://rehansaeed.com/custom-project-templates-using-dotnet-new/)
 - [dotnet new Feature Selection](https://rehansaeed.com/dotnet-new-feature-selection/)
 - [Unit Testing dotnet new Templates](https://rehansaeed.com/unit-testing-dotnet-new-templates/)
+- [An opinionated list of tips for building .NET 8 app templates](https://www.mytechramblings.com/posts/an-opinionated-list-of-tips-for-building-a-dotnet-8-template/)
 
 ## 📺 Videos
 - [On .NET Live - Creating your own .NET Project Templates](https://www.youtube.com/watch?v=H_pqfeRgTYw)
@@ -55,7 +56,4 @@
 - [jasontaylordev/SecureSpa](https://github.com/jasontaylordev/SecureSpa) - ASP.NET Core 3 + Angular 8 + ASP.NET Identity generated using .NET Core SDK
 - [DanWahlin/AngularCLI-ASPNET-Core-CustomersService](https://github.com/DanWahlin/AngularCLI-ASPNET-Core-CustomersService) - Example of integrating Angular with ASP.NET Core RESTful Services
 - [NetCoreTemplates/angular-spa](https://github.com/NetCoreTemplates/angular-spa) - .NET 5.0 Angular 9 CLI Bootstrap App
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [dotnet/aspire/Aspire.ProjectTemplates](https://github.com/dotnet/aspire/tree/main/src/Aspire.ProjectTemplates)

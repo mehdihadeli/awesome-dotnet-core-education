@@ -26,6 +26,7 @@
 - [THIS stops 90% of C# Developers Learning TDD](https://www.youtube.com/watch?v=x5hsO6R6Me8)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites](https://www.youtube.com/watch?v=yVQMnQKSsh4)
 - [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+- [TDD Revisited - Ian Cooper - NDC Porto 2023](https://youtu.be/IN9lftH0cJc?si=RckldxlL9C_yfXIn)
 ## Samples
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)

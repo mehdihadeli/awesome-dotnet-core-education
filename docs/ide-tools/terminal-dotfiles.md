@@ -96,6 +96,6 @@
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) ⭐ - My arch setup script and dotfiles
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - macOS / Ubuntu dotfiles
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)
