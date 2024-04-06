@@ -16,6 +16,8 @@
 - [How to merge a specific commit into another branch](https://dev.to/iamafro/how-to-merge-a-specific-commit-into-another-branch--oak)
 - [Using Git in JetBrain Rider](https://www.jetbrains.com/help/rider/Using_Git_Integration.html)
 - [How does git work?](https://steven-giesel.com/blogPost/327faa1b-3802-4e48-bf39-8b06590da57b)
+- [Make advanced Git tasks simple with Lazygit](https://opensource.com/article/20/3/lazygit)
+- [Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 
 ## 📺 Videos
 - [Git and GitHub Tutorials for Beginners! Playlist - TheCodex](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
@@ -49,6 +51,7 @@
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)
 - [Version Control - Rider Essentials](https://www.youtube.com/watch?v=_fTwymtpg78)
+
 ## Libraries
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) -  ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.

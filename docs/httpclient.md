@@ -46,6 +46,8 @@
 - [SOCKS Proxy Support In C# .NET](https://dotnetcoretutorials.com/2021/07/11/socks-proxy-support-in-net/)
 - [HTTP client and HTTP client factory in integration testing](https://milestone.topics.it/2021/11/10/http-client-factory-in-integration-testing.html)
 - [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
+- [A Guide to OpenAPI Client Generation with Kiota. Introduction (Part 1)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/22/kiota-guide-introduction.html)
+- [A Guide to OpenAPI Client Generation with Kiota. Deep dive (Part 2)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/24/kiota-guide-deep-dive.html)
 
 ## 📺 Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
