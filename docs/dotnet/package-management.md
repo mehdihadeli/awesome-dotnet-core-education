@@ -23,6 +23,9 @@
 - [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/)
 - [Ensuring best practices for NuGet packages](https://www.meziantou.net/ensuring-best-practices-for-nuget-packages.htm)
 - [Package authoring best practices](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
+- [The .editorconfig files for .NET developers](https://blog.ndepend.com/the-editorconfig-files-for-net-developers/)
+- [Understand Directory.Build.props: Centralizing .NET Project Configurations](https://blog.ndepend.com/directory-build-props/)
+
 ## Videos
 - [PM on the NuGet team at Microsoft - Claire Novotny - NDC London 2022](https://youtu.be/C_2BStepVKw?t=3102)
 - [NuGet PackageReference Versions SOLUTION Wide](https://www.youtube.com/watch?v=GolKKJmqxoc)

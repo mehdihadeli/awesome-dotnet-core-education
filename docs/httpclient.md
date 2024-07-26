@@ -48,10 +48,11 @@
 - [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
 - [Kiota design overview](https://learn.microsoft.com/en-us/openapi/kiota/design)
 - [Kiota API client experience](https://learn.microsoft.com/en-us/openapi/kiota/experience)
-- [A Guide to OpenAPI Client Generation with Kiota. Introduction (Part 1)](https://dev.to/nikiforovall/a-guide-to-openapi-client-generation-with-kiota-introduction-part-1-1lfj)
-- [A Guide to OpenAPI Client Generation with Kiota. Deep dive (Part 2)](https://dev.to/nikiforovall/a-comprehensive-guide-to-openapi-client-generation-with-kiota-deep-dive-part-2-320c)
-
+- [A Guide to OpenAPI Client Generation with Kiota. Introduction (Part 1)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/22/kiota-guide-introduction.html)
+- [A Guide to OpenAPI Client Generation with Kiota. Deep dive (Part 2)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/24/kiota-guide-deep-dive.html)
+  
 ## 📺 Videos
+
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
 - [ASP.NET Community Standup - Jan 23, 2018 - HttpClientFactory with Ryan Nowak](https://www.youtube.com/watch?v=Lb12ZtlyMPg)
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
