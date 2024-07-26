@@ -3,7 +3,7 @@
 
 ## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
-[grafana/k6-learn](https://github.com/grafana/k6-learn)
+- [grafana/k6-learn](https://github.com/grafana/k6-learn)
 
 ## 📝 Articles
 - [Load testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Load-testing)
@@ -26,6 +26,8 @@
 - [API load testing](https://k6.io/docs/testing-guides/api-load-testing/)
 - [Advanced Examples k6](https://k6.io/docs/using-k6/scenarios/advanced-examples/)
 - [How to generate a constant request rate in k6 with the new scenarios API?](https://k6.io/blog/how-to-generate-a-constant-request-rate-with-the-new-scenarios-api/)
+- [Getting started with Load testing with K6 on Windows 11](https://www.notion.so/mehdihadeli/Getting-started-with-Load-testing-with-K6-on-Windows-11-Code4IT-c5487b78dc244458b03abe301e2421ef)
+
 ## 📹 Videos
 
 - [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)

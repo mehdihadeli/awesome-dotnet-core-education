@@ -28,3 +28,4 @@
 - [hgmauri/elasticsearch-with-nest](https://github.com/hgmauri/elasticsearch-with-nest)
 - [stevejgordon/elasticsearch-demo](https://github.com/stevejgordon/elasticsearch-demo) - Demo code (before and after) from my talk "An introduction to Elasticsearch (for .NET developers)".
 - [AntonioFalcaoJr/Dotnet5.Elasticsearch](https://github.com/AntonioFalcaoJr/Dotnet5.Elasticsearch)
+- [AntonioFalcaoJr/ElasticsearchQueryString](https://github.com/AntonioFalcaoJr/ElasticsearchQueryString)

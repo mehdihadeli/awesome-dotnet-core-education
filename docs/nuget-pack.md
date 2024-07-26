@@ -23,9 +23,16 @@
 - [Create a NuGet package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/create-packages/creating-a-package-dotnet-cli)
 - [Create a package using the nuget.exe CLI](https://learn.microsoft.com/en-us/nuget/create-packages/creating-a-package)
 - [Publishing a NuGet package using GitHub and GitHub Actions](https://www.meziantou.net/publishing-a-nuget-package-following-best-practices-using-github.htm)
+- [Publish NuGet packages with GitLab and Nexus Repository Manager](https://medium.com/@maxy_ermayank/publish-nuget-packages-with-gitlab-and-nexus-repository-manager-9bc1c5834db2)
+- [Install Sonatype Nexus using Docker Compose | Setup Nexus Repository Manager for Node.js Project](https://medium.com/@chiemelaumeh1/install-sonatype-nexus-3-using-docker-compose-setup-nexus-repository-manager-for-node-js-project-47a3c5efe1ee)
 
 ## Videos
 - [Distribute your csproj settings via NuGet - CodeWithStu](https://www.youtube.com/watch?v=V5wJeN3Ntqc)
 
 ## Libraries
 - [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
+
+## Registries
+
+- [JFrog Nuget Registry](https://jfrog.com/help/r/jfrog-artifactory-documentation/nuget-repositories)
+- [NuGet Proxy Repositories](https://help.sonatype.com/en/nuget-proxy-repositories.html)

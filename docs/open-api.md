@@ -1,7 +1,7 @@
-# API Documentation
+# Open API
 
 ## Resources
-[Swagger Github](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/README.md)
+- [Swagger Github](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/README.md)
 
 ## 📕 Articles
 - [OpenAPI support in minimal APIs - ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/openapi) ⭐
@@ -52,6 +52,9 @@
 - [Generating HTTP API clients using dotnet tools and Visual Studio Connected Services](https://dotnetthoughts.net/generating-http-api-clients-using-dotnet-tools/)
 - [.NET OpenAPI tool command reference and installation](https://learn.microsoft.com/en-us/aspnet/core/web-api/microsoft.dotnet-openapi)
 - [Using OpenApiReference To Generate Open API Client Code](https://stevetalkscode.co.uk/openapireference-commands) ⭐
+- [Get started with NSwag and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag)
+- [Web API development in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/web-api-development-in-visual-studio-2022/)
+- [Distributed API Documentation - How to Aggregate Swagger](https://blog.wick.technology/distributed-api-docs/)
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
@@ -64,6 +67,7 @@
 - [Insomnia walkthrough](https://www.youtube.com/watch?v=H_k8Z8Zq99s)
 - [Insomnia REST Client – Getting Started with the Sendwithus API](https://www.youtube.com/watch?v=lPFOEufD6mQ)
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU) ⭐
+- [Explore, Test, & Debug API Endpoints in Visual Studio Faster Than Ever!](https://www.youtube.com/watch?v=x7Pfdl9wl4Q)
 
 ## Libraries
 - [dmitry-pavlov/api-client-generation-tools](https://github.com/dmitry-pavlov/api-client-generation-tools) - API Client Generation Tools for Visual Studio, Visual Studio Code, and JetBrains Rider
@@ -75,6 +79,8 @@
 - [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore
 - [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Use FluentValidation rules instead of ComponentModel attributes
 - [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions) - Swagger tools for documenting API's built on ASP.NET Core
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files
+
 ## Samples
 - [dotnet/aspnet-api-versioning/WebApi/MinimalOpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalOpenApiExample)
 - [dotnet/aspnet-api-versioning/WebApi/OpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/OpenApiExample)

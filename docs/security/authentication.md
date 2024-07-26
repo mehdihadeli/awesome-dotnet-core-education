@@ -89,6 +89,8 @@
 - [Can you use the ASP.NET Core Identity API endpoints with OpenIddict?](https://kevinchalet.com/2023/10/04/can-you-use-the-asp-net-core-identity-api-endpoints-with-openiddict/)
 - [.NET 8: What's New for Authentication and Authorization](https://auth0.com/blog/whats-new-dotnet8-authentication-authorization/)
 - [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/)
+- [JWT Validation Guide - Okta](https://developer.okta.com/code/dotnet/jwt-validation/)
+- [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/dotnet/jwt-validation-and-authorization-in-asp-net-core/)
 
 ## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)

@@ -46,6 +46,10 @@
 - [SOCKS Proxy Support In C# .NET](https://dotnetcoretutorials.com/2021/07/11/socks-proxy-support-in-net/)
 - [HTTP client and HTTP client factory in integration testing](https://milestone.topics.it/2021/11/10/http-client-factory-in-integration-testing.html)
 - [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
+- [Kiota design overview](https://learn.microsoft.com/en-us/openapi/kiota/design)
+- [Kiota API client experience](https://learn.microsoft.com/en-us/openapi/kiota/experience)
+- [A Guide to OpenAPI Client Generation with Kiota. Introduction (Part 1)](https://dev.to/nikiforovall/a-guide-to-openapi-client-generation-with-kiota-introduction-part-1-1lfj)
+- [A Guide to OpenAPI Client Generation with Kiota. Deep dive (Part 2)](https://dev.to/nikiforovall/a-comprehensive-guide-to-openapi-client-generation-with-kiota-deep-dive-part-2-320c)
 
 ## 📺 Videos
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)
@@ -57,3 +61,5 @@
 ## Samples
 - [jacobduijzer/PollyRefitBlogCode](https://github.com/jacobduijzer/PollyRefitBlogCode)
 - [RehanSaeed/HttpClientSample](https://github.com/RehanSaeed/HttpClientSample) ⭐ A sample ASP.NET Core project showing how to configure the HttpClientFactory
+- [NikiforovAll/kiota-getting-started](https://github.com/NikiforovAll/kiota-getting-started)
+- [darrelmiller/KiotaApp](https://github.com/darrelmiller/KiotaApp)

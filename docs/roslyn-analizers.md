@@ -30,6 +30,12 @@
 - [Finding .NET Transitive Dependencies and Tidying Up Your Project](https://gsferreira.com/archive/2022/finding-dotnet-transitive-dependencies-and-tidying-up-your-project/)
 - [Incremental Roslyn Source Generators In .NET 6: Better Experience Through Roslyn Analyzers & Code Fixes – Part 2](https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes/)
 - [Incremental Roslyn Source Generators In .NET 6: Testing Source Generators, Analyzers & Code Fixes – Part 3](https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes-testing/)
+- [Preventing breaking changes in .NET class libraries](https://medium.com/workleap/preventing-breaking-changes-in-net-class-libraries-e61ae93b1b46)
+- [PREVENT BREAKING CHANGES TO YOUR APIS WITH ROSLYN](https://www.natmarchand.fr/prevent-breaking-changes-apis-roslyn/)
+- [ENSURING THE CORRECTNESS OF YOUR API](https://www.natmarchand.fr/ensuring-correctness-api/)
+- [Track API breaking changes in .net](https://www.drunkonmonads.com/tracking-breaking-changes/)
+- [How to test a Roslyn analyzer](https://www.meziantou.net/how-to-test-a-roslyn-analyzer.htm)
+
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)

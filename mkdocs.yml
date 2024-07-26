@@ -162,7 +162,7 @@ nav:
     - Enum: csharp/enum.md
   - MAUI: maui.md
   - Blazor: blazor.md
-  - API Documentation: api-documentation.md
+  - Open Api: open-api.md
   - Source Generators: source-generators.md
   - Performance: performance.md
   - Health Check: health-check.md
@@ -190,6 +190,7 @@ nav:
   - GraphQL: graphql.md
   - GitHub:
     - Git: github/git.md
+    - GitHub: github/github.md
     - Release Notes: github/release-note.md
     - Git-Flow: github/git-flow.md
     - Conventional Commits: github/conventional-commits.md

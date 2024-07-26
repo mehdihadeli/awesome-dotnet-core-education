@@ -19,6 +19,7 @@
 - [C# Job Queue Implementations in Depth – Part 1](https://michaelscodingspot.com/c-job-queues/)
 - [C# Job Queues (part 2) with Reactive Extensions and Channels](https://michaelscodingspot.com/c-job-queues-with-reactive-extensions-and-channels/)
 - [Implement asynchronous-friendly producer-consumer (Pub / Sub) patterns in System.Threading.Channels](https://sourceexample.com/implement-asynchronous-friendly-producer-consumer-(pub-sub)-patterns-in-system.threading.channels-99360/)
+- [Building pipelines with System.Threading.Channels](https://nikiforovall.github.io/dotnet/async/2024/04/21/channels-composition.html)
 
 ## 📹 Videos
 - [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
@@ -30,3 +31,4 @@
 
 ## 🔖 Samples
 - [deniskyashif/trydotnet-channels](https://github.com/deniskyashif/trydotnet-channels) - Interactive examples of common C# concurrency patterns using channels.
+- [NikiforovAll/channels-composition-and-otel](https://github.com/NikiforovAll/channels-composition-and-otel)

@@ -27,6 +27,8 @@
 - [How To Manage Dotfiles With Chezmoi](https://jerrynsh.com/how-to-manage-dotfiles-with-chezmoi/) ⭐
 - [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) ⭐
 - [MANAGING DOTFILES WITH CHEZMOI](https://adrianvasile.dev/2023/01/12/dotfiles-using-chezmoi.html) ⭐
+- [My Ultimate PowerShell prompt with Oh My Posh and the Windows Terminal](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) ⭐
+- [How I've set up my new Windows development environment in 2022](https://timdeschryver.dev/blog/how-i-have-set-up-my-new-windows-development-environment-in-2022)
 
 ## 📺 Videos
 - [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
@@ -97,5 +99,8 @@
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - macOS / Ubuntu dotfiles
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [PowerShell/CompletionPredictor](https://github.com/PowerShell/CompletionPredictor)
+- [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
+
 ## Others
 - [Some links for setup terminal](https://www.theurlist.com/os-bootstrap)

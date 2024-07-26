@@ -69,6 +69,8 @@
 - [The “Best Practices” of Nested Unit Tests](https://www.testwithspring.com/lesson/the-best-practices-of-nested-unit-tests/)
 - [Writing Nested Unit Tests](https://www.testwithspring.com/lesson/writing-nested-unit-tests/)
 - [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
+- [Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry)
+- [Automated Tests instrumentation via OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemtry/2024/06/07/test-instrumentation-with-otel-aspire.html)
 
 ## 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)

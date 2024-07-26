@@ -6,6 +6,7 @@
 - [Git Best Practices - GitKraken](https://www.gitkraken.com/learn/git/best-practices)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial.
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
+- [gitimmersion.com](https://gitimmersion.com/) - A guided tour that walks through the fundamentals of Git.
 
 ## 📕 Articles
 - [FORKING AND CLONING FROM GITHUB](https://www.stevejgordon.co.uk/forking-cloning-github)
