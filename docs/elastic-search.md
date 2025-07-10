@@ -8,6 +8,10 @@
 - [Logging with ElasticSearch, Kibana, ASP.NET Core and Docker](https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker)
 - [Elasticsearch 101: Fundamentals & Core Components](https://medium.com/velotio-perspectives/elasticsearch-101-fundamentals-core-components-a1fdc6090a5e)
 - [42 Elasticsearch Query Examples – Hands-on Tutorial](https://coralogix.com/blog/42-elasticsearch-query-examples-hands-on-tutorial/)
+- [Semantic Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/19/semantic-search-via-elastic-dotnet.html)
+- [Querying and Filtering via Elastic.Clients.Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/10/20/querying-and-filtering-elastic-dotnet.html)
+- [Hybrid Search with Elasticsearch in .NET](https://nikiforovall.github.io/dotnet/2024/11/02/elastic-hybrid-search.html)
+
 ## 📺 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [The .NET Docs Show - Getting Started with Elasticsearch.NET](https://www.youtube.com/watch?v=Ll5yLL83W8M)
@@ -29,3 +33,4 @@
 - [stevejgordon/elasticsearch-demo](https://github.com/stevejgordon/elasticsearch-demo) - Demo code (before and after) from my talk "An introduction to Elasticsearch (for .NET developers)".
 - [AntonioFalcaoJr/Dotnet5.Elasticsearch](https://github.com/AntonioFalcaoJr/Dotnet5.Elasticsearch)
 - [AntonioFalcaoJr/ElasticsearchQueryString](https://github.com/AntonioFalcaoJr/ElasticsearchQueryString)
+- [NikiforovAll/elasticsearch-dotnet-playground](https://github.com/NikiforovAll/elasticsearch-dotnet-playground) - This playground is a collection of notebooks that demonstrate how to use Elasticsearch.NET and NEST clients.

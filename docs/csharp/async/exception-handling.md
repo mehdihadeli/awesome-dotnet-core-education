@@ -11,3 +11,5 @@
 - [Why exceptions in async methods are “dangerous” in C#](https://medium.com/@alexandre.malavasi/why-exceptions-in-async-methods-are-dangerous-in-c-fda7d382b0ff)
 - [Handling Async Await Exceptions](https://codeopinion.com/handling-async-await-exceptions/)
 - [A Tour of Task, Part 6: Results](https://blog.stephencleary.com/2014/12/a-tour-of-task-part-6-results.html)
+- [.NET 7's ProblemDetailsService](https://seekatar.github.io/2023/01/06/problem-details.html)
+- [Handling Web API Exceptions with ProblemDetails middleware](https://andrewlock.net/handling-web-api-exceptions-with-problemdetails-middleware/)

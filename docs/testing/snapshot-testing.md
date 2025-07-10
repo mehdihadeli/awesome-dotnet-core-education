@@ -17,3 +17,4 @@
 - [VerifyTests/Verify.NSubstitute](https://github.com/VerifyTests/Verify.NSubstitute)
 - [VerifyTests/Verify.EntityFramework](https://github.com/VerifyTests/Verify.EntityFramework) - Extends Verify to allow verification of EntityFramework bits.
 - [VerifyTests/Verify.Wolverine](https://github.com/VerifyTests/Verify.Wolverine) - Adds Verify support for verifying Wolverine 
+- [VerifyTests/Verify.SourceGenerators](https://github.com/VerifyTests/Verify.SourceGenerators) - Extends Verify to allow verification of C# Source Generators.

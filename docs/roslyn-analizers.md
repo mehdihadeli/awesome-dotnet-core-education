@@ -35,11 +35,13 @@
 - [ENSURING THE CORRECTNESS OF YOUR API](https://www.natmarchand.fr/ensuring-correctness-api/)
 - [Track API breaking changes in .net](https://www.drunkonmonads.com/tracking-breaking-changes/)
 - [How to test a Roslyn analyzer](https://www.meziantou.net/how-to-test-a-roslyn-analyzer.htm)
+- [A Tyrant Guide to Code Quality Gates featuring CSharpier, Husky.NET, and SonarCloud](https://nikiforovall.github.io/dotnet/2024/09/14/quality-gates-dotnet.html)
 
 ## 📺 Videos
 - [How to write better code in C# using Source Code Analyzers (Roslyn)](https://www.youtube.com/watch?v=K6MyJJSm1MI)
 - [A basic expression evaluator](https://www.youtube.com/watch?v=wgHIkdUQbp0)
 - [Building a Compiler Playlist - Immo Landwerth](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+
 ## Libraries
 - [KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
 - [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
@@ -58,7 +60,9 @@
 - [spectresystems/snitch](https://github.com/spectresystems/snitch) - A tool that help you find duplicate transitive package references.
 - [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 - [olsh/stack-exchange-redis-analyzer](https://github.com/olsh/stack-exchange-redis-analyzer) - Roslyn-based analyzer for StackExchange.Redis library
+- [bkoelman/CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer) - Reports diagnostics for C# coding guidelines that are not already covered by Resharper.
 
 ## Samples
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet/blob/develop/.editorconfig)
 - [BEagle1984/silverback ](https://github.com/BEagle1984/silverback/blob/master/.editorconfig)
+- [NikiforovAll/quality-gateways-demo-dotnet](https://github.com/NikiforovAll/quality-gateways-demo-dotnet)

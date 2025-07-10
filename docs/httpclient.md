@@ -24,7 +24,7 @@
 - [YOU'RE USING HTTPCLIENT WRONG AND IT IS DESTABILIZING YOUR SOFTWARE](https://www.aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/)
 - [Exploring the code behind IHttpClientFactory in depth](https://andrewlock.net/exporing-the-code-behind-ihttpclientfactory/)
 - [Improper Instantiation antipattern](https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/)
-- [. NET Core HttpClientFactory+Consul for service discovery](https://programmer.help/blogs/net-core-httpclientfactory-consul-for-service-discovery.html)
+- [.NET Core HttpClientFactory+Consul for service discovery](https://programmer.help/blogs/net-core-httpclientfactory-consul-for-service-discovery.html)
 - [HTTPCLIENT CREATION AND DISPOSAL INTERNALS: SHOULD I DISPOSE OF HTTPCLIENT?](https://www.stevejgordon.co.uk/httpclient-creation-and-disposal-internals-should-i-dispose-of-httpclient)
 - [DEMYSTIFYING HTTPCLIENT INTERNALS](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-sendasync-flow-for-httprequestmessage)
 - [DEMYSTIFYING HTTPCLIENT INTERNALS: HTTPRESPONSEMESSAGE](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-httpresponsemessage)
@@ -50,7 +50,8 @@
 - [Kiota API client experience](https://learn.microsoft.com/en-us/openapi/kiota/experience)
 - [A Guide to OpenAPI Client Generation with Kiota. Introduction (Part 1)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/22/kiota-guide-introduction.html)
 - [A Guide to OpenAPI Client Generation with Kiota. Deep dive (Part 2)](https://nikiforovall.github.io/dotnet/aspnetcore/2024/03/24/kiota-guide-deep-dive.html)
-  
+- [OData, OpenAPI and Kiota for building API Clients and using it in Blazor](https://www.bytefish.de/blog/odata_openapi_kiota_client_generation.html)
+
 ## 📺 Videos
 
 - [JustEat's HttpClient Interception library - Adam Storr](https://www.youtube.com/watch?v=-u5wriRZ-ms)

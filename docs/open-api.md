@@ -55,6 +55,10 @@
 - [Get started with NSwag and ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag)
 - [Web API development in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/web-api-development-in-visual-studio-2022/)
 - [Distributed API Documentation - How to Aggregate Swagger](https://blog.wick.technology/distributed-api-docs/)
+- [Implementing an ASP.NET Core API with .NET 9 and OpenAPI](https://damienbod.com/2024/08/06/implementing-an-asp-net-core-api-with-net-9-and-openapi/)
+- [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/)
+- [Generate OpenAPI documents](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/openapi/aspnetcore-openapi)
+- [OpenAPI support in ASP.NET Core API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/openapi/overview)
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
@@ -80,6 +84,7 @@
 - [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Use FluentValidation rules instead of ComponentModel attributes
 - [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions) - Swagger tools for documenting API's built on ASP.NET Core
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files
+- [tryAGI/AutoSDK](https://github.com/tryAGI/AutoSDK) - automate and minimize the effort of maintaining high-quality .NET SDKs generated based on the OpenAPI specification
 
 ## Samples
 - [dotnet/aspnet-api-versioning/WebApi/MinimalOpenApiExample](https://github.com/dotnet/aspnet-api-versioning/tree/93bd8dc7582ec14c8ec97997c01cfe297b085e17/examples/AspNetCore/WebApi/MinimalOpenApiExample)
@@ -87,3 +92,4 @@
 - [joaofbantunes/MinimalVersionedOpenApiSample](https://github.com/joaofbantunes/MinimalVersionedOpenApiSample)
 - [joaofbantunes/SwaggerUiWithoutGenSample](https://github.com/joaofbantunes/SwaggerUiWithoutGenSample)
 - [cezarypiatek/SampleWebApiClientGeneration](https://github.com/cezarypiatek/SampleWebApiClientGeneration)
+- [martincostello/aspnetcore-openapi](https://github.com/martincostello/aspnetcore-openapi) - A demonstration of different ways to add OpenAPI (Swagger) support to ASP.NET Core applications

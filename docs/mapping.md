@@ -6,6 +6,8 @@
 - [Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
 - [On Automappers](https://enterprisecraftsmanship.com/posts/on-automappers/)
 - [Mapster Global Configuration with Dependency Injection](https://stackoverflow.com/questions/61172885/mapster-global-configuration-with-dependency-injection)
+- [Dissecting AutoMapper Programming Horror](https://www.jimmybogard.com/dissecting-automapper-progamming-horror/)
+- [Why not AutoMapper? What should I use?](https://lukeparker.dev/blog/why-not-automapper)
 
 ## Videos
 - [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)

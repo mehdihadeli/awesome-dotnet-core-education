@@ -67,6 +67,8 @@ Behind the scenes of minimal APIs - Part 6](https://andrewlock.net/behind-the-sc
 - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
 - [Middleware in Minimal API apps](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/middleware) ⭐
 - [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
+- [Minimal APIs - Typed Results and Open API Specification](https://www.dandoescode.com/blog/minimal-apis-typed-results-and-open-api)
+- [Unlocking the Power of TypedResults in Endpoints: A Consistent Approach to Strongly Typed APIs in .NET](https://nikiforovall.github.io/dotnet/2024/08/17/result-endpoints.html)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)

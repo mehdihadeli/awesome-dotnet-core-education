@@ -2,6 +2,10 @@
 
 ## Articles
 - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
+- [What's new in .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview)
+- [What's new in the .NET 8 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/runtime)
+- [What's new in the SDK and tooling for .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/sdk)
+- [What's new in containers for .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/containers)
 - [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/)
 - [Announcing .NET 8 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-2/)
 - [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/)

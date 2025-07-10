@@ -51,6 +51,7 @@
 - [Optimizing CPU-Bound and Memory-Bound .NET Applications: 11 Best Practices](https://michaelscodingspot.com/cpu-bound-memory-bound/)
 - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
 - [AUTOMATING MEMORY PROFILING WITH THE JETBRAINS DOTMEMORY PROFILER API](https://www.stevejgordon.co.uk/automating-memory-profiling-with-the-jetbrains-dotmemory-profiler-api)
+- [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 
 ## 📺 Videos
 - [We Should Become Good at Optimizing our Code - Denis Bakhvalov](https://www.youtube.com/watch?v=jQb1mCLqNOY)

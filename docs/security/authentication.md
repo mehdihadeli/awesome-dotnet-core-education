@@ -91,6 +91,8 @@
 - [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/)
 - [JWT Validation Guide - Okta](https://developer.okta.com/code/dotnet/jwt-validation/)
 - [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/dotnet/jwt-validation-and-authorization-in-asp-net-core/)
+- [Implement ASP.NET Core OpenID Connect OAuth PAR client with Keycloak using .NET Aspire](https://damienbod.com/2024/09/02/implement-asp-net-core-openid-connect-oauth-par-client-with-keycloak-using-net-aspire/)
+- [Using Keycloak in .NET Aspire projects](https://nikiforovall.github.io/dotnet/keycloak/2024/06/02/aspire-support-for-keycloak.html)
 
 ## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -124,6 +126,7 @@
 - [ASP.NET Core Authentication Schemas (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=N_zVCCpnjXM)
 - [ASP.NET Core Identity Management Guide (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=3_oGxPpSjLw)
 - [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
+
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
@@ -148,6 +151,7 @@
 - [pdevito3/heimguard](https://github.com/pdevito3/heimguard) - A small and simple library built to allow you to easily manage permissions in your .NET projects.
 - [StefanescuEduard/JwtAuthentication](https://github.com/StefanescuEduard/JwtAuthentication)
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth) - Using YARP to flow through credentials from IdentityServer to other apps.
+- [NikiforovAll/keycloak-aspire-starter-template](https://github.com/NikiforovAll/keycloak-aspire-starter-template) - Getting started with Keycloak and Aspire
 
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework

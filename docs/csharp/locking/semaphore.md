@@ -10,5 +10,7 @@
 - [C# – How to make concurrent requests with HttpClient](https://makolyte.com/csharp-how-to-make-concurrent-requests-with-httpclient/)
 - [C# – Use SemaphoreSlim for throttling threads](https://makolyte.com/csharp-use-semaphoreslim-for-throttling-threads/)
 - [Async Waiting inside C# Locks](https://blog.cdemi.io/async-waiting-inside-c-sharp-locks/)
+- [What are the practical uses of semaphores?](https://stackoverflow.com/questions/21736741/what-are-the-practical-uses-of-semaphores)
+
 ## Videos
 - [Semaphore Explained C#](https://www.youtube.com/watch?v=GKjM4AX8NME)

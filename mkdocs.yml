@@ -65,6 +65,7 @@ markdown_extensions:
 nav:
   - .Net:
     - .Net : dotnet/dotnet.md
+    - .Net 9: dotnet/dotnet9.md 
     - .Net 8: dotnet/dotnet8.md 
     - .Net 7: dotnet/dotnet7.md 
     - .Net 6: dotnet/dotnet6.md     
@@ -93,6 +94,8 @@ nav:
   - C#: 
     - C#: csharp/csharp.md
     - C# Versions:
+      - C# 13: csharp/versions/13.md
+      - C# 12: csharp/versions/12.md
       - C# 11: csharp/versions/11.md
       - C# 10: csharp/versions/10.md
       - C# 9: csharp/versions/9.md

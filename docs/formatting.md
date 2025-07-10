@@ -16,6 +16,11 @@
 - [The Roslyn analyzers I use in my projects](https://www.meziantou.net/the-roslyn-analyzers-i-use.htm)
 - [Embedding dotnet format in your development cycle](https://gsferreira.com/archive/2022/embedding-dotnet-format-in-your-development-cycle/)
 - [EditorConfig properties - Jetbrain Rider](https://www.jetbrains.com/help/rider/EditorConfig_Properties.html)
+- [Dotnet, C#, code format on JetBrain IDE Rider](https://dev.to/tsotsi1/dotnet-c-code-format-on-jetbrain-ide-rider-504i)
+- [A Tyrant Guide to Code Quality Gates featuring CSharpier, Husky.NET, and SonarCloud](https://nikiforovall.github.io/dotnet/2024/09/14/quality-gates-dotnet.html)
+- [Pre-commit hooks with Husky.NET - build, format, and test your .NET application before a Git commit](https://www.code4it.dev/blog/husky-dotnet-precommit-hooks/)
+- [How to customize Conventional Commits in a .NET application using GitHooks](https://www.code4it.dev/blog/conventional-commit-with-githooks/)
+
 ## Libraries
 - [dotnet/format](https://github.com/dotnet/format) - Home for the dotnet-format command
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
@@ -25,5 +30,4 @@
 - [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 
 ## Samples
-- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet/blob/develop/.editorconfig)
-- [BEagle1984/silverback ](https://github.com/BEagle1984/silverback/blob/master/.editorconfig)
+- [NikiforovAll/quality-gateways-demo-dotnet](https://github.com/NikiforovAll/quality-gateways-demo-dotnet)

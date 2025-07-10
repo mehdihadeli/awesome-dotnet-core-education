@@ -3,6 +3,10 @@
 ## Resources
 - [dotnet-presentations/blazor-workshop/](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop
 
+## Articles
+- [Blazor in .NET 8: Full stack Web UI](https://chrissainty.com/blazor-in-dotnet-8-full-stack-web-ui/)
+- [Blazor in .NET 8: Server-side and Streaming Rendering](https://chrissainty.com/blazor-in-dotnet-8-server-side-and-streaming-rendering/)
+
 ## 📺 Videos
 - [Modern Web Dev with Blazor and .NET 6 with Jason Taylor](https://www.youtube.com/watch?v=aPDJkl8TNFA)
 - [Blazor API Client using REST & GraphQL APIs - Full Course](https://www.youtube.com/watch?v=agIJTnpfFGA)
@@ -17,6 +21,7 @@
 - [Enterprise-grade Blazor apps with .NET 6](https://www.youtube.com/watch?v=GKu-vRxOWr8)
 - [ASP.NET Community Standup - Exploring MudBlazor](https://www.youtube.com/watch?v=GtLIpITqznA)
 - [The .NET Docs Show - Micro frontends with Blazor](https://www.youtube.com/watch?v=8Ac2QMdusrs)
+
 ## 🚀 Samples
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.

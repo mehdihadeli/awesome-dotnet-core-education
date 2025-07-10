@@ -99,6 +99,7 @@
 - [How to Setup Integration Tests in .NET Without a WebApplicationFactory](https://wrapt.dev/blog/integration-tests-in-dotnet-without-webappfactory)
 - [Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit](https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
+- [ASP.NET Core Integration Testing Best Practises](https://antondevtips.com/blog/asp-net-core-integration-testing-best-practises)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
@@ -195,3 +196,5 @@
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore)
 - [khalidabuhakmeh/TestingWithContainers](https://github.com/khalidabuhakmeh/TestingWithContainers)
 - [phucnt1992/testcontainers-101](https://github.com/phucnt1992/testcontainers-101)
+- [kimcuhoang/setup-dotnet-test-projects](https://github.com/kimcuhoang/setup-dotnet-test-projects)
+- [managedcode/IntegrationTestBaseKit](https://github.com/managedcode/IntegrationTestBaseKit)
