@@ -1,0 +1,4394 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.">
+      
+      
+      
+      
+        <link rel="canonical" href="https://mehdihadeli.github.io/awesome-dotnet-core-education/security/authentication/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
+    
+    
+      
+        <title>Authentication - Awesome .Net Core Educations</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.db9e7362.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sora:300,400,400i,700%7C&display=fallback">
+        <style>:root{--md-text-font-family:"Sora";--md-code-font-family:""}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#authentication" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Awesome .Net Core Educations" class="md-header__button md-logo" aria-label="Awesome .Net Core Educations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Awesome .Net Core Educations
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Authentication
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/mehdihadeli/awesome-dotnet-core-education/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mehdihadeli/awesome-dotnet-core-education
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Awesome .Net Core Educations" class="md-nav__button md-logo" aria-label="Awesome .Net Core Educations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Awesome .Net Core Educations
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/mehdihadeli/awesome-dotnet-core-education/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mehdihadeli/awesome-dotnet-core-education
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_1">
+          .Net
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label=".Net" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          .Net
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet/" class="md-nav__link">
+        .Net
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet9/" class="md-nav__link">
+        .Net 9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet8/" class="md-nav__link">
+        .Net 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet7/" class="md-nav__link">
+        .Net 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet6/" class="md-nav__link">
+        .Net 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet5/" class="md-nav__link">
+        .Net 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/build/" class="md-nav__link">
+        .Net Build
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/package-management/" class="md-nav__link">
+        .Net Package Management
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet-standard/" class="md-nav__link">
+        .Net Standard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet-template/" class="md-nav__link">
+        .Net Template
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet-core/" class="md-nav__link">
+        ASP.Net Core
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet-core-architecture/" class="md-nav__link">
+        .Net Core Architecture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/dotnet-core-tips/" class="md-nav__link">
+        .Net Core Tips
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/il/" class="md-nav__link">
+        .Net IL
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/multi-target/" class="md-nav__link">
+        Multi Target
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/metapack/" class="md-nav__link">
+        MetaPack
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/global-json/" class="md-nav__link">
+        global.json File
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          ASP.NET Core
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="ASP.NET Core" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          ASP.NET Core
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../asp/asp-net/" class="md-nav__link">
+        ASP.NET Core
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../asp/asp-net-8/" class="md-nav__link">
+        ASP.NET Core 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../asp/asp-net-7/" class="md-nav__link">
+        ASP.NET Core 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../asp/asp-net-6/" class="md-nav__link">
+        ASP.NET Core 6
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          .Net CLI
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label=".Net CLI" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          .Net CLI
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet-cli/dotnet-cli/" class="md-nav__link">
+        .Net CLI
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet-cli/dotnet-tools/" class="md-nav__link">
+        .Net Tools
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet-cli/dotnet-watch/" class="md-nav__link">
+        .Net Watch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet-cli/upgrade-assistant/" class="md-nav__link">
+        Upgrade Assistant
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          C#
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="C#" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          C#
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/csharp/" class="md-nav__link">
+        C#
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2">
+          C# Versions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="C# Versions" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          C# Versions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/13/" class="md-nav__link">
+        C# 13
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/12/" class="md-nav__link">
+        C# 12
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/11/" class="md-nav__link">
+        C# 11
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/10/" class="md-nav__link">
+        C# 10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/9/" class="md-nav__link">
+        C# 9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/8/" class="md-nav__link">
+        C# 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/versions/7/" class="md-nav__link">
+        C# 7
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_3" type="checkbox" id="__nav_4_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3">
+          Async
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Async" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Async
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-and-await/" class="md-nav__link">
+        Async And Await
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-best-practice/" class="md-nav__link">
+        Async Best Practice
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/analyzers/" class="md-nav__link">
+        Analyzers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_3_4" type="checkbox" id="__nav_4_3_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3_4">
+          Async Collections
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Async Collections" data-md-level="3">
+        <label class="md-nav__title" for="__nav_4_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Async Collections
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-collections.md" class="md-nav__link">
+        Async Collections
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-collections/async-stream-and-ienumerableasync.md" class="md-nav__link">
+        Async Stream And IEnumerableAsync
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-collections/blocking-collection/" class="md-nav__link">
+        Blocking Collection
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-collections/iterators/" class="md-nav__link">
+        Iterators
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/async-collections/lazy-initialization/" class="md-nav__link">
+        Lazy Initialization
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/asynchronous-messaging/" class="md-nav__link">
+        Asynchronous Messaging
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/asynclocal/" class="md-nav__link">
+        Async Local
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/awaiter/" class="md-nav__link">
+        Awaiter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/cancellation/" class="md-nav__link">
+        Cancellation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/channels/" class="md-nav__link">
+        Channels
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/concurrency-vs-parallelism)" class="md-nav__link">
+        Concurrency Vs Parallelism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/configure-await/" class="md-nav__link">
+        Configure Await
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/continuations/" class="md-nav__link">
+        Continuations.md
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/cpu-bound/" class="md-nav__link">
+        Cpu Bound
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/exception-handling)" class="md-nav__link">
+        Exception Handling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/io-bound/" class="md-nav__link">
+        Io Bound
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/synchronization-context/" class="md-nav__link">
+        Synchronization Context
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/semaphoreslim/" class="md-nav__link">
+        SemaphoreSlim
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/state-machine/" class="md-nav__link">
+        State Machine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/task-completion-source/" class="md-nav__link">
+        TaskCompletionSource
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/tpl-tap/" class="md-nav__link">
+        TPL & TAP
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/parallel-for-foreach/" class="md-nav__link">
+        Parallel For & Foreach
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/thread-pool/" class="md-nav__link">
+        ThreadPool
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/thread/" class="md-nav__link">
+        Thread
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/valuetask/" class="md-nav__link">
+        ValueTask
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/sync-over-async/" class="md-nav__link">
+        Sync Over Async
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/async/resources.md" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_4" type="checkbox" id="__nav_4_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_4">
+          Locking
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Locking" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_4">
+          <span class="md-nav__icon md-icon"></span>
+          Locking
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/locking/lock/" class="md-nav__link">
+        Lock
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/locking/monitor/" class="md-nav__link">
+        Monitor
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/locking/mutex/" class="md-nav__link">
+        Mutex
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/locking/semaphore/" class="md-nav__link">
+        Semaphore
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/locking/thread-safty/" class="md-nav__link">
+        Thread Safty
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_5" type="checkbox" id="__nav_4_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_5">
+          Collections & Data Structure
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Collections & Data Structure" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_5">
+          <span class="md-nav__icon md-icon"></span>
+          Collections & Data Structure
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/collections/collection-data-structure/" class="md-nav__link">
+        Collections & Data Structure
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/collections/enumerable/" class="md-nav__link">
+        Enumerable
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/collections/hashset/" class="md-nav__link">
+        HashSet
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/boxing/" class="md-nav__link">
+        Boxing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/closure/" class="md-nav__link">
+        Closure
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/constant/" class="md-nav__link">
+        Constant
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/implicit-explicit-operators/" class="md-nav__link">
+        Operator
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/linq/" class="md-nav__link">
+        Linq
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/covariance/" class="md-nav__link">
+        Covariance
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/required/" class="md-nav__link">
+        Required
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../compiler-lowering.md" class="md-nav__link">
+        Compiler & Lowering
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/extension-methods/" class="md-nav__link">
+        Extension Methods
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/nullable-reference-types/" class="md-nav__link">
+        Nullable Reference Types
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/reflection/" class="md-nav__link">
+        Reflection & Assemblies
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/null-check/" class="md-nav__link">
+        Null Check
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/conditional-compilation-assert/" class="md-nav__link">
+        Conditional Compilation & Assert
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/generic/" class="md-nav__link">
+        Generic
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/types/" class="md-nav__link">
+        Types
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/pattern-matching/" class="md-nav__link">
+        Pattern Matching
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/span/" class="md-nav__link">
+        Span
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/deconstruction/" class="md-nav__link">
+        Deconstruction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/record/" class="md-nav__link">
+        Record
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../csharp/enum/" class="md-nav__link">
+        Enum
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../maui/" class="md-nav__link">
+        MAUI
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blazor/" class="md-nav__link">
+        Blazor
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../open-api/" class="md-nav__link">
+        Open Api
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../source-generators/" class="md-nav__link">
+        Source Generators
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../performance/" class="md-nav__link">
+        Performance
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../health-check/" class="md-nav__link">
+        Health Check
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../serialization/" class="md-nav__link">
+        Serialization
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../generic-host/" class="md-nav__link">
+        Generic Host
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hosting/" class="md-nav__link">
+        Hosting
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../kestrel/" class="md-nav__link">
+        Kestrel
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../feature-flags/" class="md-nav__link">
+        Feature Flags
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rest/" class="md-nav__link">
+        REST
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../middleware/" class="md-nav__link">
+        Middleware
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../action-filters/" class="md-nav__link">
+        Action Filters
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuration-secrets/" class="md-nav__link">
+        Configuration & Secrets
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../options/" class="md-nav__link">
+        Options
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../httpcontext/" class="md-nav__link">
+        HttContext
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../grpc/" class="md-nav__link">
+        gRPC
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web-sockets/" class="md-nav__link">
+        WebSockets
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../signalr/" class="md-nav__link">
+        SignalR
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../httpclient/" class="md-nav__link">
+        HttpClient
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web-api/" class="md-nav__link">
+        WEB API
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lunch-urls-launchsettings/" class="md-nav__link">
+        Lunch Urls & launchSettings
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../minimal-api/" class="md-nav__link">
+        Minimal API
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ml-net/" class="md-nav__link">
+        ML.Net
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../background-tasks/" class="md-nav__link">
+        Background Tasks
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../razor-pages/" class="md-nav__link">
+        Razor Pages
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../graphql/" class="md-nav__link">
+        GraphQL
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_33" type="checkbox" id="__nav_33" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_33">
+          GitHub
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="GitHub" data-md-level="1">
+        <label class="md-nav__title" for="__nav_33">
+          <span class="md-nav__icon md-icon"></span>
+          GitHub
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/git/" class="md-nav__link">
+        Git
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/github/" class="md-nav__link">
+        GitHub
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/release-note/" class="md-nav__link">
+        Release Notes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/git-flow.md" class="md-nav__link">
+        Git-Flow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/conventional-commits/" class="md-nav__link">
+        Conventional Commits
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/projects/" class="md-nav__link">
+        Projects
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/ssh/" class="md-nav__link">
+        SSH
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/copilot/" class="md-nav__link">
+        Copilot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../github/sub-module.md" class="md-nav__link">
+        GitHub SubModule
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elastic-search/" class="md-nav__link">
+        Elastic Search
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../odata/" class="md-nav__link">
+        OData
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../debugging/" class="md-nav__link">
+        Debugging
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nuget-pack/" class="md-nav__link">
+        Nuget & Pack
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../api-versioning/" class="md-nav__link">
+        API Versioning
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hosted-service/" class="md-nav__link">
+        Hosted Service
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../routing/" class="md-nav__link">
+        Routing
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dependency-injection/" class="md-nav__link">
+        Dependency Injection
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_42" type="checkbox" id="__nav_42" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_42">
+          Security
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Security" data-md-level="1">
+        <label class="md-nav__title" for="__nav_42">
+          <span class="md-nav__icon md-icon"></span>
+          Security
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../encryption/" class="md-nav__link">
+        Encryption And Data Protection
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dotnet-identity/" class="md-nav__link">
+        .Net Core Identity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../identity-server/" class="md-nav__link">
+        Identity Server
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../msal.md" class="md-nav__link">
+        MSAL
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Authentication
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Authentication
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    📝 Articles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    📹 Videos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#samples" class="md-nav__link">
+    🚀 Samples
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#libraries" class="md-nav__link">
+    Libraries
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../authorization/" class="md-nav__link">
+        Authorization
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../oauth-opencid/" class="md-nav__link">
+        OAuth & OpenID Connect
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../refresh-token/" class="md-nav__link">
+        Refresh Token
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../revoking-token/" class="md-nav__link">
+        Revoking Token
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../secret-management/" class="md-nav__link">
+        Secret Management
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../logging/" class="md-nav__link">
+        Logging And Auditing
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../distributed-tracing/" class="md-nav__link">
+        Distributed Tracing
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../correlationId/" class="md-nav__link">
+        CorrelationId
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../diagnostics/" class="md-nav__link">
+        Diagnostics
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_47" type="checkbox" id="__nav_47" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_47">
+          Testing
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Testing" data-md-level="1">
+        <label class="md-nav__title" for="__nav_47">
+          <span class="md-nav__icon md-icon"></span>
+          Testing
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/testing/" class="md-nav__link">
+        Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/unit-testing/" class="md-nav__link">
+        Unit Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/integration-testing/" class="md-nav__link">
+        Integration Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/end-to-end-testing.md" class="md-nav__link">
+        End-To-End Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/acceptance-testing/" class="md-nav__link">
+        Acceptance Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/load-testing/" class="md-nav__link">
+        Load Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/snapshot-testing/" class="md-nav__link">
+        Snapshot Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/mutation-testing/" class="md-nav__link">
+        Mutation Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/architectural-testing/" class="md-nav__link">
+        Architectural Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/contract-testing/" class="md-nav__link">
+        Contract Testing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/test-host/" class="md-nav__link">
+        Test Host And WebApplicationFactory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/code-coverage-analysis.md" class="md-nav__link">
+        Code Coverage & Analysis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/mocking/" class="md-nav__link">
+        Mocking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/tdd/" class="md-nav__link">
+        TDD
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/bdd/" class="md-nav__link">
+        BDD
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/xunit/" class="md-nav__link">
+        XUnit
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exception-validation/" class="md-nav__link">
+        Exception && Validation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_49" type="checkbox" id="__nav_49" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_49">
+          EF Core
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="EF Core" data-md-level="1">
+        <label class="md-nav__title" for="__nav_49">
+          <span class="md-nav__icon md-icon"></span>
+          EF Core
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/ef-core/" class="md-nav__link">
+        EF Core
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/ef-core-8.md" class="md-nav__link">
+        EF Core 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/ef-core-7.md" class="md-nav__link">
+        EF Core 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/ef-core-6.md" class="md-nav__link">
+        EF Core 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/ef-core-5.md" class="md-nav__link">
+        EF Core 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/expression-tree/" class="md-nav__link">
+        Expression Tree
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/explicit-loading/" class="md-nav__link">
+        Explicit Loading
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/eager-loading/" class="md-nav__link">
+        Eager Loading
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/lazy-loading/" class="md-nav__link">
+        Lazy Loading
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/projection/" class="md-nav__link">
+        Projection
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/performance/" class="md-nav__link">
+        Performance
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/transaction/" class="md-nav__link">
+        Transaction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/soft-delete/" class="md-nav__link">
+        Soft Delete
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/query-filter/" class="md-nav__link">
+        Query Filters
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/reverse-engineering/" class="md-nav__link">
+        Reverse Engineering
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/seed/" class="md-nav__link">
+        Seed
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/own-types/" class="md-nav__link">
+        Own Types
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/split-query/" class="md-nav__link">
+        Split Query
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/compiled-query/" class="md-nav__link">
+        Compiled Query
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/interceptor/" class="md-nav__link">
+        Interceptor
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ef-core/change-tracking/" class="md-nav__link">
+        Change Tracking
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../environment/" class="md-nav__link">
+        Environment
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../id/" class="md-nav__link">
+        ID
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mediator/" class="md-nav__link">
+        Mediator
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mapping/" class="md-nav__link">
+        Mapping
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../caching/" class="md-nav__link">
+        Caching
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aspire/" class="md-nav__link">
+        Aspire
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../model-binding/" class="md-nav__link">
+        Model Binding
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../benchmarking/" class="md-nav__link">
+        Benchmarking
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rate-limiting/" class="md-nav__link">
+        Rate Limiting
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strongly-type-id/" class="md-nav__link">
+        Stronglt Type ID
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../semantic-versioning/" class="md-nav__link">
+        Semantic Versioning
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../migration/" class="md-nav__link">
+        Migrations
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-discovery/" class="md-nav__link">
+        Service Discovery
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dapper/" class="md-nav__link">
+        Dapper
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../multi-tenancy/" class="md-nav__link">
+        Multi Tenancy
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../orleans/" class="md-nav__link">
+        Orleans
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../localization/" class="md-nav__link">
+        Localization
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webhook/" class="md-nav__link">
+        WebHook
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../code-generation/" class="md-nav__link">
+        Code Generation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../roslyn-analizers/" class="md-nav__link">
+        Roslyn Analizers
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_70" type="checkbox" id="__nav_70" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_70">
+          Tools
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Tools" data-md-level="1">
+        <label class="md-nav__title" for="__nav_70">
+          <span class="md-nav__icon md-icon"></span>
+          Tools
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tools/cake/" class="md-nav__link">
+        Cake
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tools/nuke/" class="md-nav__link">
+        Nuke
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_71" type="checkbox" id="__nav_71" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_71">
+          Remote Development
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Remote Development" data-md-level="1">
+        <label class="md-nav__title" for="__nav_71">
+          <span class="md-nav__icon md-icon"></span>
+          Remote Development
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../remote-development/devcontainers/" class="md-nav__link">
+        DevContainers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../remote-development/github-codespace/" class="md-nav__link">
+        GitHub Codespace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../remote-development/gitpod/" class="md-nav__link">
+        Gitpod
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_72" type="checkbox" id="__nav_72" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_72">
+          IDE & Tools
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="IDE & Tools" data-md-level="1">
+        <label class="md-nav__title" for="__nav_72">
+          <span class="md-nav__icon md-icon"></span>
+          IDE & Tools
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/resharper-rider/" class="md-nav__link">
+        Reharper & Rider
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/decompile/" class="md-nav__link">
+        Decompile & DotPeek
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/dotmemory/" class="md-nav__link">
+        DotMemory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/dottrace/" class="md-nav__link">
+        DotTrace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/dotcover/" class="md-nav__link">
+        Dotcover
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/datagrip/" class="md-nav__link">
+        DataGrip
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/vscode/" class="md-nav__link">
+        VSCode
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/terminal-dotfiles/" class="md-nav__link">
+        Terminal & Dotfiles
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/dotnet-interactive/" class="md-nav__link">
+        DotNet Intreactive
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ide-tools/wsl/" class="md-nav__link">
+        WSL
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rx/" class="md-nav__link">
+        Rx.Net
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../regex/" class="md-nav__link">
+        Regex
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../documentation/" class="md-nav__link">
+        Documentation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../formatting/" class="md-nav__link">
+        Formatting
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../others/" class="md-nav__link">
+        Others
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/mehdihadeli/awesome-dotnet-core-education/edit/main/docs/security/authentication.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="authentication">Authentication<a class="headerlink" href="#authentication" title="Permanent link">&para;</a></h1>
+<h2 id="articles">📝 Articles<a class="headerlink" href="#articles" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://jwt.io/introduction">Introduction to JSON Web Tokens</a></li>
+<li><a href="https://auth0.com/docs/secure/tokens/json-web-tokens">JSON Web Tokens</a></li>
+<li><a href="https://www.pingidentity.com/en/resources/blog/post/jwt-security-nobody-talks-about.html">The Hard Parts of JWT Security Nobody Talks About</a></li>
+<li><a href="https://docs.microsoft.com/en-us/aspnet/core/security/authentication">Overview of ASP.NET Core authentication</a></li>
+<li><a href="https://andrewlock.net/introduction-to-authentication-with-asp-net-core/">Introduction to Authentication with ASP.NET Core</a></li>
+<li><a href="https://jasonwatmore.com/post/2021/05/25/net-5-simple-api-for-authentication-registration-and-user-management">.NET 5.0 - Simple API for Authentication, Registration and User Management</a></li>
+<li><a href="https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens">.NET 5.0 API - JWT Authentication with Refresh Tokens</a></li>
+<li><a href="https://andrewlock.net/a-look-behind-the-jwt-bearer-authentication-middleware-in-asp-net-core/">A look behind the JWT bearer authentication middleware in ASP.NET Core</a></li>
+<li><a href="https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/">Exploring the cookie authentication middleware in ASP.NET Core</a></li>
+<li><a href="https://referbruv.com/blog/posts/getting-started-with-securing-apis-using-jwt-bearer-authentication-hands-on">Getting started with Securing APIs using JWT Bearer Authentication - Hands on</a></li>
+<li><a href="https://www.freecodespot.com/blog/jwt-authentication-in-dotnet-core/">JWT Authentication In ASP.NET Core</a></li>
+<li><a href="https://stormpath.com/blog/token-authentication-asp-net-core">ASP.NET Core Token Authentication Guide</a></li>
+<li><a href="https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/">Login Web Application using Cookie Authentication in ASP NET Core</a></li>
+<li><a href="https://www.codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication">Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide</a></li>
+<li><a href="https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/">Canceling JWT tokens in .NET Core</a></li>
+<li><a href="https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/">JWT refresh tokens and .NET Core</a></li>
+<li><a href="https://piotrgankiewicz.com/2017/07/24/jwt-rsa-hmac-asp-net-core/">JWT RSA &amp; HMAC + ASP.NET Core</a></li>
+<li><a href="https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/">An introduction to the Data Protection system in ASP.NET Core</a></li>
+<li><a href="http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication/">Secure ASP.NET Core Web API using API Key Authentication</a></li>
+<li><a href="http://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication/">Secure ASP.NET Core Web API using JWT Authentication</a></li>
+<li><a href="https://www.telerik.com/blogs/introduction-json-web-tokens-jwt">Introduction to JSON Web Tokens (JWT)</a></li>
+<li><a href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853?WT.mc_id=DOP-MVP-5003880">Introduction to tokens</a></li>
+<li><a href="https://dejanstojanovic.net/aspnet/2018/june/token-based-authentication-in-aspnet-core-part-1/">Token based authentication and Identity framework in ASP.NET Core - Part 1</a></li>
+<li><a href="https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api">JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API</a></li>
+<li><a href="https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver">User Authentication and Identity with Angular, Asp.Net Core and IdentityServer</a></li>
+<li><a href="https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login">JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login</a></li>
+<li><a href="https://www.blinkingcaret.com/2018/07/18/secure-an-asp-net-core-web-api-using-cookies/">Secure an ASP.NET Core Web Api using Cookies</a></li>
+<li><a href="https://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/">Secure a Web Api in ASP.NET Core</a></li>
+<li><a href="https://www.blinkingcaret.com/2017/05/03/external-login-providers-in-asp-net-core/">External Login Providers in ASP.NET Core</a></li>
+<li><a href="https://jasonwatmore.com/post/2021/04/30/net-5-jwt-authentication-tutorial-with-example-api">.NET 5.0 - JWT Authentication Tutorial with Example API</a></li>
+<li><a href="https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/">Build Secure ASP.NET Core API with JWT Authentication – Detailed Guide</a></li>
+<li><a href="https://www.jerriepelser.com/blog/manually-validating-rs256-jwt-dotnet/">Manually validating a JWT using .NET</a></li>
+<li><a href="https://www.jerriepelser.com/blog/managing-session-lifetime-aspnet-core-oauth-providers/">Managing Cookie Lifetime with ASP.NET Core OAuth 2.0 providers</a></li>
+<li><a href="https://www.jerriepelser.com/blog/using-roles-with-the-jwt-middleware/">Using Roles with the ASP.NET Core JWT middleware</a></li>
+<li><a href="https://weblog.west-wind.com/posts/2021/Mar/09/Role-based-JWT-Tokens-in-ASPNET-Core">Role based JWT Tokens in ASP.NET Core APIs</a></li>
+<li><a href="https://damienbod.com/2021/05/24/secure-an-angular-spa-and-an-asp-net-core-api-using-auth0/">SECURE AN ANGULAR SPA AND AN ASP.NET CORE API USING AUTH0</a></li>
+<li><a href="https://www.scottbrady91.com/OpenID-Connect/ASPNET-Core-using-Proof-Key-for-Code-Exchange-PKCE">ASP.NET Core using Proof Key for Code Exchange (PKCE)</a></li>
+<li><a href="https://www.thecodebuzz.com/jwt-authentication-in-asp-net-core-3-0-with-examples/">JWT Authentication in C# .NET Core example</a></li>
+<li><a href="https://www.thecodebuzz.com/get-access-token-httpcontext-net-core/">Get Access token from HttpContext in .NET Core</a></li>
+<li><a href="https://www.scottbrady91.com/oauth/client-authentication-vs-pkce">Client Authentication vs. PKCE: Do you need both?</a></li>
+<li><a href="https://codeburst.io/jwt-auth-in-asp-net-core-148fb72bed03">JWT Auth in ASP.NET Core</a></li>
+<li><a href="http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/">Stop using JWT for sessions</a></li>
+<li><a href="https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens">Why JWTs Suck as Session Tokens</a></li>
+<li><a href="https://auth0.com/docs/tokens/access-tokens">Access Tokens</a></li>
+<li><a href="https://auth0.com/docs/tokens/id-tokens">ID Tokens</a></li>
+<li><a href="https://auth0.com/docs/best-practices/token-best-practices">Token Best Practices</a></li>
+<li><a href="https://www.jerriepelser.com/blog/useful-claimsprincipal-extension-methods/">Useful ClaimsPrincipal extension methods I use in my projects</a></li>
+<li><a href="https://dev.to/moe23/asp-net-core-5-rest-api-step-by-step-2mb6">Asp.Net Core 5 Rest API Step by Step</a></li>
+<li><a href="https://dev.to/moe23/asp-net-core-5-rest-api-authentication-with-jwt-step-by-step-140d">Asp Net Core 5 Rest API Authentication with JWT Step by Step</a></li>
+<li><a href="https://jonhilton.net/2017/10/11/secure-your-asp.net-core-2.0-api-part-1-issuing-a-jwt/">Secure your ASP.NET Core 2.0 API (part 1 - issuing a JWT)</a></li>
+<li><a href="https://jonhilton.net/security/apis/secure-your-asp.net-core-2.0-api-part-2-jwt-bearer-authentication/">Secure your ASP.NET Core 2.0 API (part 2 - restrict access to JWT bearers only)</a></li>
+<li><a href="https://jonhilton.net/identify-users-permissions-with-jwts-and-asp-net-core-webapi/">Identify users and their permissions with JWTs and ASP.NET Core WebAPI</a></li>
+<li><a href="https://jonhilton.net/complex-aspnet-core-custom-security-policies/">Tackle more complex security policies for your ASP.NET Core app</a></li>
+<li><a href="https://thecodeblogger.com/2020/01/31/securing-net-core-3-api-using-jwt-authentication/">Securing .NET Core 3 API Using JWT authentication</a></li>
+<li><a href="https://mderriey.com/2019/06/23/where-are-my-jwt-claims/">ASP.NET Core and JSON Web Tokens - where are my claims?</a></li>
+<li><a href="https://stackoverflow.com/a/50012477/581476">Jwt Claim Names</a></li>
+<li><a href="https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/">Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?</a></li>
+<li><a href="https://github.com/IdentityServer/IdentityServer4/issues/1525">AuthenticationScheme: &ldquo;Identity.Application&rdquo; was not authenticated</a></li>
+<li><a href="https://josef.codes/asp-net-core-protect-your-api-with-api-keys/">ASP.NET Core - Protect your API with API Keys</a></li>
+<li><a href="https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85">Web App Security, Understanding the Meaning of the BFF Pattern</a></li>
+<li><a href="https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20">Delegation Patterns for OAuth 2.0 using Token Exchange</a></li>
+<li><a href="https://damienbod.com/2021/01/11/protecting-legacy-apis-with-an-asp-net-core-yarp-reverse-proxy-and-azure-ad-oauth/">PROTECTING LEGACY APIS WITH AN ASP.NET CORE YARP REVERSE PROXY AND AZURE AD OAUTH</a></li>
+<li><a href="https://dev.to/eduardstefanescu/jwt-authentication-with-asymmetric-encryption-using-certificates-in-asp-net-core-2o7e">JWT Authentication with Asymmetric Encryption using certificates in ASP.NET Core</a></li>
+<li><a href="https://dev.to/eduardstefanescu/jwt-token-claims-in-asp-net-core-1kk8">JWT Token Claims in ASP.NET Core</a></li>
+<li><a href="https://www.meziantou.net/cookie-authentication-in-asp-net-core-2-without-asp-net-identity.htm">Cookie authentication in ASP.NET Core 2 without ASP.NET Identity</a></li>
+<li><a href="https://www.meziantou.net/jwt-authentication-with-asp-net-core.htm">JWT authentication with ASP.NET Core</a></li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/core/additional-tools/self-signed-certificates-guide">Generate self-signed certificates with the .NET CLI</a></li>
+<li><a href="https://www.scottbrady91.com/c-sharp/pem-loading-in-dotnet-core-and-dotnet">PEM Loading in .NET Core and .NET 5</a></li>
+<li><a href="https://vcsjones.dev/key-formats-dotnet-3/">Import and Export RSA Key Formats in .NET Core 3</a></li>
+<li><a href="https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-openssl">Creating Elliptic Curve Keys using OpenSSL</a></li>
+<li><a href="https://www.scottbrady91.com/openssl/creating-rsa-keys-using-openssl">Creating RSA Keys using OpenSSL</a></li>
+<li><a href="https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL">How to Generate a Self-Signed Certificate and Private Key using OpenSSL</a></li>
+<li><a href="https://referbruv.com/blog/implementing-custom-authentication-scheme-and-handler-in-aspnet-core-3x/">How to Custom Authentication Scheme in ASP.NET Core</a></li>
+<li><a href="https://www.angulararchitects.io/aktuelles/the-solution-easier-and-more-secure-with-authentication-gateways/">The Solution: Easier and More Secure With Authentication Gateways</a></li>
+<li><a href="http://morganridel.fr/authentication-for-multiple-apps-behind-a-reverse-proxy">Authentication for multiple apps behind a reverse proxy</a></li>
+<li><a href="https://khalidabuhakmeh.com/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core">Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core</a></li>
+<li><a href="https://auth0.com/blog/whats-new-in-dotnet-7-for-authentication-and-authorization/">What&rsquo;s New in .NET 7 for Authentication and Authorization</a></li>
+<li><a href="https://auth0.com/blog/aspnet-web-api-authorization/">Authorization for ASP.NET Web APIs</a></li>
+<li><a href="https://craftbakery.dev/create-jwt-using-dotnet-user-jwts/">Create development-time JWTs using dotnet user-jwts</a></li>
+<li><a href="https://learn.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme/">Authorize with a specific scheme in ASP.NET Core</a></li>
+<li><a href="https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-5/#jwt-authentication-improvements-automatic-authentication-configuration">JWT authentication improvements &amp; automatic authentication configuration</a></li>
+<li><a href="https://auth0.com/blog/test-authorization-in-aspnet-core-webapi-with-user-jwts-tool/">Test Authorization in ASP.NET Core Web APIs With the user-jwts Tool</a></li>
+<li><a href="https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/">Improvements to auth and identity in ASP.NET Core 8</a></li>
+<li><a href="https://jaliyaudagedara.blogspot.com/2023/08/aspnet-core-80-preview-all-new-identity.html">ASP.NET Core 8.0 Preview: All New Identity Endpoints</a></li>
+<li><a href="https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/">Can you use the .NET 8 Identity API endpoints with IdentityServer?</a></li>
+<li><a href="https://kevinchalet.com/2023/10/04/can-you-use-the-asp-net-core-identity-api-endpoints-with-openiddict/">Can you use the ASP.NET Core Identity API endpoints with OpenIddict?</a></li>
+<li><a href="https://auth0.com/blog/whats-new-dotnet8-authentication-authorization/">.NET 8: What&rsquo;s New for Authentication and Authorization</a></li>
+<li><a href="https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/">What’s new with identity in .NET 8</a></li>
+<li><a href="https://developer.okta.com/code/dotnet/jwt-validation/">JWT Validation Guide - Okta</a></li>
+<li><a href="https://devblogs.microsoft.com/dotnet/jwt-validation-and-authorization-in-asp-net-core/">JWT Validation and Authorization in ASP.NET Core</a></li>
+<li><a href="https://damienbod.com/2024/09/02/implement-asp-net-core-openid-connect-oauth-par-client-with-keycloak-using-net-aspire/">Implement ASP.NET Core OpenID Connect OAuth PAR client with Keycloak using .NET Aspire</a></li>
+<li><a href="https://nikiforovall.github.io/dotnet/keycloak/2024/06/02/aspire-support-for-keycloak.html">Using Keycloak in .NET Aspire projects</a></li>
+</ul>
+<h2 id="videos">📹 Videos<a class="headerlink" href="#videos" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Fhfvbl_KbWo">ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)</a></li>
+<li><a href="https://www.youtube.com/watch?v=IjbtWPXVJGw">ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication</a></li>
+<li><a href="https://www.youtube.com/watch?v=3PyUjOmuFic">Secure a .NET Core API with Bearer Authentication</a></li>
+<li><a href="https://www.youtube.com/watch?v=ARvsBUBioT0">User Registration and Controller Auth | ASP.NET Core 5 REST API Tutorial 10</a></li>
+<li><a href="https://www.youtube.com/watch?v=Y5ZLhxZtww8">.NET Core - canceling JWT tokens</a></li>
+<li><a href="https://www.youtube.com/watch?v=g_8EHDQO4wI">Restricting endpoints with Claims | ASP.NET Core 5 REST API Tutorial 17</a></li>
+<li><a href="https://www.youtube.com/watch?v=Zo3T_See7iI">Setting up ApiKey-based Authentication | ASP.NET Core 5 REST API Tutorial 24</a></li>
+<li><a href="https://www.youtube.com/watch?v=o8dwfI7X16E">User specific content with JWT claims | ASP.NET Core 5 REST API Tutorial 12</a></li>
+<li><a href="https://www.youtube.com/watch?v=APLjIrZgxyo">User Login using JWT (Authentication) | ASP.NET Core 5 REST API Tutorial 11</a></li>
+<li><a href="https://www.youtube.com/watch?v=-Z57Ss_uiuc">What is a Refresh Token and why your REST API needs it?</a></li>
+<li><a href="https://www.youtube.com/watch?v=AU0TIOZhGqs">Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13</a></li>
+<li><a href="https://www.youtube.com/watch?v=M6AkbBaDGJE">Setting up JWT support (Authentication) | ASP.NET Core 5 REST API Tutorial 9</a></li>
+<li><a href="https://www.youtube.com/watch?v=qDJYgGzmalQ">What is a JWT (JSON Web Token) and why your REST API needs it</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-">ASP.NET Core Security - Frank Liu, Youtube Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=sKjpLblZeDQ&amp;t=2s">Deep Dive: Multi-Factor Authentication with .NET 5</a></li>
+<li><a href="https://www.youtube.com/watch?v=LgpC4tYtc6Y&amp;ab_channel=MohamadLawand">Asp Net Core 5 Rest API Authentication with JWT Step by Step</a></li>
+<li><a href="https://www.youtube.com/watch?v=U8HnsWU5zkE&amp;ab_channel=MohamadLawand">Intro to JWT - Step by Step</a></li>
+<li><a href="https://www.youtube.com/watch?v=sogS0DtejVA">Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)</a></li>
+<li><a href="https://www.youtube.com/watch?v=BVJVhceN3N4">Developing Flexible Authorisation Capabilities in ASP NET Core - Jason Taylor - NDC Melbourne 2022</a></li>
+<li><a href="https://www.youtube.com/watch?v=ExQJljpj1lY">ASP.NET Core Authentication (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=8FvN5bhVYxY">ASP.NET Core JWT Authentication Tutorial (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=PUXpfr1LzPE">ASP.NET Core External Authentication (OAuth, .NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=0uSwPdYOm9k">ASP.NET Core OAuth Authorization (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=DpLtCbW_x2I">ASP.NET Core SPA Authentication Tutorial (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=o6lFWj6ExJs">ASP.NET Core SSO with Cookie Authentication (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=EBVKlm0wyTE">ASP.NET Core Custom OAuth Server (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=EC69dEspO64">ASP.NET Core Refresh Token (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=hw2B6SZj8y8">ASP.NET Core Cookie Authentication (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=N_zVCCpnjXM">ASP.NET Core Authentication Schemas (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=3_oGxPpSjLw">ASP.NET Core Identity Management Guide (.NET 7 Minimal Apis C#)</a></li>
+<li><a href="https://www.youtube.com/watch?v=x7NxbZNboIc">ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)</a></li>
+</ul>
+<h2 id="samples">🚀 Samples<a class="headerlink" href="#samples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/blowdart/AspNetAuthenticationWorkshop">blowdart/AspNetAuthenticationWorkshop</a></li>
+<li><a href="https://github.com/dotnet-labs/JwtAuthDemo">dotnet-labs/JwtAuthDemo</a> - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.</li>
+<li><a href="https://github.com/iammukeshm/JWTAuthentication.WebApi">iammukeshm/JWTAuthentication.WebApi</a> - Security is a vital part of any kind of application. Since APIs can expose highly sensitive data like user details, email adressses , it is highly critical that these API endpoints are secured.In this Guide let&rsquo;s build a Secure ASP.NET Core API with JWT Authentication. Read my detailed blog post for implementation.</li>
+<li><a href="https://github.com/spetz/jwt-hmac-rsa-aspnet-core-sample">spetz/jwt-hmac-rsa-aspnet-core-sample</a></li>
+<li><a href="https://github.com/dejanstojanovic/dotnetcore-token-authentication">dejanstojanovic/dotnetcore-token-authentication</a> - Token based authentication in ASP.NET Core using Identity Framework</li>
+<li><a href="https://github.com/mmacneil/AspNetCoreApiStarter">mmacneil/AspNetCoreApiStarter</a> - An ASP.NET Core (v2.1) Web API project to quickly bootstrap new projects. Includes Identity, JWT authentication w/ refresh tokens.</li>
+<li><a href="https://github.com/mmacneil/AngularASPNETCoreOAuth">mmacneil/AngularASPNETCoreOAuth</a> - Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4</li>
+<li><a href="https://github.com/cornflourblue/aspnet-core-3-signup-verification-api">cornflourblue/aspnet-core-3-signup-verification-api</a> - ASP.NET Core 3.1 - Boilerplate API with Email Sign Up, Verification, Authentication &amp; Forgot Password</li>
+<li><a href="https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core">Amitpnk/Onion-architecture-ASP.NET-Core</a> - WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET 5!</li>
+<li><a href="https://github.com/manoj-choudhari-git/AspNetCore-Identity">manoj-choudhari-git/AspNetCore-Identity</a> - .NET Core Web API and Cookie Authentication</li>
+<li><a href="https://github.com/blazorhero/CleanArchitecture">blazorhero/CleanArchitecture</a></li>
+<li><a href="https://github.com/fluentpos/fluentpos">fluentpos/fluentpos</a> - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.</li>
+<li><a href="https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api">cornflourblue/dotnet-5-jwt-refresh-tokens-api</a> - .NET 5.0 API - JWT Authentication with Refresh Tokens</li>
+<li><a href="https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api">cornflourblue/aspnet-core-3-jwt-authentication-api</a> - ASP.NET Core 3.1 JWT Authentication API</li>
+<li><a href="https://github.com/joseftw/JOS.ApiKeyAuthentication">joseftw/JOS.ApiKeyAuthentication</a></li>
+<li><a href="https://github.com/TanvirArjel/JwtAuthenticationInAspNetCore">TanvirArjel/JwtAuthenticationInAspNetCore</a></li>
+<li><a href="https://github.com/thangchung/bff-auth">thangchung/bff-auth</a> - The demonstration of modern authentication using BFF pattern</li>
+<li><a href="https://github.com/manfredsteyer/yarp-auth-proxy">manfredsteyer/yarp-auth-proxy</a></li>
+<li><a href="https://github.com/RockSolidKnowledge/TokenExchange">RockSolidKnowledge/TokenExchange</a> - Token Exchange (RFC 8693) implementation for IdentityServer</li>
+<li><a href="https://github.com/damienbod/AspNetCoreYarp">damienbod/AspNetCoreYarp</a> - ASP.NET Core &amp; Yarp reverse proxy with Azure AD OIDC, OAuth2</li>
+<li><a href="https://github.com/pdevito3/heimguard">pdevito3/heimguard</a> - A small and simple library built to allow you to easily manage permissions in your .NET projects.</li>
+<li><a href="https://github.com/StefanescuEduard/JwtAuthentication">StefanescuEduard/JwtAuthentication</a></li>
+<li><a href="https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth">khalidabuhakmeh/YarpReverseProxyFlowThroughAuth</a> - Using YARP to flow through credentials from IdentityServer to other apps.</li>
+<li><a href="https://github.com/NikiforovAll/keycloak-aspire-starter-template">NikiforovAll/keycloak-aspire-starter-template</a> - Getting started with Keycloak and Aspire</li>
+</ul>
+<h2 id="libraries">Libraries<a class="headerlink" href="#libraries" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/webmotions/fake-authentication-jwtbearer">fake-authentication-jwtbearer</a> - Simple way to fake an authenticated user for integration test with ASP.Net Core framework</li>
+<li><a href="https://github.com/madeyoga/AuthEndpoints">madeyoga/AuthEndpoints</a> - A simple auth library for Asp.Net 6 that provides a set of web api controllers and minimal api endpoints to handle authentication actions</li>
+<li><a href="https://github.com/authelia/authelia">authelia/authelia</a> - The Single Sign-On Multi-Factor portal for web apps</li>
+<li><a href="https://github.com/dmunch/biscuit-net">dmunch/biscuit-net</a> - .NET implementation of the Biscuit authorization token specification</li>
+<li><a href="https://github.com/pdevito3/HeimGuard">pdevito3/HeimGuard</a> - A simple library that allows you to easily manage permissions in your .NET projects.</li>
+</ul>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../identity-server/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Identity Server" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Identity Server
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../authorization/" class="md-footer__link md-footer__link--next" aria-label="Next: Authorization" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Authorization
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+          </div>
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+  <div class="md-footer-social">
+    
+      
+      
+        
+        
+      
+      <a href="https://twitter.com/mehdi_hadeli" target="_blank" rel="noopener" title="twitter.com" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+      </a>
+    
+      
+      
+        
+        
+      
+      <a href="https://www.linkedin.com/in/mehdihadeli" target="_blank" rel="noopener" title="www.linkedin.com" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+      </a>
+    
+      
+      
+        
+        
+      
+      <a href="https://github.com/mehdihadeli" target="_blank" rel="noopener" title="github.com" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+      </a>
+    
+  </div>
+
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "toc.integrate", "navigation.top"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.8397ff9e.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e84347e.min.js"></script>
+      
+    
+  </body>
+</html>
